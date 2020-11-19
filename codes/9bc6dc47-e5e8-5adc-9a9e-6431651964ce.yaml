@@ -2,6 +2,7 @@ data:
   code: '13'
   context: https://isoics.org/jsonld/field.jsonld
   description: Environment. Health protection. Safety
+  descriptionFull: ''
   fieldcode: '13'
 dateAccepted: 2018-11-17
 id: 9bc6dc47-e5e8-5adc-9a9e-6431651964ce

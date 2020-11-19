@@ -2,6 +2,7 @@ data:
   code: '97'
   context: https://isoics.org/jsonld/field.jsonld
   description: Domestic and commercial equipment. Entertainment. Sports
+  descriptionFull: ''
   fieldcode: '97'
 dateAccepted: 2018-11-17
 id: 266adddf-e4df-5aeb-8acb-53001cea736f

@@ -2,6 +2,7 @@ data:
   code: '45'
   context: https://isoics.org/jsonld/field.jsonld
   description: Railway engineering
+  descriptionFull: ''
   fieldcode: '45'
 dateAccepted: 2018-11-17
 id: d820f0f6-fded-5864-ae90-0a794a76fdec

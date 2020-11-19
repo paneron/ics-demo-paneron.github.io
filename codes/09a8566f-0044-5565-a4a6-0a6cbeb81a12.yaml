@@ -2,6 +2,7 @@ data:
   code: '75'
   context: https://isoics.org/jsonld/field.jsonld
   description: Petroleum and related technologies
+  descriptionFull: ''
   fieldcode: '75'
 dateAccepted: 2018-11-17
 id: 09a8566f-0044-5565-a4a6-0a6cbeb81a12

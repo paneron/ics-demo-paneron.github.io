@@ -2,6 +2,7 @@ data:
   code: '59'
   context: https://isoics.org/jsonld/field.jsonld
   description: Textile and leather technology
+  descriptionFull: ''
   fieldcode: '59'
 dateAccepted: 2018-11-17
 id: 75feb3e6-b2a8-5243-b6d7-79becef6c1a3

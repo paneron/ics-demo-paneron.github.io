@@ -2,6 +2,7 @@ data:
   code: '47'
   context: https://isoics.org/jsonld/field.jsonld
   description: Shipbuilding and marine structures
+  descriptionFull: ''
   fieldcode: '47'
 dateAccepted: 2018-11-17
 id: d02c2b06-a62c-56c0-9fc3-9482fc194fc7

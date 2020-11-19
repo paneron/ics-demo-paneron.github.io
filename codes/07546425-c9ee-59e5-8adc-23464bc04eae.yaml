@@ -2,6 +2,7 @@ data:
   code: '21'
   context: https://isoics.org/jsonld/field.jsonld
   description: Mechanical systems and components for general use
+  descriptionFull: ''
   fieldcode: '21'
 dateAccepted: 2018-11-17
 id: 07546425-c9ee-59e5-8adc-23464bc04eae

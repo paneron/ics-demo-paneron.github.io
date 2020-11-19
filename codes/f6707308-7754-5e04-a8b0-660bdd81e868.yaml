@@ -2,6 +2,7 @@ data:
   code: '49'
   context: https://isoics.org/jsonld/field.jsonld
   description: Aircraft and space vehicle engineering
+  descriptionFull: ''
   fieldcode: '49'
 dateAccepted: 2018-11-17
 id: f6707308-7754-5e04-a8b0-660bdd81e868

@@ -2,6 +2,7 @@ data:
   code: '27'
   context: https://isoics.org/jsonld/field.jsonld
   description: Energy and heat transfer engineering
+  descriptionFull: ''
   fieldcode: '27'
 dateAccepted: 2018-11-17
 id: 367fd31d-4ec5-5677-9191-a9aec909e7e3

@@ -2,6 +2,7 @@ data:
   code: '31'
   context: https://isoics.org/jsonld/field.jsonld
   description: Electronics
+  descriptionFull: ''
   fieldcode: '31'
 dateAccepted: 2018-11-17
 id: fb4900d5-d3a9-58ba-b456-a53c8c0d3db9

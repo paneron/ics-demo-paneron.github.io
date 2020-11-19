@@ -2,6 +2,7 @@ data:
   code: '67'
   context: https://isoics.org/jsonld/field.jsonld
   description: Food technology
+  descriptionFull: ''
   fieldcode: '67'
 dateAccepted: 2018-11-17
 id: 4dae53a4-a0b8-513d-aa21-219e3e718dbc
