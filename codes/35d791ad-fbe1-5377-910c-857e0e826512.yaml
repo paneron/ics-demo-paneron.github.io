@@ -1,0 +1,12 @@
+data:
+  code: 13.220.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Ignitability and burning behaviour of materials and products
+  descriptionFull: Environment. Health protection. Safety. Protection against fire.
+    Ignitability and burning behaviour of materials and products.
+  fieldcode: '13'
+  groupcode: '220'
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: 35d791ad-fbe1-5377-910c-857e0e826512
+status: valid

@@ -1,0 +1,10 @@
+data:
+  code: '31.160'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Electric filters
+  descriptionFull: Electronics. Electric filters.
+  fieldcode: '31'
+  groupcode: '160'
+dateAccepted: 2018-11-17
+id: 8c7c5e3f-efda-51c6-be99-8602e05f51a2
+status: valid

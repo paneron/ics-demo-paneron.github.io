@@ -1,0 +1,12 @@
+data:
+  code: 59.100.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Carbon materials
+  descriptionFull: Textile and leather technology. Materials for the reinforcement
+    of composites. Carbon materials.
+  fieldcode: '59'
+  groupcode: '100'
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: dabf3f84-b9c7-5115-80ab-98378f88ad4e
+status: valid

@@ -1,0 +1,12 @@
+data:
+  code: 11.100.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Laboratory medicine in general
+  descriptionFull: Health care technology. Laboratory medicine. Laboratory medicine
+    in general.
+  fieldcode: '11'
+  groupcode: '100'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 72b246f2-7779-511a-b066-14432d1ca7b9
+status: valid

@@ -1,0 +1,12 @@
+data:
+  code: 65.060.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Plant care equipment
+  descriptionFull: Agriculture. Agricultural machines, implements and equipment. Plant
+    care equipment.
+  fieldcode: '65'
+  groupcode: '060'
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: 14838b54-5dbd-5178-8142-975c84df7828
+status: valid

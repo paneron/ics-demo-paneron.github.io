@@ -1,0 +1,15 @@
+data:
+  code: '07.030'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Physics. Chemistry
+  descriptionFull: Natural and applied sciences. Physics. Chemistry.
+  fieldcode: '07'
+  groupcode: '030'
+  notes:
+  - ics-code: '17'
+    text: Metrology and measurement. Physical phenomena, see {ics-code}
+  - ics-code: '71'
+    text: Chemical technology, see {ics-code}
+dateAccepted: 2018-11-17
+id: 35235bfd-40c1-52e6-83b6-6418d9989892
+status: valid

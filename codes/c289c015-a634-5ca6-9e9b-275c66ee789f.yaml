@@ -1,0 +1,12 @@
+data:
+  code: 23.020.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other fluid storage devices
+  descriptionFull: Fluid systems and components for general use. Fluid storage devices.
+    Other fluid storage devices.
+  fieldcode: '23'
+  groupcode: '020'
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: c289c015-a634-5ca6-9e9b-275c66ee789f
+status: valid

@@ -1,0 +1,20 @@
+data:
+  code: 91.120.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Thermal insulation of buildings
+  descriptionFull: Construction materials and building. Protection of and in buildings.
+    Thermal insulation of buildings.
+  fieldcode: '91'
+  groupcode: '120'
+  notes:
+  - text: Including energy efficiency of buildings
+  - ics-code: '27.015'
+    text: Energy efficiency. Energy conservation in general, see {ics-code}
+  - ics-code: '27.220'
+    text: Heat recovery. Thermal insulation, see {ics-code}
+  - ics-code: 91.100.60
+    text: Thermal and sound insulating materials, see {ics-code}
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 17bedb0f-d398-5ff5-9527-86c317c787a8
+status: valid

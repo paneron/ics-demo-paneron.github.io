@@ -1,0 +1,11 @@
+data:
+  code: 71.080.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other organic chemicals
+  descriptionFull: Chemical technology. Organic chemicals. Other organic chemicals.
+  fieldcode: '71'
+  groupcode: 080
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: 47aa84bb-69bb-5c73-8ec8-b6eca3ab18c9
+status: valid

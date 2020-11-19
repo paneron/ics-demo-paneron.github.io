@@ -1,0 +1,12 @@
+data:
+  code: 29.120.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Conduits for electrical purposes
+  descriptionFull: Electrical engineering. Electrical accessories. Conduits for electrical
+    purposes.
+  fieldcode: '29'
+  groupcode: '120'
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 82037e98-5726-56dd-b6fb-2b382790c4eb
+status: valid

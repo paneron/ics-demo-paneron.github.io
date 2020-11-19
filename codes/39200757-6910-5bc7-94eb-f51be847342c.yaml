@@ -1,0 +1,12 @@
+data:
+  code: '11.220'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Veterinary medicine
+  descriptionFull: Health care technology. Veterinary medicine.
+  fieldcode: '11'
+  groupcode: '220'
+  notes:
+  - text: Including equipment specific to veterinary medicine
+dateAccepted: 2018-11-17
+id: 39200757-6910-5bc7-94eb-f51be847342c
+status: valid

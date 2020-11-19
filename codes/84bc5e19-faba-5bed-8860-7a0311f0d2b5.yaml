@@ -1,0 +1,14 @@
+data:
+  code: 25.140.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Electric tools
+  descriptionFull: Manufacturing engineering. Hand-held tools. Electric tools.
+  fieldcode: '25'
+  groupcode: '140'
+  notes:
+  - ics-code: 65.060.80
+    text: Forestry equipment, see {ics-code}
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 84bc5e19-faba-5bed-8860-7a0311f0d2b5
+status: valid

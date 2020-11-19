@@ -1,0 +1,12 @@
+data:
+  code: 71.100.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Materials for aluminium production
+  descriptionFull: Chemical technology. Products of the chemical industry. Materials
+    for aluminium production.
+  fieldcode: '71'
+  groupcode: '100'
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: a9a921cd-1860-5a9e-a64f-ca146765d60c
+status: valid

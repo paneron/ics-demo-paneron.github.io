@@ -1,0 +1,18 @@
+data:
+  code: '65.150'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Fishing and fish breeding
+  descriptionFull: Agriculture. Fishing and fish breeding.
+  fieldcode: '65'
+  groupcode: '150'
+  notes:
+  - text: Including hunting of marine mammals and reptiles, collection and breeding
+      of aquatic molluscs and other marine products, equipment and installations for
+      fishing and fish breeding, etc.
+  - ics-code: 13.060.25
+    text: Water for industrial use, see {ics-code}
+  - ics-code: 67.120.30
+    text: Fish and fishery products, see {ics-code}
+dateAccepted: 2018-11-17
+id: 37afe1db-3b6f-5875-b49a-be2a4afdfe66
+status: valid

@@ -1,0 +1,11 @@
+data:
+  code: 25.140.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Pneumatic tools
+  descriptionFull: Manufacturing engineering. Hand-held tools. Pneumatic tools.
+  fieldcode: '25'
+  groupcode: '140'
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 800dd7ce-0f98-53f7-94c9-1452e775790f
+status: valid

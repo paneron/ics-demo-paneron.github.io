@@ -1,0 +1,15 @@
+data:
+  code: 91.120.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Waterproofing
+  descriptionFull: Construction materials and building. Protection of and in buildings.
+    Waterproofing.
+  fieldcode: '91'
+  groupcode: '120'
+  notes:
+  - ics-code: 91.100.50
+    text: Binders. Sealing materials, see {ics-code}
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: d702e9ec-2cfd-5822-85c0-c21ab36611ff
+status: valid

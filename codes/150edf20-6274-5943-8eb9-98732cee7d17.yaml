@@ -1,0 +1,14 @@
+data:
+  code: 01.080.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Graphical symbols for use on electrical and electronics engineering
+    drawings, diagrams, charts and in relevant technical product documentation
+  descriptionFull: Generalities. Terminology. Standardization. Documentation. Graphical
+    symbols. Graphical symbols for use on electrical and electronics engineering drawings,
+    diagrams, charts and in relevant technical product documentation.
+  fieldcode: '01'
+  groupcode: 080
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: 150edf20-6274-5943-8eb9-98732cee7d17
+status: valid

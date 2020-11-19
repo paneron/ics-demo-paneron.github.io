@@ -1,0 +1,11 @@
+data:
+  code: 25.080.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Lathes
+  descriptionFull: Manufacturing engineering. Machine tools. Lathes.
+  fieldcode: '25'
+  groupcode: 080
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 19757c8f-e78c-58c1-8039-916910d55db7
+status: valid

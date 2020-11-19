@@ -1,0 +1,13 @@
+data:
+  code: '25.040'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Industrial automation systems
+  descriptionFull: Manufacturing engineering. Industrial automation systems.
+  fieldcode: '25'
+  groupcode: '040'
+  notes:
+  - ics-code: 35.240.50
+    text: IT applications in industry, see {ics-code}
+dateAccepted: 2018-11-17
+id: 1e87d968-056d-5e4e-bcdf-8eed2e1c12e8
+status: valid

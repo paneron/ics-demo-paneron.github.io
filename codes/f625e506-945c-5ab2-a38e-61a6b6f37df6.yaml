@@ -1,0 +1,11 @@
+data:
+  code: 23.060.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Globe valves
+  descriptionFull: Fluid systems and components for general use. Valves. Globe valves.
+  fieldcode: '23'
+  groupcode: '060'
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: f625e506-945c-5ab2-a38e-61a6b6f37df6
+status: valid

@@ -1,0 +1,12 @@
+data:
+  code: 75.180.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Processing equipment
+  descriptionFull: Petroleum and related technologies. Equipment for petroleum and
+    natural gas industries. Processing equipment.
+  fieldcode: '75'
+  groupcode: '180'
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 413e8c12-7ec3-5204-b6dc-f704cfbbaee2
+status: valid

@@ -1,0 +1,11 @@
+data:
+  code: '59.100'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Materials for the reinforcement of composites
+  descriptionFull: Textile and leather technology. Materials for the reinforcement
+    of composites.
+  fieldcode: '59'
+  groupcode: '100'
+dateAccepted: 2018-11-17
+id: a8826c7a-0060-58cb-8984-810f225c7f07
+status: valid

@@ -1,0 +1,12 @@
+data:
+  code: 33.180.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Optic amplifiers
+  descriptionFull: Telecommunications. Audio and video engineering. Fibre optic communications.
+    Optic amplifiers.
+  fieldcode: '33'
+  groupcode: '180'
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: 3a7ff5d7-81cd-5f2d-a94c-4a7b4f0176f2
+status: valid

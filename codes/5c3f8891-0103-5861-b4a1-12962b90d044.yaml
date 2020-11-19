@@ -1,0 +1,10 @@
+data:
+  code: '25.060'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Machine tool systems
+  descriptionFull: Manufacturing engineering. Machine tool systems.
+  fieldcode: '25'
+  groupcode: '060'
+dateAccepted: 2018-11-17
+id: 5c3f8891-0103-5861-b4a1-12962b90d044
+status: valid

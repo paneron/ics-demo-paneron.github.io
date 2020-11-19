@@ -1,0 +1,15 @@
+data:
+  code: 97.130.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Shelving
+  descriptionFull: Domestic and commercial equipment. Entertainment. Sports. Shop
+    fittings. Shelving.
+  fieldcode: '97'
+  groupcode: '130'
+  notes:
+  - ics-code: '53.080'
+    text: Storage equipment, see {ics-code}
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 861da26a-3747-5d22-b84e-f9c39f662b22
+status: valid

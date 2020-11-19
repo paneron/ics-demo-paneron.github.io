@@ -1,0 +1,16 @@
+data:
+  code: '43.020'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Road vehicles in general
+  descriptionFull: Road vehicles engineering. Road vehicles in general.
+  fieldcode: '43'
+  groupcode: '020'
+  notes:
+  - text: Including testing and recycling of road vehicles
+  - ics-code: 13.040.50
+    text: Transport exhaust emissions, see {ics-code}
+  - ics-code: 03.220.20
+    text: Road transport, see {ics-code}
+dateAccepted: 2018-11-17
+id: 2906a6f3-7b38-5413-b09f-f49b366de93d
+status: valid

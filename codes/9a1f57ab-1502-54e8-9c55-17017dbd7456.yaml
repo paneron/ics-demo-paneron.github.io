@@ -1,0 +1,11 @@
+data:
+  code: 29.160.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Motors
+  descriptionFull: Electrical engineering. Rotating machinery. Motors.
+  fieldcode: '29'
+  groupcode: '160'
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: 9a1f57ab-1502-54e8-9c55-17017dbd7456
+status: valid

@@ -1,0 +1,13 @@
+data:
+  code: '07.020'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Mathematics
+  descriptionFull: Natural and applied sciences. Mathematics.
+  fieldcode: '07'
+  groupcode: '020'
+  notes:
+  - ics-code: 03.120.30
+    text: Application of statistical methods, see {ics-code}
+dateAccepted: 2018-11-17
+id: 2d3186d0-b5be-5429-b535-ff29b19660bd
+status: valid

@@ -1,0 +1,11 @@
+data:
+  code: '33.140'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Special measuring equipment for use in telecommunications
+  descriptionFull: Telecommunications. Audio and video engineering. Special measuring
+    equipment for use in telecommunications.
+  fieldcode: '33'
+  groupcode: '140'
+dateAccepted: 2018-11-17
+id: 93d1d10d-2744-5b3b-aa54-d345a3979ebc
+status: valid

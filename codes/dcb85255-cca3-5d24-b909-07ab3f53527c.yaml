@@ -1,0 +1,11 @@
+data:
+  code: 11.060.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Dental materials
+  descriptionFull: Health care technology. Dentistry. Dental materials.
+  fieldcode: '11'
+  groupcode: '060'
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: dcb85255-cca3-5d24-b909-07ab3f53527c
+status: valid

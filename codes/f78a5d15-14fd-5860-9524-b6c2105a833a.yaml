@@ -1,0 +1,17 @@
+data:
+  code: 23.020.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Pressure vessels
+  descriptionFull: Fluid systems and components for general use. Fluid storage devices.
+    Pressure vessels.
+  fieldcode: '23'
+  groupcode: '020'
+  notes:
+  - ics-code: 27.060.30
+    text: Boilers and heat exchangers, see {ics-code}
+  - ics-code: 77.140.30
+    text: Steels for pressure purposes, see {ics-code}
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: f78a5d15-14fd-5860-9524-b6c2105a833a
+status: valid

@@ -1,0 +1,13 @@
+data:
+  code: 25.140.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Hand-operated tools
+  descriptionFull: Manufacturing engineering. Hand-held tools. Hand-operated tools.
+  fieldcode: '25'
+  groupcode: '140'
+  notes:
+  - text: Including wrenches, screwdrivers, pliers, nippers, hammers, etc.
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: b3936a61-ecd2-5577-8290-4b6bfc6b5d6a
+status: valid

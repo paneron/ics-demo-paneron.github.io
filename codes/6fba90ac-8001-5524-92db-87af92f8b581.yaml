@@ -1,0 +1,10 @@
+data:
+  code: '35.220'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Data storage devices
+  descriptionFull: Information technology. Data storage devices.
+  fieldcode: '35'
+  groupcode: '220'
+dateAccepted: 2018-11-17
+id: 6fba90ac-8001-5524-92db-87af92f8b581
+status: valid

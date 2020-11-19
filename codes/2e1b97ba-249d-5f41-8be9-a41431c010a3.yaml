@@ -1,0 +1,12 @@
+data:
+  code: 49.025.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other materials
+  descriptionFull: Aircraft and space vehicle engineering. Materials for aerospace
+    construction. Other materials.
+  fieldcode: '49'
+  groupcode: '025'
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: 2e1b97ba-249d-5f41-8be9-a41431c010a3
+status: valid

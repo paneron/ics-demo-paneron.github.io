@@ -1,0 +1,11 @@
+data:
+  code: 91.160.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Lighting in general
+  descriptionFull: Construction materials and building. Lighting. Lighting in general.
+  fieldcode: '91'
+  groupcode: '160'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 6ba3e56c-978b-55fb-a7ca-d517daac05d5
+status: valid

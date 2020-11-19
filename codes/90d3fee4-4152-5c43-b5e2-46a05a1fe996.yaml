@@ -1,0 +1,12 @@
+data:
+  code: '53.120'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Equipment for manual handling
+  descriptionFull: Materials handling equipment. Equipment for manual handling.
+  fieldcode: '53'
+  groupcode: '120'
+  notes:
+  - text: Including shovels, spades, crowbars, picks, etc.
+dateAccepted: 2018-11-17
+id: 90d3fee4-4152-5c43-b5e2-46a05a1fe996
+status: valid

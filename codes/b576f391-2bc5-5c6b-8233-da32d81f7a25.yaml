@@ -1,0 +1,11 @@
+data:
+  code: '17.180'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Optics and optical measurements
+  descriptionFull: Metrology and measurement. Physical phenomena. Optics and optical
+    measurements.
+  fieldcode: '17'
+  groupcode: '180'
+dateAccepted: 2018-11-17
+id: b576f391-2bc5-5c6b-8233-da32d81f7a25
+status: valid

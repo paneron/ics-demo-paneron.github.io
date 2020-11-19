@@ -1,0 +1,12 @@
+data:
+  code: 21.040.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Screw threads in general
+  descriptionFull: Mechanical systems and components for general use. Screw threads.
+    Screw threads in general.
+  fieldcode: '21'
+  groupcode: '040'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 359ae1c3-8a0e-5db3-a3ff-e68ba2ef5940
+status: valid

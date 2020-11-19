@@ -1,0 +1,12 @@
+data:
+  code: 31.220.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Electromechanical components in general
+  descriptionFull: Electronics. Electromechanical components for electronic and telecommunications
+    equipment. Electromechanical components in general.
+  fieldcode: '31'
+  groupcode: '220'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 8c7407a4-19b2-5269-9c3e-2e6958abb499
+status: valid

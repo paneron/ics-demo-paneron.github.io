@@ -1,0 +1,12 @@
+data:
+  code: 11.040.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Medical equipment in general
+  descriptionFull: Health care technology. Medical equipment. Medical equipment in
+    general.
+  fieldcode: '11'
+  groupcode: '040'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: dbf88b3e-5520-52c0-b970-0035cdeb2180
+status: valid

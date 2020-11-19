@@ -1,0 +1,11 @@
+data:
+  code: 73.100.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Mining equipment in general
+  descriptionFull: Mining and minerals. Mining equipment. Mining equipment in general.
+  fieldcode: '73'
+  groupcode: '100'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 277a74fd-8039-5aa7-afce-2e3edf5ed972
+status: valid

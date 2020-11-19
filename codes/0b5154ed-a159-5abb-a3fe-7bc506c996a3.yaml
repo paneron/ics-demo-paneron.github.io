@@ -1,0 +1,15 @@
+data:
+  code: 25.220.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Surface preparation
+  descriptionFull: Manufacturing engineering. Surface treatment and coating. Surface
+    preparation.
+  fieldcode: '25'
+  groupcode: '220'
+  notes:
+  - text: Including surface preparation for painting, cleaning, scouring, blasting,
+      etc.
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 0b5154ed-a159-5abb-a3fe-7bc506c996a3
+status: valid

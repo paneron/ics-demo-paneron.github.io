@@ -1,0 +1,10 @@
+data:
+  code: '87.060'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Paint ingredients
+  descriptionFull: Paint and colour industries. Paint ingredients.
+  fieldcode: '87'
+  groupcode: '060'
+dateAccepted: 2018-11-17
+id: 4da9b52d-a4bb-538e-9b6d-b11e6af0700f
+status: valid

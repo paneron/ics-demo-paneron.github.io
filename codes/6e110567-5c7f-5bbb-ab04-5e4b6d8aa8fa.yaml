@@ -1,0 +1,11 @@
+data:
+  code: 77.120.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Copper and copper alloys
+  descriptionFull: Metallurgy. Non-ferrous metals. Copper and copper alloys.
+  fieldcode: '77'
+  groupcode: '120'
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: 6e110567-5c7f-5bbb-ab04-5e4b6d8aa8fa
+status: valid

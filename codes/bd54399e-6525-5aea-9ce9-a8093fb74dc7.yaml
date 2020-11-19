@@ -1,0 +1,11 @@
+data:
+  code: 43.080.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Buses
+  descriptionFull: Road vehicles engineering. Commercial vehicles. Buses.
+  fieldcode: '43'
+  groupcode: 080
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: bd54399e-6525-5aea-9ce9-a8093fb74dc7
+status: valid

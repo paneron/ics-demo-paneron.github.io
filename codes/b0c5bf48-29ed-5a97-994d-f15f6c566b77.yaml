@@ -1,0 +1,11 @@
+data:
+  code: 79.120.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Woodworking tools
+  descriptionFull: Wood technology. Woodworking equipment. Woodworking tools.
+  fieldcode: '79'
+  groupcode: '120'
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: b0c5bf48-29ed-5a97-994d-f15f6c566b77
+status: valid

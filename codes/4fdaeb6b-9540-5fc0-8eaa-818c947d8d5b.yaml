@@ -1,0 +1,11 @@
+data:
+  code: 77.120.50
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Titanium and titanium alloys
+  descriptionFull: Metallurgy. Non-ferrous metals. Titanium and titanium alloys.
+  fieldcode: '77'
+  groupcode: '120'
+  subgroupcode: '50'
+dateAccepted: 2018-11-17
+id: 4fdaeb6b-9540-5fc0-8eaa-818c947d8d5b
+status: valid

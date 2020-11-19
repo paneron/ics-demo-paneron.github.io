@@ -1,0 +1,12 @@
+data:
+  code: 35.220.23
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Cassettes and cartridges for magnetic tapes
+  descriptionFull: Information technology. Data storage devices. Cassettes and cartridges
+    for magnetic tapes.
+  fieldcode: '35'
+  groupcode: '220'
+  subgroupcode: '23'
+dateAccepted: 2018-11-17
+id: 0024c743-d40f-5c12-8463-dc8933e3286e
+status: valid

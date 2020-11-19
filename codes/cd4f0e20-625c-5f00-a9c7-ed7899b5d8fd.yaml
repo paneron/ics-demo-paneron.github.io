@@ -1,0 +1,14 @@
+data:
+  code: 29.130.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Low voltage switchgear and controlgear
+  descriptionFull: Electrical engineering. Switchgear and controlgear. Low voltage
+    switchgear and controlgear.
+  fieldcode: '29'
+  groupcode: '130'
+  notes:
+  - text: Including switchgear and controlgear assemblies
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: cd4f0e20-625c-5f00-a9c7-ed7899b5d8fd
+status: valid

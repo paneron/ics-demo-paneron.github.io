@@ -1,0 +1,13 @@
+data:
+  code: '71.120'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Equipment for the chemical industry
+  descriptionFull: Chemical technology. Equipment for the chemical industry.
+  fieldcode: '71'
+  groupcode: '120'
+  notes:
+  - ics-code: '13.300'
+    text: Protection against dangerous goods, see {ics-code}
+dateAccepted: 2018-11-17
+id: 98271f35-fffe-5c3e-a93c-8d4d7f0c5a8d
+status: valid

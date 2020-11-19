@@ -1,0 +1,15 @@
+data:
+  code: 23.040.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Iron and steel pipes
+  descriptionFull: Fluid systems and components for general use. Pipeline components
+    and pipelines. Iron and steel pipes.
+  fieldcode: '23'
+  groupcode: '040'
+  notes:
+  - ics-code: 77.140.75
+    text: Steel pipes and tubes for specific use, see {ics-code}
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 23e82b9a-009a-5009-8777-7f62f5ef2233
+status: valid

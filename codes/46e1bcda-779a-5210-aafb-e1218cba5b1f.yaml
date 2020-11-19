@@ -1,0 +1,13 @@
+data:
+  code: 03.100.50
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Production. Production management
+  descriptionFull: Services. Company organization, management and quality. Administration.
+    Transport. Sociology. Company organization and management. Management systems.
+    Production. Production management.
+  fieldcode: '03'
+  groupcode: '100'
+  subgroupcode: '50'
+dateAccepted: 2018-11-17
+id: 46e1bcda-779a-5210-aafb-e1218cba5b1f
+status: valid

@@ -1,0 +1,14 @@
+data:
+  code: 01.100.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Construction drawings
+  descriptionFull: Generalities. Terminology. Standardization. Documentation. Technical
+    drawings. Construction drawings.
+  fieldcode: '01'
+  groupcode: '100'
+  notes:
+  - text: Including civil engineering drawings
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: 036b0676-dcbd-577a-b255-40b43c64bf91
+status: valid

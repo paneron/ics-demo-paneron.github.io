@@ -1,0 +1,11 @@
+data:
+  code: 23.060.50
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Check valves
+  descriptionFull: Fluid systems and components for general use. Valves. Check valves.
+  fieldcode: '23'
+  groupcode: '060'
+  subgroupcode: '50'
+dateAccepted: 2018-11-17
+id: 3fbfe4c8-1d8d-5a06-b176-259f0bef3e86
+status: valid

@@ -1,0 +1,11 @@
+data:
+  code: 77.150.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Aluminium products
+  descriptionFull: Metallurgy. Products of non-ferrous metals. Aluminium products.
+  fieldcode: '77'
+  groupcode: '150'
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: bbddace9-1c8a-546b-9850-c6572863fe61
+status: valid

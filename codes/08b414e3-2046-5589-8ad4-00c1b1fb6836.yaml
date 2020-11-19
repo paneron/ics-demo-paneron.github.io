@@ -1,0 +1,14 @@
+data:
+  code: 75.180.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Exploratory, drilling and extraction equipment
+  descriptionFull: Petroleum and related technologies. Equipment for petroleum and
+    natural gas industries. Exploratory, drilling and extraction equipment.
+  fieldcode: '75'
+  groupcode: '180'
+  notes:
+  - text: Including offshore structures
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 08b414e3-2046-5589-8ad4-00c1b1fb6836
+status: valid

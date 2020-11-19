@@ -1,0 +1,14 @@
+data:
+  code: 45.060.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Tractive stock
+  descriptionFull: Railway engineering. Railway rolling stock. Tractive stock.
+  fieldcode: '45'
+  groupcode: '060'
+  notes:
+  - ics-code: '29.280'
+    text: Electric traction equipment, see {ics-code}
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: bb6ba499-e229-57e8-a408-1fc1405f64a6
+status: valid

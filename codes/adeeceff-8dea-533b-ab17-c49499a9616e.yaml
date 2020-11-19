@@ -1,0 +1,12 @@
+data:
+  code: 33.070.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Mobile services in general
+  descriptionFull: Telecommunications. Audio and video engineering. Mobile services.
+    Mobile services in general.
+  fieldcode: '33'
+  groupcode: '070'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: adeeceff-8dea-533b-ab17-c49499a9616e
+status: valid

@@ -1,0 +1,12 @@
+data:
+  code: 01.040.93
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Civil engineering (Vocabularies)
+  descriptionFull: Generalities. Terminology. Standardization. Documentation. Vocabularies.
+    Civil engineering (Vocabularies).
+  fieldcode: '01'
+  groupcode: '040'
+  subgroupcode: '93'
+dateAccepted: 2018-11-17
+id: 6d837d1f-b1b3-581c-96f4-13da7897994f
+status: valid

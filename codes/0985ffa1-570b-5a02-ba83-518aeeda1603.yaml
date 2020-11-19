@@ -1,0 +1,12 @@
+data:
+  code: 13.340.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Respiratory protective devices
+  descriptionFull: Environment. Health protection. Safety. Protective equipment. Respiratory
+    protective devices.
+  fieldcode: '13'
+  groupcode: '340'
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: 0985ffa1-570b-5a02-ba83-518aeeda1603
+status: valid

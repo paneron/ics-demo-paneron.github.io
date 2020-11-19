@@ -1,0 +1,11 @@
+data:
+  code: 87.060.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Binders
+  descriptionFull: Paint and colour industries. Paint ingredients. Binders.
+  fieldcode: '87'
+  groupcode: '060'
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 08d15c3e-8870-52a7-b19d-a99cccc4e26d
+status: valid

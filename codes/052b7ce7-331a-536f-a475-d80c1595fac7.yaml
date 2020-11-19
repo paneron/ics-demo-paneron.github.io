@@ -1,0 +1,12 @@
+data:
+  code: 35.240.69
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: IT applications in postal services
+  descriptionFull: Information technology. Applications of information technology.
+    IT applications in postal services.
+  fieldcode: '35'
+  groupcode: '240'
+  subgroupcode: '69'
+dateAccepted: 2018-11-17
+id: 052b7ce7-331a-536f-a475-d80c1595fac7
+status: valid

@@ -1,0 +1,15 @@
+data:
+  code: '91.140'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Installations in buildings
+  descriptionFull: Construction materials and building. Installations in buildings.
+  fieldcode: '91'
+  groupcode: '140'
+  notes:
+  - ics-code: '27.060'
+    text: Burners. Boilers, see {ics-code}
+  - ics-code: '27.080'
+    text: Heat pumps, see {ics-code}
+dateAccepted: 2018-11-17
+id: 09f8adbf-d843-5329-bbbd-e46b886ec923
+status: valid

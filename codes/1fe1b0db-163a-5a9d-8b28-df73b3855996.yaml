@@ -1,0 +1,13 @@
+data:
+  code: 37.040.25
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Radiographic films
+  descriptionFull: Image technology. Photography. Radiographic films.
+  fieldcode: '37'
+  groupcode: '040'
+  notes:
+  - text: Including dental, medical and industrial radiographic films
+  subgroupcode: '25'
+dateAccepted: 2018-11-17
+id: 1fe1b0db-163a-5a9d-8b28-df73b3855996
+status: valid

@@ -1,0 +1,12 @@
+data:
+  code: 33.120.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Wires and symmetrical cables
+  descriptionFull: Telecommunications. Audio and video engineering. Components and
+    accessories for telecommunications equipment. Wires and symmetrical cables.
+  fieldcode: '33'
+  groupcode: '120'
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 176c5613-7473-5170-8e97-d78a4cb4b991
+status: valid

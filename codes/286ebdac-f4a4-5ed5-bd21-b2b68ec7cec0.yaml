@@ -1,0 +1,12 @@
+data:
+  code: 91.120.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Protection of and in buildings in general
+  descriptionFull: Construction materials and building. Protection of and in buildings.
+    Protection of and in buildings in general.
+  fieldcode: '91'
+  groupcode: '120'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 286ebdac-f4a4-5ed5-bd21-b2b68ec7cec0
+status: valid

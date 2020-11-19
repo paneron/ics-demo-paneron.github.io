@@ -1,0 +1,12 @@
+data:
+  code: 47.020.80
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Accommodation spaces
+  descriptionFull: Shipbuilding and marine structures. Shipbuilding and marine structures
+    in general. Accommodation spaces.
+  fieldcode: '47'
+  groupcode: '020'
+  subgroupcode: '80'
+dateAccepted: 2018-11-17
+id: a6895cbd-0154-5ed2-97a3-90d674203cd3
+status: valid

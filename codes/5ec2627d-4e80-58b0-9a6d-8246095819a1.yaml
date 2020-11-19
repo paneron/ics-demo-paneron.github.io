@@ -1,0 +1,13 @@
+data:
+  code: '87.020'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Paint coating processes
+  descriptionFull: Paint and colour industries. Paint coating processes.
+  fieldcode: '87'
+  groupcode: '020'
+  notes:
+  - ics-code: 25.220.10
+    text: Surface preparation, see {ics-code}
+dateAccepted: 2018-11-17
+id: 5ec2627d-4e80-58b0-9a6d-8246095819a1
+status: valid

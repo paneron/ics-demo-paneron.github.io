@@ -1,0 +1,13 @@
+data:
+  code: '27.220'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Heat recovery. Thermal insulation
+  descriptionFull: Energy and heat transfer engineering. Heat recovery. Thermal insulation.
+  fieldcode: '27'
+  groupcode: '220'
+  notes:
+  - ics-code: 91.120.10
+    text: Thermal insulation of buildings, see {ics-code}
+dateAccepted: 2018-11-17
+id: 1b5eb051-79bd-53c7-993f-d74c08706fed
+status: valid

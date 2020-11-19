@@ -1,0 +1,12 @@
+data:
+  code: 25.120.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other chipless working equipment
+  descriptionFull: Manufacturing engineering. Chipless working equipment. Other chipless
+    working equipment.
+  fieldcode: '25'
+  groupcode: '120'
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: 05806665-f193-5a03-990c-a66e168933f0
+status: valid

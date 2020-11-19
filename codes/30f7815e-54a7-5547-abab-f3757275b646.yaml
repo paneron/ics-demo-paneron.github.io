@@ -1,0 +1,10 @@
+data:
+  code: '21.100'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Bearings
+  descriptionFull: Mechanical systems and components for general use. Bearings.
+  fieldcode: '21'
+  groupcode: '100'
+dateAccepted: 2018-11-17
+id: 30f7815e-54a7-5547-abab-f3757275b646
+status: valid

@@ -1,0 +1,11 @@
+data:
+  code: 37.060.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Motion picture films. Cartridges
+  descriptionFull: Image technology. Cinematography. Motion picture films. Cartridges.
+  fieldcode: '37'
+  groupcode: '060'
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 54c85ef7-60fb-5f8f-bb8f-69875d2e3e69
+status: valid

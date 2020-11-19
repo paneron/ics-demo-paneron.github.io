@@ -1,0 +1,14 @@
+data:
+  code: '43.060'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Internal combustion engines for road vehicles
+  descriptionFull: Road vehicles engineering. Internal combustion engines for road
+    vehicles.
+  fieldcode: '43'
+  groupcode: '060'
+  notes:
+  - ics-code: '27.020'
+    text: Internal combustion engines, see {ics-code}
+dateAccepted: 2018-11-17
+id: e3b6cee1-a7a1-5232-aecd-c8b07f13e34d
+status: valid

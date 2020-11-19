@@ -1,0 +1,12 @@
+data:
+  code: 17.040.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other standards related to linear and angular measurements
+  descriptionFull: Metrology and measurement. Physical phenomena. Linear and angular
+    measurements. Other standards related to linear and angular measurements.
+  fieldcode: '17'
+  groupcode: '040'
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: 0710eeb6-c267-526a-ac71-2a960ac151e6
+status: valid

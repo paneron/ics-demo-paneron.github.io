@@ -1,0 +1,14 @@
+data:
+  code: 35.100.05
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Multilayer applications
+  descriptionFull: Information technology. Open systems interconnection (OSI). Multilayer
+    applications.
+  fieldcode: '35'
+  groupcode: '100'
+  notes:
+  - text: Including International Standardized Profiles
+  subgroupcode: '05'
+dateAccepted: 2018-11-17
+id: e0c5fd42-6896-5a48-bdb0-f40e9298a693
+status: valid

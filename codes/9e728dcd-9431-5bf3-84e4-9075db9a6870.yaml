@@ -1,0 +1,12 @@
+data:
+  code: 01.040.79
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Wood technology (Vocabularies)
+  descriptionFull: Generalities. Terminology. Standardization. Documentation. Vocabularies.
+    Wood technology (Vocabularies).
+  fieldcode: '01'
+  groupcode: '040'
+  subgroupcode: '79'
+dateAccepted: 2018-11-17
+id: 9e728dcd-9431-5bf3-84e4-9075db9a6870
+status: valid

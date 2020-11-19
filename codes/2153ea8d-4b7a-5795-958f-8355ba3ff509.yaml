@@ -1,0 +1,14 @@
+data:
+  code: 01.040.03
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Services. Company organization, management and quality. Administration.
+    Transport. Sociology. (Vocabularies)
+  descriptionFull: Generalities. Terminology. Standardization. Documentation. Vocabularies.
+    Services. Company organization, management and quality. Administration. Transport.
+    Sociology. (Vocabularies).
+  fieldcode: '01'
+  groupcode: '040'
+  subgroupcode: '03'
+dateAccepted: 2018-11-17
+id: 2153ea8d-4b7a-5795-958f-8355ba3ff509
+status: valid

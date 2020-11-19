@@ -1,0 +1,15 @@
+data:
+  code: 35.240.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: IT applications in information, documentation and publishing
+  descriptionFull: Information technology. Applications of information technology.
+    IT applications in information, documentation and publishing.
+  fieldcode: '35'
+  groupcode: '240'
+  notes:
+  - text: Including Standard Generalized Markup Language (SGML), Extensible Markup
+      Language (XML), automatic translation machines, etc.
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: 0e894a93-531b-53f8-982f-420c384a6d0a
+status: valid

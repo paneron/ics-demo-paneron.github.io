@@ -1,0 +1,10 @@
+data:
+  code: '31.240'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Mechanical structures for electronic equipment
+  descriptionFull: Electronics. Mechanical structures for electronic equipment.
+  fieldcode: '31'
+  groupcode: '240'
+dateAccepted: 2018-11-17
+id: 389b29f7-8ca4-5f79-a137-2ae827bf77b4
+status: valid

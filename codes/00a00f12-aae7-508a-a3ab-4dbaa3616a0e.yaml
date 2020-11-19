@@ -1,0 +1,12 @@
+data:
+  code: 97.200.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Musical instruments
+  descriptionFull: Domestic and commercial equipment. Entertainment. Sports. Equipment
+    for entertainment. Musical instruments.
+  fieldcode: '97'
+  groupcode: '200'
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 00a00f12-aae7-508a-a3ab-4dbaa3616a0e
+status: valid

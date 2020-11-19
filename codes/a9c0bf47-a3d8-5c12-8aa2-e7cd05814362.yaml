@@ -1,0 +1,12 @@
+data:
+  code: 91.060.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other elements of buildings
+  descriptionFull: Construction materials and building. Elements of buildings. Other
+    elements of buildings.
+  fieldcode: '91'
+  groupcode: '060'
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: a9c0bf47-a3d8-5c12-8aa2-e7cd05814362
+status: valid

@@ -1,0 +1,12 @@
+data:
+  code: 13.020.50
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Ecolabelling
+  descriptionFull: Environment. Health protection. Safety. Environmental protection.
+    Ecolabelling.
+  fieldcode: '13'
+  groupcode: '020'
+  subgroupcode: '50'
+dateAccepted: 2018-11-17
+id: 6cd9bbe2-ecb8-5822-8f3d-c1fee226969c
+status: valid

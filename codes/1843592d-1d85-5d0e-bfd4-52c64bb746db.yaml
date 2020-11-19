@@ -1,0 +1,12 @@
+data:
+  code: 29.035.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other insulating materials
+  descriptionFull: Electrical engineering. Insulating materials. Other insulating
+    materials.
+  fieldcode: '29'
+  groupcode: '035'
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: 1843592d-1d85-5d0e-bfd4-52c64bb746db
+status: valid

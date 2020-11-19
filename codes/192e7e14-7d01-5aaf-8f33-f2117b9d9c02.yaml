@@ -1,0 +1,15 @@
+data:
+  code: '17.060'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Measurement of volume, mass, density, viscosity
+  descriptionFull: Metrology and measurement. Physical phenomena. Measurement of volume,
+    mass, density, viscosity.
+  fieldcode: '17'
+  groupcode: '060'
+  notes:
+  - text: Including measuring instruments
+  - ics-code: 75.180.30
+    text: Volumetric equipment and measurements, see {ics-code}
+dateAccepted: 2018-11-17
+id: 192e7e14-7d01-5aaf-8f33-f2117b9d9c02
+status: valid

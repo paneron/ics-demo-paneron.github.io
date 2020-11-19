@@ -1,0 +1,15 @@
+data:
+  code: 97.220.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Indoor sports equipment
+  descriptionFull: Domestic and commercial equipment. Entertainment. Sports. Sports
+    equipment and facilities. Indoor sports equipment.
+  fieldcode: '97'
+  groupcode: '220'
+  notes:
+  - text: Including equipment for gymnastics, volleyball, basketball, handball, home
+      sports trainers, etc.
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: 7a03008e-cbe4-5d84-9827-d19096a2de77
+status: valid

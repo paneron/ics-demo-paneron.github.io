@@ -1,0 +1,12 @@
+data:
+  code: 29.140.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Lamp caps and holders
+  descriptionFull: Electrical engineering. Lamps and related equipment. Lamp caps
+    and holders.
+  fieldcode: '29'
+  groupcode: '140'
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 13a45231-a1b6-5f01-8399-c24c9a5c0b47
+status: valid

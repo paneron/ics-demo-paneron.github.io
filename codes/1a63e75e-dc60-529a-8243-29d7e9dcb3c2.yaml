@@ -1,0 +1,11 @@
+data:
+  code: 25.080.60
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Sawing machines
+  descriptionFull: Manufacturing engineering. Machine tools. Sawing machines.
+  fieldcode: '25'
+  groupcode: 080
+  subgroupcode: '60'
+dateAccepted: 2018-11-17
+id: 1a63e75e-dc60-529a-8243-29d7e9dcb3c2
+status: valid

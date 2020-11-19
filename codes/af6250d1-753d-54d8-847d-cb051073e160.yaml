@@ -1,0 +1,15 @@
+data:
+  code: '61.080'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Sewing machines and other equipment for the clothing industry
+  descriptionFull: Clothing industry. Sewing machines and other equipment for the
+    clothing industry.
+  fieldcode: '61'
+  groupcode: 080
+  notes:
+  - text: Including household sewing machines
+  - ics-code: '97.060'
+    text: Laundry appliances, see {ics-code}
+dateAccepted: 2018-11-17
+id: af6250d1-753d-54d8-847d-cb051073e160
+status: valid

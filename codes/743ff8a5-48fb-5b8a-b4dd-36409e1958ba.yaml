@@ -1,0 +1,11 @@
+data:
+  code: 71.080.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Organic chemicals in general
+  descriptionFull: Chemical technology. Organic chemicals. Organic chemicals in general.
+  fieldcode: '71'
+  groupcode: 080
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 743ff8a5-48fb-5b8a-b4dd-36409e1958ba
+status: valid

@@ -1,0 +1,11 @@
+data:
+  code: 71.080.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Aliphatic hydrocarbons
+  descriptionFull: Chemical technology. Organic chemicals. Aliphatic hydrocarbons.
+  fieldcode: '71'
+  groupcode: 080
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: a372237f-b04d-58dc-9802-b2ffb5422fb4
+status: valid

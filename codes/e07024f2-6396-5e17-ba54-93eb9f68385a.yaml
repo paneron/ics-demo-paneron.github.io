@@ -1,0 +1,12 @@
+data:
+  code: '47.060'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Inland navigation vessels
+  descriptionFull: Shipbuilding and marine structures. Inland navigation vessels.
+  fieldcode: '47'
+  groupcode: '060'
+  notes:
+  - text: Including their systems and components
+dateAccepted: 2018-11-17
+id: e07024f2-6396-5e17-ba54-93eb9f68385a
+status: valid

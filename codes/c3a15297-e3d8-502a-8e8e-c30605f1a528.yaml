@@ -1,0 +1,12 @@
+data:
+  code: 25.040.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Numerically controlled machines
+  descriptionFull: Manufacturing engineering. Industrial automation systems. Numerically
+    controlled machines.
+  fieldcode: '25'
+  groupcode: '040'
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: c3a15297-e3d8-502a-8e8e-c30605f1a528
+status: valid

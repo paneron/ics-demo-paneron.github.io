@@ -1,0 +1,12 @@
+data:
+  code: 65.060.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Agricultural machines and equipment in general
+  descriptionFull: Agriculture. Agricultural machines, implements and equipment. Agricultural
+    machines and equipment in general.
+  fieldcode: '65'
+  groupcode: '060'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 288a32b9-3121-5e0e-a027-ae0fc58ff6ef
+status: valid

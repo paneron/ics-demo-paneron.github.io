@@ -1,0 +1,12 @@
+data:
+  code: '39.020'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Precision mechanics
+  descriptionFull: Precision mechanics. Jewellery. Precision mechanics.
+  fieldcode: '39'
+  groupcode: '020'
+  notes:
+  - text: Including microsystems
+dateAccepted: 2018-11-17
+id: b22944ce-14f8-54a7-9314-700f40715c44
+status: valid

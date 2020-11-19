@@ -1,0 +1,12 @@
+data:
+  code: 31.220.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Switches
+  descriptionFull: Electronics. Electromechanical components for electronic and telecommunications
+    equipment. Switches.
+  fieldcode: '31'
+  groupcode: '220'
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 2ed3a815-fc36-598e-8ea2-17c06f6564a9
+status: valid

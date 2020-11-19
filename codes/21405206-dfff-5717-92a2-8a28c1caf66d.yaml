@@ -1,0 +1,14 @@
+data:
+  code: 03.120.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Quality in general
+  descriptionFull: Services. Company organization, management and quality. Administration.
+    Transport. Sociology. Quality. Quality in general.
+  fieldcode: '03'
+  groupcode: '120'
+  notes:
+  - text: Including general aspects related to reliability and maintainability
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 21405206-dfff-5717-92a2-8a28c1caf66d
+status: valid

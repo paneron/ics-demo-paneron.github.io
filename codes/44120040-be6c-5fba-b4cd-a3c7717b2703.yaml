@@ -1,0 +1,11 @@
+data:
+  code: 59.060.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Natural fibres
+  descriptionFull: Textile and leather technology. Textile fibres. Natural fibres.
+  fieldcode: '59'
+  groupcode: '060'
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 44120040-be6c-5fba-b4cd-a3c7717b2703
+status: valid

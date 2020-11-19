@@ -1,0 +1,10 @@
+data:
+  code: '67.140'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Tea. Coffee. Cocoa
+  descriptionFull: Food technology. Tea. Coffee. Cocoa.
+  fieldcode: '67'
+  groupcode: '140'
+dateAccepted: 2018-11-17
+id: 3b8368f3-3f8a-5fba-b009-056d83d696e0
+status: valid

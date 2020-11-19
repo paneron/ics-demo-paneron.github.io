@@ -1,0 +1,12 @@
+data:
+  code: 53.040.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Pneumatic transport and its components
+  descriptionFull: Materials handling equipment. Continuous handling equipment. Pneumatic
+    transport and its components.
+  fieldcode: '53'
+  groupcode: '040'
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: fce84c1f-f8ed-5f2c-9646-fe35460437ad
+status: valid

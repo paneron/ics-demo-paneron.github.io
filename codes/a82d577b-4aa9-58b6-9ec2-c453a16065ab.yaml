@@ -1,0 +1,14 @@
+data:
+  code: '19.060'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Mechanical testing
+  descriptionFull: Testing. Mechanical testing.
+  fieldcode: '19'
+  groupcode: '060'
+  notes:
+  - text: Including testing equipment
+  - ics-code: 77.040.10
+    text: Mechanical testing of metals, see {ics-code}
+dateAccepted: 2018-11-17
+id: a82d577b-4aa9-58b6-9ec2-c453a16065ab
+status: valid

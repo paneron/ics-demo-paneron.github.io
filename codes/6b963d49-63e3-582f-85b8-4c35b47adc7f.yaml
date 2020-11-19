@@ -1,0 +1,14 @@
+data:
+  code: 91.010.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Contractual aspects
+  descriptionFull: Construction materials and building. Construction industry. Contractual
+    aspects.
+  fieldcode: '91'
+  groupcode: '010'
+  notes:
+  - text: Including construction procurement
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 6b963d49-63e3-582f-85b8-4c35b47adc7f
+status: valid

@@ -1,0 +1,11 @@
+data:
+  code: 77.040.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Testing of metals in general
+  descriptionFull: Metallurgy. Testing of metals. Testing of metals in general.
+  fieldcode: '77'
+  groupcode: '040'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 560bd50a-fd74-5094-a6d9-ab63f6405594
+status: valid

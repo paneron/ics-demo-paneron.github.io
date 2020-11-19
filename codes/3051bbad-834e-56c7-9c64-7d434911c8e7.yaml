@@ -1,0 +1,15 @@
+data:
+  code: 71.100.70
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Cosmetics. Toiletries
+  descriptionFull: Chemical technology. Products of the chemical industry. Cosmetics.
+    Toiletries.
+  fieldcode: '71'
+  groupcode: '100'
+  notes:
+  - ics-code: 07.100.40
+    text: Cosmetics microbiology, see {ics-code}
+  subgroupcode: '70'
+dateAccepted: 2018-11-17
+id: 3051bbad-834e-56c7-9c64-7d434911c8e7
+status: valid

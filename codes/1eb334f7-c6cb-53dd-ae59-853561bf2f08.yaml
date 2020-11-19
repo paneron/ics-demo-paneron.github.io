@@ -1,0 +1,12 @@
+data:
+  code: 71.120.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Equipment for the chemical industry in general
+  descriptionFull: Chemical technology. Equipment for the chemical industry. Equipment
+    for the chemical industry in general.
+  fieldcode: '71'
+  groupcode: '120'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 1eb334f7-c6cb-53dd-ae59-853561bf2f08
+status: valid

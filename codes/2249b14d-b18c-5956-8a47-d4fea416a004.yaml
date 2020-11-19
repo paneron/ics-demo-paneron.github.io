@@ -1,0 +1,15 @@
+data:
+  code: 35.240.15
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Identification cards. Chip cards. Biometrics
+  descriptionFull: Information technology. Applications of information technology.
+    Identification cards. Chip cards. Biometrics.
+  fieldcode: '35'
+  groupcode: '240'
+  notes:
+  - text: Including application of cards for banking, trade, telecommunications, transport,
+      etc.
+  subgroupcode: '15'
+dateAccepted: 2018-11-17
+id: 2249b14d-b18c-5956-8a47-d4fea416a004
+status: valid

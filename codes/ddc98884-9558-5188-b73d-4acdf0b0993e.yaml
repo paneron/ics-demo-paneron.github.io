@@ -1,0 +1,12 @@
+data:
+  code: 27.120.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other standards related to nuclear energy
+  descriptionFull: Energy and heat transfer engineering. Nuclear energy engineering.
+    Other standards related to nuclear energy.
+  fieldcode: '27'
+  groupcode: '120'
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: ddc98884-9558-5188-b73d-4acdf0b0993e
+status: valid

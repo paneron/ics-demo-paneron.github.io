@@ -1,0 +1,12 @@
+data:
+  code: 73.060.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Manganese ores
+  descriptionFull: Mining and minerals. Metalliferous minerals and their concentrates.
+    Manganese ores.
+  fieldcode: '73'
+  groupcode: '060'
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: e26e91d9-447b-58bd-ad2b-f9a4deb6cf9e
+status: valid

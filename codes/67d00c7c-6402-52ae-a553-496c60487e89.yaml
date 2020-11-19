@@ -1,0 +1,11 @@
+data:
+  code: 31.040.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Resistors in general
+  descriptionFull: Electronics. Resistors. Resistors in general.
+  fieldcode: '31'
+  groupcode: '040'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 67d00c7c-6402-52ae-a553-496c60487e89
+status: valid

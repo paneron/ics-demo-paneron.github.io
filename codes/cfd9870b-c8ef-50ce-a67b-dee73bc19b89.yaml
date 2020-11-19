@@ -1,0 +1,16 @@
+data:
+  code: 13.020.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Environmental management
+  descriptionFull: Environment. Health protection. Safety. Environmental protection.
+    Environmental management.
+  fieldcode: '13'
+  groupcode: '020'
+  notes:
+  - text: Including certification and audit
+  - ics-code: 03.100.70
+    text: Management systems, see {ics-code}
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: cfd9870b-c8ef-50ce-a67b-dee73bc19b89
+status: valid

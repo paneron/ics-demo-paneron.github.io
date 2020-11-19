@@ -1,0 +1,13 @@
+data:
+  code: '27.075'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Hydrogen technologies
+  descriptionFull: Energy and heat transfer engineering. Hydrogen technologies.
+  fieldcode: '27'
+  groupcode: '075'
+  notes:
+  - ics-code: 71.100.20
+    text: Gases for industrial application, see {ics-code}
+dateAccepted: 2018-11-17
+id: 09932f33-5d11-5536-852f-3184ccc478df
+status: valid

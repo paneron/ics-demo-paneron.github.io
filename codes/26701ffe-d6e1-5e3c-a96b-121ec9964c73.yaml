@@ -1,0 +1,12 @@
+data:
+  code: 25.040.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Machining centres
+  descriptionFull: Manufacturing engineering. Industrial automation systems. Machining
+    centres.
+  fieldcode: '25'
+  groupcode: '040'
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 26701ffe-d6e1-5e3c-a96b-121ec9964c73
+status: valid

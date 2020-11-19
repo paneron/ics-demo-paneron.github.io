@@ -1,0 +1,14 @@
+data:
+  code: 25.160.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Welding, brazing and soldering in general
+  descriptionFull: Manufacturing engineering. Welding, brazing and soldering. Welding,
+    brazing and soldering in general.
+  fieldcode: '25'
+  groupcode: '160'
+  notes:
+  - text: Including welders' qualifications
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: f8544aeb-f6bc-52df-8c00-8ac6c54bb2c6
+status: valid

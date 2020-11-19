@@ -1,0 +1,12 @@
+data:
+  code: 65.060.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Sowing and planting equipment
+  descriptionFull: Agriculture. Agricultural machines, implements and equipment. Sowing
+    and planting equipment.
+  fieldcode: '65'
+  groupcode: '060'
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: f3878c77-7611-54be-9a8d-77fbd62fa163
+status: valid

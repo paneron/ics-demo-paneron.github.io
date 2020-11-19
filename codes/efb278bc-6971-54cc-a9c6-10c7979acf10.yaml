@@ -1,0 +1,12 @@
+data:
+  code: 21.060.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Fasteners in general
+  descriptionFull: Mechanical systems and components for general use. Fasteners. Fasteners
+    in general.
+  fieldcode: '21'
+  groupcode: '060'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: efb278bc-6971-54cc-a9c6-10c7979acf10
+status: valid

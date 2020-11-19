@@ -1,0 +1,12 @@
+data:
+  code: 49.025.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Rubber and plastics
+  descriptionFull: Aircraft and space vehicle engineering. Materials for aerospace
+    construction. Rubber and plastics.
+  fieldcode: '49'
+  groupcode: '025'
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: 0e94d8a2-3e6e-5abd-86a3-a7f19ed25c37
+status: valid

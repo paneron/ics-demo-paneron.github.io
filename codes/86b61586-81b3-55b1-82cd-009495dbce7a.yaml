@@ -1,0 +1,11 @@
+data:
+  code: 11.040.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other medical equipment
+  descriptionFull: Health care technology. Medical equipment. Other medical equipment.
+  fieldcode: '11'
+  groupcode: '040'
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: 86b61586-81b3-55b1-82cd-009495dbce7a
+status: valid

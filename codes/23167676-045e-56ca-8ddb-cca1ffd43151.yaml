@@ -1,0 +1,14 @@
+data:
+  code: 33.040.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Switching and signalling systems
+  descriptionFull: Telecommunications. Audio and video engineering. Telecommunication
+    systems. Switching and signalling systems.
+  fieldcode: '33'
+  groupcode: '040'
+  notes:
+  - text: Including telecommunication call charging and billing aspects
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: 23167676-045e-56ca-8ddb-cca1ffd43151
+status: valid

@@ -1,0 +1,14 @@
+data:
+  code: '65.140'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Beekeeping
+  descriptionFull: Agriculture. Beekeeping.
+  fieldcode: '65'
+  groupcode: '140'
+  notes:
+  - text: Including equipment and installations for beekeeping
+  - ics-code: 67.180.10
+    text: Sugar and sugar products, see {ics-code}
+dateAccepted: 2018-11-17
+id: 2375ae2c-14a6-5803-b0b7-fc607a7b95ef
+status: valid

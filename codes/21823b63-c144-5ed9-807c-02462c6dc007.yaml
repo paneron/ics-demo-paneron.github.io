@@ -1,0 +1,12 @@
+data:
+  code: 29.100.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Electric and electromechanical components
+  descriptionFull: Electrical engineering. Components for electrical equipment. Electric
+    and electromechanical components.
+  fieldcode: '29'
+  groupcode: '100'
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 21823b63-c144-5ed9-807c-02462c6dc007
+status: valid

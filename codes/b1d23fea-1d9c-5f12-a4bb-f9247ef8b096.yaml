@@ -1,0 +1,14 @@
+data:
+  code: '77.150'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Products of non-ferrous metals
+  descriptionFull: Metallurgy. Products of non-ferrous metals.
+  fieldcode: '77'
+  groupcode: '150'
+  notes:
+  - text: Including products of non-ferrous metal alloys
+  - ics-code: '49.025'
+    text: Materials for aerospace construction, see {ics-code}
+dateAccepted: 2018-11-17
+id: b1d23fea-1d9c-5f12-a4bb-f9247ef8b096
+status: valid

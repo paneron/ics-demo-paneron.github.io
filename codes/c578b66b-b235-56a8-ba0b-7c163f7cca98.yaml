@@ -1,0 +1,11 @@
+data:
+  code: 31.060.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other capacitors
+  descriptionFull: Electronics. Capacitors. Other capacitors.
+  fieldcode: '31'
+  groupcode: '060'
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: c578b66b-b235-56a8-ba0b-7c163f7cca98
+status: valid

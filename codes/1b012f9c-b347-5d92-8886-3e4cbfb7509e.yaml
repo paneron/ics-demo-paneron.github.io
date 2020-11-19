@@ -1,0 +1,10 @@
+data:
+  code: '59.120'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Textile machinery
+  descriptionFull: Textile and leather technology. Textile machinery.
+  fieldcode: '59'
+  groupcode: '120'
+dateAccepted: 2018-11-17
+id: 1b012f9c-b347-5d92-8886-3e4cbfb7509e
+status: valid

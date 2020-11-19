@@ -1,0 +1,11 @@
+data:
+  code: 31.080.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Diodes
+  descriptionFull: Electronics. Semiconductor devices. Diodes.
+  fieldcode: '31'
+  groupcode: 080
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 096de72c-2482-5487-9845-988dcf433e2a
+status: valid

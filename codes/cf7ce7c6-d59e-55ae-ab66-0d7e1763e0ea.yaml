@@ -1,0 +1,11 @@
+data:
+  code: 91.040.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Residential buildings
+  descriptionFull: Construction materials and building. Buildings. Residential buildings.
+  fieldcode: '91'
+  groupcode: '040'
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: cf7ce7c6-d59e-55ae-ab66-0d7e1763e0ea
+status: valid

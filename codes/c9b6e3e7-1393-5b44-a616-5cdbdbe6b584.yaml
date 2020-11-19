@@ -1,0 +1,16 @@
+data:
+  code: '59.140'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Leather technology
+  descriptionFull: Textile and leather technology. Leather technology.
+  fieldcode: '59'
+  groupcode: '140'
+  notes:
+  - text: Including fur and imitation leather
+  - ics-code: '61.060'
+    text: Footwear, see {ics-code}
+  - ics-code: '61.080'
+    text: Sewing machines and other equipment for the clothing industry, see {ics-code}
+dateAccepted: 2018-11-17
+id: c9b6e3e7-1393-5b44-a616-5cdbdbe6b584
+status: valid

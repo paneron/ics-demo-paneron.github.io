@@ -1,0 +1,12 @@
+data:
+  code: 49.030.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Nuts
+  descriptionFull: Aircraft and space vehicle engineering. Fasteners for aerospace
+    construction. Nuts.
+  fieldcode: '49'
+  groupcode: '030'
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: 05e071a1-3f64-5e73-a4bb-6c00678ccaf9
+status: valid

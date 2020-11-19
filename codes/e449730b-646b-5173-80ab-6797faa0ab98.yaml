@@ -1,0 +1,12 @@
+data:
+  code: 01.080.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Graphical symbols in general
+  descriptionFull: Generalities. Terminology. Standardization. Documentation. Graphical
+    symbols. Graphical symbols in general.
+  fieldcode: '01'
+  groupcode: 080
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: e449730b-646b-5173-80ab-6797faa0ab98
+status: valid

@@ -1,0 +1,12 @@
+data:
+  code: 33.180.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Fibre optic systems in general
+  descriptionFull: Telecommunications. Audio and video engineering. Fibre optic communications.
+    Fibre optic systems in general.
+  fieldcode: '33'
+  groupcode: '180'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: e623c1cc-1bd9-5d63-b08c-7ecb601e9d53
+status: valid

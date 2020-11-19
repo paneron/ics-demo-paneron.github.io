@@ -1,0 +1,13 @@
+data:
+  code: '13.060'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Water quality
+  descriptionFull: Environment. Health protection. Safety. Water quality.
+  fieldcode: '13'
+  groupcode: '060'
+  notes:
+  - text: Including toxicity, biodegradability, protection against pollution, related
+      installations and equipment
+dateAccepted: 2018-11-17
+id: 25d15d8c-b46b-553a-959a-39e89a0b6001
+status: valid

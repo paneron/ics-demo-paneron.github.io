@@ -1,0 +1,12 @@
+data:
+  code: 01.040.35
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Information technology (Vocabularies)
+  descriptionFull: Generalities. Terminology. Standardization. Documentation. Vocabularies.
+    Information technology (Vocabularies).
+  fieldcode: '01'
+  groupcode: '040'
+  subgroupcode: '35'
+dateAccepted: 2018-11-17
+id: 21db57dd-dbed-5a5a-8cbc-2528ce577f1b
+status: valid

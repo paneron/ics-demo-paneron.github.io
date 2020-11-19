@@ -1,0 +1,11 @@
+data:
+  code: 79.060.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Wood-based panels in general
+  descriptionFull: Wood technology. Wood-based panels. Wood-based panels in general.
+  fieldcode: '79'
+  groupcode: '060'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 7e723f51-f717-53e7-840f-d66335526cda
+status: valid

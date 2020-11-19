@@ -1,0 +1,12 @@
+data:
+  code: 73.060.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Aluminium ores
+  descriptionFull: Mining and minerals. Metalliferous minerals and their concentrates.
+    Aluminium ores.
+  fieldcode: '73'
+  groupcode: '060'
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: 702b6cd9-c360-5f95-9e2c-af4e172723eb
+status: valid

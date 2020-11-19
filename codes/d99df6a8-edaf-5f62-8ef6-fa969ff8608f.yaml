@@ -1,0 +1,13 @@
+data:
+  code: '21.160'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Springs
+  descriptionFull: Mechanical systems and components for general use. Springs.
+  fieldcode: '21'
+  groupcode: '160'
+  notes:
+  - ics-code: 77.140.25
+    text: Spring steels, see {ics-code}
+dateAccepted: 2018-11-17
+id: d99df6a8-edaf-5f62-8ef6-fa969ff8608f
+status: valid

@@ -1,0 +1,12 @@
+data:
+  code: 11.080.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other standards related to sterilization and disinfection
+  descriptionFull: Health care technology. Sterilization and disinfection. Other standards
+    related to sterilization and disinfection.
+  fieldcode: '11'
+  groupcode: 080
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: 44b5f624-7de5-52de-817c-9a7a012deabd
+status: valid

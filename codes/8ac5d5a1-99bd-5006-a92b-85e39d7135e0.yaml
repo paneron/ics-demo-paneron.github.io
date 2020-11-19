@@ -1,0 +1,11 @@
+data:
+  code: 85.080.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Paper products in general
+  descriptionFull: Paper technology. Paper products. Paper products in general.
+  fieldcode: '85'
+  groupcode: 080
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 8ac5d5a1-99bd-5006-a92b-85e39d7135e0
+status: valid

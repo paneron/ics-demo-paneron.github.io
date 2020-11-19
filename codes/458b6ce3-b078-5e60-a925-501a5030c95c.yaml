@@ -1,0 +1,16 @@
+data:
+  code: '33.170'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Television and radio broadcasting
+  descriptionFull: Telecommunications. Audio and video engineering. Television and
+    radio broadcasting.
+  fieldcode: '33'
+  groupcode: '170'
+  notes:
+  - ics-code: '33.160'
+    text: Audio, video and audiovisual engineering, see {ics-code}
+  - ics-code: 97.200.10
+    text: Theatre, stage and studio equipment, see {ics-code}
+dateAccepted: 2018-11-17
+id: 458b6ce3-b078-5e60-a925-501a5030c95c
+status: valid

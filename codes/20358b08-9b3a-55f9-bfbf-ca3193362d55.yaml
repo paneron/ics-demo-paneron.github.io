@@ -1,0 +1,16 @@
+data:
+  code: 13.220.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Fire-fighting
+  descriptionFull: Environment. Health protection. Safety. Protection against fire.
+    Fire-fighting.
+  fieldcode: '13'
+  groupcode: '220'
+  notes:
+  - text: Including equipment and vehicles
+  - ics-code: 13.340.10
+    text: Protective clothing, see {ics-code}
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 20358b08-9b3a-55f9-bfbf-ca3193362d55
+status: valid

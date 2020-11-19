@@ -1,0 +1,12 @@
+data:
+  code: 71.040.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Laboratory ware and related apparatus
+  descriptionFull: Chemical technology. Analytical chemistry. Laboratory ware and
+    related apparatus.
+  fieldcode: '71'
+  groupcode: '040'
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: e58034bd-a226-5732-8362-3c893cf4cfd2
+status: valid

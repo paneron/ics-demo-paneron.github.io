@@ -1,0 +1,12 @@
+data:
+  code: 91.010.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Legal aspects
+  descriptionFull: Construction materials and building. Construction industry. Legal
+    aspects.
+  fieldcode: '91'
+  groupcode: '010'
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 7ddc0502-595f-56a4-8d2c-06dd9bc26783
+status: valid

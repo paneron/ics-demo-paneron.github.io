@@ -1,0 +1,15 @@
+data:
+  code: 13.060.70
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Examination of biological properties of water
+  descriptionFull: Environment. Health protection. Safety. Water quality. Examination
+    of biological properties of water.
+  fieldcode: '13'
+  groupcode: '060'
+  notes:
+  - ics-code: 07.100.20
+    text: Microbiology of water, see {ics-code}
+  subgroupcode: '70'
+dateAccepted: 2018-11-17
+id: 9a0e52d8-6f2c-5e52-ae3b-ca1ea02e3c4a
+status: valid

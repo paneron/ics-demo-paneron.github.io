@@ -1,0 +1,12 @@
+data:
+  code: 29.060.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Electrical wires and cables in general
+  descriptionFull: Electrical engineering. Electrical wires and cables. Electrical
+    wires and cables in general.
+  fieldcode: '29'
+  groupcode: '060'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 54dd25b0-b49e-5150-8102-4d3b4ad4a905
+status: valid

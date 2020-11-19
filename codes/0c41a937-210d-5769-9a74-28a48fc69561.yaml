@@ -1,0 +1,13 @@
+data:
+  code: 59.120.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Knitting machines
+  descriptionFull: Textile and leather technology. Textile machinery. Knitting machines.
+  fieldcode: '59'
+  groupcode: '120'
+  notes:
+  - text: Including household knitting machines
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: 0c41a937-210d-5769-9a74-28a48fc69561
+status: valid

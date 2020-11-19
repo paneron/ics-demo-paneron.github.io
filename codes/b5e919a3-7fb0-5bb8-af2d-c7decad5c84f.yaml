@@ -1,0 +1,15 @@
+data:
+  code: 47.020.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Marine engines and propulsion systems
+  descriptionFull: Shipbuilding and marine structures. Shipbuilding and marine structures
+    in general. Marine engines and propulsion systems.
+  fieldcode: '47'
+  groupcode: '020'
+  notes:
+  - ics-code: '27.020'
+    text: Internal combustion engines, see {ics-code}
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: b5e919a3-7fb0-5bb8-af2d-c7decad5c84f
+status: valid

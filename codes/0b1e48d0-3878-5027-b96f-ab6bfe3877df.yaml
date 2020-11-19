@@ -1,0 +1,11 @@
+data:
+  code: 29.160.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Generating sets
+  descriptionFull: Electrical engineering. Rotating machinery. Generating sets.
+  fieldcode: '29'
+  groupcode: '160'
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: 0b1e48d0-3878-5027-b96f-ab6bfe3877df
+status: valid

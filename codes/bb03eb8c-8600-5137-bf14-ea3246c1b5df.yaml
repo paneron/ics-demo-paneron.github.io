@@ -1,0 +1,12 @@
+data:
+  code: 65.060.50
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Harvesting equipment
+  descriptionFull: Agriculture. Agricultural machines, implements and equipment. Harvesting
+    equipment.
+  fieldcode: '65'
+  groupcode: '060'
+  subgroupcode: '50'
+dateAccepted: 2018-11-17
+id: bb03eb8c-8600-5137-bf14-ea3246c1b5df
+status: valid

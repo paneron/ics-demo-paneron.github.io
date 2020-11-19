@@ -1,0 +1,12 @@
+data:
+  code: 43.040.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Electrical and electronic equipment
+  descriptionFull: Road vehicles engineering. Road vehicle systems. Electrical and
+    electronic equipment.
+  fieldcode: '43'
+  groupcode: '040'
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: fab40b00-e646-5df0-b2a4-1a1bc0befb57
+status: valid

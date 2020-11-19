@@ -1,0 +1,14 @@
+data:
+  code: 29.240.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other equipment related to power transmission and distribution networks
+  descriptionFull: Electrical engineering. Power transmission and distribution networks.
+    Other equipment related to power transmission and distribution networks.
+  fieldcode: '29'
+  groupcode: '240'
+  notes:
+  - text: Including capacitors for power networks
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: e3d181dc-5e76-5068-a5a5-5d910faef15e
+status: valid

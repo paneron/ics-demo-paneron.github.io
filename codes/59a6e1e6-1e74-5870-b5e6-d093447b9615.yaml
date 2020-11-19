@@ -1,0 +1,15 @@
+data:
+  code: '23.020'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Fluid storage devices
+  descriptionFull: Fluid systems and components for general use. Fluid storage devices.
+  fieldcode: '23'
+  groupcode: '020'
+  notes:
+  - ics-code: '55.140'
+    text: Barrels. Drums. Canisters, see {ics-code}
+  - ics-code: '75.200'
+    text: Petroleum products and natural gas handling equipment, see {ics-code}
+dateAccepted: 2018-11-17
+id: 59a6e1e6-1e74-5870-b5e6-d093447b9615
+status: valid

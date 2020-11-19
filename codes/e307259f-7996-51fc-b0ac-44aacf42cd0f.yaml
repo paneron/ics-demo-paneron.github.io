@@ -1,0 +1,11 @@
+data:
+  code: 91.080.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Masonry
+  descriptionFull: Construction materials and building. Structures of buildings. Masonry.
+  fieldcode: '91'
+  groupcode: 080
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: e307259f-7996-51fc-b0ac-44aacf42cd0f
+status: valid

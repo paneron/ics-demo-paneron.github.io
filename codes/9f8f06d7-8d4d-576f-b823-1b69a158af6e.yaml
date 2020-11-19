@@ -1,0 +1,13 @@
+data:
+  code: '65.120'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Animal feeding stuffs
+  descriptionFull: Agriculture. Animal feeding stuffs.
+  fieldcode: '65'
+  groupcode: '120'
+  notes:
+  - ics-code: 07.100.30
+    text: Food microbiology, see {ics-code}
+dateAccepted: 2018-11-17
+id: 9f8f06d7-8d4d-576f-b823-1b69a158af6e
+status: valid

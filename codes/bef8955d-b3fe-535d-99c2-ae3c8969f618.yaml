@@ -1,0 +1,12 @@
+data:
+  code: 29.100.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other components for electrical equipment
+  descriptionFull: Electrical engineering. Components for electrical equipment. Other
+    components for electrical equipment.
+  fieldcode: '29'
+  groupcode: '100'
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: bef8955d-b3fe-535d-99c2-ae3c8969f618
+status: valid

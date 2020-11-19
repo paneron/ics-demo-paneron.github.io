@@ -1,0 +1,12 @@
+data:
+  code: 97.040.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Kitchen equipment in general
+  descriptionFull: Domestic and commercial equipment. Entertainment. Sports. Kitchen
+    equipment. Kitchen equipment in general.
+  fieldcode: '97'
+  groupcode: '040'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: e42e9700-bec1-53e8-883b-b01581ea024c
+status: valid

@@ -1,0 +1,11 @@
+data:
+  code: 93.080.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Road engineering in general
+  descriptionFull: Civil engineering. Road engineering. Road engineering in general.
+  fieldcode: '93'
+  groupcode: 080
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 98a61c98-08df-53ef-82b1-6e33713a7251
+status: valid

@@ -1,0 +1,11 @@
+data:
+  code: 31.060.50
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Aluminium electrolytic capacitors
+  descriptionFull: Electronics. Capacitors. Aluminium electrolytic capacitors.
+  fieldcode: '31'
+  groupcode: '060'
+  subgroupcode: '50'
+dateAccepted: 2018-11-17
+id: 15b0b651-a014-51b3-94da-e5c6024099f0
+status: valid

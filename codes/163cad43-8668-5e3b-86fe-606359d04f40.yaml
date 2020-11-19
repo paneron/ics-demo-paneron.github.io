@@ -1,0 +1,11 @@
+data:
+  code: 29.060.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Cables
+  descriptionFull: Electrical engineering. Electrical wires and cables. Cables.
+  fieldcode: '29'
+  groupcode: '060'
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 163cad43-8668-5e3b-86fe-606359d04f40
+status: valid

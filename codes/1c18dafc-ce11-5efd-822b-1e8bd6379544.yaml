@@ -1,0 +1,8 @@
+data:
+  code: '25'
+  context: https://isoics.org/jsonld/field.jsonld
+  description: Manufacturing engineering
+  fieldcode: '25'
+dateAccepted: 2018-11-17
+id: 1c18dafc-ce11-5efd-822b-1e8bd6379544
+status: valid

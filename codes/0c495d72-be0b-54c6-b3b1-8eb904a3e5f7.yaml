@@ -1,0 +1,14 @@
+data:
+  code: 65.060.80
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Forestry equipment
+  descriptionFull: Agriculture. Agricultural machines, implements and equipment. Forestry
+    equipment.
+  fieldcode: '65'
+  groupcode: '060'
+  notes:
+  - text: Including chain- and brush-saws
+  subgroupcode: '80'
+dateAccepted: 2018-11-17
+id: 0c495d72-be0b-54c6-b3b1-8eb904a3e5f7
+status: valid

@@ -1,0 +1,11 @@
+data:
+  code: 87.060.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Solvents
+  descriptionFull: Paint and colour industries. Paint ingredients. Solvents.
+  fieldcode: '87'
+  groupcode: '060'
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: 1f3543da-2878-53eb-88ad-dd5118cb5ed1
+status: valid

@@ -1,0 +1,12 @@
+data:
+  code: 47.020.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Piping systems
+  descriptionFull: Shipbuilding and marine structures. Shipbuilding and marine structures
+    in general. Piping systems.
+  fieldcode: '47'
+  groupcode: '020'
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: 806138bb-5e89-53df-a081-7480151b0209
+status: valid

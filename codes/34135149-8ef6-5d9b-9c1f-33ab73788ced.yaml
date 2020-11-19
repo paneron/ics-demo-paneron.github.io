@@ -1,0 +1,12 @@
+data:
+  code: 25.120.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Rolling, extruding and drawing equipment
+  descriptionFull: Manufacturing engineering. Chipless working equipment. Rolling,
+    extruding and drawing equipment.
+  fieldcode: '25'
+  groupcode: '120'
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 34135149-8ef6-5d9b-9c1f-33ab73788ced
+status: valid

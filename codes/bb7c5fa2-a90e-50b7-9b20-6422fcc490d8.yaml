@@ -1,0 +1,11 @@
+data:
+  code: 71.080.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Halogenated hydrocarbons
+  descriptionFull: Chemical technology. Organic chemicals. Halogenated hydrocarbons.
+  fieldcode: '71'
+  groupcode: 080
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: bb7c5fa2-a90e-50b7-9b20-6422fcc490d8
+status: valid

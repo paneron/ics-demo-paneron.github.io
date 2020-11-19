@@ -1,0 +1,14 @@
+data:
+  code: 25.220.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Surface treatment
+  descriptionFull: Manufacturing engineering. Surface treatment and coating. Surface
+    treatment.
+  fieldcode: '25'
+  groupcode: '220'
+  notes:
+  - text: Including anodization, conversion coating, thermal spraying, etc.
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: ea5d35ac-6bb6-5008-bb12-2b083e0bf2ad
+status: valid

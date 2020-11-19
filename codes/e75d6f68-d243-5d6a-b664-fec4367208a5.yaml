@@ -1,0 +1,12 @@
+data:
+  code: 23.040.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other pipeline components
+  descriptionFull: Fluid systems and components for general use. Pipeline components
+    and pipelines. Other pipeline components.
+  fieldcode: '23'
+  groupcode: '040'
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: e75d6f68-d243-5d6a-b664-fec4367208a5
+status: valid

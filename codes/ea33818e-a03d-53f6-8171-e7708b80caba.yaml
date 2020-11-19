@@ -1,0 +1,12 @@
+data:
+  code: 65.060.60
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Viticultural and wine-making equipment
+  descriptionFull: Agriculture. Agricultural machines, implements and equipment. Viticultural
+    and wine-making equipment.
+  fieldcode: '65'
+  groupcode: '060'
+  subgroupcode: '60'
+dateAccepted: 2018-11-17
+id: ea33818e-a03d-53f6-8171-e7708b80caba
+status: valid

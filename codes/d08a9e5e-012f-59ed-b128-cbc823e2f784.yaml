@@ -1,0 +1,13 @@
+data:
+  code: '01.020'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Terminology (principles and coordination)
+  descriptionFull: Generalities. Terminology. Standardization. Documentation. Terminology
+    (principles and coordination).
+  fieldcode: '01'
+  groupcode: '020'
+  notes:
+  - text: Including terminography
+dateAccepted: 2018-11-17
+id: d08a9e5e-012f-59ed-b128-cbc823e2f784
+status: valid

@@ -1,0 +1,11 @@
+data:
+  code: 71.080.60
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Alcohols. Ethers
+  descriptionFull: Chemical technology. Organic chemicals. Alcohols. Ethers.
+  fieldcode: '71'
+  groupcode: 080
+  subgroupcode: '60'
+dateAccepted: 2018-11-17
+id: b0e8804e-98b6-561f-bf16-20019bd0e969
+status: valid

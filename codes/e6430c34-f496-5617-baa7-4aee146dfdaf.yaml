@@ -1,0 +1,11 @@
+data:
+  code: 77.150.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Copper products
+  descriptionFull: Metallurgy. Products of non-ferrous metals. Copper products.
+  fieldcode: '77'
+  groupcode: '150'
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: e6430c34-f496-5617-baa7-4aee146dfdaf
+status: valid

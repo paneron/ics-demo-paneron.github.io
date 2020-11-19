@@ -1,0 +1,10 @@
+data:
+  code: '75.040'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Crude petroleum
+  descriptionFull: Petroleum and related technologies. Crude petroleum.
+  fieldcode: '75'
+  groupcode: '040'
+dateAccepted: 2018-11-17
+id: 105ab577-3778-530b-a90b-939a21fe42dc
+status: valid

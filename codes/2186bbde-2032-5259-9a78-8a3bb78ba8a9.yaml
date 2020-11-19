@@ -1,0 +1,12 @@
+data:
+  code: 91.100.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Construction materials in general
+  descriptionFull: Construction materials and building. Construction materials. Construction
+    materials in general.
+  fieldcode: '91'
+  groupcode: '100'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 2186bbde-2032-5259-9a78-8a3bb78ba8a9
+status: valid

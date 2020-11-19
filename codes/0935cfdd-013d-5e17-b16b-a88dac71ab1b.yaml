@@ -1,0 +1,16 @@
+data:
+  code: 91.060.50
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Doors and windows
+  descriptionFull: Construction materials and building. Elements of buildings. Doors
+    and windows.
+  fieldcode: '91'
+  groupcode: '060'
+  notes:
+  - text: Including doorsets, their components, blinds, shutters
+  - ics-code: '91.190'
+    text: Building accessories, see {ics-code}
+  subgroupcode: '50'
+dateAccepted: 2018-11-17
+id: 0935cfdd-013d-5e17-b16b-a88dac71ab1b
+status: valid

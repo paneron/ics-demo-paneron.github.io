@@ -1,0 +1,12 @@
+data:
+  code: 47.020.05
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Materials and components for shipbuilding
+  descriptionFull: Shipbuilding and marine structures. Shipbuilding and marine structures
+    in general. Materials and components for shipbuilding.
+  fieldcode: '47'
+  groupcode: '020'
+  subgroupcode: '05'
+dateAccepted: 2018-11-17
+id: 241743d0-8874-511f-bd99-648d139817e7
+status: valid

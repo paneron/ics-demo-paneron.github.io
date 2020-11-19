@@ -1,0 +1,12 @@
+data:
+  code: 25.040.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Industrial process measurement and control
+  descriptionFull: Manufacturing engineering. Industrial automation systems. Industrial
+    process measurement and control.
+  fieldcode: '25'
+  groupcode: '040'
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: f5c2ed32-6f28-5350-85f8-b124ca4630f1
+status: valid

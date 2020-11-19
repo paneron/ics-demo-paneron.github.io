@@ -1,0 +1,15 @@
+data:
+  code: '49.035'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Components for aerospace construction
+  descriptionFull: Aircraft and space vehicle engineering. Components for aerospace
+    construction.
+  fieldcode: '49'
+  groupcode: '035'
+  notes:
+  - text: Including bearings, rod ends and other mechanical components
+  - ics-code: 83.160.20
+    text: Aircraft tyres, see {ics-code}
+dateAccepted: 2018-11-17
+id: 710a1cde-0061-5a11-99cb-1d22d223597f
+status: valid

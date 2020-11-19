@@ -1,0 +1,14 @@
+data:
+  code: 97.200.50
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Toys
+  descriptionFull: Domestic and commercial equipment. Entertainment. Sports. Equipment
+    for entertainment. Toys.
+  fieldcode: '97'
+  groupcode: '200'
+  notes:
+  - text: Including safety of toys
+  subgroupcode: '50'
+dateAccepted: 2018-11-17
+id: 099186ec-6011-5dd7-ab5f-533c9c1206cd
+status: valid

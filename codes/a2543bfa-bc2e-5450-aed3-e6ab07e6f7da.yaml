@@ -1,0 +1,11 @@
+data:
+  code: 29.035.50
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Mica based materials
+  descriptionFull: Electrical engineering. Insulating materials. Mica based materials.
+  fieldcode: '29'
+  groupcode: '035'
+  subgroupcode: '50'
+dateAccepted: 2018-11-17
+id: a2543bfa-bc2e-5450-aed3-e6ab07e6f7da
+status: valid

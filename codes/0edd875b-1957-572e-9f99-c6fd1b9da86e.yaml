@@ -1,0 +1,10 @@
+data:
+  code: '35.100'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Open systems interconnection (OSI)
+  descriptionFull: Information technology. Open systems interconnection (OSI).
+  fieldcode: '35'
+  groupcode: '100'
+dateAccepted: 2018-11-17
+id: 0edd875b-1957-572e-9f99-c6fd1b9da86e
+status: valid

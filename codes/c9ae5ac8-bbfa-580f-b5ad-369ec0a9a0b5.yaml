@@ -1,0 +1,11 @@
+data:
+  code: 31.080.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Thyristors
+  descriptionFull: Electronics. Semiconductor devices. Thyristors.
+  fieldcode: '31'
+  groupcode: 080
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: c9ae5ac8-bbfa-580f-b5ad-369ec0a9a0b5
+status: valid

@@ -1,0 +1,17 @@
+data:
+  code: '17.140'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Acoustics and acoustic measurements
+  descriptionFull: Metrology and measurement. Physical phenomena. Acoustics and acoustic
+    measurements.
+  fieldcode: '17'
+  groupcode: '140'
+  notes:
+  - text: Including measuring instruments and testing equipment
+  - ics-code: '13.140'
+    text: Noise with respect to human beings, see {ics-code}
+  - ics-code: 91.120.20
+    text: Acoustics in building. Sound insulation, see {ics-code}
+dateAccepted: 2018-11-17
+id: 67bf8095-71ca-50c4-85bd-f207adf8c506
+status: valid

@@ -1,0 +1,14 @@
+data:
+  code: 97.200.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Theatre, stage and studio equipment
+  descriptionFull: Domestic and commercial equipment. Entertainment. Sports. Equipment
+    for entertainment. Theatre, stage and studio equipment.
+  fieldcode: '97'
+  groupcode: '200'
+  notes:
+  - text: Including lighting equipment
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 6910f01d-d9b3-5f51-a45c-a0ca6ab875c9
+status: valid

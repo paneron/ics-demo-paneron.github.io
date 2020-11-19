@@ -1,0 +1,11 @@
+data:
+  code: 25.080.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Broaching machines
+  descriptionFull: Manufacturing engineering. Machine tools. Broaching machines.
+  fieldcode: '25'
+  groupcode: 080
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: 1876bbab-7ce0-5ff9-a24b-d09a8fc06b24
+status: valid

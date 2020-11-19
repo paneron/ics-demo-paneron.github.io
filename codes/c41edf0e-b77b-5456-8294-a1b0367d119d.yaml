@@ -1,0 +1,11 @@
+data:
+  code: 25.100.50
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Taps and threading dies
+  descriptionFull: Manufacturing engineering. Cutting tools. Taps and threading dies.
+  fieldcode: '25'
+  groupcode: '100'
+  subgroupcode: '50'
+dateAccepted: 2018-11-17
+id: c41edf0e-b77b-5456-8294-a1b0367d119d
+status: valid

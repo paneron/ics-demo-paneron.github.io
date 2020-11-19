@@ -1,0 +1,13 @@
+data:
+  code: '29.100'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Components for electrical equipment
+  descriptionFull: Electrical engineering. Components for electrical equipment.
+  fieldcode: '29'
+  groupcode: '100'
+  notes:
+  - ics-code: '31'
+    text: Electronics, see {ics-code}
+dateAccepted: 2018-11-17
+id: d97d7c5a-f63c-5d45-b5b9-fc8a79c274e6
+status: valid

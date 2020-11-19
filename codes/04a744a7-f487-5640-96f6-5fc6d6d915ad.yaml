@@ -1,0 +1,15 @@
+data:
+  code: 33.050.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Equipment for telex, teletext, telefax
+  descriptionFull: Telecommunications. Audio and video engineering. Telecommunication
+    terminal equipment. Equipment for telex, teletext, telefax.
+  fieldcode: '33'
+  groupcode: '050'
+  notes:
+  - ics-code: '35.180'
+    text: IT terminal and other peripheral equipment, see {ics-code}
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: 04a744a7-f487-5640-96f6-5fc6d6d915ad
+status: valid

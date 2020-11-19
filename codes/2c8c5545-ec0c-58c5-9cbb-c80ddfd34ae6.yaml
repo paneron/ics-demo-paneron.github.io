@@ -1,0 +1,18 @@
+data:
+  code: 71.100.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Gases for industrial application
+  descriptionFull: Chemical technology. Products of the chemical industry. Gases for
+    industrial application.
+  fieldcode: '71'
+  groupcode: '100'
+  notes:
+  - text: Including compressed air and hydrogen
+  - ics-code: '27.075'
+    text: Hydrogen technologies, see {ics-code}
+  - ics-code: 75.160.30
+    text: Gaseous fuels, see {ics-code}
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 2c8c5545-ec0c-58c5-9cbb-c80ddfd34ae6
+status: valid

@@ -1,0 +1,12 @@
+data:
+  code: 21.060.50
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Pins, nails
+  descriptionFull: Mechanical systems and components for general use. Fasteners. Pins,
+    nails.
+  fieldcode: '21'
+  groupcode: '060'
+  subgroupcode: '50'
+dateAccepted: 2018-11-17
+id: 631bf937-9867-532c-b397-b1d04bf26b01
+status: valid

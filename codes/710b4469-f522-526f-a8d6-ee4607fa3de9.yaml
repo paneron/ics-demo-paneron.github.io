@@ -1,0 +1,12 @@
+data:
+  code: 29.130.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Switchgear and controlgear in general
+  descriptionFull: Electrical engineering. Switchgear and controlgear. Switchgear
+    and controlgear in general.
+  fieldcode: '29'
+  groupcode: '130'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 710b4469-f522-526f-a8d6-ee4607fa3de9
+status: valid

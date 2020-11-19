@@ -1,0 +1,10 @@
+data:
+  code: '75.060'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Natural gas
+  descriptionFull: Petroleum and related technologies. Natural gas.
+  fieldcode: '75'
+  groupcode: '060'
+dateAccepted: 2018-11-17
+id: 067b7740-fc64-539b-950e-3b5ea6d07172
+status: valid

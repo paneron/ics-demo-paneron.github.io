@@ -1,0 +1,14 @@
+data:
+  code: 47.020.85
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Cargo spaces
+  descriptionFull: Shipbuilding and marine structures. Shipbuilding and marine structures
+    in general. Cargo spaces.
+  fieldcode: '47'
+  groupcode: '020'
+  notes:
+  - text: Including tanks and tankers
+  subgroupcode: '85'
+dateAccepted: 2018-11-17
+id: f684a3d4-2fdb-540d-a767-d88daba33c70
+status: valid

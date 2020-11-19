@@ -1,0 +1,11 @@
+data:
+  code: 71.120.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Columns
+  descriptionFull: Chemical technology. Equipment for the chemical industry. Columns.
+  fieldcode: '71'
+  groupcode: '120'
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: fd43b583-b2e8-58d1-9dcd-994f090d647c
+status: valid

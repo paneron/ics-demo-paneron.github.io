@@ -1,0 +1,13 @@
+data:
+  code: '25.080'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Machine tools
+  descriptionFull: Manufacturing engineering. Machine tools.
+  fieldcode: '25'
+  groupcode: 080
+  notes:
+  - ics-code: 79.120.10
+    text: Woodworking machines, see {ics-code}
+dateAccepted: 2018-11-17
+id: 2fd83660-46ec-59e2-a8b5-39548f9c1753
+status: valid

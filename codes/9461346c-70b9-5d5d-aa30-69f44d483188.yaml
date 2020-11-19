@@ -1,0 +1,10 @@
+data:
+  code: '83.100'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Cellular materials
+  descriptionFull: Rubber and plastic industries. Cellular materials.
+  fieldcode: '83'
+  groupcode: '100'
+dateAccepted: 2018-11-17
+id: 9461346c-70b9-5d5d-aa30-69f44d483188
+status: valid

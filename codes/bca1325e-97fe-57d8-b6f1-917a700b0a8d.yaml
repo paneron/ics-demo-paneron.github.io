@@ -1,0 +1,14 @@
+data:
+  code: '53.060'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Industrial trucks
+  descriptionFull: Materials handling equipment. Industrial trucks.
+  fieldcode: '53'
+  groupcode: '060'
+  notes:
+  - text: Including fork-lift trucks, sliding platforms, etc.
+  - ics-code: 43.080.10
+    text: Trucks and trailers, see {ics-code}
+dateAccepted: 2018-11-17
+id: bca1325e-97fe-57d8-b6f1-917a700b0a8d
+status: valid

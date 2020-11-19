@@ -1,0 +1,16 @@
+data:
+  code: '13.100'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Occupational safety. Industrial hygiene
+  descriptionFull: Environment. Health protection. Safety. Occupational safety. Industrial
+    hygiene.
+  fieldcode: '13'
+  groupcode: '100'
+  notes:
+  - ics-code: '13.340'
+    text: Protective equipment, see {ics-code}
+  - ics-code: 91.160.10
+    text: Interior lighting, see {ics-code}
+dateAccepted: 2018-11-17
+id: 7837f27a-c96a-5505-b322-af19e5beb829
+status: valid

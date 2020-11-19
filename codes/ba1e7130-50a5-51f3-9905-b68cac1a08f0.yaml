@@ -1,0 +1,17 @@
+data:
+  code: '97.100'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Domestic, commercial and industrial heating appliances
+  descriptionFull: Domestic and commercial equipment. Entertainment. Sports. Domestic,
+    commercial and industrial heating appliances.
+  fieldcode: '97'
+  groupcode: '100'
+  notes:
+  - text: Including thermal storage room heating appliances
+  - ics-code: '27.060'
+    text: Burners. Boilers, see {ics-code}
+  - ics-code: 91.140.10
+    text: Central heating systems, see {ics-code}
+dateAccepted: 2018-11-17
+id: ba1e7130-50a5-51f3-9905-b68cac1a08f0
+status: valid

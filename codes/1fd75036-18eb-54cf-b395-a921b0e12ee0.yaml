@@ -1,0 +1,17 @@
+data:
+  code: 43.040.50
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Transmissions, suspensions
+  descriptionFull: Road vehicles engineering. Road vehicle systems. Transmissions,
+    suspensions.
+  fieldcode: '43'
+  groupcode: '040'
+  notes:
+  - text: Including clutches, gearboxes, power-steering systems, cardan shafts, differentials,
+      wheels, rims, etc.
+  - ics-code: 83.160.10
+    text: Road vehicle tyres, see {ics-code}
+  subgroupcode: '50'
+dateAccepted: 2018-11-17
+id: 1fd75036-18eb-54cf-b395-a921b0e12ee0
+status: valid

@@ -1,0 +1,16 @@
+data:
+  code: '75.140'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Waxes, bituminous materials and other petroleum products
+  descriptionFull: Petroleum and related technologies. Waxes, bituminous materials
+    and other petroleum products.
+  fieldcode: '75'
+  groupcode: '140'
+  notes:
+  - ics-code: 91.100.50
+    text: Binders. Sealing materials, see {ics-code}
+  - ics-code: 93.080.20
+    text: Road construction materials, see {ics-code}
+dateAccepted: 2018-11-17
+id: 01427f1c-dbac-5bda-9d5d-78de98dd6094
+status: valid

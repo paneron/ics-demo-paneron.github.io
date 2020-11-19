@@ -1,0 +1,13 @@
+data:
+  code: '93.140'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Construction of waterways, ports and dykes
+  descriptionFull: Civil engineering. Construction of waterways, ports and dykes.
+  fieldcode: '93'
+  groupcode: '140'
+  notes:
+  - text: Including river embankments, water transport control equipment and installations,
+      etc.
+dateAccepted: 2018-11-17
+id: d83f553c-73fb-5a01-bb01-aefc1061d40f
+status: valid

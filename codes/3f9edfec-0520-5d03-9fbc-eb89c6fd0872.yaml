@@ -1,0 +1,11 @@
+data:
+  code: 77.120.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Nickel, chromium and their alloys
+  descriptionFull: Metallurgy. Non-ferrous metals. Nickel, chromium and their alloys.
+  fieldcode: '77'
+  groupcode: '120'
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: 3f9edfec-0520-5d03-9fbc-eb89c6fd0872
+status: valid

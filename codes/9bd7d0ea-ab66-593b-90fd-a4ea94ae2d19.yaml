@@ -1,0 +1,14 @@
+data:
+  code: 11.040.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Anaesthetic, respiratory and reanimation equipment
+  descriptionFull: Health care technology. Medical equipment. Anaesthetic, respiratory
+    and reanimation equipment.
+  fieldcode: '11'
+  groupcode: '040'
+  notes:
+  - text: Including medical gas installations
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 9bd7d0ea-ab66-593b-90fd-a4ea94ae2d19
+status: valid

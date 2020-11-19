@@ -1,0 +1,12 @@
+data:
+  code: 65.060.25
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Equipment for storage, preparation and distribution of fertilizers
+  descriptionFull: Agriculture. Agricultural machines, implements and equipment. Equipment
+    for storage, preparation and distribution of fertilizers.
+  fieldcode: '65'
+  groupcode: '060'
+  subgroupcode: '25'
+dateAccepted: 2018-11-17
+id: 2a0514d4-f591-5ecc-88f4-84a1ee902f22
+status: valid

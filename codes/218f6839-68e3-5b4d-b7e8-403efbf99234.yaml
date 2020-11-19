@@ -1,0 +1,12 @@
+data:
+  code: 17.120.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Measurement of fluid flow in general
+  descriptionFull: Metrology and measurement. Physical phenomena. Measurement of fluid
+    flow. Measurement of fluid flow in general.
+  fieldcode: '17'
+  groupcode: '120'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 218f6839-68e3-5b4d-b7e8-403efbf99234
+status: valid

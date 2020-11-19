@@ -1,0 +1,12 @@
+data:
+  code: 35.040.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Coding of graphical and photographical information
+  descriptionFull: Information technology. Information coding. Coding of graphical
+    and photographical information.
+  fieldcode: '35'
+  groupcode: '040'
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: 9a5d9091-856f-5913-b189-4377ec528d7d
+status: valid

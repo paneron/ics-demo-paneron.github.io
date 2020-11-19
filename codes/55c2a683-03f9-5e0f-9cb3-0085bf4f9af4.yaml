@@ -1,0 +1,16 @@
+data:
+  code: '03.040'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Labour. Employment
+  descriptionFull: Services. Company organization, management and quality. Administration.
+    Transport. Sociology. Labour. Employment.
+  fieldcode: '03'
+  groupcode: '040'
+  notes:
+  - ics-code: '13.180'
+    text: Ergonomics, see {ics-code}
+  - ics-code: 13.040.30
+    text: Workplace atmospheres, see {ics-code}
+dateAccepted: 2018-11-17
+id: 55c2a683-03f9-5e0f-9cb3-0085bf4f9af4
+status: valid

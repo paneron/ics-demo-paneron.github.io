@@ -1,0 +1,13 @@
+data:
+  code: '11.140'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Hospital equipment
+  descriptionFull: Health care technology. Hospital equipment.
+  fieldcode: '11'
+  groupcode: '140'
+  notes:
+  - text: Including hospital beds, surgical tables, medical garments, medical gloves,
+      containers for sharp disposal, etc.
+dateAccepted: 2018-11-17
+id: 16941ef7-4dfc-5f41-ba13-ae04555d568d
+status: valid

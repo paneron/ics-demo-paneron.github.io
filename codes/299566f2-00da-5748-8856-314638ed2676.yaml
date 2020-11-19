@@ -1,0 +1,12 @@
+data:
+  code: 91.080.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Timber structures
+  descriptionFull: Construction materials and building. Structures of buildings. Timber
+    structures.
+  fieldcode: '91'
+  groupcode: 080
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 299566f2-00da-5748-8856-314638ed2676
+status: valid

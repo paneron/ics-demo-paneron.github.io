@@ -1,0 +1,13 @@
+data:
+  code: 67.220.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Food additives
+  descriptionFull: Food technology. Spices and condiments. Food additives. Food additives.
+  fieldcode: '67'
+  groupcode: '220'
+  notes:
+  - text: Including salt, vinegar, food preservation additives, etc.
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 4c4d4702-efc5-5188-934d-a8b4e2d000fc
+status: valid

@@ -1,0 +1,11 @@
+data:
+  code: 67.160.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Beverages in general
+  descriptionFull: Food technology. Beverages. Beverages in general.
+  fieldcode: '67'
+  groupcode: '160'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 1ab04a2b-af8b-541d-a15f-6aa07053204e
+status: valid

@@ -1,0 +1,13 @@
+data:
+  code: '33.020'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Telecommunications in general
+  descriptionFull: Telecommunications. Audio and video engineering. Telecommunications
+    in general.
+  fieldcode: '33'
+  groupcode: '020'
+  notes:
+  - text: Including infrastructure
+dateAccepted: 2018-11-17
+id: 0f666333-50aa-5484-ae00-a17c6c430228
+status: valid

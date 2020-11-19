@@ -1,0 +1,12 @@
+data:
+  code: 25.100.25
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Tools for planing and broaching machines
+  descriptionFull: Manufacturing engineering. Cutting tools. Tools for planing and
+    broaching machines.
+  fieldcode: '25'
+  groupcode: '100'
+  subgroupcode: '25'
+dateAccepted: 2018-11-17
+id: 2ebaefec-7a63-5100-a747-5613fea7ad14
+status: valid

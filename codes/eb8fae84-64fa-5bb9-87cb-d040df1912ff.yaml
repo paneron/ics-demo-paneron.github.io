@@ -1,0 +1,14 @@
+data:
+  code: '79.020'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Wood technology processes
+  descriptionFull: Wood technology. Wood technology processes.
+  fieldcode: '79'
+  groupcode: '020'
+  notes:
+  - text: Including logging and wood treatment
+  - ics-code: 71.100.50
+    text: Wood-protecting chemicals, see {ics-code}
+dateAccepted: 2018-11-17
+id: eb8fae84-64fa-5bb9-87cb-d040df1912ff
+status: valid

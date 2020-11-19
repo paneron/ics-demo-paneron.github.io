@@ -1,0 +1,14 @@
+data:
+  code: 91.100.25
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Terracotta building products
+  descriptionFull: Construction materials and building. Construction materials. Terracotta
+    building products.
+  fieldcode: '91'
+  groupcode: '100'
+  notes:
+  - text: Including roofing tiles, bricks, etc.
+  subgroupcode: '25'
+dateAccepted: 2018-11-17
+id: 69ab48aa-95cd-5e36-9ca4-0215387a9809
+status: valid

@@ -1,0 +1,15 @@
+data:
+  code: 29.240.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Control equipment for electric power systems
+  descriptionFull: Electrical engineering. Power transmission and distribution networks.
+    Control equipment for electric power systems.
+  fieldcode: '29'
+  groupcode: '240'
+  notes:
+  - ics-code: 17.220.20
+    text: Measurement of electrical and magnetic quantities, see {ics-code}
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: 31309738-004d-5b72-9b72-244a4092b36b
+status: valid

@@ -1,0 +1,11 @@
+data:
+  code: 13.030.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Wastes in general
+  descriptionFull: Environment. Health protection. Safety. Wastes. Wastes in general.
+  fieldcode: '13'
+  groupcode: '030'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 33f0c646-f6e1-5cf2-be88-a9041eebdded
+status: valid

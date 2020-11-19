@@ -1,0 +1,12 @@
+data:
+  code: 43.040.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Indicating and control devices
+  descriptionFull: Road vehicles engineering. Road vehicle systems. Indicating and
+    control devices.
+  fieldcode: '43'
+  groupcode: '040'
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: bdf0b4e7-6310-56e7-b290-30e8037d1c75
+status: valid

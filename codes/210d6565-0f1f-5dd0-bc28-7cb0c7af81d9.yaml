@@ -1,0 +1,8 @@
+data:
+  code: '53'
+  context: https://isoics.org/jsonld/field.jsonld
+  description: Materials handling equipment
+  fieldcode: '53'
+dateAccepted: 2018-11-17
+id: 210d6565-0f1f-5dd0-bc28-7cb0c7af81d9
+status: valid

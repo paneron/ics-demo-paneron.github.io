@@ -1,0 +1,14 @@
+data:
+  code: 91.100.15
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Mineral materials and products
+  descriptionFull: Construction materials and building. Construction materials. Mineral
+    materials and products.
+  fieldcode: '91'
+  groupcode: '100'
+  notes:
+  - text: Including earth, sands, clay, slates, stones, etc.
+  subgroupcode: '15'
+dateAccepted: 2018-11-17
+id: f093f9d5-0e96-5e84-aadc-3a245684aba9
+status: valid

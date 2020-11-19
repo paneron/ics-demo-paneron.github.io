@@ -1,0 +1,15 @@
+data:
+  code: '03.060'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Finances. Banking. Monetary systems. Insurance
+  descriptionFull: Services. Company organization, management and quality. Administration.
+    Transport. Sociology. Finances. Banking. Monetary systems. Insurance.
+  fieldcode: '03'
+  groupcode: '060'
+  notes:
+  - text: Including personal financial planning
+  - ics-code: 35.240.40
+    text: IT applications in banking, see {ics-code}
+dateAccepted: 2018-11-17
+id: 2907f55d-60b6-5bf4-89cc-5c17ad4cfc18
+status: valid

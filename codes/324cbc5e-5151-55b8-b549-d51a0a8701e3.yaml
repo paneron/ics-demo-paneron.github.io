@@ -1,0 +1,12 @@
+data:
+  code: 23.060.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Valves in general
+  descriptionFull: Fluid systems and components for general use. Valves. Valves in
+    general.
+  fieldcode: '23'
+  groupcode: '060'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 324cbc5e-5151-55b8-b549-d51a0a8701e3
+status: valid

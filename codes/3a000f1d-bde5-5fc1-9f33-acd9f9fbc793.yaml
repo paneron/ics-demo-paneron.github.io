@@ -1,0 +1,11 @@
+data:
+  code: 71.060.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Acids
+  descriptionFull: Chemical technology. Inorganic chemicals. Acids.
+  fieldcode: '71'
+  groupcode: '060'
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: 3a000f1d-bde5-5fc1-9f33-acd9f9fbc793
+status: valid

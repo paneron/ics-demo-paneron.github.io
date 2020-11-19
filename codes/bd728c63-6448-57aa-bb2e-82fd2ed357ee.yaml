@@ -1,0 +1,12 @@
+data:
+  code: 73.060.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Iron ores
+  descriptionFull: Mining and minerals. Metalliferous minerals and their concentrates.
+    Iron ores.
+  fieldcode: '73'
+  groupcode: '060'
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: bd728c63-6448-57aa-bb2e-82fd2ed357ee
+status: valid

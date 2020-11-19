@@ -1,0 +1,11 @@
+data:
+  code: 77.140.80
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Iron and steel castings
+  descriptionFull: Metallurgy. Iron and steel products. Iron and steel castings.
+  fieldcode: '77'
+  groupcode: '140'
+  subgroupcode: '80'
+dateAccepted: 2018-11-17
+id: e8364781-1943-507a-ac10-9870366c6fbd
+status: valid

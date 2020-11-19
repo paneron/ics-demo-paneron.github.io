@@ -1,0 +1,13 @@
+data:
+  code: '77.140'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Iron and steel products
+  descriptionFull: Metallurgy. Iron and steel products.
+  fieldcode: '77'
+  groupcode: '140'
+  notes:
+  - ics-code: 49.025.10
+    text: Steels, see {ics-code}
+dateAccepted: 2018-11-17
+id: 561cf38f-33b3-586c-9a4a-51cc3a42f6eb
+status: valid

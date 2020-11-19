@@ -1,0 +1,11 @@
+data:
+  code: '03.100'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Company organization and management. Management systems
+  descriptionFull: Services. Company organization, management and quality. Administration.
+    Transport. Sociology. Company organization and management. Management systems.
+  fieldcode: '03'
+  groupcode: '100'
+dateAccepted: 2018-11-17
+id: 1b493c3d-8bb2-5d77-9c75-18a9ee946dda
+status: valid

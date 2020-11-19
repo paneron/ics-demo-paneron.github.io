@@ -1,0 +1,14 @@
+data:
+  code: 53.040.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Components for conveyors
+  descriptionFull: Materials handling equipment. Continuous handling equipment. Components
+    for conveyors.
+  fieldcode: '53'
+  groupcode: '040'
+  notes:
+  - text: Including conveyor belts, chains, chain wheels, etc.
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 28652f39-a90c-5739-ab56-dbc7e418a8d4
+status: valid

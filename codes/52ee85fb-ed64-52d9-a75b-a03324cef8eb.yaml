@@ -1,0 +1,11 @@
+data:
+  code: '33.160'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Audio, video and audiovisual engineering
+  descriptionFull: Telecommunications. Audio and video engineering. Audio, video and
+    audiovisual engineering.
+  fieldcode: '33'
+  groupcode: '160'
+dateAccepted: 2018-11-17
+id: 52ee85fb-ed64-52d9-a75b-a03324cef8eb
+status: valid

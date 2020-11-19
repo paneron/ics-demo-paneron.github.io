@@ -1,0 +1,12 @@
+data:
+  code: 37.040.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Photographic paper, films and plates. Cartridges
+  descriptionFull: Image technology. Photography. Photographic paper, films and plates.
+    Cartridges.
+  fieldcode: '37'
+  groupcode: '040'
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 4a0781b9-73fe-51b3-a370-de529394c906
+status: valid

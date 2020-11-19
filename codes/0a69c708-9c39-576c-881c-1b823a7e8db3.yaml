@@ -1,0 +1,12 @@
+data:
+  code: 33.060.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Radiocommunications in general
+  descriptionFull: Telecommunications. Audio and video engineering. Radiocommunications.
+    Radiocommunications in general.
+  fieldcode: '33'
+  groupcode: '060'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 0a69c708-9c39-576c-881c-1b823a7e8db3
+status: valid

@@ -1,0 +1,8 @@
+data:
+  code: '01'
+  context: https://isoics.org/jsonld/field.jsonld
+  description: Generalities. Terminology. Standardization. Documentation
+  fieldcode: '01'
+dateAccepted: 2018-11-17
+id: 74639508-f211-52d6-8c48-9e2da27ea311
+status: valid

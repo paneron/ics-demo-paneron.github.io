@@ -1,0 +1,11 @@
+data:
+  code: 77.120.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Magnesium and magnesium alloys
+  descriptionFull: Metallurgy. Non-ferrous metals. Magnesium and magnesium alloys.
+  fieldcode: '77'
+  groupcode: '120'
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: ee07b2d8-2941-54ec-9ec9-553d8ed9ae50
+status: valid

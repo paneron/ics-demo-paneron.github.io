@@ -1,0 +1,11 @@
+data:
+  code: 77.080.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Irons
+  descriptionFull: Metallurgy. Ferrous metals. Irons.
+  fieldcode: '77'
+  groupcode: 080
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: f3c9dd64-0fca-5dfc-9066-67a62a97901d
+status: valid

@@ -1,0 +1,11 @@
+data:
+  code: '75.020'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Extraction and processing of petroleum and natural gas
+  descriptionFull: Petroleum and related technologies. Extraction and processing of
+    petroleum and natural gas.
+  fieldcode: '75'
+  groupcode: '020'
+dateAccepted: 2018-11-17
+id: ad9fa340-55e1-5ed5-98f1-141c04135fec
+status: valid

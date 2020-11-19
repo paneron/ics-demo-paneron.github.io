@@ -1,0 +1,13 @@
+data:
+  code: 71.060.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Oxides
+  descriptionFull: Chemical technology. Inorganic chemicals. Oxides.
+  fieldcode: '71'
+  groupcode: '060'
+  notes:
+  - text: Including dioxides, peroxides, etc.
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 6b5bbd4c-52e0-513d-beca-71226a2f2cac
+status: valid

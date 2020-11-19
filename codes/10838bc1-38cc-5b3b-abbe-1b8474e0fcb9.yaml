@@ -1,0 +1,12 @@
+data:
+  code: 29.120.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Plugs, socket-outlets, couplers
+  descriptionFull: Electrical engineering. Electrical accessories. Plugs, socket-outlets,
+    couplers.
+  fieldcode: '29'
+  groupcode: '120'
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: 10838bc1-38cc-5b3b-abbe-1b8474e0fcb9
+status: valid

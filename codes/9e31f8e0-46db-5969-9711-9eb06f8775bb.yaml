@@ -1,0 +1,18 @@
+data:
+  code: '23.120'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Ventilators. Fans. Air-conditioners
+  descriptionFull: Fluid systems and components for general use. Ventilators. Fans.
+    Air-conditioners.
+  fieldcode: '23'
+  groupcode: '120'
+  notes:
+  - ics-code: 47.020.90
+    text: Marine ventilation, air conditioning and heating systems, see {ics-code}
+  - ics-code: 73.100.20
+    text: Ventilation, air-conditioning and illumination equipment, see {ics-code}
+  - ics-code: 91.140.30
+    text: Ventilation and air-conditioning systems, see {ics-code}
+dateAccepted: 2018-11-17
+id: 9e31f8e0-46db-5969-9711-9eb06f8775bb
+status: valid

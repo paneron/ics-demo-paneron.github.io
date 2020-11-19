@@ -1,0 +1,13 @@
+data:
+  code: 75.160.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Biofuels
+  descriptionFull: Petroleum and related technologies. Fuels. Biofuels.
+  fieldcode: '75'
+  groupcode: '160'
+  notes:
+  - text: Including solid biofuels, liquid biofuels and biogas
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: 95c81fe7-e681-5b4e-bff4-934b7d0fbfb5
+status: valid

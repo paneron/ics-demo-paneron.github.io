@@ -1,0 +1,12 @@
+data:
+  code: 79.120.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Woodworking equipment in general
+  descriptionFull: Wood technology. Woodworking equipment. Woodworking equipment in
+    general.
+  fieldcode: '79'
+  groupcode: '120'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 12dbf664-cef3-54c8-8a1b-2e4d546a08a1
+status: valid

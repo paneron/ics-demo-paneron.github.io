@@ -1,0 +1,15 @@
+data:
+  code: 31.060.70
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Power capacitors
+  descriptionFull: Electronics. Capacitors. Power capacitors.
+  fieldcode: '31'
+  groupcode: '060'
+  notes:
+  - ics-code: 29.240.99
+    text: Other equipment related to power transmission and distribution networks,
+      see {ics-code}
+  subgroupcode: '70'
+dateAccepted: 2018-11-17
+id: 17de8bff-c57a-5df6-8c52-58fe80a3a140
+status: valid

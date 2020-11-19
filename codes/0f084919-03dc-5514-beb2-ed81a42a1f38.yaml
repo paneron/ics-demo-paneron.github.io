@@ -1,0 +1,12 @@
+data:
+  code: 87.060.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Paint ingredients in general
+  descriptionFull: Paint and colour industries. Paint ingredients. Paint ingredients
+    in general.
+  fieldcode: '87'
+  groupcode: '060'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 0f084919-03dc-5514-beb2-ed81a42a1f38
+status: valid

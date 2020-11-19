@@ -1,0 +1,14 @@
+data:
+  code: 29.130.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: High voltage switchgear and controlgear
+  descriptionFull: Electrical engineering. Switchgear and controlgear. High voltage
+    switchgear and controlgear.
+  fieldcode: '29'
+  groupcode: '130'
+  notes:
+  - text: Including enclosed switchgear and controlgear
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 0554a1fb-493e-5100-b47d-927a47bd48d9
+status: valid

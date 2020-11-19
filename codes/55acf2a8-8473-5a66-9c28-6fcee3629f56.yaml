@@ -1,0 +1,15 @@
+data:
+  code: 43.040.80
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Crash protection and restraint systems
+  descriptionFull: Road vehicles engineering. Road vehicle systems. Crash protection
+    and restraint systems.
+  fieldcode: '43'
+  groupcode: '040'
+  notes:
+  - text: Including airbags, safety belts, traffic accident issues and safety enhancement
+      matters
+  subgroupcode: '80'
+dateAccepted: 2018-11-17
+id: 55acf2a8-8473-5a66-9c28-6fcee3629f56
+status: valid

@@ -1,0 +1,10 @@
+data:
+  code: '79.040'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Wood, sawlogs and sawn timber
+  descriptionFull: Wood technology. Wood, sawlogs and sawn timber.
+  fieldcode: '79'
+  groupcode: '040'
+dateAccepted: 2018-11-17
+id: c5a36934-f011-50b8-911d-551390ddf310
+status: valid

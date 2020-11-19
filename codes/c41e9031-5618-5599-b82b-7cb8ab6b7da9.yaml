@@ -1,0 +1,12 @@
+data:
+  code: 11.180.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Aids for incontinence and ostomy
+  descriptionFull: Health care technology. Aids for disabled or handicapped persons.
+    Aids for incontinence and ostomy.
+  fieldcode: '11'
+  groupcode: '180'
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: c41e9031-5618-5599-b82b-7cb8ab6b7da9
+status: valid

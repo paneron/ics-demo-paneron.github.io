@@ -1,0 +1,14 @@
+data:
+  code: '01.070'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Colour coding
+  descriptionFull: Generalities. Terminology. Standardization. Documentation. Colour
+    coding.
+  fieldcode: '01'
+  groupcode: '070'
+  notes:
+  - ics-code: 01.080.10
+    text: Public information symbols. Signs. Plates. Labels, see {ics-code}
+dateAccepted: 2018-11-17
+id: 925fc25d-5d31-5482-968e-ca8bb124f268
+status: valid

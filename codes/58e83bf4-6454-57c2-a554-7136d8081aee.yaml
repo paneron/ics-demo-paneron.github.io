@@ -1,0 +1,13 @@
+data:
+  code: '25.140'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Hand-held tools
+  descriptionFull: Manufacturing engineering. Hand-held tools.
+  fieldcode: '25'
+  groupcode: '140'
+  notes:
+  - ics-code: '13.260'
+    text: Protection against electric shock.  Live working, see {ics-code}
+dateAccepted: 2018-11-17
+id: 58e83bf4-6454-57c2-a554-7136d8081aee
+status: valid

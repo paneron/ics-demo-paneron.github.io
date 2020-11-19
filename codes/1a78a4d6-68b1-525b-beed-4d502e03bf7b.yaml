@@ -1,0 +1,13 @@
+data:
+  code: 43.040.70
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Couplings
+  descriptionFull: Road vehicles engineering. Road vehicle systems. Couplings.
+  fieldcode: '43'
+  groupcode: '040'
+  notes:
+  - text: Including towing attachments and fifth wheel assemblies
+  subgroupcode: '70'
+dateAccepted: 2018-11-17
+id: 1a78a4d6-68b1-525b-beed-4d502e03bf7b
+status: valid

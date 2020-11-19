@@ -1,0 +1,14 @@
+data:
+  code: 83.040.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Rubber compounding ingredients
+  descriptionFull: Rubber and plastic industries. Raw materials for rubber and plastics.
+    Rubber compounding ingredients.
+  fieldcode: '83'
+  groupcode: '040'
+  notes:
+  - text: Including carbon black, kaolin clay, etc.
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 9525f90a-4e64-5237-92d1-f027a963f5e6
+status: valid

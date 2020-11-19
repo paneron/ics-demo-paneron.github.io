@@ -1,0 +1,12 @@
+data:
+  code: '81.060'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Ceramics
+  descriptionFull: Glass and ceramics industries. Ceramics.
+  fieldcode: '81'
+  groupcode: '060'
+  notes:
+  - text: Including glass-ceramics
+dateAccepted: 2018-11-17
+id: 6b8176cb-2acc-5b64-8190-2f1d2a10d0c1
+status: valid

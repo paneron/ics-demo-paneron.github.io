@@ -1,0 +1,15 @@
+data:
+  code: 03.200.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Leisure and tourism in general
+  descriptionFull: Services. Company organization, management and quality. Administration.
+    Transport. Sociology. Leisure. Tourism. Leisure and tourism in general.
+  fieldcode: '03'
+  groupcode: '200'
+  notes:
+  - text: Including outdoor events management, tourist information offices, tourism
+      services, hotels, etc.
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: ed199dc2-c8ca-5715-8272-6885b947fc90
+status: valid

@@ -1,0 +1,13 @@
+data:
+  code: 11.120.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Medicaments
+  descriptionFull: Health care technology. Pharmaceutics. Medicaments.
+  fieldcode: '11'
+  groupcode: '120'
+  notes:
+  - text: Including medical prescriptions and medicinal herbs
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 9cfed231-91cc-5a0b-b1e2-a3dedef236e0
+status: valid

@@ -1,0 +1,12 @@
+data:
+  code: '35.180'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: IT terminal and other peripheral equipment
+  descriptionFull: Information technology. IT terminal and other peripheral equipment.
+  fieldcode: '35'
+  groupcode: '180'
+  notes:
+  - text: Including modems
+dateAccepted: 2018-11-17
+id: 364be674-c178-5f31-bf99-24ad2e397d41
+status: valid

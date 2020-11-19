@@ -1,0 +1,12 @@
+data:
+  code: 21.220.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Chain drives and their components
+  descriptionFull: Mechanical systems and components for general use. Flexible drives
+    and transmissions. Chain drives and their components.
+  fieldcode: '21'
+  groupcode: '220'
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: b1e09cd1-3adc-5c8d-a7c8-9b5892b9d4b4
+status: valid

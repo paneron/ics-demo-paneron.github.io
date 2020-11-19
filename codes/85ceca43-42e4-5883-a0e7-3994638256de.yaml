@@ -1,0 +1,14 @@
+data:
+  code: 11.120.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other standards related to pharmaceutics
+  descriptionFull: Health care technology. Pharmaceutics. Other standards related
+    to pharmaceutics.
+  fieldcode: '11'
+  groupcode: '120'
+  notes:
+  - text: Including equipment for pharmaceutical industry
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: 85ceca43-42e4-5883-a0e7-3994638256de
+status: valid

@@ -1,0 +1,11 @@
+data:
+  code: 71.080.50
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Anhydrides
+  descriptionFull: Chemical technology. Organic chemicals. Anhydrides.
+  fieldcode: '71'
+  groupcode: 080
+  subgroupcode: '50'
+dateAccepted: 2018-11-17
+id: 7d038fa5-e513-50ce-bf18-dfa246786d28
+status: valid

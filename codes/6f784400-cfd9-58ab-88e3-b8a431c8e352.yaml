@@ -1,0 +1,12 @@
+data:
+  code: 29.220.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Galvanic cells and batteries in general
+  descriptionFull: Electrical engineering. Galvanic cells and batteries. Galvanic
+    cells and batteries in general.
+  fieldcode: '29'
+  groupcode: '220'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 6f784400-cfd9-58ab-88e3-b8a431c8e352
+status: valid

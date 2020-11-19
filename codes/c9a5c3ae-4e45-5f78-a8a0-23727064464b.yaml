@@ -1,0 +1,12 @@
+data:
+  code: 49.025.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Aluminium
+  descriptionFull: Aircraft and space vehicle engineering. Materials for aerospace
+    construction. Aluminium.
+  fieldcode: '49'
+  groupcode: '025'
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: c9a5c3ae-4e45-5f78-a8a0-23727064464b
+status: valid

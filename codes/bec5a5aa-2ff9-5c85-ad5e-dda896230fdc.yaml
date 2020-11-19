@@ -1,0 +1,11 @@
+data:
+  code: '33.080'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Integrated Services Digital Network (ISDN)
+  descriptionFull: Telecommunications. Audio and video engineering. Integrated Services
+    Digital Network (ISDN).
+  fieldcode: '33'
+  groupcode: 080
+dateAccepted: 2018-11-17
+id: bec5a5aa-2ff9-5c85-ad5e-dda896230fdc
+status: valid

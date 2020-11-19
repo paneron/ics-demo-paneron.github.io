@@ -1,0 +1,10 @@
+data:
+  code: '25.200'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Heat treatment
+  descriptionFull: Manufacturing engineering. Heat treatment.
+  fieldcode: '25'
+  groupcode: '200'
+dateAccepted: 2018-11-17
+id: 1e0a364a-18ea-51a2-83d3-a12312900fa6
+status: valid

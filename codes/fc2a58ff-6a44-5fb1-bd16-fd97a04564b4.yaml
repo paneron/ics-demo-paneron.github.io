@@ -1,0 +1,12 @@
+data:
+  code: 71.100.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Surface active agents
+  descriptionFull: Chemical technology. Products of the chemical industry. Surface
+    active agents.
+  fieldcode: '71'
+  groupcode: '100'
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: fc2a58ff-6a44-5fb1-bd16-fd97a04564b4
+status: valid

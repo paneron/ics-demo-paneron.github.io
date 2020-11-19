@@ -1,0 +1,12 @@
+data:
+  code: 65.060.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Soil-working equipment
+  descriptionFull: Agriculture. Agricultural machines, implements and equipment. Soil-working
+    equipment.
+  fieldcode: '65'
+  groupcode: '060'
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 8d9db53f-b14c-5ca2-8ec7-376751f64d16
+status: valid

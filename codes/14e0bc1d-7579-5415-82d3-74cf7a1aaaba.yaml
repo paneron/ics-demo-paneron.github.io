@@ -1,0 +1,12 @@
+data:
+  code: 35.220.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Magnetic storage devices in general
+  descriptionFull: Information technology. Data storage devices. Magnetic storage
+    devices in general.
+  fieldcode: '35'
+  groupcode: '220'
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 14e0bc1d-7579-5415-82d3-74cf7a1aaaba
+status: valid

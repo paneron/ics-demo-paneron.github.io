@@ -1,0 +1,12 @@
+data:
+  code: 91.080.17
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Aluminium structures
+  descriptionFull: Construction materials and building. Structures of buildings. Aluminium
+    structures.
+  fieldcode: '91'
+  groupcode: 080
+  subgroupcode: '17'
+dateAccepted: 2018-11-17
+id: 8e747647-8057-5f59-a6d2-0e40f7cef540
+status: valid

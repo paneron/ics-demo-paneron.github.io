@@ -1,0 +1,11 @@
+data:
+  code: '55.020'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Packaging and distribution of goods in general
+  descriptionFull: Packaging and distribution of goods. Packaging and distribution
+    of goods in general.
+  fieldcode: '55'
+  groupcode: '020'
+dateAccepted: 2018-11-17
+id: 16e05998-d778-5ffe-b281-75d066d39b65
+status: valid

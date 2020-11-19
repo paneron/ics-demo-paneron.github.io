@@ -1,0 +1,12 @@
+data:
+  code: 25.220.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Surface treatment and coating in general
+  descriptionFull: Manufacturing engineering. Surface treatment and coating. Surface
+    treatment and coating in general.
+  fieldcode: '25'
+  groupcode: '220'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 1378a6be-671b-5b60-8a1c-78eaca72e848
+status: valid

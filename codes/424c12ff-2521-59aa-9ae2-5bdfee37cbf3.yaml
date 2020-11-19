@@ -1,0 +1,10 @@
+data:
+  code: '37.100'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Graphic technology
+  descriptionFull: Image technology. Graphic technology.
+  fieldcode: '37'
+  groupcode: '100'
+dateAccepted: 2018-11-17
+id: 424c12ff-2521-59aa-9ae2-5bdfee37cbf3
+status: valid

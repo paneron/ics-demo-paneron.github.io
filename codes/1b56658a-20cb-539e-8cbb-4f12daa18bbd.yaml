@@ -1,0 +1,11 @@
+data:
+  code: '83.020'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Manufacturing processes in the rubber and plastics industries
+  descriptionFull: Rubber and plastic industries. Manufacturing processes in the rubber
+    and plastics industries.
+  fieldcode: '83'
+  groupcode: '020'
+dateAccepted: 2018-11-17
+id: 1b56658a-20cb-539e-8cbb-4f12daa18bbd
+status: valid

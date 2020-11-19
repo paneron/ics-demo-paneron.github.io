@@ -1,0 +1,12 @@
+data:
+  code: '55.200'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Packaging machinery
+  descriptionFull: Packaging and distribution of goods. Packaging machinery.
+  fieldcode: '55'
+  groupcode: '200'
+  notes:
+  - text: Including labelling, marking, branding, filling, sealing machines, etc.
+dateAccepted: 2018-11-17
+id: 4733e1e6-7644-5d8d-8b83-f4602a59fea7
+status: valid

@@ -1,0 +1,14 @@
+data:
+  code: 17.220.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Electricity. Magnetism. General aspects
+  descriptionFull: Metrology and measurement. Physical phenomena. Electricity. Magnetism.
+    Electrical and magnetic measurements. Electricity. Magnetism. General aspects.
+  fieldcode: '17'
+  groupcode: '220'
+  notes:
+  - text: Including electromagnetism
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: bd08f832-526e-58a7-8a62-7b8865e79302
+status: valid

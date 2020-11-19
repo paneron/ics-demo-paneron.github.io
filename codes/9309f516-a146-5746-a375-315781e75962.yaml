@@ -1,0 +1,14 @@
+data:
+  code: '97.060'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Laundry appliances
+  descriptionFull: Domestic and commercial equipment. Entertainment. Sports. Laundry
+    appliances.
+  fieldcode: '97'
+  groupcode: '060'
+  notes:
+  - text: Including washing-machines, dry-cleaners, driers, ironing and pressing appliances,
+      etc.
+dateAccepted: 2018-11-17
+id: 9309f516-a146-5746-a375-315781e75962
+status: valid

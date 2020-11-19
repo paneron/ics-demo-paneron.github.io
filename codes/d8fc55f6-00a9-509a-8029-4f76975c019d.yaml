@@ -1,0 +1,19 @@
+data:
+  code: '71.100'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Products of the chemical industry
+  descriptionFull: Chemical technology. Products of the chemical industry.
+  fieldcode: '71'
+  groupcode: '100'
+  notes:
+  - ics-code: 37.040.30
+    text: Photographic chemicals, see {ics-code}
+  - ics-code: '83.040'
+    text: Raw materials for rubber and plastics, see {ics-code}
+  - ics-code: '87.040'
+    text: Paints and varnishes, see {ics-code}
+  - ics-code: '87.080'
+    text: Inks. Printing inks, see {ics-code}
+dateAccepted: 2018-11-17
+id: d8fc55f6-00a9-509a-8029-4f76975c019d
+status: valid

@@ -1,0 +1,13 @@
+data:
+  code: '49.060'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Aerospace electric equipment and systems
+  descriptionFull: Aircraft and space vehicle engineering. Aerospace electric equipment
+    and systems.
+  fieldcode: '49'
+  groupcode: '060'
+  notes:
+  - text: Including Avionics
+dateAccepted: 2018-11-17
+id: 9fa877b7-384e-5b3e-a695-df33300f2fb5
+status: valid

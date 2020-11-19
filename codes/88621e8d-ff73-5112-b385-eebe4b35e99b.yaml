@@ -1,0 +1,14 @@
+data:
+  code: 59.080.70
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Geotextiles
+  descriptionFull: Textile and leather technology. Products of the textile industry.
+    Geotextiles.
+  fieldcode: '59'
+  groupcode: 080
+  notes:
+  - text: Including geosynthetics
+  subgroupcode: '70'
+dateAccepted: 2018-11-17
+id: 88621e8d-ff73-5112-b385-eebe4b35e99b
+status: valid

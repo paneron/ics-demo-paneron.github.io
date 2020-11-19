@@ -1,0 +1,14 @@
+data:
+  code: 01.100.27
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Technical drawings for telecommunications and information technology
+    fields
+  descriptionFull: Generalities. Terminology. Standardization. Documentation. Technical
+    drawings. Technical drawings for telecommunications and information technology
+    fields.
+  fieldcode: '01'
+  groupcode: '100'
+  subgroupcode: '27'
+dateAccepted: 2018-11-17
+id: 69f14c54-6243-5a8e-aa10-fa8ce1b224c6
+status: valid

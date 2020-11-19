@@ -1,0 +1,12 @@
+data:
+  code: 29.130.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other switchgear and controlgear
+  descriptionFull: Electrical engineering. Switchgear and controlgear. Other switchgear
+    and controlgear.
+  fieldcode: '29'
+  groupcode: '130'
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: ab86640e-df7d-57fe-b559-e65da060af58
+status: valid

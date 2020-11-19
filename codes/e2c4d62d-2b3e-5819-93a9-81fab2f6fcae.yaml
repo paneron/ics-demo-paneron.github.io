@@ -1,0 +1,13 @@
+data:
+  code: '33.040'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Telecommunication systems
+  descriptionFull: Telecommunications. Audio and video engineering. Telecommunication
+    systems.
+  fieldcode: '33'
+  groupcode: '040'
+  notes:
+  - text: Including network (system) aspects
+dateAccepted: 2018-11-17
+id: e2c4d62d-2b3e-5819-93a9-81fab2f6fcae
+status: valid

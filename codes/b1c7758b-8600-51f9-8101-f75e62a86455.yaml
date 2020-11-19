@@ -1,0 +1,17 @@
+data:
+  code: 43.060.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Cooling systems. Lubricating systems
+  descriptionFull: Road vehicles engineering. Internal combustion engines for road
+    vehicles. Cooling systems. Lubricating systems.
+  fieldcode: '43'
+  groupcode: '060'
+  notes:
+  - ics-code: 71.100.45
+    text: Refrigerants and antifreezes, see {ics-code}
+  - ics-code: '75.100'
+    text: Lubricants, industrial oils and related products, see {ics-code}
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: b1c7758b-8600-51f9-8101-f75e62a86455
+status: valid

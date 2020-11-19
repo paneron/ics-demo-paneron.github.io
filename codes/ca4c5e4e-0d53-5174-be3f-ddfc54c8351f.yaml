@@ -1,0 +1,10 @@
+data:
+  code: '27.080'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Heat pumps
+  descriptionFull: Energy and heat transfer engineering. Heat pumps.
+  fieldcode: '27'
+  groupcode: 080
+dateAccepted: 2018-11-17
+id: ca4c5e4e-0d53-5174-be3f-ddfc54c8351f
+status: valid

@@ -1,0 +1,12 @@
+data:
+  code: 17.040.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Limits and fits
+  descriptionFull: Metrology and measurement. Physical phenomena. Linear and angular
+    measurements. Limits and fits.
+  fieldcode: '17'
+  groupcode: '040'
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 9171a5c7-029e-5a76-a00c-91e714d26e95
+status: valid

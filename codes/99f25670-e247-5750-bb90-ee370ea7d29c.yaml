@@ -1,0 +1,12 @@
+data:
+  code: 97.100.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Liquid fuel heaters
+  descriptionFull: Domestic and commercial equipment. Entertainment. Sports. Domestic,
+    commercial and industrial heating appliances. Liquid fuel heaters.
+  fieldcode: '97'
+  groupcode: '100'
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: 99f25670-e247-5750-bb90-ee370ea7d29c
+status: valid

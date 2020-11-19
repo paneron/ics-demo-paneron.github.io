@@ -1,0 +1,13 @@
+data:
+  code: 35.220.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Optical storage devices
+  descriptionFull: Information technology. Data storage devices. Optical storage devices.
+  fieldcode: '35'
+  groupcode: '220'
+  notes:
+  - text: Including CD and magneto-optical devices (MO)
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: 416ba9da-6904-56bf-9b64-ece90e1345d3
+status: valid

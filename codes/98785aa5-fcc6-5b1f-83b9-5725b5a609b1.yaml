@@ -1,0 +1,12 @@
+data:
+  code: 93.080.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Street lighting and related equipment
+  descriptionFull: Civil engineering. Road engineering. Street lighting and related
+    equipment.
+  fieldcode: '93'
+  groupcode: 080
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: 98785aa5-fcc6-5b1f-83b9-5725b5a609b1
+status: valid

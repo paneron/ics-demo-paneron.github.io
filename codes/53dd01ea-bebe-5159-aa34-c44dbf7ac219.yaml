@@ -1,0 +1,12 @@
+data:
+  code: '55.080'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Sacks. Bags
+  descriptionFull: Packaging and distribution of goods. Sacks. Bags.
+  fieldcode: '55'
+  groupcode: 080
+  notes:
+  - text: Including sachets, envelopes
+dateAccepted: 2018-11-17
+id: 53dd01ea-bebe-5159-aa34-c44dbf7ac219
+status: valid

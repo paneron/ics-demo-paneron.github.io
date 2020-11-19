@@ -1,0 +1,16 @@
+data:
+  code: 11.040.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Implants for surgery, prosthetics and orthotics
+  descriptionFull: Health care technology. Medical equipment. Implants for surgery,
+    prosthetics and orthotics.
+  fieldcode: '11'
+  groupcode: '040'
+  notes:
+  - text: Including pacemakers
+  - ics-code: 11.040.70
+    text: Ophthalmic equipment, see {ics-code}
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: ffb5e778-f1c1-5f1f-bdf2-9179f7fc3fbe
+status: valid

@@ -1,0 +1,15 @@
+data:
+  code: '21.020'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Characteristics and design of machines, apparatus, equipment
+  descriptionFull: Mechanical systems and components for general use. Characteristics
+    and design of machines, apparatus, equipment.
+  fieldcode: '21'
+  groupcode: '020'
+  notes:
+  - text: Including reliability, dependability, maintainability, durability, etc.
+  - ics-code: '13.110'
+    text: Safety of machinery, see {ics-code}
+dateAccepted: 2018-11-17
+id: afc71bb8-cb7e-5eb4-8a2f-a13c95d157f3
+status: valid

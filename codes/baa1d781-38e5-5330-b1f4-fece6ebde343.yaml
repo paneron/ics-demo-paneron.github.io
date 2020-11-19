@@ -1,0 +1,11 @@
+data:
+  code: 77.120.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Non-ferrous metals in general
+  descriptionFull: Metallurgy. Non-ferrous metals. Non-ferrous metals in general.
+  fieldcode: '77'
+  groupcode: '120'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: baa1d781-38e5-5330-b1f4-fece6ebde343
+status: valid

@@ -1,0 +1,15 @@
+data:
+  code: 11.100.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Biological evaluation of medical devices
+  descriptionFull: Health care technology. Laboratory medicine. Biological evaluation
+    of medical devices.
+  fieldcode: '11'
+  groupcode: '100'
+  notes:
+  - ics-code: 07.100.10
+    text: Medical microbiology, see {ics-code}
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: e36f5665-789d-5aa2-b94a-d996e081d5fa
+status: valid

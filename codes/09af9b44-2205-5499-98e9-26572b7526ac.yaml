@@ -1,0 +1,13 @@
+data:
+  code: '17.120'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Measurement of fluid flow
+  descriptionFull: Metrology and measurement. Physical phenomena. Measurement of fluid
+    flow.
+  fieldcode: '17'
+  groupcode: '120'
+  notes:
+  - text: Including measuring instruments and installations
+dateAccepted: 2018-11-17
+id: 09af9b44-2205-5499-98e9-26572b7526ac
+status: valid

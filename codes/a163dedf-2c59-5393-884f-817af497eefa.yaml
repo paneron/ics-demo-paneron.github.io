@@ -1,0 +1,14 @@
+data:
+  code: 43.040.15
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Car informatics. On board computer systems
+  descriptionFull: Road vehicles engineering. Road vehicle systems. Car informatics.
+    On board computer systems.
+  fieldcode: '43'
+  groupcode: '040'
+  notes:
+  - text: Including navigation systems, car radio, etc.
+  subgroupcode: '15'
+dateAccepted: 2018-11-17
+id: a163dedf-2c59-5393-884f-817af497eefa
+status: valid

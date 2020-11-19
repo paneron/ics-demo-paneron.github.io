@@ -1,0 +1,10 @@
+data:
+  code: '07.040'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Astronomy. Geodesy. Geography
+  descriptionFull: Natural and applied sciences. Astronomy. Geodesy. Geography.
+  fieldcode: '07'
+  groupcode: '040'
+dateAccepted: 2018-11-17
+id: 16867032-e119-50e2-84a5-52ed8b278e7c
+status: valid

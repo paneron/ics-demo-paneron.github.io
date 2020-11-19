@@ -1,0 +1,13 @@
+data:
+  code: '31.020'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Electronic components in general
+  descriptionFull: Electronics. Electronic components in general.
+  fieldcode: '31'
+  groupcode: '020'
+  notes:
+  - ics-code: 29.100.10
+    text: Magnetic components, see {ics-code}
+dateAccepted: 2018-11-17
+id: c637cd78-ce7e-5ae8-9209-52d4c5c1d535
+status: valid

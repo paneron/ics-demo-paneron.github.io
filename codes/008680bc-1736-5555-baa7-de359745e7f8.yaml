@@ -1,0 +1,12 @@
+data:
+  code: 21.060.70
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Clamps and staples
+  descriptionFull: Mechanical systems and components for general use. Fasteners. Clamps
+    and staples.
+  fieldcode: '21'
+  groupcode: '060'
+  subgroupcode: '70'
+dateAccepted: 2018-11-17
+id: 008680bc-1736-5555-baa7-de359745e7f8
+status: valid

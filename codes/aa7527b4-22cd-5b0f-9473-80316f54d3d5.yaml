@@ -1,0 +1,12 @@
+data:
+  code: 01.040.45
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Railway engineering (Vocabularies)
+  descriptionFull: Generalities. Terminology. Standardization. Documentation. Vocabularies.
+    Railway engineering (Vocabularies).
+  fieldcode: '01'
+  groupcode: '040'
+  subgroupcode: '45'
+dateAccepted: 2018-11-17
+id: aa7527b4-22cd-5b0f-9473-80316f54d3d5
+status: valid

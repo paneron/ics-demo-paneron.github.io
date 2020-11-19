@@ -1,0 +1,11 @@
+data:
+  code: 81.060.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Advanced ceramics
+  descriptionFull: Glass and ceramics industries. Ceramics. Advanced ceramics.
+  fieldcode: '81'
+  groupcode: '060'
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: 37d412db-d1f7-5064-9f03-bf162093f109
+status: valid

@@ -1,0 +1,11 @@
+data:
+  code: 35.220.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Paper cards and tapes
+  descriptionFull: Information technology. Data storage devices. Paper cards and tapes.
+  fieldcode: '35'
+  groupcode: '220'
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 9095daa8-c6ce-5639-8cfd-0b416abd1c4f
+status: valid

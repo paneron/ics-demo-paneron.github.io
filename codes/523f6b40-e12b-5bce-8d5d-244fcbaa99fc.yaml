@@ -1,0 +1,12 @@
+data:
+  code: '45.100'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Cableway equipment
+  descriptionFull: Railway engineering. Cableway equipment.
+  fieldcode: '45'
+  groupcode: '100'
+  notes:
+  - text: Including ropeway equipment
+dateAccepted: 2018-11-17
+id: 523f6b40-e12b-5bce-8d5d-244fcbaa99fc
+status: valid

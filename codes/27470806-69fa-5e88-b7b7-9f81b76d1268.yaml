@@ -1,0 +1,12 @@
+data:
+  code: 13.060.50
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Examination of water for chemical substances
+  descriptionFull: Environment. Health protection. Safety. Water quality. Examination
+    of water for chemical substances.
+  fieldcode: '13'
+  groupcode: '060'
+  subgroupcode: '50'
+dateAccepted: 2018-11-17
+id: 27470806-69fa-5e88-b7b7-9f81b76d1268
+status: valid

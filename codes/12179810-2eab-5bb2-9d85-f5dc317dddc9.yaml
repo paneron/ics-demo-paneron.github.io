@@ -1,0 +1,12 @@
+data:
+  code: 01.040.55
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Packaging and distribution of goods (Vocabularies)
+  descriptionFull: Generalities. Terminology. Standardization. Documentation. Vocabularies.
+    Packaging and distribution of goods (Vocabularies).
+  fieldcode: '01'
+  groupcode: '040'
+  subgroupcode: '55'
+dateAccepted: 2018-11-17
+id: 12179810-2eab-5bb2-9d85-f5dc317dddc9
+status: valid

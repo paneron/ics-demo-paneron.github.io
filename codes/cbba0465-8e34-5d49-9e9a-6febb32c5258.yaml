@@ -1,0 +1,12 @@
+data:
+  code: 01.100.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other standards related to technical drawings
+  descriptionFull: Generalities. Terminology. Standardization. Documentation. Technical
+    drawings. Other standards related to technical drawings.
+  fieldcode: '01'
+  groupcode: '100'
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: cbba0465-8e34-5d49-9e9a-6febb32c5258
+status: valid

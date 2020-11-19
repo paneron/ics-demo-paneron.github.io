@@ -1,0 +1,12 @@
+data:
+  code: 97.040.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Dishwashers
+  descriptionFull: Domestic and commercial equipment. Entertainment. Sports. Kitchen
+    equipment. Dishwashers.
+  fieldcode: '97'
+  groupcode: '040'
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: 23bb3782-4e1e-5a62-8c33-e7d3f628b1fe
+status: valid

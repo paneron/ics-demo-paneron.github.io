@@ -1,0 +1,13 @@
+data:
+  code: 65.020.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Plant growing
+  descriptionFull: Agriculture. Farming and forestry. Plant growing.
+  fieldcode: '65'
+  groupcode: '020'
+  notes:
+  - text: Including horticulture, floriculture, seeds, plant diseases
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 4db1477f-0c4d-5caa-81ea-6ab35043a9d1
+status: valid

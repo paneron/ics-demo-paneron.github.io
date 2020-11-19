@@ -1,0 +1,13 @@
+data:
+  code: '77.060'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Corrosion of metals
+  descriptionFull: Metallurgy. Corrosion of metals.
+  fieldcode: '77'
+  groupcode: '060'
+  notes:
+  - ics-code: '25.220'
+    text: Surface treatment and coating, see {ics-code}
+dateAccepted: 2018-11-17
+id: ce99a719-1263-5e43-b6df-ed82f76f35a0
+status: valid

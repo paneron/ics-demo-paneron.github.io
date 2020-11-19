@@ -1,0 +1,11 @@
+data:
+  code: '27.010'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Energy and heat transfer engineering in general
+  descriptionFull: Energy and heat transfer engineering. Energy and heat transfer
+    engineering in general.
+  fieldcode: '27'
+  groupcode: '010'
+dateAccepted: 2018-11-17
+id: 46b25a75-fe0b-550b-86ce-6f048b54ab92
+status: valid

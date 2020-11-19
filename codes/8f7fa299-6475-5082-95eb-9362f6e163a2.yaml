@@ -1,0 +1,14 @@
+data:
+  code: 65.100.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Insecticides
+  descriptionFull: Agriculture. Pesticides and other agrochemicals. Insecticides.
+  fieldcode: '65'
+  groupcode: '100'
+  notes:
+  - ics-code: 71.100.50
+    text: Wood-protecting chemicals, see {ics-code}
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 8f7fa299-6475-5082-95eb-9362f6e163a2
+status: valid

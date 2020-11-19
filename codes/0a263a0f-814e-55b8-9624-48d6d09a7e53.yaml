@@ -1,0 +1,11 @@
+data:
+  code: 29.140.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Lamps in general
+  descriptionFull: Electrical engineering. Lamps and related equipment. Lamps in general.
+  fieldcode: '29'
+  groupcode: '140'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 0a263a0f-814e-55b8-9624-48d6d09a7e53
+status: valid

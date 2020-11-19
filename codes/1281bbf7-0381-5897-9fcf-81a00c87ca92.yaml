@@ -1,0 +1,12 @@
+data:
+  code: 71.060.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Inorganic chemicals in general
+  descriptionFull: Chemical technology. Inorganic chemicals. Inorganic chemicals in
+    general.
+  fieldcode: '71'
+  groupcode: '060'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 1281bbf7-0381-5897-9fcf-81a00c87ca92
+status: valid

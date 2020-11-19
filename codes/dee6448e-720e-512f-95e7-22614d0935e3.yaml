@@ -1,0 +1,12 @@
+data:
+  code: 13.340.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other protective equipment
+  descriptionFull: Environment. Health protection. Safety. Protective equipment. Other
+    protective equipment.
+  fieldcode: '13'
+  groupcode: '340'
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: dee6448e-720e-512f-95e7-22614d0935e3
+status: valid

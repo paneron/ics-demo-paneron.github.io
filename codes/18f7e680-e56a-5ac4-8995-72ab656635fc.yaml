@@ -1,0 +1,10 @@
+data:
+  code: '79.120'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Woodworking equipment
+  descriptionFull: Wood technology. Woodworking equipment.
+  fieldcode: '79'
+  groupcode: '120'
+dateAccepted: 2018-11-17
+id: 18f7e680-e56a-5ac4-8995-72ab656635fc
+status: valid

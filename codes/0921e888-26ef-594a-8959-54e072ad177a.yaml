@@ -1,0 +1,12 @@
+data:
+  code: 21.220.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Flexible drives and transmissions in general
+  descriptionFull: Mechanical systems and components for general use. Flexible drives
+    and transmissions. Flexible drives and transmissions in general.
+  fieldcode: '21'
+  groupcode: '220'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 0921e888-26ef-594a-8959-54e072ad177a
+status: valid

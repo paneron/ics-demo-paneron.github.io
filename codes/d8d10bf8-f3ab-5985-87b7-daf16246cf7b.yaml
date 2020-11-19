@@ -1,0 +1,11 @@
+data:
+  code: 87.060.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other paint ingredients
+  descriptionFull: Paint and colour industries. Paint ingredients. Other paint ingredients.
+  fieldcode: '87'
+  groupcode: '060'
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: d8d10bf8-f3ab-5985-87b7-daf16246cf7b
+status: valid

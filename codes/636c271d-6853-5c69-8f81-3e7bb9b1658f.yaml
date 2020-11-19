@@ -1,0 +1,13 @@
+data:
+  code: '37.040'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Photography
+  descriptionFull: Image technology. Photography.
+  fieldcode: '37'
+  groupcode: '040'
+  notes:
+  - ics-code: 97.200.10
+    text: Theatre, stage and studio equipment, see {ics-code}
+dateAccepted: 2018-11-17
+id: 636c271d-6853-5c69-8f81-3e7bb9b1658f
+status: valid

@@ -1,0 +1,12 @@
+data:
+  code: 25.040.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Industrial automation systems in general
+  descriptionFull: Manufacturing engineering. Industrial automation systems. Industrial
+    automation systems in general.
+  fieldcode: '25'
+  groupcode: '040'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 6bcccb7e-3ebc-553c-afec-bd4fda5511fd
+status: valid

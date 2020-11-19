@@ -1,0 +1,12 @@
+data:
+  code: 97.200.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Equipment for entertainment in general
+  descriptionFull: Domestic and commercial equipment. Entertainment. Sports. Equipment
+    for entertainment. Equipment for entertainment in general.
+  fieldcode: '97'
+  groupcode: '200'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: dc5a5c94-2dbb-5892-8b51-e4bc6a0d1a38
+status: valid

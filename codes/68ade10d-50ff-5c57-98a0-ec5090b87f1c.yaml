@@ -1,0 +1,12 @@
+data:
+  code: 91.140.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Installations in buildings in general
+  descriptionFull: Construction materials and building. Installations in buildings.
+    Installations in buildings in general.
+  fieldcode: '91'
+  groupcode: '140'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 68ade10d-50ff-5c57-98a0-ec5090b87f1c
+status: valid

@@ -1,0 +1,15 @@
+data:
+  code: 75.160.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Liquid fuels
+  descriptionFull: Petroleum and related technologies. Fuels. Liquid fuels.
+  fieldcode: '75'
+  groupcode: '160'
+  notes:
+  - text: Including gasoline, diesel, kerosene, etc.
+  - ics-code: 75.160.40
+    text: Biofuels, see {ics-code}
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 39c2bb68-78e5-5fb4-9dce-9ad65e568c35
+status: valid

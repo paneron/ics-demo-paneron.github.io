@@ -1,0 +1,12 @@
+data:
+  code: 33.180.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other fibre optic equipment
+  descriptionFull: Telecommunications. Audio and video engineering. Fibre optic communications.
+    Other fibre optic equipment.
+  fieldcode: '33'
+  groupcode: '180'
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: ac136a8a-b13d-50ae-984c-f2f0cf18894e
+status: valid

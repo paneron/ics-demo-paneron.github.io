@@ -1,0 +1,12 @@
+data:
+  code: 83.140.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Rubber and plastics products in general
+  descriptionFull: Rubber and plastic industries. Rubber and plastics products. Rubber
+    and plastics products in general.
+  fieldcode: '83'
+  groupcode: '140'
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: c3af5be8-bff6-5879-b631-ae82d384bee8
+status: valid

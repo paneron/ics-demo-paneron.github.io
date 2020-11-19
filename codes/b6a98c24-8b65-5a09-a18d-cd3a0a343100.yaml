@@ -1,0 +1,12 @@
+data:
+  code: 93.080.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other standards related to road engineering
+  descriptionFull: Civil engineering. Road engineering. Other standards related to
+    road engineering.
+  fieldcode: '93'
+  groupcode: 080
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: b6a98c24-8b65-5a09-a18d-cd3a0a343100
+status: valid

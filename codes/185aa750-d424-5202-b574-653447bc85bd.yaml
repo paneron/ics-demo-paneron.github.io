@@ -1,0 +1,12 @@
+data:
+  code: 91.140.90
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Lifts. Escalators
+  descriptionFull: Construction materials and building. Installations in buildings.
+    Lifts. Escalators.
+  fieldcode: '91'
+  groupcode: '140'
+  subgroupcode: '90'
+dateAccepted: 2018-11-17
+id: 185aa750-d424-5202-b574-653447bc85bd
+status: valid

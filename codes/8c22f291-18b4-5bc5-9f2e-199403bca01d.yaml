@@ -1,0 +1,12 @@
+data:
+  code: 03.080.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other services
+  descriptionFull: Services. Company organization, management and quality. Administration.
+    Transport. Sociology. Services. Other services.
+  fieldcode: '03'
+  groupcode: 080
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: 8c22f291-18b4-5bc5-9f2e-199403bca01d
+status: valid

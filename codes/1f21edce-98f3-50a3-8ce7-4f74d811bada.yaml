@@ -1,0 +1,14 @@
+data:
+  code: 13.340.50
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Leg and foot protection
+  descriptionFull: Environment. Health protection. Safety. Protective equipment. Leg
+    and foot protection.
+  fieldcode: '13'
+  groupcode: '340'
+  notes:
+  - text: Including safety boots and shoes
+  subgroupcode: '50'
+dateAccepted: 2018-11-17
+id: 1f21edce-98f3-50a3-8ce7-4f74d811bada
+status: valid

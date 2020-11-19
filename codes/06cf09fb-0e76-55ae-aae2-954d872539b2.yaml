@@ -1,0 +1,11 @@
+data:
+  code: 25.080.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other machine tools
+  descriptionFull: Manufacturing engineering. Machine tools. Other machine tools.
+  fieldcode: '25'
+  groupcode: 080
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: 06cf09fb-0e76-55ae-aae2-954d872539b2
+status: valid
