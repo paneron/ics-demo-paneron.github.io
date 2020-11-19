@@ -6,6 +6,7 @@ data:
     Terrestrial Trunked Radio (TETRA).
   fieldcode: '33'
   groupcode: '070'
+  relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: c0e337a3-2534-57fc-8e3f-f0fed763a006

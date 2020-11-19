@@ -6,6 +6,7 @@ data:
     accessories.
   fieldcode: '29'
   groupcode: '120'
+  relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17
 id: 4792d97c-7b91-546d-9fc4-d93ed132d075

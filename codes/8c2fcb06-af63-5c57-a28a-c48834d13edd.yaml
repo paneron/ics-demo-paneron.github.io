@@ -6,8 +6,7 @@ data:
     systems.
   fieldcode: '43'
   groupcode: '040'
-  notes:
-  - text: Including cleaning, defrosting and demisting devices, mirrors, etc.
+  relationships: []
   subgroupcode: '65'
 dateAccepted: 2018-11-17
 id: 8c2fcb06-af63-5c57-a28a-c48834d13edd

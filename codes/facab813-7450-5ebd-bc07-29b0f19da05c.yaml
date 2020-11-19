@@ -5,11 +5,9 @@ data:
   descriptionFull: Food technology. Beverages. Non-alcoholic beverages.
   fieldcode: '67'
   groupcode: '160'
-  notes:
-  - text: Including juices, nectars, mineral waters, lemonades, root beer, cola drinks,
-      etc.
-  - ics-code: '67.140'
-    text: Tea. Coffee. Cocoa, see {ics-code}
+  relationships:
+  - to: '67.140'
+    type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: facab813-7450-5ebd-bc07-29b0f19da05c

@@ -6,10 +6,9 @@ data:
     velocity, acceleration, angular velocity.
   fieldcode: '17'
   groupcode: 080
-  notes:
-  - text: Including measuring instruments
-  - ics-code: '39.040'
-    text: Horology, see {ics-code}
+  relationships:
+  - to: '39.040'
+    type: related
 dateAccepted: 2018-11-17
 id: 129450d6-fcb1-5e81-978f-31a7553fe7cf
 status: valid

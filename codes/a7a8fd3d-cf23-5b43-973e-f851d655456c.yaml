@@ -5,10 +5,9 @@ data:
   descriptionFull: Military affairs. Military engineering. Weapons. Military in general.
   fieldcode: '95'
   groupcode: '020'
-  notes:
-  - text: Including defense procurement, defense standardization, etc.
-  - ics-code: '61.020'
-    text: Clothes, see {ics-code}
+  relationships:
+  - to: '61.020'
+    type: related
 dateAccepted: 2018-11-17
 id: a7a8fd3d-cf23-5b43-973e-f851d655456c
 status: valid

@@ -6,8 +6,7 @@ data:
     buildings, installations and equipment.
   fieldcode: '65'
   groupcode: '040'
-  notes:
-  - text: Including milking machines
+  relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: a3a6f3f0-a054-57fc-96ba-53d2380880a6

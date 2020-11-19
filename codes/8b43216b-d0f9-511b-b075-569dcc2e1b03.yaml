@@ -6,11 +6,11 @@ data:
     products.
   fieldcode: '67'
   groupcode: '050'
-  notes:
-  - ics-code: '67.240'
-    text: Sensory analysis, see {ics-code}
-  - ics-code: 07.100.30
-    text: Food microbiology, see {ics-code}
+  relationships:
+  - to: '67.240'
+    type: related
+  - to: 07.100.30
+    type: related
 dateAccepted: 2018-11-17
 id: 8b43216b-d0f9-511b-b075-569dcc2e1b03
 status: valid

@@ -6,6 +6,7 @@ data:
     buildings and installations in general.
   fieldcode: '65'
   groupcode: '040'
+  relationships: []
   subgroupcode: '01'
 dateAccepted: 2018-11-17
 id: a4c477a4-d4f3-56dc-8d0c-274e0204ee7c

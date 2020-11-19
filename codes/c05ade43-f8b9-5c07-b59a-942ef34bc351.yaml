@@ -6,11 +6,11 @@ data:
     flow. Flow in closed conduits.
   fieldcode: '17'
   groupcode: '120'
-  notes:
-  - ics-code: 91.140.40
-    text: Gas supply systems, see {ics-code}
-  - ics-code: 91.140.60
-    text: Water supply systems, see {ics-code}
+  relationships:
+  - to: 91.140.40
+    type: related
+  - to: 91.140.60
+    type: related
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: c05ade43-f8b9-5c07-b59a-942ef34bc351

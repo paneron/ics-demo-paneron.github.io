@@ -5,10 +5,9 @@ data:
   descriptionFull: Road vehicles engineering. Motorcycles and mopeds.
   fieldcode: '43'
   groupcode: '140'
-  notes:
-  - text: Including their components and systems
-  - ics-code: 83.160.10
-    text: Road vehicle tyres, see {ics-code}
+  relationships:
+  - to: 83.160.10
+    type: related
 dateAccepted: 2018-11-17
 id: 58e77b12-afc8-532a-aa84-2c682773a9e3
 status: valid

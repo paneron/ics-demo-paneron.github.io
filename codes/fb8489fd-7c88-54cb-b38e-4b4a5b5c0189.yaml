@@ -6,11 +6,11 @@ data:
     Transport. Sociology. Services.
   fieldcode: '03'
   groupcode: 080
-  notes:
-  - ics-code: '03.220'
-    text: Transport, see {ics-code}
-  - ics-code: '03.240'
-    text: Postal services, see {ics-code}
+  relationships:
+  - to: '03.220'
+    type: related
+  - to: '03.240'
+    type: related
 dateAccepted: 2018-11-17
 id: fb8489fd-7c88-54cb-b38e-4b4a5b5c0189
 status: valid

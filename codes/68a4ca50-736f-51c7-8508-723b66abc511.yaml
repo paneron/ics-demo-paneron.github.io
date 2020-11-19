@@ -6,13 +6,13 @@ data:
     for entertainment.
   fieldcode: '97'
   groupcode: '200'
-  notes:
-  - ics-code: '33.160'
-    text: Audio, video and audiovisual engineering, see {ics-code}
-  - ics-code: '37.040'
-    text: Photography, see {ics-code}
-  - ics-code: '37.060'
-    text: Cinematography, see {ics-code}
+  relationships:
+  - to: '33.160'
+    type: related
+  - to: '37.040'
+    type: related
+  - to: '37.060'
+    type: related
 dateAccepted: 2018-11-17
 id: 68a4ca50-736f-51c7-8508-723b66abc511
 status: valid

@@ -5,10 +5,9 @@ data:
   descriptionFull: Manufacturing engineering. Cutting tools.
   fieldcode: '25'
   groupcode: '100'
-  notes:
-  - text: Including industrial diamonds
-  - ics-code: 79.120.20
-    text: Woodworking tools, see {ics-code}
+  relationships:
+  - to: 79.120.20
+    type: related
 dateAccepted: 2018-11-17
 id: 55b208b0-63c4-597b-80eb-301468dd9653
 status: valid

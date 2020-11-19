@@ -5,9 +5,9 @@ data:
   descriptionFull: Agriculture. Pesticides and other agrochemicals. Fungicides.
   fieldcode: '65'
   groupcode: '100'
-  notes:
-  - ics-code: 71.100.50
-    text: Wood-protecting chemicals, see {ics-code}
+  relationships:
+  - to: 71.100.50
+    type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: 985dc155-cd84-512d-a916-42e525c61add

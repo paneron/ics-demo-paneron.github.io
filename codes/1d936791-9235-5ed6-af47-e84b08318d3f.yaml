@@ -6,9 +6,9 @@ data:
     in general. Navigation and control equipment.
   fieldcode: '47'
   groupcode: '020'
-  notes:
-  - ics-code: '33.060'
-    text: Radiocommunications, see {ics-code}
+  relationships:
+  - to: '33.060'
+    type: related
   subgroupcode: '70'
 dateAccepted: 2018-11-17
 id: 1d936791-9235-5ed6-af47-e84b08318d3f

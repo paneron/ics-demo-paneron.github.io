@@ -6,8 +6,7 @@ data:
     measurements. Acoustic measurements and noise abatement in general.
   fieldcode: '17'
   groupcode: '140'
-  notes:
-  - text: Including acoustic insulation
+  relationships: []
   subgroupcode: '01'
 dateAccepted: 2018-11-17
 id: d70b3470-53bd-5908-93de-f5439287c346

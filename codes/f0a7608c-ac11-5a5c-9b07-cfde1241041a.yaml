@@ -5,10 +5,9 @@ data:
   descriptionFull: Road vehicles engineering. Electric road vehicles.
   fieldcode: '43'
   groupcode: '120'
-  notes:
-  - text: Including their components and systems
-  - ics-code: 83.160.10
-    text: Road vehicle tyres, see {ics-code}
+  relationships:
+  - to: 83.160.10
+    type: related
 dateAccepted: 2018-11-17
 id: f0a7608c-ac11-5a5c-9b07-cfde1241041a
 status: valid

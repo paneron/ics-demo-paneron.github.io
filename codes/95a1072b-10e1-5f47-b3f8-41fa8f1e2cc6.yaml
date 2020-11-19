@@ -5,8 +5,7 @@ data:
   descriptionFull: Metallurgy. Iron and steel products. Steel profiles.
   fieldcode: '77'
   groupcode: '140'
-  notes:
-  - text: Including sections
+  relationships: []
   subgroupcode: '70'
 dateAccepted: 2018-11-17
 id: 95a1072b-10e1-5f47-b3f8-41fa8f1e2cc6

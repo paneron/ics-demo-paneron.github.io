@@ -6,6 +6,7 @@ data:
     systems.
   fieldcode: '43'
   groupcode: '040'
+  relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17
 id: b5fe1568-1253-5514-b0bc-e00dd83fe4a0

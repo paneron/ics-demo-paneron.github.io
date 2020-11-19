@@ -6,6 +6,7 @@ data:
     Shafts and couplings in general.
   fieldcode: '21'
   groupcode: '120'
+  relationships: []
   subgroupcode: '01'
 dateAccepted: 2018-11-17
 id: 8393fc1c-dd02-5f6d-90e9-19b00f564080

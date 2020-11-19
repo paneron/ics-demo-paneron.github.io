@@ -4,6 +4,7 @@ data:
   description: Materials handling equipment
   descriptionFull: ''
   fieldcode: '53'
+  relationships: []
 dateAccepted: 2018-11-17
 id: 210d6565-0f1f-5dd0-bc28-7cb0c7af81d9
 status: valid

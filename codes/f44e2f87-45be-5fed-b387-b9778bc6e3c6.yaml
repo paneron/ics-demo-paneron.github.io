@@ -6,8 +6,7 @@ data:
     shock.  Live working.
   fieldcode: '13'
   groupcode: '260'
-  notes:
-  - text: Including tools for working with voltages
+  relationships: []
 dateAccepted: 2018-11-17
 id: f44e2f87-45be-5fed-b387-b9778bc6e3c6
 status: valid

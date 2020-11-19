@@ -5,10 +5,9 @@ data:
   descriptionFull: Metallurgy. Iron and steel products. Flat steel products and semi-products.
   fieldcode: '77'
   groupcode: '140'
-  notes:
-  - text: Including plate, sheet and strip
-  - ics-code: 77.140.25
-    text: Spring steels, see {ics-code}
+  relationships:
+  - to: 77.140.25
+    type: related
   subgroupcode: '50'
 dateAccepted: 2018-11-17
 id: c1cf24ef-4f32-54e0-bada-ce984af22399

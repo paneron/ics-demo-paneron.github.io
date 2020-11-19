@@ -6,9 +6,9 @@ data:
     of medical devices.
   fieldcode: '11'
   groupcode: '100'
-  notes:
-  - ics-code: 07.100.10
-    text: Medical microbiology, see {ics-code}
+  relationships:
+  - to: 07.100.10
+    type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: e36f5665-789d-5aa2-b94a-d996e081d5fa

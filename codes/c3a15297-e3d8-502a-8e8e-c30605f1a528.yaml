@@ -6,6 +6,7 @@ data:
     controlled machines.
   fieldcode: '25'
   groupcode: '040'
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: c3a15297-e3d8-502a-8e8e-c30605f1a528

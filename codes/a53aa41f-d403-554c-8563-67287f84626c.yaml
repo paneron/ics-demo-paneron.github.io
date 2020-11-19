@@ -5,9 +5,9 @@ data:
   descriptionFull: Rubber and plastic industries. Rubber.
   fieldcode: '83'
   groupcode: '060'
-  notes:
-  - ics-code: 83.040.10
-    text: Latex and raw rubber, see {ics-code}
+  relationships:
+  - to: 83.040.10
+    type: related
 dateAccepted: 2018-11-17
 id: a53aa41f-d403-554c-8563-67287f84626c
 status: valid

@@ -6,8 +6,7 @@ data:
     IT applications in health care technology.
   fieldcode: '35'
   groupcode: '240'
-  notes:
-  - text: Including computer tomography
+  relationships: []
   subgroupcode: '80'
 dateAccepted: 2018-11-17
 id: 6d5459f7-5439-586e-97af-0c5b49b534f0

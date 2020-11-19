@@ -6,9 +6,9 @@ data:
     construction.
   fieldcode: '49'
   groupcode: '030'
-  notes:
-  - ics-code: '21.060'
-    text: Fasteners, see {ics-code}
+  relationships:
+  - to: '21.060'
+    type: related
 dateAccepted: 2018-11-17
 id: 8b0ae21e-d0ff-5ae7-9b9e-dadca18c3e07
 status: valid

@@ -6,8 +6,7 @@ data:
     electrical appliances in general.
   fieldcode: '97'
   groupcode: '030'
-  notes:
-  - text: Including water-bed heaters and electric blankets
+  relationships: []
 dateAccepted: 2018-11-17
 id: 174a9272-0d8d-5470-b7f5-8421e7245b42
 status: valid

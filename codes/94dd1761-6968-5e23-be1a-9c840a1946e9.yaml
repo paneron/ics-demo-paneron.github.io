@@ -5,9 +5,9 @@ data:
   descriptionFull: Natural and applied sciences. Microbiology. Medical microbiology.
   fieldcode: '07'
   groupcode: '100'
-  notes:
-  - ics-code: '11.100'
-    text: Laboratory medicine, see {ics-code}
+  relationships:
+  - to: '11.100'
+    type: related
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: 94dd1761-6968-5e23-be1a-9c840a1946e9

@@ -5,9 +5,7 @@ data:
   descriptionFull: Health care technology. Medical equipment. Ophthalmic equipment.
   fieldcode: '11'
   groupcode: '040'
-  notes:
-  - text: Including ophthalmic implants, glasses, contact lenses and their cleaning
-      products
+  relationships: []
   subgroupcode: '70'
 dateAccepted: 2018-11-17
 id: db25d411-8a7b-58c2-a29a-5667b67f286e

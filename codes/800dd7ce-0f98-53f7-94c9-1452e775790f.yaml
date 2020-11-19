@@ -5,6 +5,7 @@ data:
   descriptionFull: Manufacturing engineering. Hand-held tools. Pneumatic tools.
   fieldcode: '25'
   groupcode: '140'
+  relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: 800dd7ce-0f98-53f7-94c9-1452e775790f

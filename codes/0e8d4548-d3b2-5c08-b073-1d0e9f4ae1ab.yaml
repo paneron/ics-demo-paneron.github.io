@@ -5,8 +5,7 @@ data:
   descriptionFull: Metallurgy. Powder metallurgy.
   fieldcode: '77'
   groupcode: '160'
-  notes:
-  - text: Including sintered metal materials and hard metals
+  relationships: []
 dateAccepted: 2018-11-17
 id: 0e8d4548-d3b2-5c08-b073-1d0e9f4ae1ab
 status: valid

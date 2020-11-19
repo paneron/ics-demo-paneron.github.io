@@ -5,8 +5,7 @@ data:
   descriptionFull: Health care technology. First aid.
   fieldcode: '11'
   groupcode: '160'
-  notes:
-  - text: Including kits, equipment, facilities and medical transport for first aid
+  relationships: []
 dateAccepted: 2018-11-17
 id: e60d8e66-e5b3-55fc-b252-81a65d3800eb
 status: valid

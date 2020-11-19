@@ -5,9 +5,9 @@ data:
   descriptionFull: Aircraft and space vehicle engineering. Cargo equipment.
   fieldcode: '49'
   groupcode: '120'
-  notes:
-  - ics-code: 55.180.30
-    text: Air mode containers, pallets and nets, see {ics-code}
+  relationships:
+  - to: 55.180.30
+    type: related
 dateAccepted: 2018-11-17
 id: 6ff133f9-4f0e-58e6-9bdb-dbbb50250acd
 status: valid

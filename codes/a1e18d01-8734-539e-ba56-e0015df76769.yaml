@@ -5,14 +5,13 @@ data:
   descriptionFull: Petroleum and related technologies. Fuels. Gaseous fuels.
   fieldcode: '75'
   groupcode: '160'
-  notes:
-  - text: Including liquefied petroleum gases
-  - ics-code: 71.100.20
-    text: Gases for industrial application, see {ics-code}
-  - ics-code: 75.160.40
-    text: Biofuels, see {ics-code}
-  - ics-code: '75.060'
-    text: Natural gas, see {ics-code}
+  relationships:
+  - to: 71.100.20
+    type: related
+  - to: 75.160.40
+    type: related
+  - to: '75.060'
+    type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: a1e18d01-8734-539e-ba56-e0015df76769

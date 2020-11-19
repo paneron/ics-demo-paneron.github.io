@@ -6,8 +6,7 @@ data:
     measurements. Electroacoustics.
   fieldcode: '17'
   groupcode: '140'
-  notes:
-  - text: Including sound level meters
+  relationships: []
   subgroupcode: '50'
 dateAccepted: 2018-11-17
 id: 239d4676-4e05-51e9-8c7a-f6efad40ab0a

@@ -6,10 +6,9 @@ data:
     Inch screw threads.
   fieldcode: '21'
   groupcode: '040'
-  notes:
-  - text: Including Whitworth screw threads
-  - ics-code: 21.040.30
-    text: Special screw threads, see {ics-code}
+  relationships:
+  - to: 21.040.30
+    type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: 3d41d287-18e6-5697-936b-0d5526996701

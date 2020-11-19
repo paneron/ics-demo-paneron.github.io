@@ -6,10 +6,9 @@ data:
     Aids for blind or partially sighted people.
   fieldcode: '11'
   groupcode: '180'
-  notes:
-  - text: Including Braille
-  - ics-code: 11.040.70
-    text: Ophthalmic equipment, see {ics-code}
+  relationships:
+  - to: 11.040.70
+    type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: f01fbf67-b706-549d-ae64-ae0224ffabc3

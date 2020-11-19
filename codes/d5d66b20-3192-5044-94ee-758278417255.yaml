@@ -6,18 +6,17 @@ data:
     measurements. Optical measuring instruments.
   fieldcode: '17'
   groupcode: '180'
-  notes:
-  - text: Including spectroscopes, geodetic instruments, etc.
-  - ics-code: 11.040.70
-    text: Ophthalmic equipment, see {ics-code}
-  - ics-code: '31.260'
-    text: Optoelectronics. Laser equipment, see {ics-code}
-  - ics-code: '33.180'
-    text: Fibre optic communications, see {ics-code}
-  - ics-code: '37.020'
-    text: Optical equipment, see {ics-code}
-  - ics-code: 37.040.10
-    text: Photographic equipment. Projectors, see {ics-code}
+  relationships:
+  - to: 11.040.70
+    type: related
+  - to: '31.260'
+    type: related
+  - to: '33.180'
+    type: related
+  - to: '37.020'
+    type: related
+  - to: 37.040.10
+    type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: d5d66b20-3192-5044-94ee-758278417255

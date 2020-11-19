@@ -6,8 +6,7 @@ data:
     IT applications in science.
   fieldcode: '35'
   groupcode: '240'
-  notes:
-  - text: Including digital geographic information
+  relationships: []
   subgroupcode: '70'
 dateAccepted: 2018-11-17
 id: d6467223-e1b9-5ad3-a0df-12ab412459d8

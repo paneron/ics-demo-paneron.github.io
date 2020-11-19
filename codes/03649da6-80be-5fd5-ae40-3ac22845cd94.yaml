@@ -5,8 +5,7 @@ data:
   descriptionFull: Fluid systems and components for general use. Vacuum technology.
   fieldcode: '23'
   groupcode: '160'
-  notes:
-  - text: Including vacuum pumps
+  relationships: []
 dateAccepted: 2018-11-17
 id: 03649da6-80be-5fd5-ae40-3ac22845cd94
 status: valid

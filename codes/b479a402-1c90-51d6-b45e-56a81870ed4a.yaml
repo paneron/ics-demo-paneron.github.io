@@ -6,6 +6,7 @@ data:
     measurements. Noise emitted by machines and equipment.
   fieldcode: '17'
   groupcode: '140'
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: b479a402-1c90-51d6-b45e-56a81870ed4a

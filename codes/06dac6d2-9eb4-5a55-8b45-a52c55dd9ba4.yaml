@@ -5,8 +5,7 @@ data:
   descriptionFull: Testing. Particle size analysis. Sieving.
   fieldcode: '19'
   groupcode: '120'
-  notes:
-  - text: Including test sieves and porosimetry
+  relationships: []
 dateAccepted: 2018-11-17
 id: 06dac6d2-9eb4-5a55-8b45-a52c55dd9ba4
 status: valid

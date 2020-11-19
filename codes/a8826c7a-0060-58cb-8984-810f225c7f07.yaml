@@ -6,6 +6,7 @@ data:
     of composites.
   fieldcode: '59'
   groupcode: '100'
+  relationships: []
 dateAccepted: 2018-11-17
 id: a8826c7a-0060-58cb-8984-810f225c7f07
 status: valid

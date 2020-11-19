@@ -6,6 +6,7 @@ data:
     drawings. Technical drawings in general.
   fieldcode: '01'
   groupcode: '100'
+  relationships: []
   subgroupcode: '01'
 dateAccepted: 2018-11-17
 id: fc9c15f1-c948-5cc2-b7b6-0701ce3176f1

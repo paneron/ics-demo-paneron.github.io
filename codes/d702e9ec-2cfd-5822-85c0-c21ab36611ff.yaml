@@ -6,9 +6,9 @@ data:
     Waterproofing.
   fieldcode: '91'
   groupcode: '120'
-  notes:
-  - ics-code: 91.100.50
-    text: Binders. Sealing materials, see {ics-code}
+  relationships:
+  - to: 91.100.50
+    type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: d702e9ec-2cfd-5822-85c0-c21ab36611ff

@@ -6,8 +6,7 @@ data:
     Aids and adaptation for moving.
   fieldcode: '11'
   groupcode: '180'
-  notes:
-  - text: Including wheelchairs, walking sticks and lifting platforms
+  relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: be7067b4-8848-512a-a48a-f8cd0e84e675

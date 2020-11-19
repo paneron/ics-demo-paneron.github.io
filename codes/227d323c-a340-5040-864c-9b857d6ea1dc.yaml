@@ -5,11 +5,11 @@ data:
   descriptionFull: Metallurgy. Testing of metals. Mechanical testing of metals.
   fieldcode: '77'
   groupcode: '040'
-  notes:
-  - ics-code: '19.060'
-    text: Mechanical testing, see {ics-code}
-  - ics-code: 25.160.40
-    text: Welded joints and welds, see {ics-code}
+  relationships:
+  - to: '19.060'
+    type: related
+  - to: 25.160.40
+    type: related
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: 227d323c-a340-5040-864c-9b857d6ea1dc

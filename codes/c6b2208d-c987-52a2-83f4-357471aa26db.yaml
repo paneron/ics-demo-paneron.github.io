@@ -6,8 +6,7 @@ data:
     structures.
   fieldcode: '91'
   groupcode: 080
-  notes:
-  - text: Including the repair and protection of concrete products and structures
+  relationships: []
   subgroupcode: '40'
 dateAccepted: 2018-11-17
 id: c6b2208d-c987-52a2-83f4-357471aa26db

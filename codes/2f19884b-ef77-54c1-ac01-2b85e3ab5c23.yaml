@@ -5,6 +5,7 @@ data:
   descriptionFull: Metallurgy. Non-ferrous metals. Cadmium, cobalt and their alloys.
   fieldcode: '77'
   groupcode: '120'
+  relationships: []
   subgroupcode: '70'
 dateAccepted: 2018-11-17
 id: 2f19884b-ef77-54c1-ac01-2b85e3ab5c23

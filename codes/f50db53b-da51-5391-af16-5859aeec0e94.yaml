@@ -5,12 +5,11 @@ data:
   descriptionFull: Electrical engineering. Electric traction equipment.
   fieldcode: '29'
   groupcode: '280'
-  notes:
-  - text: Including railway electric fixed installations
-  - ics-code: '43.120'
-    text: Electric road vehicles, see {ics-code}
-  - ics-code: 45.060.10
-    text: Tractive stock, see {ics-code}
+  relationships:
+  - to: '43.120'
+    type: related
+  - to: 45.060.10
+    type: related
 dateAccepted: 2018-11-17
 id: f50db53b-da51-5391-af16-5859aeec0e94
 status: valid

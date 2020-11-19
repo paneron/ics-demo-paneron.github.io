@@ -5,8 +5,7 @@ data:
   descriptionFull: Food technology. Fruits. Vegetables. Fruits and derived products.
   fieldcode: '67'
   groupcode: 080
-  notes:
-  - text: Including nuts
+  relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: d7c63da6-b349-553e-931e-7c4b60311661

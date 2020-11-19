@@ -6,9 +6,9 @@ data:
     vehicles.
   fieldcode: '43'
   groupcode: '060'
-  notes:
-  - ics-code: '27.020'
-    text: Internal combustion engines, see {ics-code}
+  relationships:
+  - to: '27.020'
+    type: related
 dateAccepted: 2018-11-17
 id: e3b6cee1-a7a1-5232-aecd-c8b07f13e34d
 status: valid

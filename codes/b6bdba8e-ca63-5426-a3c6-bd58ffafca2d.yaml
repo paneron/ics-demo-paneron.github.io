@@ -6,6 +6,7 @@ data:
     fittings. Other shop fittings.
   fieldcode: '97'
   groupcode: '130'
+  relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17
 id: b6bdba8e-ca63-5426-a3c6-bd58ffafca2d

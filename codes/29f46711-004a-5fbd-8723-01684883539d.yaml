@@ -5,8 +5,7 @@ data:
   descriptionFull: Glass and ceramics industries. Refractories.
   fieldcode: '81'
   groupcode: 080
-  notes:
-  - text: Including ceramic refractories
+  relationships: []
 dateAccepted: 2018-11-17
 id: 29f46711-004a-5fbd-8723-01684883539d
 status: valid

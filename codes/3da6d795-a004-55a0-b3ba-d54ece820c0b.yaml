@@ -6,9 +6,9 @@ data:
     in general.
   fieldcode: '11'
   groupcode: '020'
-  notes:
-  - ics-code: '07.140'
-    text: Forensic science, see {ics-code}
+  relationships:
+  - to: '07.140'
+    type: related
 dateAccepted: 2018-11-17
 id: 3da6d795-a004-55a0-b3ba-d54ece820c0b
 status: valid

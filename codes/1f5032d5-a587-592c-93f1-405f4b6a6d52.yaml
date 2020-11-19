@@ -5,6 +5,7 @@ data:
   descriptionFull: Agriculture. Farming and forestry. Landscaping and silviculture.
   fieldcode: '65'
   groupcode: '020'
+  relationships: []
   subgroupcode: '40'
 dateAccepted: 2018-11-17
 id: 1f5032d5-a587-592c-93f1-405f4b6a6d52

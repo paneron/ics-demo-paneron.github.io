@@ -6,6 +6,7 @@ data:
     and other articulated joints.
   fieldcode: '21'
   groupcode: 080
+  relationships: []
 dateAccepted: 2018-11-17
 id: 949e2e38-8d5a-5747-b480-51bd389e4e3f
 status: valid

@@ -6,13 +6,13 @@ data:
     water.
   fieldcode: '13'
   groupcode: '060'
-  notes:
-  - ics-code: 67.160.20
-    text: Non-alcoholic beverages, see {ics-code}
-  - ics-code: 71.100.80
-    text: Chemicals for purification of water, see {ics-code}
-  - ics-code: 91.140.60
-    text: Water supply systems, see {ics-code}
+  relationships:
+  - to: 67.160.20
+    type: related
+  - to: 71.100.80
+    type: related
+  - to: 91.140.60
+    type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: 5527525f-21c9-5b70-8710-be6773e4123a

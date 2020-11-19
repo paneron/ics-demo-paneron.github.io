@@ -5,10 +5,9 @@ data:
   descriptionFull: Image technology. Document imaging applications.
   fieldcode: '37'
   groupcode: 080
-  notes:
-  - text: Including micrographic, electronic and optical applications
-  - ics-code: 35.220.30
-    text: Optical storage devices, see {ics-code}
+  relationships:
+  - to: 35.220.30
+    type: related
 dateAccepted: 2018-11-17
 id: 3eecbbbf-56f2-5faf-842e-10283d2966ed
 status: valid

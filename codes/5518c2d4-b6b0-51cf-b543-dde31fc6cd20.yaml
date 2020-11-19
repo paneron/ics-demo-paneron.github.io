@@ -5,10 +5,9 @@ data:
   descriptionFull: Textile and leather technology. Textile auxiliary materials.
   fieldcode: '59'
   groupcode: '040'
-  notes:
-  - text: Including feathers and down
-  - ics-code: 71.100.40
-    text: Surface active agents, see {ics-code}
+  relationships:
+  - to: 71.100.40
+    type: related
 dateAccepted: 2018-11-17
 id: 5518c2d4-b6b0-51cf-b543-dde31fc6cd20
 status: valid

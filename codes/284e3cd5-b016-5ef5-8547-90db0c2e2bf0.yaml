@@ -6,9 +6,9 @@ data:
     audiovisual engineering. Audio, video and audiovisual systems in general.
   fieldcode: '33'
   groupcode: '160'
-  notes:
-  - ics-code: 97.200.10
-    text: Theatre, stage and studio equipment, see {ics-code}
+  relationships:
+  - to: 97.200.10
+    type: related
   subgroupcode: '01'
 dateAccepted: 2018-11-17
 id: 284e3cd5-b016-5ef5-8547-90db0c2e2bf0

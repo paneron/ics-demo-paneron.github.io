@@ -5,11 +5,11 @@ data:
   descriptionFull: Food technology. Plants and equipment for the food industry.
   fieldcode: '67'
   groupcode: '260'
-  notes:
-  - ics-code: '27.200'
-    text: Refrigerating technology, see {ics-code}
-  - ics-code: 97.130.20
-    text: Commercial refrigerating appliances, see {ics-code}
+  relationships:
+  - to: '27.200'
+    type: related
+  - to: 97.130.20
+    type: related
 dateAccepted: 2018-11-17
 id: 1c653452-c4ed-52a3-b327-80796ad591ad
 status: valid

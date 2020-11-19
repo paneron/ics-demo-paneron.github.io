@@ -6,8 +6,7 @@ data:
     of water in general.
   fieldcode: '13'
   groupcode: '060'
-  notes:
-  - text: Including sampling
+  relationships: []
   subgroupcode: '45'
 dateAccepted: 2018-11-17
 id: 78364537-313d-5265-aeca-a15592412a1c

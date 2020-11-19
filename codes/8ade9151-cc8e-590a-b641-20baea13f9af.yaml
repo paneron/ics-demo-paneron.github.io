@@ -6,6 +6,7 @@ data:
     Manufacturing engineering (Vocabularies).
   fieldcode: '01'
   groupcode: '040'
+  relationships: []
   subgroupcode: '25'
 dateAccepted: 2018-11-17
 id: 8ade9151-cc8e-590a-b641-20baea13f9af

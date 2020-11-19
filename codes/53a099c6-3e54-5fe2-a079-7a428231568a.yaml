@@ -6,8 +6,7 @@ data:
     products.
   fieldcode: '67'
   groupcode: '100'
-  notes:
-  - text: Including dried milk, condensed milk and evaporated milk
+  relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: 53a099c6-3e54-5fe2-a079-7a428231568a

@@ -6,11 +6,11 @@ data:
     accessories for telecommunications equipment.
   fieldcode: '33'
   groupcode: '120'
-  notes:
-  - ics-code: 31.220.10
-    text: Plug-and-socket devices. Connectors, see {ics-code}
-  - ics-code: 31.220.20
-    text: Switches, see {ics-code}
+  relationships:
+  - to: 31.220.10
+    type: related
+  - to: 31.220.20
+    type: related
 dateAccepted: 2018-11-17
 id: aeec95e1-d75b-5bae-9369-5c5b3f91cb2c
 status: valid

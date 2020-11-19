@@ -6,6 +6,7 @@ data:
     and agrochemicals.
   fieldcode: '65'
   groupcode: '100'
+  relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17
 id: 4af6767a-b951-5255-a328-108786e0094f

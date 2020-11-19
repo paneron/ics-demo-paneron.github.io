@@ -6,8 +6,7 @@ data:
     vehicles. Electrical and electronic equipment. Control systems.
   fieldcode: '43'
   groupcode: '060'
-  notes:
-  - text: Including ignition systems and starter motors
+  relationships: []
   subgroupcode: '50'
 dateAccepted: 2018-11-17
 id: d2d67254-ec91-52a6-ad50-564922c396b7

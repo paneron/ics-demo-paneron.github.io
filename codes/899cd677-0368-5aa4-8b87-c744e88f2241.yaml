@@ -6,8 +6,7 @@ data:
     and concrete products.
   fieldcode: '91'
   groupcode: '100'
-  notes:
-  - text: Including admixtures
+  relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: 899cd677-0368-5aa4-8b87-c744e88f2241

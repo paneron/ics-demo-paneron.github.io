@@ -5,16 +5,15 @@ data:
   descriptionFull: Manufacturing engineering. Surface treatment and coating.
   fieldcode: '25'
   groupcode: '220'
-  notes:
-  - text: Including processes and equipment for surface treatment and coating
-  - ics-code: '25.200'
-    text: Heat treatment, see {ics-code}
-  - ics-code: '49.040'
-    text: Coatings and related processes used in aerospace industry, see {ics-code}
-  - ics-code: '77.060'
-    text: Corrosion of metals, see {ics-code}
-  - ics-code: '87.020'
-    text: Paint coating processes, see {ics-code}
+  relationships:
+  - to: '25.200'
+    type: related
+  - to: '49.040'
+    type: related
+  - to: '77.060'
+    type: related
+  - to: '87.020'
+    type: related
 dateAccepted: 2018-11-17
 id: be8b9582-1cbe-5e4e-a644-a3b52145f30f
 status: valid

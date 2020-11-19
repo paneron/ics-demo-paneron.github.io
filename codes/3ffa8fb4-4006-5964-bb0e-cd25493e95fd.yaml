@@ -6,13 +6,11 @@ data:
     in general.
   fieldcode: '17'
   groupcode: '020'
-  notes:
-  - text: Including measuring instruments in general, preferred numbers, standard
-      measures, general aspects of reference materials, etc.
-  - ics-code: '01.060'
-    text: Quantities and units, see {ics-code}
-  - ics-code: 71.040.30
-    text: Chemical reagents, see {ics-code}
+  relationships:
+  - to: '01.060'
+    type: related
+  - to: 71.040.30
+    type: related
 dateAccepted: 2018-11-17
 id: 3ffa8fb4-4006-5964-bb0e-cd25493e95fd
 status: valid

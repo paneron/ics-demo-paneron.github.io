@@ -6,8 +6,7 @@ data:
     and reanimation equipment.
   fieldcode: '11'
   groupcode: '040'
-  notes:
-  - text: Including medical gas installations
+  relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: 9bd7d0ea-ab66-593b-90fd-a4ea94ae2d19

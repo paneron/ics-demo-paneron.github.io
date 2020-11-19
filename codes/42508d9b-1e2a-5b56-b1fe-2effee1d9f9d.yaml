@@ -6,8 +6,7 @@ data:
     equipment.
   fieldcode: '53'
   groupcode: '020'
-  notes:
-  - text: Including elevating work platforms
+  relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17
 id: 42508d9b-1e2a-5b56-b1fe-2effee1d9f9d

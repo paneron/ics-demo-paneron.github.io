@@ -5,10 +5,9 @@ data:
   descriptionFull: Construction materials and building. Elements of buildings.
   fieldcode: '91'
   groupcode: '060'
-  notes:
-  - ics-code: '93.020'
-    text: Earthworks. Excavations. Foundation construction. Underground works, see
-      {ics-code}
+  relationships:
+  - to: '93.020'
+    type: related
 dateAccepted: 2018-11-17
 id: b0a0defb-dcff-5c7a-a37e-e2987780eb45
 status: valid

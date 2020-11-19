@@ -6,9 +6,9 @@ data:
     terminal equipment. Equipment for telex, teletext, telefax.
   fieldcode: '33'
   groupcode: '050'
-  notes:
-  - ics-code: '35.180'
-    text: IT terminal and other peripheral equipment, see {ics-code}
+  relationships:
+  - to: '35.180'
+    type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: 04a744a7-f487-5640-96f6-5fc6d6d915ad

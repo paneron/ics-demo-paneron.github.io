@@ -6,9 +6,7 @@ data:
     protective equipment.
   fieldcode: '13'
   groupcode: '340'
-  notes:
-  - text: Including helmets, eye-protectors, hearing protectors, ear muffs, teeth
-      protectors and hoods.
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: 50c509f6-69ee-5e3e-b150-1f0f3c742740

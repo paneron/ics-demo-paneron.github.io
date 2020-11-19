@@ -6,6 +6,7 @@ data:
     Lightning protection.
   fieldcode: '91'
   groupcode: '120'
+  relationships: []
   subgroupcode: '40'
 dateAccepted: 2018-11-17
 id: 27fba3ca-3d9f-52a3-8514-1800703aa46f

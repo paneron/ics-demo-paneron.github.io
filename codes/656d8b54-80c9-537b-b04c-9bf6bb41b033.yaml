@@ -6,10 +6,9 @@ data:
     specific use.
   fieldcode: '77'
   groupcode: '140'
-  notes:
-  - text: Including hollow steel bars and sections for construction
-  - ics-code: 23.040.10
-    text: Iron and steel pipes, see {ics-code}
+  relationships:
+  - to: 23.040.10
+    type: related
   subgroupcode: '75'
 dateAccepted: 2018-11-17
 id: 656d8b54-80c9-537b-b04c-9bf6bb41b033

@@ -5,8 +5,7 @@ data:
   descriptionFull: Chemical technology. Inorganic chemicals. Oxides.
   fieldcode: '71'
   groupcode: '060'
-  notes:
-  - text: Including dioxides, peroxides, etc.
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: 6b5bbd4c-52e0-513d-beca-71226a2f2cac

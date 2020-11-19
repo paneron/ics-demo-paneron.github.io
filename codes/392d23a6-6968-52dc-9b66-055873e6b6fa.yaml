@@ -6,9 +6,9 @@ data:
     engines.
   fieldcode: '27'
   groupcode: '040'
-  notes:
-  - ics-code: '27.140'
-    text: Hydraulic energy engineering, see {ics-code}
+  relationships:
+  - to: '27.140'
+    type: related
 dateAccepted: 2018-11-17
 id: 392d23a6-6968-52dc-9b66-055873e6b6fa
 status: valid

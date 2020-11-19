@@ -4,6 +4,7 @@ data:
   description: Glass and ceramics industries
   descriptionFull: ''
   fieldcode: '81'
+  relationships: []
 dateAccepted: 2018-11-17
 id: c5e8aa83-4b35-5e26-9e46-694bbaa32b8a
 status: valid

@@ -6,8 +6,7 @@ data:
     audiovisual engineering. Accessories.
   fieldcode: '33'
   groupcode: '160'
-  notes:
-  - text: Including headphones, loudspeakers, microphones, etc.
+  relationships: []
   subgroupcode: '50'
 dateAccepted: 2018-11-17
 id: 65fef038-64f6-5ae3-8358-023f54916af3

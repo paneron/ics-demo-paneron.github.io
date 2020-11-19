@@ -6,8 +6,7 @@ data:
     Transport. Sociology. Postal services.
   fieldcode: '03'
   groupcode: '240'
-  notes:
-  - text: Including postal equipment, post-boxes and letter-boxes, etc.
+  relationships: []
 dateAccepted: 2018-11-17
 id: 820ce2bc-e668-5bcb-b18a-f3489c2fdb10
 status: valid

@@ -5,11 +5,11 @@ data:
   descriptionFull: Road vehicles engineering. Commercial vehicles.
   fieldcode: '43'
   groupcode: 080
-  notes:
-  - ics-code: '43.040'
-    text: Road vehicle systems, see {ics-code}
-  - ics-code: 83.160.10
-    text: Road vehicle tyres, see {ics-code}
+  relationships:
+  - to: '43.040'
+    type: related
+  - to: 83.160.10
+    type: related
 dateAccepted: 2018-11-17
 id: 04ac75bc-d5e8-5f2d-836c-3e2b8c8d5742
 status: valid

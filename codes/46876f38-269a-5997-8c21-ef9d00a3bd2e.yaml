@@ -5,8 +5,7 @@ data:
   descriptionFull: Packaging and distribution of goods. Cans. Tins. Tubes.
   fieldcode: '55'
   groupcode: '120'
-  notes:
-  - text: Light gauge metal and plastics containers
+  relationships: []
 dateAccepted: 2018-11-17
 id: 46876f38-269a-5997-8c21-ef9d00a3bd2e
 status: valid

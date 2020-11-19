@@ -6,12 +6,11 @@ data:
     conservation in general.
   fieldcode: '27'
   groupcode: '015'
-  notes:
-  - text: Including energy audits
-  - ics-code: 03.100.70
-    text: Management systems, see {ics-code}
-  - ics-code: 91.120.10
-    text: Thermal insulation of buildings, see {ics-code}
+  relationships:
+  - to: 03.100.70
+    type: related
+  - to: 91.120.10
+    type: related
 dateAccepted: 2018-11-17
 id: 91e1bec5-7e06-5e07-a81c-364d3036a6b2
 status: valid

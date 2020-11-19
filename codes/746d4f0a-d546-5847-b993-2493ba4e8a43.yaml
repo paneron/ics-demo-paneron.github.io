@@ -6,6 +6,7 @@ data:
     for electrical equipment in general.
   fieldcode: '29'
   groupcode: '100'
+  relationships: []
   subgroupcode: '01'
 dateAccepted: 2018-11-17
 id: 746d4f0a-d546-5847-b993-2493ba4e8a43

@@ -6,6 +6,7 @@ data:
     Aids for disabled and handicapped persons in general.
   fieldcode: '11'
   groupcode: '180'
+  relationships: []
   subgroupcode: '01'
 dateAccepted: 2018-11-17
 id: 759f4925-fc15-5914-a9d5-b3571fa1f7ee

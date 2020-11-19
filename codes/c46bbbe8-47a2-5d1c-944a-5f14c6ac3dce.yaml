@@ -6,16 +6,13 @@ data:
     Transport. Sociology. Services. Services for consumers.
   fieldcode: '03'
   groupcode: 080
-  notes:
-  - text: Including hotels, restaurants, washing, cleaning, removals, funerals, real
-      estate, vehicle repair and servicing, furniture removals, services for elderly,
-      sheltered housing services for elderly, sheltered housing, etc.
-  - ics-code: 11.020.10
-    text: Health care services in general, see {ics-code}
-  - ics-code: '03.220'
-    text: Transport, see {ics-code}
-  - ics-code: '97.020'
-    text: Home economics in general, see {ics-code}
+  relationships:
+  - to: 11.020.10
+    type: related
+  - to: '03.220'
+    type: related
+  - to: '97.020'
+    type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: c46bbbe8-47a2-5d1c-944a-5f14c6ac3dce

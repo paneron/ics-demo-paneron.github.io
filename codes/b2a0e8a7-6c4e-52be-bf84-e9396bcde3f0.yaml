@@ -5,8 +5,7 @@ data:
   descriptionFull: Electronics. Electronic display devices.
   fieldcode: '31'
   groupcode: '120'
-  notes:
-  - text: Including liquid crystal displays
+  relationships: []
 dateAccepted: 2018-11-17
 id: b2a0e8a7-6c4e-52be-bf84-e9396bcde3f0
 status: valid

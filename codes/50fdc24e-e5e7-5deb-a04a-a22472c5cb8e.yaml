@@ -5,9 +5,9 @@ data:
   descriptionFull: Electronics. Semiconductor devices.
   fieldcode: '31'
   groupcode: 080
-  notes:
-  - ics-code: '29.045'
-    text: Semiconducting materials, see {ics-code}
+  relationships:
+  - to: '29.045'
+    type: related
 dateAccepted: 2018-11-17
 id: 50fdc24e-e5e7-5deb-a04a-a22472c5cb8e
 status: valid

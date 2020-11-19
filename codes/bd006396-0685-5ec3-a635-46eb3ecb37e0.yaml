@@ -5,6 +5,7 @@ data:
   descriptionFull: Health care technology. Medical equipment.
   fieldcode: '11'
   groupcode: '040'
+  relationships: []
 dateAccepted: 2018-11-17
 id: bd006396-0685-5ec3-a635-46eb3ecb37e0
 status: valid

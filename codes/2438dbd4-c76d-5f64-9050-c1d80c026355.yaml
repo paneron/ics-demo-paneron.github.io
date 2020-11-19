@@ -5,9 +5,9 @@ data:
   descriptionFull: Civil engineering. Hydraulic construction.
   fieldcode: '93'
   groupcode: '160'
-  notes:
-  - ics-code: '27.140'
-    text: Hydraulic energy engineering, see {ics-code}
+  relationships:
+  - to: '27.140'
+    type: related
 dateAccepted: 2018-11-17
 id: 2438dbd4-c76d-5f64-9050-c1d80c026355
 status: valid

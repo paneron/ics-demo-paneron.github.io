@@ -6,6 +6,7 @@ data:
     temperature measurements. Other standards related to thermodynamics.
   fieldcode: '17'
   groupcode: '200'
+  relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17
 id: e3feeec6-11e9-544d-bb77-1960f3d77ff1

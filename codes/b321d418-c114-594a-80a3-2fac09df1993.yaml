@@ -6,8 +6,7 @@ data:
     Protection against fire in general.
   fieldcode: '13'
   groupcode: '220'
-  notes:
-  - text: Including fire safety
+  relationships: []
   subgroupcode: '01'
 dateAccepted: 2018-11-17
 id: b321d418-c114-594a-80a3-2fac09df1993

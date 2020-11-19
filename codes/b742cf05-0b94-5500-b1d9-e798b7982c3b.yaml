@@ -6,9 +6,9 @@ data:
     used in aerospace industry.
   fieldcode: '49'
   groupcode: '040'
-  notes:
-  - ics-code: '25.220'
-    text: Surface treatment and coating, see {ics-code}
+  relationships:
+  - to: '25.220'
+    type: related
 dateAccepted: 2018-11-17
 id: b742cf05-0b94-5500-b1d9-e798b7982c3b
 status: valid

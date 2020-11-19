@@ -6,8 +6,7 @@ data:
     audiovisual engineering. Video systems.
   fieldcode: '33'
   groupcode: '160'
-  notes:
-  - text: Including video tape recorders, cameras, cassettes, laser disks, etc.
+  relationships: []
   subgroupcode: '40'
 dateAccepted: 2018-11-17
 id: 06f9403f-50d9-52ae-b26a-13de601c52c0

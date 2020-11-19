@@ -6,13 +6,13 @@ data:
     Drainage systems.
   fieldcode: '91'
   groupcode: '140'
-  notes:
-  - ics-code: 13.060.30
-    text: Sewage water, see {ics-code}
-  - ics-code: 91.060.20
-    text: Roofs, see {ics-code}
-  - ics-code: '93.030'
-    text: External sewage systems, see {ics-code}
+  relationships:
+  - to: 13.060.30
+    type: related
+  - to: 91.060.20
+    type: related
+  - to: '93.030'
+    type: related
   subgroupcode: '80'
 dateAccepted: 2018-11-17
 id: 13a829a2-65b8-55d3-a10c-c06fa182c6b3

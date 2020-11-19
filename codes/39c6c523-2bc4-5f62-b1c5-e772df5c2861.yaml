@@ -5,8 +5,7 @@ data:
   descriptionFull: Rubber and plastic industries. Tyres.
   fieldcode: '83'
   groupcode: '160'
-  notes:
-  - text: Including tubes and valves
+  relationships: []
 dateAccepted: 2018-11-17
 id: 39c6c523-2bc4-5f62-b1c5-e772df5c2861
 status: valid

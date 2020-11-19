@@ -6,6 +6,7 @@ data:
     products.
   fieldcode: '77'
   groupcode: '150'
+  relationships: []
   subgroupcode: '60'
 dateAccepted: 2018-11-17
 id: aa5f3c77-43a4-51bf-8f01-51df32c69003

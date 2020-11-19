@@ -5,6 +5,7 @@ data:
   descriptionFull: Energy and heat transfer engineering. Fuel cells.
   fieldcode: '27'
   groupcode: '070'
+  relationships: []
 dateAccepted: 2018-11-17
 id: be0d444d-0676-5db3-bf0e-4ebfba56d1af
 status: valid

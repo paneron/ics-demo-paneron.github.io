@@ -5,6 +5,7 @@ data:
   descriptionFull: Electronics. Electronic tubes.
   fieldcode: '31'
   groupcode: '100'
+  relationships: []
 dateAccepted: 2018-11-17
 id: 899ddab7-a193-548c-9474-c9b32e36319e
 status: valid

@@ -5,12 +5,11 @@ data:
   descriptionFull: Civil engineering. External water conveyance systems.
   fieldcode: '93'
   groupcode: '025'
-  notes:
-  - text: Including buried and above ground installations
-  - ics-code: 23.040.03
-    text: Pipelines and its parts for external water conveyance systems, see {ics-code}
-  - ics-code: 91.140.60
-    text: Water supply systems, see {ics-code}
+  relationships:
+  - to: 23.040.03
+    type: related
+  - to: 91.140.60
+    type: related
 dateAccepted: 2018-11-17
 id: 69e4c6b9-3ebd-5db3-84fa-dbd8ef0e477a
 status: valid

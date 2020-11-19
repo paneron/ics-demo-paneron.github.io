@@ -5,9 +5,7 @@ data:
   descriptionFull: Health care technology. Hospital equipment.
   fieldcode: '11'
   groupcode: '140'
-  notes:
-  - text: Including hospital beds, surgical tables, medical garments, medical gloves,
-      containers for sharp disposal, etc.
+  relationships: []
 dateAccepted: 2018-11-17
 id: 16941ef7-4dfc-5f41-ba13-ae04555d568d
 status: valid

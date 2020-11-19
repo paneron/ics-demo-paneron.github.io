@@ -5,12 +5,11 @@ data:
   descriptionFull: Construction materials and building. Buildings. Buildings in general.
   fieldcode: '91'
   groupcode: '040'
-  notes:
-  - text: Including building environment design and service life planning
-  - ics-code: '91.100'
-    text: Construction materials, see {ics-code}
-  - ics-code: '97.195'
-    text: Items of art and handicrafts. Cultural property and heritage, see {ics-code}
+  relationships:
+  - to: '91.100'
+    type: related
+  - to: '97.195'
+    type: related
   subgroupcode: '01'
 dateAccepted: 2018-11-17
 id: ef3f129d-6f65-591b-9b50-2e1a475c01c1

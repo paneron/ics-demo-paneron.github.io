@@ -6,6 +6,7 @@ data:
     Piping and couplings.
   fieldcode: '23'
   groupcode: '100'
+  relationships: []
   subgroupcode: '40'
 dateAccepted: 2018-11-17
 id: b5b79212-3e85-5043-91de-5298951045a1

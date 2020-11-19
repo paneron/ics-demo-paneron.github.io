@@ -6,6 +6,7 @@ data:
     Substations. Surge arresters.
   fieldcode: '29'
   groupcode: '240'
+  relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: badac3d6-4b4f-574d-979f-93eee7e8b7e3

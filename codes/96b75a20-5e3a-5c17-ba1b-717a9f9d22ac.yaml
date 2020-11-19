@@ -6,8 +6,7 @@ data:
     related to wastes.
   fieldcode: '13'
   groupcode: '030'
-  notes:
-  - text: Including waste prevention
+  relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17
 id: 96b75a20-5e3a-5c17-ba1b-717a9f9d22ac

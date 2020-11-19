@@ -7,6 +7,7 @@ data:
     Accountancy.
   fieldcode: '03'
   groupcode: '100'
+  relationships: []
   subgroupcode: '60'
 dateAccepted: 2018-11-17
 id: 4e51ad02-e333-58df-b611-45f4e9d87c11

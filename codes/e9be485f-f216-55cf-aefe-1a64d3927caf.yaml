@@ -6,8 +6,7 @@ data:
     and sheets.
   fieldcode: '83'
   groupcode: '140'
-  notes:
-  - text: Including plates
+  relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: e9be485f-f216-55cf-aefe-1a64d3927caf

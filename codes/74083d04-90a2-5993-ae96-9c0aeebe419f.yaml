@@ -6,6 +6,7 @@ data:
     conditions.
   fieldcode: '29'
   groupcode: '260'
+  relationships: []
 dateAccepted: 2018-11-17
 id: 74083d04-90a2-5993-ae96-9c0aeebe419f
 status: valid

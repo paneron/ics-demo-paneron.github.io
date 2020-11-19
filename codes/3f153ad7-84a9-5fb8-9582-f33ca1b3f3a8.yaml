@@ -6,8 +6,7 @@ data:
     pressure.
   fieldcode: '13'
   groupcode: '240'
-  notes:
-  - text: Including safety valves, bursting disc devices, etc.
+  relationships: []
 dateAccepted: 2018-11-17
 id: 3f153ad7-84a9-5fb8-9582-f33ca1b3f3a8
 status: valid

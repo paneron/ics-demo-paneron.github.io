@@ -5,8 +5,7 @@ data:
   descriptionFull: Glass and ceramics industries. Ceramics.
   fieldcode: '81'
   groupcode: '060'
-  notes:
-  - text: Including glass-ceramics
+  relationships: []
 dateAccepted: 2018-11-17
 id: 6b8176cb-2acc-5b64-8190-2f1d2a10d0c1
 status: valid

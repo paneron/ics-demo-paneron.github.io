@@ -5,8 +5,7 @@ data:
   descriptionFull: Domestic and commercial equipment. Entertainment. Sports. Furniture.
   fieldcode: '97'
   groupcode: '140'
-  notes:
-  - text: Including upholstery, mattresses, office furniture, school furniture, etc.
+  relationships: []
 dateAccepted: 2018-11-17
 id: 8e2a74fe-93e1-56a1-8b9e-eff0565d9aa3
 status: valid

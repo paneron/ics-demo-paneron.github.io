@@ -6,6 +6,7 @@ data:
     and components.
   fieldcode: '49'
   groupcode: 080
+  relationships: []
 dateAccepted: 2018-11-17
 id: 5d61e86f-72c2-56c1-8603-96c63015e528
 status: valid

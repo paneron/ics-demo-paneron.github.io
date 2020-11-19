@@ -6,14 +6,13 @@ data:
     Thermal insulation of buildings.
   fieldcode: '91'
   groupcode: '120'
-  notes:
-  - text: Including energy efficiency of buildings
-  - ics-code: '27.015'
-    text: Energy efficiency. Energy conservation in general, see {ics-code}
-  - ics-code: '27.220'
-    text: Heat recovery. Thermal insulation, see {ics-code}
-  - ics-code: 91.100.60
-    text: Thermal and sound insulating materials, see {ics-code}
+  relationships:
+  - to: '27.015'
+    type: related
+  - to: '27.220'
+    type: related
+  - to: 91.100.60
+    type: related
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: 17bedb0f-d398-5ff5-9527-86c317c787a8

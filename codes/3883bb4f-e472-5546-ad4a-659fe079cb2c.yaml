@@ -5,6 +5,7 @@ data:
   descriptionFull: Metallurgy. Production of metals.
   fieldcode: '77'
   groupcode: '020'
+  relationships: []
 dateAccepted: 2018-11-17
 id: 3883bb4f-e472-5546-ad4a-659fe079cb2c
 status: valid

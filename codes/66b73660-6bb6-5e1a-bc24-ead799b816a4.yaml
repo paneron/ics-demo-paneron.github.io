@@ -5,8 +5,7 @@ data:
   descriptionFull: Packaging and distribution of goods. Distribution and vending machines.
   fieldcode: '55'
   groupcode: '230'
-  notes:
-  - text: Including distribution of tickets, food, beverages, tobacco products, etc.
+  relationships: []
 dateAccepted: 2018-11-17
 id: 66b73660-6bb6-5e1a-bc24-ead799b816a4
 status: valid

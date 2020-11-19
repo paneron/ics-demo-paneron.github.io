@@ -6,8 +6,7 @@ data:
     for entertainment. Playgrounds.
   fieldcode: '97'
   groupcode: '200'
-  notes:
-  - text: Including amusement rides and devices
+  relationships: []
   subgroupcode: '40'
 dateAccepted: 2018-11-17
 id: 53870982-bbd7-5d3d-8d8a-94b336a57f4d

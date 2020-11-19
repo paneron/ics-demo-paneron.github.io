@@ -5,9 +5,9 @@ data:
   descriptionFull: Mechanical systems and components for general use. Seals, glands.
   fieldcode: '21'
   groupcode: '140'
-  notes:
-  - ics-code: 23.040.80
-    text: Seals for pipe and hose assemblies, see {ics-code}
+  relationships:
+  - to: 23.040.80
+    type: related
 dateAccepted: 2018-11-17
 id: a3d0f3ed-2ebe-5016-82b2-9996376b4c63
 status: valid

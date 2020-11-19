@@ -6,10 +6,9 @@ data:
     aspects.
   fieldcode: '91'
   groupcode: '010'
-  notes:
-  - text: Including tolerances, modular coordination, etc.
-  - ics-code: 01.100.30
-    text: Construction drawings, see {ics-code}
+  relationships:
+  - to: 01.100.30
+    type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: 5766100f-58b9-5c97-a99a-7b748178504b

@@ -6,8 +6,7 @@ data:
     of analysis.
   fieldcode: '71'
   groupcode: '040'
-  notes:
-  - text: Including spectrophotometric and chromatographic analysis
+  relationships: []
   subgroupcode: '50'
 dateAccepted: 2018-11-17
 id: 67052db8-aae7-57d8-bafc-4ee19ee6d109

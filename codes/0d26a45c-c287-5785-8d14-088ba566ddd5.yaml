@@ -6,8 +6,7 @@ data:
     and urine.
   fieldcode: '11'
   groupcode: '100'
-  notes:
-  - text: Including doping control
+  relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: 0d26a45c-c287-5785-8d14-088ba566ddd5

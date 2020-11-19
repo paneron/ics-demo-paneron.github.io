@@ -5,9 +5,9 @@ data:
   descriptionFull: Electrical engineering. Magnetic materials.
   fieldcode: '29'
   groupcode: '030'
-  notes:
-  - ics-code: 77.140.40
-    text: Steels with special magnetic properties, see {ics-code}
+  relationships:
+  - to: 77.140.40
+    type: related
 dateAccepted: 2018-11-17
 id: 0c59a588-54d5-5f87-8722-3e42b88e1dc7
 status: valid

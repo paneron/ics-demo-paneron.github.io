@@ -5,10 +5,9 @@ data:
   descriptionFull: Environment. Health protection. Safety. Accident and disaster control.
   fieldcode: '13'
   groupcode: '200'
-  notes:
-  - text: Including emergency evacuations and emergency control systems
-  - ics-code: 91.120.25
-    text: Seismic and vibration protection, see {ics-code}
+  relationships:
+  - to: 91.120.25
+    type: related
 dateAccepted: 2018-11-17
 id: e7cee539-d165-5d40-a2a0-41065ed62b54
 status: valid

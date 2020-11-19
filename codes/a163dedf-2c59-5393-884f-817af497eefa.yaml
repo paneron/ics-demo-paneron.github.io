@@ -6,8 +6,7 @@ data:
     On board computer systems.
   fieldcode: '43'
   groupcode: '040'
-  notes:
-  - text: Including navigation systems, car radio, etc.
+  relationships: []
   subgroupcode: '15'
 dateAccepted: 2018-11-17
 id: a163dedf-2c59-5393-884f-817af497eefa

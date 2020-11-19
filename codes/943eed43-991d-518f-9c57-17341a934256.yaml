@@ -5,11 +5,11 @@ data:
   descriptionFull: Agriculture. Farming and forestry.
   fieldcode: '65'
   groupcode: '020'
-  notes:
-  - ics-code: '13.080'
-    text: Soil quality. Pedology, see {ics-code}
-  - ics-code: '79.020'
-    text: Wood technology processes, see {ics-code}
+  relationships:
+  - to: '13.080'
+    type: related
+  - to: '79.020'
+    type: related
 dateAccepted: 2018-11-17
 id: 943eed43-991d-518f-9c57-17341a934256
 status: valid

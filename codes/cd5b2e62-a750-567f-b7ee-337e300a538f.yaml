@@ -6,6 +6,7 @@ data:
     Shafts.
   fieldcode: '21'
   groupcode: '120'
+  relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: cd5b2e62-a750-567f-b7ee-337e300a538f

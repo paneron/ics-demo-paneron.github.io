@@ -6,8 +6,7 @@ data:
     construction. Textiles.
   fieldcode: '49'
   groupcode: '025'
-  notes:
-  - text: Including textile glass and coated fabrics
+  relationships: []
   subgroupcode: '60'
 dateAccepted: 2018-11-17
 id: f8a35484-e73c-57c5-b1fe-6aa67ab1fe1f

@@ -5,8 +5,7 @@ data:
   descriptionFull: Packaging and distribution of goods. Cases. Boxes. Crates.
   fieldcode: '55'
   groupcode: '160'
-  notes:
-  - text: Containers for solid goods or objects and bulk materials
+  relationships: []
 dateAccepted: 2018-11-17
 id: 4f4d68a3-e710-57e3-9e65-574ad7349842
 status: valid

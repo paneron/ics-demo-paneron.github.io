@@ -6,6 +6,7 @@ data:
     measurements. Linear and angular measurements in general.
   fieldcode: '17'
   groupcode: '040'
+  relationships: []
   subgroupcode: '01'
 dateAccepted: 2018-11-17
 id: 35119fc3-8c5e-5435-b3be-b3c14b26321a

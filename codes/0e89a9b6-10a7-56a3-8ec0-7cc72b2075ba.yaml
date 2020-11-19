@@ -6,6 +6,7 @@ data:
     vehicles. Fuel systems.
   fieldcode: '43'
   groupcode: '060'
+  relationships: []
   subgroupcode: '40'
 dateAccepted: 2018-11-17
 id: 0e89a9b6-10a7-56a3-8ec0-7cc72b2075ba

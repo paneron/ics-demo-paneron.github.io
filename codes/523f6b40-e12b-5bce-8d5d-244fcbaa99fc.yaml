@@ -5,8 +5,7 @@ data:
   descriptionFull: Railway engineering. Cableway equipment.
   fieldcode: '45'
   groupcode: '100'
-  notes:
-  - text: Including ropeway equipment
+  relationships: []
 dateAccepted: 2018-11-17
 id: 523f6b40-e12b-5bce-8d5d-244fcbaa99fc
 status: valid

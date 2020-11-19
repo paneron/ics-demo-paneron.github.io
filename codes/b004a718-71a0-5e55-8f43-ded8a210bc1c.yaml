@@ -6,10 +6,9 @@ data:
     and arm protection.
   fieldcode: '13'
   groupcode: '340'
-  notes:
-  - text: Including protective gloves, sleeves and mits
-  - ics-code: '11.140'
-    text: Hospital equipment, see {ics-code}
+  relationships:
+  - to: '11.140'
+    type: related
   subgroupcode: '40'
 dateAccepted: 2018-11-17
 id: b004a718-71a0-5e55-8f43-ded8a210bc1c

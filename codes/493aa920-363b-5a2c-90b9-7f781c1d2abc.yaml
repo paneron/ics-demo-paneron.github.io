@@ -5,6 +5,7 @@ data:
   descriptionFull: Electrical engineering. Electrical wires and cables.
   fieldcode: '29'
   groupcode: '060'
+  relationships: []
 dateAccepted: 2018-11-17
 id: 493aa920-363b-5a2c-90b9-7f781c1d2abc
 status: valid

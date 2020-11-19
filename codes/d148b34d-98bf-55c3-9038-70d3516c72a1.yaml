@@ -6,8 +6,7 @@ data:
     consumables.
   fieldcode: '25'
   groupcode: '160'
-  notes:
-  - text: Including electrodes, filler metals, gases, etc.
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: d148b34d-98bf-55c3-9038-70d3516c72a1

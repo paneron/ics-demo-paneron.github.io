@@ -6,8 +6,7 @@ data:
     Paging systems.
   fieldcode: '33'
   groupcode: '070'
-  notes:
-  - text: Including European Radio Message System (ERMES)
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: f16c755d-f4a1-5061-906d-c0f9cb15cb8d

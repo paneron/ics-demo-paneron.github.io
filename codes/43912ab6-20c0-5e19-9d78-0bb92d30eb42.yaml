@@ -5,8 +5,7 @@ data:
   descriptionFull: Construction materials and building. External structures.
   fieldcode: '91'
   groupcode: 090
-  notes:
-  - text: Including fences, gates, arches, sheds, garages, etc.
+  relationships: []
 dateAccepted: 2018-11-17
 id: 43912ab6-20c0-5e19-9d78-0bb92d30eb42
 status: valid

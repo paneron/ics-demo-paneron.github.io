@@ -5,8 +5,7 @@ data:
   descriptionFull: Construction materials and building. Elements of buildings. Roofs.
   fieldcode: '91'
   groupcode: '060'
-  notes:
-  - text: Including related elements (gutters, etc.)
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: bc25cec7-ec3d-5929-83c8-6ea6e5a63f80

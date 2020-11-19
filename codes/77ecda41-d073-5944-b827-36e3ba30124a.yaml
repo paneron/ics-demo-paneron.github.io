@@ -5,13 +5,11 @@ data:
   descriptionFull: Information technology. Networking.
   fieldcode: '35'
   groupcode: '110'
-  notes:
-  - text: Including local area networks (LAN), metropolitan area networks (MAN), wide
-      area networks (WAN), etc.
-  - ics-code: 33.040.35
-    text: Telephone networks, see {ics-code}
-  - ics-code: '33.080'
-    text: Integrated Services Digital Network (ISDN), see {ics-code}
+  relationships:
+  - to: 33.040.35
+    type: related
+  - to: '33.080'
+    type: related
 dateAccepted: 2018-11-17
 id: 77ecda41-d073-5944-b827-36e3ba30124a
 status: valid

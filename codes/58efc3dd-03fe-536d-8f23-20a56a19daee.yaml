@@ -6,6 +6,7 @@ data:
     measurements. Colours and measurement of light.
   fieldcode: '17'
   groupcode: '180'
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: 58efc3dd-03fe-536d-8f23-20a56a19daee

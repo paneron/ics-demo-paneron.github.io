@@ -6,9 +6,9 @@ data:
     Transport. Sociology. Transport.
   fieldcode: '03'
   groupcode: '220'
-  notes:
-  - ics-code: '13.300'
-    text: Protection against dangerous goods, see {ics-code}
+  relationships:
+  - to: '13.300'
+    type: related
 dateAccepted: 2018-11-17
 id: 4e1b4432-e5f0-5494-814b-23d1342aeca7
 status: valid

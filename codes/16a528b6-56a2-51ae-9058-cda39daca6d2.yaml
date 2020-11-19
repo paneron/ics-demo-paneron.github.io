@@ -5,9 +5,9 @@ data:
   descriptionFull: Image technology. Cinematography.
   fieldcode: '37'
   groupcode: '060'
-  notes:
-  - ics-code: 97.200.10
-    text: Theatre, stage and studio equipment, see {ics-code}
+  relationships:
+  - to: 97.200.10
+    type: related
 dateAccepted: 2018-11-17
 id: 16a528b6-56a2-51ae-9058-cda39daca6d2
 status: valid

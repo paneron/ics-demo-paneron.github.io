@@ -6,6 +6,7 @@ data:
     and staples.
   fieldcode: '21'
   groupcode: '060'
+  relationships: []
   subgroupcode: '70'
 dateAccepted: 2018-11-17
 id: 008680bc-1736-5555-baa7-de359745e7f8

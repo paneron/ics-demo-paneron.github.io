@@ -6,6 +6,7 @@ data:
     terminal equipment. Other telecommunication terminal equipment.
   fieldcode: '33'
   groupcode: '050'
+  relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17
 id: 5b249d28-d199-56c7-85cc-52d75a99e64f

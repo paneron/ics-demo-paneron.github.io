@@ -7,9 +7,9 @@ data:
     Trade. Commercial function. Marketing.
   fieldcode: '03'
   groupcode: '100'
-  notes:
-  - ics-code: 35.240.60
-    text: IT applications in transport, see {ics-code}
+  relationships:
+  - to: 35.240.60
+    type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: 223fc9f2-80e4-5d54-9794-bd0c7a9c1676

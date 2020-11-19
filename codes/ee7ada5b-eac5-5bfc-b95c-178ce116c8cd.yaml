@@ -6,6 +6,7 @@ data:
     and pipelines. Plastics pipes.
   fieldcode: '23'
   groupcode: '040'
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: ee7ada5b-eac5-5bfc-b95c-178ce116c8cd

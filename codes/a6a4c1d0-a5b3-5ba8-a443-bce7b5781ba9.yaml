@@ -6,8 +6,7 @@ data:
     Other standards related to soil quality.
   fieldcode: '13'
   groupcode: 080
-  notes:
-  - text: Including agricultural aspects related to soils and re-use of soil materials
+  relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17
 id: a6a4c1d0-a5b3-5ba8-a443-bce7b5781ba9

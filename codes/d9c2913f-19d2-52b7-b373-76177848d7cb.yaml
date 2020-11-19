@@ -6,8 +6,7 @@ data:
     mechanisms and their parts.
   fieldcode: '21'
   groupcode: '240'
-  notes:
-  - text: Including pistons, piston-rings, crankshafts, etc. for general engineering
+  relationships: []
 dateAccepted: 2018-11-17
 id: d9c2913f-19d2-52b7-b373-76177848d7cb
 status: valid

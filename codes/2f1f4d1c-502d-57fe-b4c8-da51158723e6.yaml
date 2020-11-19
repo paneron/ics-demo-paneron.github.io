@@ -6,10 +6,9 @@ data:
     IT applications in banking.
   fieldcode: '35'
   groupcode: '240'
-  notes:
-  - text: Including automatic banking facilities
-  - ics-code: 35.240.15
-    text: Identification cards. Chip cards. Biometrics, see {ics-code}
+  relationships:
+  - to: 35.240.15
+    type: related
   subgroupcode: '40'
 dateAccepted: 2018-11-17
 id: 2f1f4d1c-502d-57fe-b4c8-da51158723e6

@@ -6,9 +6,7 @@ data:
     appliances.
   fieldcode: '97'
   groupcode: 080
-  notes:
-  - text: Including vacuum cleaners, floor-cleaning machines, floor polishers, steam
-      cleaners, pressure cleaners, hand operated cleaners, etc.
+  relationships: []
 dateAccepted: 2018-11-17
 id: 2e822313-b641-5f43-ae4c-848d1970a694
 status: valid

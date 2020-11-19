@@ -5,6 +5,7 @@ data:
   descriptionFull: Information technology. Languages used in information technology.
   fieldcode: '35'
   groupcode: '060'
+  relationships: []
 dateAccepted: 2018-11-17
 id: 4dd81d2d-2bd7-5b73-bb5c-2cf60c5fc2cb
 status: valid

@@ -7,6 +7,7 @@ data:
     general.
   fieldcode: '75'
   groupcode: '180'
+  relationships: []
   subgroupcode: '01'
 dateAccepted: 2018-11-17
 id: 9f0d89b8-0e9a-5a6b-83e3-43184bfdf2dc

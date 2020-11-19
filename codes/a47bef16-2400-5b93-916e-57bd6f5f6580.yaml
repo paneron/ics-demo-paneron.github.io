@@ -6,9 +6,9 @@ data:
     Filters, seals and contamination of fluids.
   fieldcode: '23'
   groupcode: '100'
-  notes:
-  - ics-code: '75.120'
-    text: Hydraulic fluids, see {ics-code}
+  relationships:
+  - to: '75.120'
+    type: related
   subgroupcode: '60'
 dateAccepted: 2018-11-17
 id: a47bef16-2400-5b93-916e-57bd6f5f6580

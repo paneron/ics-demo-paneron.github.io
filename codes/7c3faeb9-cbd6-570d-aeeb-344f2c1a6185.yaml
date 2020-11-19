@@ -6,8 +6,7 @@ data:
     Examination of soils in general.
   fieldcode: '13'
   groupcode: 080
-  notes:
-  - text: Including sampling
+  relationships: []
   subgroupcode: '05'
 dateAccepted: 2018-11-17
 id: 7c3faeb9-cbd6-570d-aeeb-344f2c1a6185

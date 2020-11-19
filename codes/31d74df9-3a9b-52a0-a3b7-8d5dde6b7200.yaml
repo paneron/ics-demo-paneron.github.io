@@ -6,8 +6,7 @@ data:
     weight and pressure.
   fieldcode: '17'
   groupcode: '100'
-  notes:
-  - text: Including measuring and weighing instruments
+  relationships: []
 dateAccepted: 2018-11-17
 id: 31d74df9-3a9b-52a0-a3b7-8d5dde6b7200
 status: valid

@@ -6,8 +6,7 @@ data:
     Floors. Stairs.
   fieldcode: '91'
   groupcode: '060'
-  notes:
-  - text: Including screeds, ramps, etc.
+  relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: 4f24aeff-105c-5178-88c5-8c977008f0b3

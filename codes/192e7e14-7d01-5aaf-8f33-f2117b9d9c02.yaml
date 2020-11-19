@@ -6,10 +6,9 @@ data:
     mass, density, viscosity.
   fieldcode: '17'
   groupcode: '060'
-  notes:
-  - text: Including measuring instruments
-  - ics-code: 75.180.30
-    text: Volumetric equipment and measurements, see {ics-code}
+  relationships:
+  - to: 75.180.30
+    type: related
 dateAccepted: 2018-11-17
 id: 192e7e14-7d01-5aaf-8f33-f2117b9d9c02
 status: valid

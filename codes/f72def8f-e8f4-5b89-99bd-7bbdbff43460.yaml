@@ -6,8 +6,7 @@ data:
     Textile fabrics.
   fieldcode: '59'
   groupcode: 080
-  notes:
-  - text: Including nonwovens, felts, lace, etc.
+  relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: f72def8f-e8f4-5b89-99bd-7bbdbff43460

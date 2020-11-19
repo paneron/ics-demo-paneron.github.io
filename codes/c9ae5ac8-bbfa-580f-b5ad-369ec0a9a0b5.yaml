@@ -5,6 +5,7 @@ data:
   descriptionFull: Electronics. Semiconductor devices. Thyristors.
   fieldcode: '31'
   groupcode: 080
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: c9ae5ac8-bbfa-580f-b5ad-369ec0a9a0b5

@@ -6,8 +6,7 @@ data:
     Auxiliary materials and additives for plastics.
   fieldcode: '83'
   groupcode: '040'
-  notes:
-  - text: Including fillers, extenders, hardeners, pigments, plasticizers, etc.
+  relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: 24e6d2f7-1637-55e9-9819-1a56022ce014

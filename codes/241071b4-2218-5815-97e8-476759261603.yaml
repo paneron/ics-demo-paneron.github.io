@@ -6,8 +6,7 @@ data:
     Gas supply systems.
   fieldcode: '91'
   groupcode: '140'
-  notes:
-  - text: Including gas meters in buildings
+  relationships: []
   subgroupcode: '40'
 dateAccepted: 2018-11-17
 id: 241071b4-2218-5815-97e8-476759261603

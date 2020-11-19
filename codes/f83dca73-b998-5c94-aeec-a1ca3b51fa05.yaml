@@ -5,6 +5,7 @@ data:
   descriptionFull: Paper technology. Equipment for the paper industry.
   fieldcode: '85'
   groupcode: '100'
+  relationships: []
 dateAccepted: 2018-11-17
 id: f83dca73-b998-5c94-aeec-a1ca3b51fa05
 status: valid

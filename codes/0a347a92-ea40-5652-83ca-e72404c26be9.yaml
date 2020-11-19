@@ -6,6 +6,7 @@ data:
     Chemical technology (Vocabularies).
   fieldcode: '01'
   groupcode: '040'
+  relationships: []
   subgroupcode: '71'
 dateAccepted: 2018-11-17
 id: 0a347a92-ea40-5652-83ca-e72404c26be9

@@ -6,6 +6,7 @@ data:
     Materials handling equipment (Vocabularies).
   fieldcode: '01'
   groupcode: '040'
+  relationships: []
   subgroupcode: '53'
 dateAccepted: 2018-11-17
 id: dccdbc1d-0b6b-518b-9453-1abd58b6cf1f

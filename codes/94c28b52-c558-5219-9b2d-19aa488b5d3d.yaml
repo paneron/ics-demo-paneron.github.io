@@ -6,6 +6,7 @@ data:
     IT applications in transport.
   fieldcode: '35'
   groupcode: '240'
+  relationships: []
   subgroupcode: '60'
 dateAccepted: 2018-11-17
 id: 94c28b52-c558-5219-9b2d-19aa488b5d3d

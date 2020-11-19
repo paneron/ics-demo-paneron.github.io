@@ -7,8 +7,7 @@ data:
     and installations for processing and storage of agricultural produce.
   fieldcode: '65'
   groupcode: '040'
-  notes:
-  - text: Including slaughterhouses and related equipment
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: 46115e21-00da-5ae8-898e-b66e452448f8

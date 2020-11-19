@@ -6,8 +6,7 @@ data:
     equipment.
   fieldcode: '25'
   groupcode: '160'
-  notes:
-  - text: Including thermal cutting equipment
+  relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: f820f629-7280-5011-92fd-7fdf65b2b8e0

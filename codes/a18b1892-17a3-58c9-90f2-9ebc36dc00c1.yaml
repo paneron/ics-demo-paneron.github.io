@@ -5,8 +5,7 @@ data:
   descriptionFull: Materials handling equipment. Lifting equipment. Cranes.
   fieldcode: '53'
   groupcode: '020'
-  notes:
-  - text: Including mobile cranes, tower cranes, jib cranes, bridge cranes, etc.
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: a18b1892-17a3-58c9-90f2-9ebc36dc00c1

@@ -6,9 +6,9 @@ data:
     systems.
   fieldcode: '21'
   groupcode: '260'
-  notes:
-  - ics-code: '75.100'
-    text: Lubricants, industrial oils and related products, see {ics-code}
+  relationships:
+  - to: '75.100'
+    type: related
 dateAccepted: 2018-11-17
 id: 81a2ae39-f061-54e5-bf2c-1d22aa589fdd
 status: valid

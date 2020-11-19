@@ -6,10 +6,9 @@ data:
     Fissile materials and nuclear fuel technology.
   fieldcode: '27'
   groupcode: '120'
-  notes:
-  - text: Including raw materials
-  - ics-code: 13.030.30
-    text: Special wastes, see {ics-code}
+  relationships:
+  - to: 13.030.30
+    type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: e1902870-af3f-5b3c-878f-78325a11e0a8

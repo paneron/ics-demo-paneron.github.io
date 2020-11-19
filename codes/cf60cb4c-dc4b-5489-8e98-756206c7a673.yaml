@@ -6,9 +6,9 @@ data:
     for entertainment. Camping equipment and camp-sites.
   fieldcode: '97'
   groupcode: '200'
-  notes:
-  - ics-code: '43.100'
-    text: Passenger cars. Caravans and light trailers, see {ics-code}
+  relationships:
+  - to: '43.100'
+    type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: cf60cb4c-dc4b-5489-8e98-756206c7a673

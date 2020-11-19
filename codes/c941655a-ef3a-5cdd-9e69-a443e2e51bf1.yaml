@@ -6,8 +6,7 @@ data:
     systems.
   fieldcode: '29'
   groupcode: '140'
-  notes:
-  - text: Including supply track systems
+  relationships: []
   subgroupcode: '50'
 dateAccepted: 2018-11-17
 id: c941655a-ef3a-5cdd-9e69-a443e2e51bf1

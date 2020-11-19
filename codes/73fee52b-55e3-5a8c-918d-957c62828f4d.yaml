@@ -6,8 +6,7 @@ data:
     Fish and fishery products.
   fieldcode: '67'
   groupcode: '120'
-  notes:
-  - text: Including aquatic molluscs and other marine products
+  relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: 73fee52b-55e3-5a8c-918d-957c62828f4d

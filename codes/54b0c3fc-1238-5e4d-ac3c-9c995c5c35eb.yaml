@@ -5,10 +5,9 @@ data:
   descriptionFull: Food technology. Fruits. Vegetables.
   fieldcode: '67'
   groupcode: 080
-  notes:
-  - text: Including canned, dried and quick-frozen fruits and vegetables
-  - ics-code: 67.160.20
-    text: Non-alcoholic beverages, see {ics-code}
+  relationships:
+  - to: 67.160.20
+    type: related
 dateAccepted: 2018-11-17
 id: 54b0c3fc-1238-5e4d-ac3c-9c995c5c35eb
 status: valid

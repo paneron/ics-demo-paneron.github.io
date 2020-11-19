@@ -6,8 +6,7 @@ data:
     systems.
   fieldcode: '33'
   groupcode: '040'
-  notes:
-  - text: Including network (system) aspects
+  relationships: []
 dateAccepted: 2018-11-17
 id: e2c4d62d-2b3e-5819-93a9-81fab2f6fcae
 status: valid

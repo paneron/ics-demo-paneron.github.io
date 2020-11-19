@@ -5,6 +5,7 @@ data:
   descriptionFull: Electronics. Resistors.
   fieldcode: '31'
   groupcode: '040'
+  relationships: []
 dateAccepted: 2018-11-17
 id: 5cffcb0d-064e-5b79-8930-0dc680da6dbb
 status: valid

@@ -6,6 +6,7 @@ data:
     commercial and industrial heating appliances. Solid fuel heaters.
   fieldcode: '97'
   groupcode: '100'
+  relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: 2e84188b-183f-529c-a1b2-f1f8ad5d96b3

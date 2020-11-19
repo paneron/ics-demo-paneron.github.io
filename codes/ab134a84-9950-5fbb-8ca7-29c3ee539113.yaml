@@ -6,6 +6,7 @@ data:
     of physical properties of water.
   fieldcode: '13'
   groupcode: '060'
+  relationships: []
   subgroupcode: '60'
 dateAccepted: 2018-11-17
 id: ab134a84-9950-5fbb-8ca7-29c3ee539113

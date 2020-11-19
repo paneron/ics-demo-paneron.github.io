@@ -6,6 +6,7 @@ data:
     related to lamps.
   fieldcode: '29'
   groupcode: '140'
+  relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17
 id: cd0171f1-1100-5b6d-a4cd-a329537de88f

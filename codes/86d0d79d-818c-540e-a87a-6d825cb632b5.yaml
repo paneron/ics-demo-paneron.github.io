@@ -5,6 +5,7 @@ data:
   descriptionFull: Generalities. Terminology. Standardization. Documentation. Vocabularies.
   fieldcode: '01'
   groupcode: '040'
+  relationships: []
 dateAccepted: 2018-11-17
 id: 86d0d79d-818c-540e-a87a-6d825cb632b5
 status: valid

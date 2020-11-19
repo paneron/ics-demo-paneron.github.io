@@ -5,8 +5,7 @@ data:
   descriptionFull: Materials handling equipment. Earth-moving machinery.
   fieldcode: '53'
   groupcode: '100'
-  notes:
-  - text: Including tractors, excavators, loaders, graders, etc.
+  relationships: []
 dateAccepted: 2018-11-17
 id: 51d76e72-38e8-51f3-857b-048c28df2c64
 status: valid

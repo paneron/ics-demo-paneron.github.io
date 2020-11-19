@@ -6,15 +6,13 @@ data:
     equipment for waste disposal and treatment.
   fieldcode: '13'
   groupcode: '030'
-  notes:
-  - text: Including street cleaning equipment, waste containers, incineration and
-      compaction equipment, equipment for dumping of refuse, landfill sites, etc.
-  - ics-code: '43.160'
-    text: Special purpose vehicles, see {ics-code}
-  - ics-code: 91.140.70
-    text: Sanitary installations, see {ics-code}
-  - ics-code: 97.040.50
-    text: Small kitchen appliances, see {ics-code}
+  relationships:
+  - to: '43.160'
+    type: related
+  - to: 91.140.70
+    type: related
+  - to: 97.040.50
+    type: related
   subgroupcode: '40'
 dateAccepted: 2018-11-17
 id: e69c638f-301d-55eb-b017-7ae3bc766109

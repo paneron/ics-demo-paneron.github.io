@@ -6,6 +6,7 @@ data:
     standards related to farm buildings and installations.
   fieldcode: '65'
   groupcode: '040'
+  relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17
 id: c806c0ea-e64f-5780-abb4-8a5eaad7ec5c

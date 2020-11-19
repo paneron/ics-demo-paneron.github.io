@@ -5,9 +5,9 @@ data:
   descriptionFull: Electrical engineering. Power transmission and distribution networks.
   fieldcode: '29'
   groupcode: '240'
-  notes:
-  - ics-code: 91.140.50
-    text: Electricity supply systems, see {ics-code}
+  relationships:
+  - to: 91.140.50
+    type: related
 dateAccepted: 2018-11-17
 id: 29d40dac-6450-538b-90a2-74bbcc0580ec
 status: valid

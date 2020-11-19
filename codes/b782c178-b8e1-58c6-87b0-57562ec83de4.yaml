@@ -5,10 +5,9 @@ data:
   descriptionFull: Agriculture. Farming and forestry. Animal husbandry and breeding.
   fieldcode: '65'
   groupcode: '020'
-  notes:
-  - text: Including sanitary inspection
-  - ics-code: '11.220'
-    text: Veterinary medicine, see {ics-code}
+  relationships:
+  - to: '11.220'
+    type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: b782c178-b8e1-58c6-87b0-57562ec83de4

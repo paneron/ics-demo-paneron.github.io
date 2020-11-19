@@ -6,9 +6,7 @@ data:
     systems. Telephone networks.
   fieldcode: '33'
   groupcode: '040'
-  notes:
-  - text: Including Public Switched Telephone Networks (PSTN), Private Telecommunication
-      Networks (PTN) and Private Integrated Service Networks (PISN)
+  relationships: []
   subgroupcode: '35'
 dateAccepted: 2018-11-17
 id: 7b9c895e-e013-5860-be6b-6a78d3a81aec

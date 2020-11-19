@@ -5,8 +5,7 @@ data:
   descriptionFull: Food technology. Meat, meat products and other animal produce.
   fieldcode: '67'
   groupcode: '120'
-  notes:
-  - text: Including frozen products
+  relationships: []
 dateAccepted: 2018-11-17
 id: 5f5cfb12-b8be-5efa-b993-6059c2e14865
 status: valid

@@ -6,9 +6,9 @@ data:
     atmospheres.
   fieldcode: '13'
   groupcode: '040'
-  notes:
-  - ics-code: 11.080.01
-    text: Sterilization and disinfection in general, see {ics-code}
+  relationships:
+  - to: 11.080.01
+    type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: ba906de4-9add-5554-a8f4-1137ce6942c7

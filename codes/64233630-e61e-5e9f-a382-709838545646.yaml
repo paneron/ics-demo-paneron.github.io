@@ -6,9 +6,9 @@ data:
     Sludge.
   fieldcode: '13'
   groupcode: '030'
-  notes:
-  - ics-code: 13.060.30
-    text: Sewage water, see {ics-code}
+  relationships:
+  - to: 13.060.30
+    type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: 64233630-e61e-5e9f-a382-709838545646

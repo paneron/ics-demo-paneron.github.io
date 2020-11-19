@@ -5,6 +5,7 @@ data:
   descriptionFull: Metallurgy. Products of non-ferrous metals. Magnesium products.
   fieldcode: '77'
   groupcode: '150'
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: aff0374c-c7a5-5b02-bff2-6037d755400e

@@ -6,9 +6,9 @@ data:
     Nuclear power plants. Safety.
   fieldcode: '27'
   groupcode: '120'
-  notes:
-  - ics-code: '13.280'
-    text: Radiation protection, see {ics-code}
+  relationships:
+  - to: '13.280'
+    type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: 73323284-7666-52f6-9bd5-b98eabb099d0

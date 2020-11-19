@@ -6,9 +6,7 @@ data:
     Electricity supply systems.
   fieldcode: '91'
   groupcode: '140'
-  notes:
-  - text: Including electric energy meters in buildings, emergency electrical supplies,
-      etc.
+  relationships: []
   subgroupcode: '50'
 dateAccepted: 2018-11-17
 id: 7c7d41a2-8cc3-5af9-a312-6050921deef3

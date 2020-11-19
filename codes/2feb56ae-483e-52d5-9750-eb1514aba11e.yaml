@@ -6,8 +6,7 @@ data:
     symbols. Public information symbols. Signs. Plates. Labels.
   fieldcode: '01'
   groupcode: 080
-  notes:
-  - text: Including safety signs, safety colours, etc.
+  relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: 2feb56ae-483e-52d5-9750-eb1514aba11e

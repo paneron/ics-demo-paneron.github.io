@@ -6,6 +6,7 @@ data:
     locking elements.
   fieldcode: '21'
   groupcode: '060'
+  relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: f03d6b65-c711-522a-bdc8-d85e44e43f0b

@@ -6,9 +6,9 @@ data:
     sciences. Publishing. Publishing.
   fieldcode: '01'
   groupcode: '140'
-  notes:
-  - ics-code: 35.240.30
-    text: IT applications in information, documentation and publishing, see {ics-code}
+  relationships:
+  - to: 35.240.30
+    type: related
   subgroupcode: '40'
 dateAccepted: 2018-11-17
 id: 9c800553-860f-5335-a868-27a5731cc099

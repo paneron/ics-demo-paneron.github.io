@@ -6,10 +6,9 @@ data:
     lifting equipment.
   fieldcode: '53'
   groupcode: '020'
-  notes:
-  - text: Including lifting hooks, shackles, link chains, wire ropes, etc.
-  - ics-code: 77.140.65
-    text: Steel wire, wire ropes and link chains, see {ics-code}
+  relationships:
+  - to: 77.140.65
+    type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: 1b9ebed7-234a-539f-a4d1-d5b1ce5ed353

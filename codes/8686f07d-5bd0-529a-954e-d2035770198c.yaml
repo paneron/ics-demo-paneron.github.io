@@ -6,10 +6,9 @@ data:
     Transport. Sociology. Transport. Air transport.
   fieldcode: '03'
   groupcode: '220'
-  notes:
-  - text: Including air transport services
-  - ics-code: '93.120'
-    text: Construction of airports, see {ics-code}
+  relationships:
+  - to: '93.120'
+    type: related
   subgroupcode: '50'
 dateAccepted: 2018-11-17
 id: 8686f07d-5bd0-529a-954e-d2035770198c

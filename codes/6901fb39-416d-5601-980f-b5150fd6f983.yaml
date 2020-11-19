@@ -6,10 +6,9 @@ data:
     Underground works.
   fieldcode: '93'
   groupcode: '020'
-  notes:
-  - text: Including geotechnics
-  - ics-code: '53.100'
-    text: Earth-moving machinery, see {ics-code}
+  relationships:
+  - to: '53.100'
+    type: related
 dateAccepted: 2018-11-17
 id: 6901fb39-416d-5601-980f-b5150fd6f983
 status: valid

@@ -6,9 +6,9 @@ data:
     construction. Screw threads.
   fieldcode: '49'
   groupcode: '030'
-  notes:
-  - ics-code: '21.040'
-    text: Screw threads, see {ics-code}
+  relationships:
+  - to: '21.040'
+    type: related
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: b888ec8d-6d14-5945-aac7-9380bdbdb4a4

@@ -5,9 +5,7 @@ data:
   descriptionFull: Food technology. Materials and articles in contact with foodstuffs.
   fieldcode: '67'
   groupcode: '250'
-  notes:
-  - text: Including catering containers, and materials and articles in contact with
-      drinking water
+  relationships: []
 dateAccepted: 2018-11-17
 id: b17a0cd0-9ea3-58c7-8413-e6f0a8b7567e
 status: valid

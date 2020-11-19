@@ -6,6 +6,7 @@ data:
     and illumination equipment.
   fieldcode: '73'
   groupcode: '100'
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: 9ecf8aac-72cd-5b9b-b447-a2efbe312512

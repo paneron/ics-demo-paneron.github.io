@@ -6,8 +6,7 @@ data:
     supply.
   fieldcode: '29'
   groupcode: '200'
-  notes:
-  - text: Including semiconductor converters
+  relationships: []
 dateAccepted: 2018-11-17
 id: b44a8f6d-f5f0-5dc5-9017-01c0940cbb3d
 status: valid

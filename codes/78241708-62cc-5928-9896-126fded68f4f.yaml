@@ -5,10 +5,9 @@ data:
   descriptionFull: Rubber and plastic industries. Plastics. Thermosetting materials.
   fieldcode: '83'
   groupcode: 080
-  notes:
-  - text: Including ebonite
-  - ics-code: 71.100.55
-    text: Silicones, see {ics-code}
+  relationships:
+  - to: 71.100.55
+    type: related
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: 78241708-62cc-5928-9896-126fded68f4f

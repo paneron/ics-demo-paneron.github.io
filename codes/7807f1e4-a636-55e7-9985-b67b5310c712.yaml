@@ -5,17 +5,17 @@ data:
   descriptionFull: Metallurgy. Testing of metals. Chemical analysis of metals.
   fieldcode: '77'
   groupcode: '040'
-  notes:
-  - ics-code: 71.040.40
-    text: Chemical analysis, see {ics-code}
-  - ics-code: '77.100'
-    text: Ferroalloys, see {ics-code}
-  - ics-code: '77.120'
-    text: Non-ferrous metals, see {ics-code}
-  - ics-code: '77.160'
-    text: Powder metallurgy, see {ics-code}
-  - ics-code: '77.080'
-    text: Ferrous metals, see {ics-code}
+  relationships:
+  - to: 71.040.40
+    type: related
+  - to: '77.100'
+    type: related
+  - to: '77.120'
+    type: related
+  - to: '77.160'
+    type: related
+  - to: '77.080'
+    type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: 7807f1e4-a636-55e7-9985-b67b5310c712

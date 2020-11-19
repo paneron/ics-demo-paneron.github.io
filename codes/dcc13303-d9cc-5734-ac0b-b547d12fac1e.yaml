@@ -6,9 +6,9 @@ data:
     sciences. Publishing. Writing and transliteration.
   fieldcode: '01'
   groupcode: '140'
-  notes:
-  - ics-code: 35.040.10
-    text: Coding of character sets, see {ics-code}
+  relationships:
+  - to: 35.040.10
+    type: related
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: dcc13303-d9cc-5734-ac0b-b547d12fac1e

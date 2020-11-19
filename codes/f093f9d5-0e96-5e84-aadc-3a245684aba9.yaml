@@ -6,8 +6,7 @@ data:
     materials and products.
   fieldcode: '91'
   groupcode: '100'
-  notes:
-  - text: Including earth, sands, clay, slates, stones, etc.
+  relationships: []
   subgroupcode: '15'
 dateAccepted: 2018-11-17
 id: f093f9d5-0e96-5e84-aadc-3a245684aba9

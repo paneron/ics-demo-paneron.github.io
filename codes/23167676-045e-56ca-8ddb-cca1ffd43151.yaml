@@ -6,8 +6,7 @@ data:
     systems. Switching and signalling systems.
   fieldcode: '33'
   groupcode: '040'
-  notes:
-  - text: Including telecommunication call charging and billing aspects
+  relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: 23167676-045e-56ca-8ddb-cca1ffd43151

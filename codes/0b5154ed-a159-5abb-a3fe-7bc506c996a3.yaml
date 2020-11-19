@@ -6,9 +6,7 @@ data:
     preparation.
   fieldcode: '25'
   groupcode: '220'
-  notes:
-  - text: Including surface preparation for painting, cleaning, scouring, blasting,
-      etc.
+  relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: 0b5154ed-a159-5abb-a3fe-7bc506c996a3

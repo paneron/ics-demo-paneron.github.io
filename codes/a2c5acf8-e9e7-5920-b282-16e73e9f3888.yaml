@@ -6,6 +6,7 @@ data:
     continuous handling equipment.
   fieldcode: '53'
   groupcode: '040'
+  relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17
 id: a2c5acf8-e9e7-5920-b282-16e73e9f3888

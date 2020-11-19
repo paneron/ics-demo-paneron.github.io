@@ -6,6 +6,7 @@ data:
     General purpose pallets.
   fieldcode: '55'
   groupcode: '180'
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: db9e895e-dee7-57e0-a965-f5faa8e9eb99

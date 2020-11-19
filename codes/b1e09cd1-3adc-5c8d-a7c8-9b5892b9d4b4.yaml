@@ -6,6 +6,7 @@ data:
     and transmissions. Chain drives and their components.
   fieldcode: '21'
   groupcode: '220'
+  relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: b1e09cd1-3adc-5c8d-a7c8-9b5892b9d4b4

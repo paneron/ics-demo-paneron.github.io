@@ -6,9 +6,9 @@ data:
     and boilers in general.
   fieldcode: '27'
   groupcode: '060'
-  notes:
-  - ics-code: 91.140.10
-    text: Central heating systems, see {ics-code}
+  relationships:
+  - to: 91.140.10
+    type: related
   subgroupcode: '01'
 dateAccepted: 2018-11-17
 id: 3f8bbede-f961-57dd-a7e6-2c09945ce6f6

@@ -5,11 +5,11 @@ data:
   descriptionFull: Metallurgy. Testing of metals. Non-destructive testing of metals.
   fieldcode: '77'
   groupcode: '040'
-  notes:
-  - ics-code: '19.100'
-    text: Non-destructive testing, see {ics-code}
-  - ics-code: 25.160.40
-    text: Welded joints and welds, see {ics-code}
+  relationships:
+  - to: '19.100'
+    type: related
+  - to: 25.160.40
+    type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: 8af5a188-5161-52e2-be2a-5c6f1cedd62f

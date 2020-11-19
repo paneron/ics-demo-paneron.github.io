@@ -5,9 +5,9 @@ data:
   descriptionFull: Environment. Health protection. Safety. Environmental protection.
   fieldcode: '13'
   groupcode: '020'
-  notes:
-  - ics-code: '27.015'
-    text: Energy efficiency. Energy conservation in general, see {ics-code}
+  relationships:
+  - to: '27.015'
+    type: related
 dateAccepted: 2018-11-17
 id: ee0f4c76-1b4d-5058-b218-17ffa48f95e3
 status: valid

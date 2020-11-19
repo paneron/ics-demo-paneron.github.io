@@ -6,9 +6,9 @@ data:
     Transport. Sociology. Leisure. Tourism.
   fieldcode: '03'
   groupcode: '200'
-  notes:
-  - ics-code: 97.200.30
-    text: Camping equipment and camp-sites, see {ics-code}
+  relationships:
+  - to: 97.200.30
+    type: related
 dateAccepted: 2018-11-17
 id: 530186a8-23cc-5497-a558-ebbb23ac787e
 status: valid

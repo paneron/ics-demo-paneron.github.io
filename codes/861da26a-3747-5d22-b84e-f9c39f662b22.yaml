@@ -6,9 +6,9 @@ data:
     fittings. Shelving.
   fieldcode: '97'
   groupcode: '130'
-  notes:
-  - ics-code: '53.080'
-    text: Storage equipment, see {ics-code}
+  relationships:
+  - to: '53.080'
+    type: related
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: 861da26a-3747-5d22-b84e-f9c39f662b22

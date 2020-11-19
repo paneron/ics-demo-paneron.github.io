@@ -6,9 +6,9 @@ data:
     equipment.
   fieldcode: '59'
   groupcode: '120'
-  notes:
-  - ics-code: '97.060'
-    text: Laundry appliances, see {ics-code}
+  relationships:
+  - to: '97.060'
+    type: related
   subgroupcode: '50'
 dateAccepted: 2018-11-17
 id: 4141fbfc-8ea8-57a5-9963-1f946e64cbc7

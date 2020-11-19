@@ -5,9 +5,9 @@ data:
   descriptionFull: Image technology. Graphic technology. Materials for graphic technology.
   fieldcode: '37'
   groupcode: '100'
-  notes:
-  - ics-code: '87.080'
-    text: Inks. Printing inks, see {ics-code}
+  relationships:
+  - to: '87.080'
+    type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: ab4ad5b3-f0b5-5ba0-8dc1-8d23f4dad3b4

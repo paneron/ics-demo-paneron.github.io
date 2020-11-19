@@ -5,11 +5,11 @@ data:
   descriptionFull: Materials handling equipment. Lifting equipment.
   fieldcode: '53'
   groupcode: '020'
-  notes:
-  - ics-code: 47.020.40
-    text: Lifting and cargo handling equipment, see {ics-code}
-  - ics-code: 91.140.90
-    text: Lifts. Escalators, see {ics-code}
+  relationships:
+  - to: 47.020.40
+    type: related
+  - to: 91.140.90
+    type: related
 dateAccepted: 2018-11-17
 id: 261b2342-fead-5c73-bc9e-c1587e6e45b4
 status: valid

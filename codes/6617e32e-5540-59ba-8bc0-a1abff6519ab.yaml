@@ -5,10 +5,9 @@ data:
   descriptionFull: Shipbuilding and marine structures. Small craft.
   fieldcode: '47'
   groupcode: 080
-  notes:
-  - text: Including small craft systems and components, and life-saving appliances
-  - ics-code: 13.340.70
-    text: Lifejackets, buoyancy aids and flotation devices, see {ics-code}
+  relationships:
+  - to: 13.340.70
+    type: related
 dateAccepted: 2018-11-17
 id: 6617e32e-5540-59ba-8bc0-a1abff6519ab
 status: valid

@@ -6,6 +6,7 @@ data:
     construction materials.
   fieldcode: '91'
   groupcode: '100'
+  relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17
 id: 6df2aee7-ca42-5bdc-a75f-5c975737001c

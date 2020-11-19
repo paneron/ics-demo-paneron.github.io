@@ -5,10 +5,9 @@ data:
   descriptionFull: Information technology. Microprocessor systems.
   fieldcode: '35'
   groupcode: '160'
-  notes:
-  - text: Including PCs, calculators, etc.
-  - ics-code: '31.200'
-    text: Integrated circuits. Microelectronics, see {ics-code}
+  relationships:
+  - to: '31.200'
+    type: related
 dateAccepted: 2018-11-17
 id: a4033a4a-7b17-5e6b-b928-bf5619eb8cc2
 status: valid

@@ -6,6 +6,7 @@ data:
     terminal equipment. Telephone equipment.
   fieldcode: '33'
   groupcode: '050'
+  relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: 02031faf-ec77-51fd-8e5c-14e9f2e7cf97

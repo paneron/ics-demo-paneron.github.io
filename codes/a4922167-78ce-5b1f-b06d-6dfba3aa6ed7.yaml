@@ -6,6 +6,7 @@ data:
     terminal equipment.
   fieldcode: '33'
   groupcode: '050'
+  relationships: []
 dateAccepted: 2018-11-17
 id: a4922167-78ce-5b1f-b06d-6dfba3aa6ed7
 status: valid

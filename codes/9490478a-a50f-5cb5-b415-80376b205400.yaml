@@ -6,9 +6,9 @@ data:
     equipment. Kitchen furniture.
   fieldcode: '97'
   groupcode: '040'
-  notes:
-  - ics-code: 91.140.70
-    text: Sanitary installations, see {ics-code}
+  relationships:
+  - to: 91.140.70
+    type: related
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: 9490478a-a50f-5cb5-b415-80376b205400

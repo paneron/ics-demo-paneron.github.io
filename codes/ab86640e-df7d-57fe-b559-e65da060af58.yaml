@@ -6,6 +6,7 @@ data:
     and controlgear.
   fieldcode: '29'
   groupcode: '130'
+  relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17
 id: ab86640e-df7d-57fe-b559-e65da060af58

@@ -6,6 +6,7 @@ data:
     Agriculture (Vocabularies).
   fieldcode: '01'
   groupcode: '040'
+  relationships: []
   subgroupcode: '65'
 dateAccepted: 2018-11-17
 id: 2c227aa6-423b-5bff-ad6d-f8b91d6e5df7

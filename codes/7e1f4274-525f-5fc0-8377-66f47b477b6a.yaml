@@ -5,12 +5,11 @@ data:
   descriptionFull: Health care technology. Medical equipment. Radiographic equipment.
   fieldcode: '11'
   groupcode: '040'
-  notes:
-  - text: Including radiographic diagnostic and therapy equipment
-  - ics-code: 11.100.10
-    text: In vitro diagnostic test systems, see {ics-code}
-  - ics-code: 37.040.25
-    text: Radiographic films, see {ics-code}
+  relationships:
+  - to: 11.100.10
+    type: related
+  - to: 37.040.25
+    type: related
   subgroupcode: '50'
 dateAccepted: 2018-11-17
 id: 7e1f4274-525f-5fc0-8377-66f47b477b6a

@@ -6,12 +6,11 @@ data:
     beings.
   fieldcode: '13'
   groupcode: '140'
-  notes:
-  - text: Including audiometry
-  - ics-code: 13.340.20
-    text: Head protective equipment, see {ics-code}
-  - ics-code: '17.140'
-    text: Acoustics and acoustic measurements, see {ics-code}
+  relationships:
+  - to: 13.340.20
+    type: related
+  - to: '17.140'
+    type: related
 dateAccepted: 2018-11-17
 id: 3316ad36-ee16-5507-abfa-26a4fdb2f11a
 status: valid

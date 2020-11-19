@@ -5,8 +5,7 @@ data:
   descriptionFull: Testing. Environmental testing.
   fieldcode: '19'
   groupcode: '040'
-  notes:
-  - text: Including testing equipment
+  relationships: []
 dateAccepted: 2018-11-17
 id: 80cdc4e4-639a-5bf5-8ba6-256b7bcb3bb5
 status: valid

@@ -6,9 +6,7 @@ data:
     product documentation.
   fieldcode: '01'
   groupcode: '110'
-  notes:
-  - text: Including rules for preparation of user guides, manuals, product specifications,
-      etc.
+  relationships: []
 dateAccepted: 2018-11-17
 id: bec2a20b-39de-5b95-8ddf-fdac60d4d8b0
 status: valid

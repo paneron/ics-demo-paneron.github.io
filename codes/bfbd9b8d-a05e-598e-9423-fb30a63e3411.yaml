@@ -6,6 +6,7 @@ data:
     treatments and coatings.
   fieldcode: '25'
   groupcode: '220'
+  relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17
 id: bfbd9b8d-a05e-598e-9423-fb30a63e3411

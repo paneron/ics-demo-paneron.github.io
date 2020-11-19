@@ -6,9 +6,9 @@ data:
     Transport. Sociology. Quality. Quality management and quality assurance.
   fieldcode: '03'
   groupcode: '120'
-  notes:
-  - ics-code: 03.100.70
-    text: Management systems, see {ics-code}
+  relationships:
+  - to: 03.100.70
+    type: related
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: 3459130c-7ba9-5c2c-868c-687616f4f57d

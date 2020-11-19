@@ -6,8 +6,7 @@ data:
     Product life-cycles.
   fieldcode: '13'
   groupcode: '020'
-  notes:
-  - text: Including environmental footprint, carbon neutrality
+  relationships: []
   subgroupcode: '60'
 dateAccepted: 2018-11-17
 id: da5f44fa-8563-5a56-a49c-fd3f11717637

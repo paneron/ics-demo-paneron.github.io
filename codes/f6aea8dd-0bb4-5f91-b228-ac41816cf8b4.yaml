@@ -6,6 +6,7 @@ data:
     insulation.
   fieldcode: '29'
   groupcode: 080
+  relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17
 id: f6aea8dd-0bb4-5f91-b228-ac41816cf8b4

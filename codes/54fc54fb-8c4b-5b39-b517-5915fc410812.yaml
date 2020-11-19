@@ -5,8 +5,7 @@ data:
   descriptionFull: Civil engineering. Construction of airports.
   fieldcode: '93'
   groupcode: '120'
-  notes:
-  - text: Including air transport control equipment and installations
+  relationships: []
 dateAccepted: 2018-11-17
 id: 54fc54fb-8c4b-5b39-b517-5915fc410812
 status: valid

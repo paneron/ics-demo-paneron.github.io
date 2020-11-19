@@ -6,10 +6,9 @@ data:
     Transport. Sociology. Transport. Transport by rail.
   fieldcode: '03'
   groupcode: '220'
-  notes:
-  - text: Including rail transport services
-  - ics-code: '93.100'
-    text: Construction of railways, see {ics-code}
+  relationships:
+  - to: '93.100'
+    type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: b4a9fef1-bd89-571e-9b4d-3d4c677a865d

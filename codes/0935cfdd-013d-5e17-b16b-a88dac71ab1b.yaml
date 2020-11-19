@@ -6,10 +6,9 @@ data:
     and windows.
   fieldcode: '91'
   groupcode: '060'
-  notes:
-  - text: Including doorsets, their components, blinds, shutters
-  - ics-code: '91.190'
-    text: Building accessories, see {ics-code}
+  relationships:
+  - to: '91.190'
+    type: related
   subgroupcode: '50'
 dateAccepted: 2018-11-17
 id: 0935cfdd-013d-5e17-b16b-a88dac71ab1b

@@ -6,8 +6,7 @@ data:
     for entertainment. Toys.
   fieldcode: '97'
   groupcode: '200'
-  notes:
-  - text: Including safety of toys
+  relationships: []
   subgroupcode: '50'
 dateAccepted: 2018-11-17
 id: 099186ec-6011-5dd7-ab5f-533c9c1206cd

@@ -6,6 +6,7 @@ data:
     and warning devices.
   fieldcode: '43'
   groupcode: '040'
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: 6c35be44-265e-5f00-b6d6-61420eb29d4b

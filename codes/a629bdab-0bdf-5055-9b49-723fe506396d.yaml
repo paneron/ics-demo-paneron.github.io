@@ -5,6 +5,7 @@ data:
   descriptionFull: Construction materials and building. Buildings.
   fieldcode: '91'
   groupcode: '040'
+  relationships: []
 dateAccepted: 2018-11-17
 id: a629bdab-0bdf-5055-9b49-723fe506396d
 status: valid

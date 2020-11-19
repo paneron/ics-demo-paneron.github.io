@@ -7,8 +7,7 @@ data:
     tourism.
   fieldcode: '03'
   groupcode: '200'
-  notes:
-  - text: Including recreational diving services
+  relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17
 id: b8ce550c-f89d-5064-bfc4-e29b5f87e685

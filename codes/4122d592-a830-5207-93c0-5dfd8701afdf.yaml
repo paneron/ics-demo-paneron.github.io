@@ -6,8 +6,7 @@ data:
     Other standards related to freight distribution of goods.
   fieldcode: '55'
   groupcode: '180'
-  notes:
-  - text: Including intermediate bulk containers
+  relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17
 id: 4122d592-a830-5207-93c0-5dfd8701afdf

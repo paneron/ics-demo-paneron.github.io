@@ -6,15 +6,13 @@ data:
     equipment and facilities. Outdoor and water sports equipment.
   fieldcode: '97'
   groupcode: '220'
-  notes:
-  - text: Including equipment for mountaineering, football, tennis, swimming, diving,
-      etc.
-  - ics-code: 13.340.70
-    text: Lifejackets, buoyancy aids and flotation devices, see {ics-code}
-  - ics-code: 03.200.99
-    text: Other standards relating to leisure and tourism, see {ics-code}
-  - ics-code: '47.080'
-    text: Small craft, see {ics-code}
+  relationships:
+  - to: 13.340.70
+    type: related
+  - to: 03.200.99
+    type: related
+  - to: '47.080'
+    type: related
   subgroupcode: '40'
 dateAccepted: 2018-11-17
 id: 0d2c6243-a005-534e-ab9a-695d58dc9eea

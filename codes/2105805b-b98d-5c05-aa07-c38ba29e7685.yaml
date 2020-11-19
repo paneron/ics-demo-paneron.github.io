@@ -6,6 +6,7 @@ data:
     vehicles. Pressure charging and air/exhaust gas ducting systems.
   fieldcode: '43'
   groupcode: '060'
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: 2105805b-b98d-5c05-aa07-c38ba29e7685

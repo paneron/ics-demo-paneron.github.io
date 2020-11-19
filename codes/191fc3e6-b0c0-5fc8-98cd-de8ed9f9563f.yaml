@@ -6,8 +6,7 @@ data:
     Sealing materials.
   fieldcode: '91'
   groupcode: '100'
-  notes:
-  - text: Including geomembranes, asphalts for buildings, etc.
+  relationships: []
   subgroupcode: '50'
 dateAccepted: 2018-11-17
 id: 191fc3e6-b0c0-5fc8-98cd-de8ed9f9563f

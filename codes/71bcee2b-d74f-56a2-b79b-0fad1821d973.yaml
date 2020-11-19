@@ -6,15 +6,15 @@ data:
     Vessels and containers mounted on vehicles.
   fieldcode: '23'
   groupcode: '020'
-  notes:
-  - ics-code: 43.080.10
-    text: Trucks and trailers, see {ics-code}
-  - ics-code: 45.060.20
-    text: Trailing stock, see {ics-code}
-  - ics-code: 47.020.85
-    text: Cargo spaces, see {ics-code}
-  - ics-code: '55.140'
-    text: Barrels. Drums. Canisters, see {ics-code}
+  relationships:
+  - to: 43.080.10
+    type: related
+  - to: 45.060.20
+    type: related
+  - to: 47.020.85
+    type: related
+  - to: '55.140'
+    type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: 71bcee2b-d74f-56a2-b79b-0fad1821d973

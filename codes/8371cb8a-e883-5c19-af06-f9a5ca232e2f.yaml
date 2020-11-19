@@ -5,13 +5,13 @@ data:
   descriptionFull: Road vehicles engineering. Passenger cars. Caravans and light trailers.
   fieldcode: '43'
   groupcode: '100'
-  notes:
-  - ics-code: '43.040'
-    text: Road vehicle systems, see {ics-code}
-  - ics-code: 83.160.10
-    text: Road vehicle tyres, see {ics-code}
-  - ics-code: 97.200.30
-    text: Camping equipment and camp-sites, see {ics-code}
+  relationships:
+  - to: '43.040'
+    type: related
+  - to: 83.160.10
+    type: related
+  - to: 97.200.30
+    type: related
 dateAccepted: 2018-11-17
 id: 8371cb8a-e883-5c19-af06-f9a5ca232e2f
 status: valid

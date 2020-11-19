@@ -5,10 +5,9 @@ data:
   descriptionFull: Precision mechanics. Jewellery. Jewellery.
   fieldcode: '39'
   groupcode: '060'
-  notes:
-  - text: Including precious metals, precious and semi-precious stones
-  - ics-code: '25.100'
-    text: Cutting tools, see {ics-code}
+  relationships:
+  - to: '25.100'
+    type: related
 dateAccepted: 2018-11-17
 id: 37ccf336-965a-5464-8bf1-a28a7d23f6c3
 status: valid

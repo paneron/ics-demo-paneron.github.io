@@ -5,9 +5,9 @@ data:
   descriptionFull: Metallurgy. Iron and steel products. Steels for pressure purposes.
   fieldcode: '77'
   groupcode: '140'
-  notes:
-  - ics-code: 77.140.75
-    text: Steel pipes and tubes for specific use, see {ics-code}
+  relationships:
+  - to: 77.140.75
+    type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: d0e155d5-e742-5bef-9bd0-aeaa34849e62

@@ -5,11 +5,11 @@ data:
   descriptionFull: Mechanical systems and components for general use. Fasteners.
   fieldcode: '21'
   groupcode: '060'
-  notes:
-  - ics-code: 11.040.40
-    text: Implants for surgery, prosthetics and orthotics, see {ics-code}
-  - ics-code: '49.030'
-    text: Fasteners for aerospace construction, see {ics-code}
+  relationships:
+  - to: 11.040.40
+    type: related
+  - to: '49.030'
+    type: related
 dateAccepted: 2018-11-17
 id: 31988eef-46df-5b91-960b-69aa336864b2
 status: valid

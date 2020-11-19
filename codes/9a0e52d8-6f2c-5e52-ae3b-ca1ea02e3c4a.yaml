@@ -6,9 +6,9 @@ data:
     of biological properties of water.
   fieldcode: '13'
   groupcode: '060'
-  notes:
-  - ics-code: 07.100.20
-    text: Microbiology of water, see {ics-code}
+  relationships:
+  - to: 07.100.20
+    type: related
   subgroupcode: '70'
 dateAccepted: 2018-11-17
 id: 9a0e52d8-6f2c-5e52-ae3b-ca1ea02e3c4a

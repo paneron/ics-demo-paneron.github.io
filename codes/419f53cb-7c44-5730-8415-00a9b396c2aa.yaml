@@ -5,10 +5,9 @@ data:
   descriptionFull: Clothing industry. Footwear.
   fieldcode: '61'
   groupcode: '060'
-  notes:
-  - text: Including shoelaces
-  - ics-code: 13.340.50
-    text: Leg and foot protection, see {ics-code}
+  relationships:
+  - to: 13.340.50
+    type: related
 dateAccepted: 2018-11-17
 id: 419f53cb-7c44-5730-8415-00a9b396c2aa
 status: valid

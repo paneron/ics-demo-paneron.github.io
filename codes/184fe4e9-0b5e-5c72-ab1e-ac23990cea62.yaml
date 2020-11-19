@@ -6,6 +6,7 @@ data:
     and transmissions. Belt drives and their components.
   fieldcode: '21'
   groupcode: '220'
+  relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: 184fe4e9-0b5e-5c72-ab1e-ac23990cea62

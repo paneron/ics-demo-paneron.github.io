@@ -6,16 +6,15 @@ data:
     Laboratory equipment.
   fieldcode: '71'
   groupcode: '040'
-  notes:
-  - text: Including hydrometers, alcoholometers, etc.
-  - ics-code: 17.180.30
-    text: Optical measuring instruments, see {ics-code}
-  - ics-code: 17.200.20
-    text: Temperature-measuring instruments, see {ics-code}
-  - ics-code: '17.060'
-    text: Measurement of volume, mass, density, viscosity, see {ics-code}
-  - ics-code: 71.040.20
-    text: Laboratory ware and related apparatus, see {ics-code}
+  relationships:
+  - to: 17.180.30
+    type: related
+  - to: 17.200.20
+    type: related
+  - to: '17.060'
+    type: related
+  - to: 71.040.20
+    type: related
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: e5e2f9fe-ecbf-5f3f-b8cd-6ae4a5888e3e

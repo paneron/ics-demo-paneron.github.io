@@ -6,13 +6,13 @@ data:
     sciences. Publishing. Documents in administration, commerce and industry.
   fieldcode: '01'
   groupcode: '140'
-  notes:
-  - ics-code: '01.110'
-    text: Technical product documentation, see {ics-code}
-  - ics-code: '03.060'
-    text: Finances. Banking. Monetary systems. Insurance, see {ics-code}
-  - ics-code: 35.240.60
-    text: IT applications in transport, see {ics-code}
+  relationships:
+  - to: '01.110'
+    type: related
+  - to: '03.060'
+    type: related
+  - to: 35.240.60
+    type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: 3dbffd9f-0430-58d1-82c1-5da88a1993e2

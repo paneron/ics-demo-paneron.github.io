@@ -5,17 +5,17 @@ data:
   descriptionFull: Textile and leather technology. Products of the textile industry.
   fieldcode: '59'
   groupcode: 080
-  notes:
-  - ics-code: '59.100'
-    text: Materials for the reinforcement of composites, see {ics-code}
-  - ics-code: '65.150'
-    text: Fishing and fish breeding, see {ics-code}
-  - ics-code: '97.140'
-    text: Furniture, see {ics-code}
-  - ics-code: '97.150'
-    text: Floor coverings, see {ics-code}
-  - ics-code: '97.160'
-    text: Home textiles. Linen, see {ics-code}
+  relationships:
+  - to: '59.100'
+    type: related
+  - to: '65.150'
+    type: related
+  - to: '97.140'
+    type: related
+  - to: '97.150'
+    type: related
+  - to: '97.160'
+    type: related
 dateAccepted: 2018-11-17
 id: 4f276a0f-b935-5fa2-a2fe-c486c818808a
 status: valid

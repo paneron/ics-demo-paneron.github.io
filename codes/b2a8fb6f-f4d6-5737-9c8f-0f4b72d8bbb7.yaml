@@ -5,8 +5,7 @@ data:
   descriptionFull: Shipbuilding and marine structures. Seagoing vessels.
   fieldcode: '47'
   groupcode: '040'
-  notes:
-  - text: Including their systems and components
+  relationships: []
 dateAccepted: 2018-11-17
 id: b2a8fb6f-f4d6-5737-9c8f-0f4b72d8bbb7
 status: valid

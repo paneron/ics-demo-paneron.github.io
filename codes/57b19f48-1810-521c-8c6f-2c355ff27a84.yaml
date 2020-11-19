@@ -4,6 +4,7 @@ data:
   description: Agriculture
   descriptionFull: ''
   fieldcode: '65'
+  relationships: []
 dateAccepted: 2018-11-17
 id: 57b19f48-1810-521c-8c6f-2c355ff27a84
 status: valid

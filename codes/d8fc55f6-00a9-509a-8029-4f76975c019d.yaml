@@ -5,15 +5,15 @@ data:
   descriptionFull: Chemical technology. Products of the chemical industry.
   fieldcode: '71'
   groupcode: '100'
-  notes:
-  - ics-code: 37.040.30
-    text: Photographic chemicals, see {ics-code}
-  - ics-code: '83.040'
-    text: Raw materials for rubber and plastics, see {ics-code}
-  - ics-code: '87.040'
-    text: Paints and varnishes, see {ics-code}
-  - ics-code: '87.080'
-    text: Inks. Printing inks, see {ics-code}
+  relationships:
+  - to: 37.040.30
+    type: related
+  - to: '83.040'
+    type: related
+  - to: '87.040'
+    type: related
+  - to: '87.080'
+    type: related
 dateAccepted: 2018-11-17
 id: d8fc55f6-00a9-509a-8029-4f76975c019d
 status: valid

@@ -5,8 +5,7 @@ data:
   descriptionFull: Chemical technology. Analytical chemistry. Chemical analysis.
   fieldcode: '71'
   groupcode: '040'
-  notes:
-  - text: Including analysis of gases and surface chemical analysis
+  relationships: []
   subgroupcode: '40'
 dateAccepted: 2018-11-17
 id: 0b396cc3-5f6d-58b4-85f2-20f98769a008

@@ -5,8 +5,7 @@ data:
   descriptionFull: Food technology. Cereals, pulses and derived products.
   fieldcode: '67'
   groupcode: '060'
-  notes:
-  - text: Including grains, corn, flours, baked products, etc.
+  relationships: []
 dateAccepted: 2018-11-17
 id: 0459aa64-b4e3-5dae-8092-e0fdd465d220
 status: valid

@@ -5,9 +5,9 @@ data:
   descriptionFull: Rubber and plastic industries. Reinforced plastics.
   fieldcode: '83'
   groupcode: '120'
-  notes:
-  - ics-code: '59.100'
-    text: Materials for the reinforcement of composites, see {ics-code}
+  relationships:
+  - to: '59.100'
+    type: related
 dateAccepted: 2018-11-17
 id: 3cee46c9-57ae-54cc-a9ef-737fb54bcf20
 status: valid

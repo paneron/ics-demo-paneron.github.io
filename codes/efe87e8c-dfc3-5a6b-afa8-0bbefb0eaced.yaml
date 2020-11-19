@@ -6,8 +6,7 @@ data:
     Transport. Sociology. Quality. Product and company certification. Conformity assessment.
   fieldcode: '03'
   groupcode: '120'
-  notes:
-  - text: Including laboratory accreditation and audit programmes and auditing
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: efe87e8c-dfc3-5a6b-afa8-0bbefb0eaced

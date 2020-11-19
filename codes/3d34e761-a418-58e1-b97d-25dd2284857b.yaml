@@ -5,12 +5,11 @@ data:
   descriptionFull: Paper technology. Paper products.
   fieldcode: '85'
   groupcode: 080
-  notes:
-  - text: Including paper based stationery
-  - ics-code: '35.260'
-    text: Office machines, see {ics-code}
-  - ics-code: '97.180'
-    text: Miscellaneous domestic and commercial equipment, see {ics-code}
+  relationships:
+  - to: '35.260'
+    type: related
+  - to: '97.180'
+    type: related
 dateAccepted: 2018-11-17
 id: 3d34e761-a418-58e1-b97d-25dd2284857b
 status: valid

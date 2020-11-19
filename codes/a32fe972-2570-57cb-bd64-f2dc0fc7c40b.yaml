@@ -6,6 +6,7 @@ data:
     Shipbuilding and marine structures (Vocabularies).
   fieldcode: '01'
   groupcode: '040'
+  relationships: []
   subgroupcode: '47'
 dateAccepted: 2018-11-17
 id: a32fe972-2570-57cb-bd64-f2dc0fc7c40b

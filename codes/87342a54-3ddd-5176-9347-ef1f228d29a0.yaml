@@ -5,9 +5,9 @@ data:
   descriptionFull: Wood technology. Woodworking equipment. Woodworking machines.
   fieldcode: '79'
   groupcode: '120'
-  notes:
-  - ics-code: 65.060.80
-    text: Forestry equipment, see {ics-code}
+  relationships:
+  - to: 65.060.80
+    type: related
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: 87342a54-3ddd-5176-9347-ef1f228d29a0
