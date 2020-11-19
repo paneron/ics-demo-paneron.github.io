@@ -6,6 +6,8 @@ data:
     equipment. Small kitchen appliances.
   fieldcode: '97'
   groupcode: '040'
+  notes:
+  - Including food waste disposal units
   relationships: []
   subgroupcode: '50'
 dateAccepted: 2018-11-17

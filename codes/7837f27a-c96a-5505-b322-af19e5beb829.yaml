@@ -6,10 +6,13 @@ data:
     hygiene.
   fieldcode: '13'
   groupcode: '100'
+  notes: []
   relationships:
-  - to: '13.340'
+  - text: Protective equipment, see 13.340
+    to: 24e4209d-e056-5bc9-9afd-c4fd14b8eda0
     type: related
-  - to: 91.160.10
+  - text: Interior lighting, see 91.160.10
+    to: bce905eb-6799-5881-b25e-a98bc3ecc0af
     type: related
 dateAccepted: 2018-11-17
 id: 7837f27a-c96a-5505-b322-af19e5beb829

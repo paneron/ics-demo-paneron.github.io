@@ -6,10 +6,14 @@ data:
     Water supply systems.
   fieldcode: '91'
   groupcode: '140'
+  notes:
+  - Including water meters in buildings
   relationships:
-  - to: 23.040.03
+  - text: Pipelines and its parts for external water conveyance systems, see 23.040.03
+    to: 52a95c5f-b1ed-5c2c-9744-7365651e8dbc
     type: related
-  - to: '93.025'
+  - text: External water conveyance systems, see 93.025
+    to: 69e4c6b9-3ebd-5db3-84fa-dbd8ef0e477a
     type: related
   subgroupcode: '60'
 dateAccepted: 2018-11-17

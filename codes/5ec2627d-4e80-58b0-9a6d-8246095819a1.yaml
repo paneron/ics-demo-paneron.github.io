@@ -5,8 +5,10 @@ data:
   descriptionFull: Paint and colour industries. Paint coating processes.
   fieldcode: '87'
   groupcode: '020'
+  notes: []
   relationships:
-  - to: 25.220.10
+  - text: Surface preparation, see 25.220.10
+    to: 0b5154ed-a159-5abb-a3fe-7bc506c996a3
     type: related
 dateAccepted: 2018-11-17
 id: 5ec2627d-4e80-58b0-9a6d-8246095819a1

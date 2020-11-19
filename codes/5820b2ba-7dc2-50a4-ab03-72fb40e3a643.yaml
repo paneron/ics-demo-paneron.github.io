@@ -6,7 +6,6 @@ data:
     Pumps and motors.
   fieldcode: '23'
   groupcode: '100'
-  relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: 5820b2ba-7dc2-50a4-ab03-72fb40e3a643

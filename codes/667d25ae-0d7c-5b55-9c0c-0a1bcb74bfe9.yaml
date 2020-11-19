@@ -5,10 +5,13 @@ data:
   descriptionFull: Environment. Health protection. Safety. Domestic safety.
   fieldcode: '13'
   groupcode: '120'
+  notes: []
   relationships:
-  - to: '97.190'
+  - text: Equipment for children, see 97.190
+    to: cbaf7334-3850-55ef-8c91-c73d21cb6e9d
     type: related
-  - to: 97.200.50
+  - text: Toys, see 97.200.50
+    to: 099186ec-6011-5dd7-ab5f-533c9c1206cd
     type: related
 dateAccepted: 2018-11-17
 id: 667d25ae-0d7c-5b55-9c0c-0a1bcb74bfe9

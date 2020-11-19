@@ -6,8 +6,10 @@ data:
     and pipelines. Iron and steel pipes.
   fieldcode: '23'
   groupcode: '040'
+  notes: []
   relationships:
-  - to: 77.140.75
+  - text: Steel pipes and tubes for specific use, see 77.140.75
+    to: 656d8b54-80c9-537b-b04c-9bf6bb41b033
     type: related
   subgroupcode: '10'
 dateAccepted: 2018-11-17

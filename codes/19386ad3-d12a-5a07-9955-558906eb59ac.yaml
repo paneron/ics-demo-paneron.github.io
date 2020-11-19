@@ -5,8 +5,10 @@ data:
   descriptionFull: Rubber and plastic industries. Rubber and plastics products. Hoses.
   fieldcode: '83'
   groupcode: '140'
+  notes: []
   relationships:
-  - to: 23.040.70
+  - text: Hoses and hose assemblies, see 23.040.70
+    to: 949e24de-58dd-50da-845e-c5fbc5cea2b7
     type: related
   subgroupcode: '40'
 dateAccepted: 2018-11-17

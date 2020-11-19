@@ -5,8 +5,11 @@ data:
   descriptionFull: Rubber and plastic industries. Adhesives.
   fieldcode: '83'
   groupcode: '180'
+  notes:
+  - Including adhesive tapes
   relationships:
-  - to: 29.035.20
+  - text: Plastics and rubber insulating materials, see 29.035.20
+    to: b80e4b25-c794-5404-884b-ecb4e6f509d4
     type: related
 dateAccepted: 2018-11-17
 id: 2ba57701-43b5-5f03-8da8-74cdf4360ab2

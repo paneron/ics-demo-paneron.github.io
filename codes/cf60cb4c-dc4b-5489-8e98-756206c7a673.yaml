@@ -6,8 +6,10 @@ data:
     for entertainment. Camping equipment and camp-sites.
   fieldcode: '97'
   groupcode: '200'
+  notes: []
   relationships:
-  - to: '43.100'
+  - text: Passenger cars. Caravans and light trailers, see 43.100
+    to: 8371cb8a-e883-5c19-af06-f9a5ca232e2f
     type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17

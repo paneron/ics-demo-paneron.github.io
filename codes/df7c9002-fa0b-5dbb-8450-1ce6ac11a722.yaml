@@ -5,6 +5,8 @@ data:
   descriptionFull: Civil engineering. Road engineering. Road construction materials.
   fieldcode: '93'
   groupcode: 080
+  notes:
+  - Including asphalts, road pavements, etc.
   relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17

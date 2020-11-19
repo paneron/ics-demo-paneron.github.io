@@ -6,8 +6,10 @@ data:
     and pipelines.
   fieldcode: '23'
   groupcode: '040'
+  notes: []
   relationships:
-  - to: '75.200'
+  - text: Petroleum products and natural gas handling equipment, see 75.200
+    to: 5e81c725-e6c5-5c14-bb72-2dc9437a14d6
     type: related
 dateAccepted: 2018-11-17
 id: 716b00ca-3243-59b7-a86b-9ba5b38704a0

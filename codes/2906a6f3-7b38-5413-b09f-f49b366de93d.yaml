@@ -5,10 +5,14 @@ data:
   descriptionFull: Road vehicles engineering. Road vehicles in general.
   fieldcode: '43'
   groupcode: '020'
+  notes:
+  - Including testing and recycling of road vehicles
   relationships:
-  - to: 13.040.50
+  - text: Transport exhaust emissions, see 13.040.50
+    to: a97523e0-9293-571c-956a-688bf7d48afb
     type: related
-  - to: 03.220.20
+  - text: Road transport, see 03.220.20
+    to: 572bea10-46c9-52a9-a9b4-d12d6c308af3
     type: related
 dateAccepted: 2018-11-17
 id: 2906a6f3-7b38-5413-b09f-f49b366de93d

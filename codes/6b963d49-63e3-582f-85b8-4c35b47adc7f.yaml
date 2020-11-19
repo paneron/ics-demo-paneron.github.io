@@ -6,6 +6,8 @@ data:
     aspects.
   fieldcode: '91'
   groupcode: '010'
+  notes:
+  - Including construction procurement
   relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17

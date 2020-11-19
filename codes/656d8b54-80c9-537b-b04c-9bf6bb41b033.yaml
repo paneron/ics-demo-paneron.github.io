@@ -6,8 +6,11 @@ data:
     specific use.
   fieldcode: '77'
   groupcode: '140'
+  notes:
+  - Including hollow steel bars and sections for construction
   relationships:
-  - to: 23.040.10
+  - text: Iron and steel pipes, see 23.040.10
+    to: 23e82b9a-009a-5009-8777-7f62f5ef2233
     type: related
   subgroupcode: '75'
 dateAccepted: 2018-11-17

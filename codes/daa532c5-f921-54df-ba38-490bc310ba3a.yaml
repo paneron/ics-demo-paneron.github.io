@@ -6,8 +6,11 @@ data:
     mine excavation.
   fieldcode: '73'
   groupcode: '100'
+  notes:
+  - Including equipment for seabed mining
   relationships:
-  - to: 75.180.10
+  - text: Exploratory, drilling and extraction equipment, see 75.180.10
+    to: 08b414e3-2046-5589-8ad4-00c1b1fb6836
     type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17

@@ -6,6 +6,8 @@ data:
     in general. Cargo spaces.
   fieldcode: '47'
   groupcode: '020'
+  notes:
+  - Including tanks and tankers
   relationships: []
   subgroupcode: '85'
 dateAccepted: 2018-11-17

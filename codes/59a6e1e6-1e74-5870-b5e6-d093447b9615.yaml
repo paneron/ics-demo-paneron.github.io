@@ -5,10 +5,13 @@ data:
   descriptionFull: Fluid systems and components for general use. Fluid storage devices.
   fieldcode: '23'
   groupcode: '020'
+  notes: []
   relationships:
-  - to: '55.140'
+  - text: Barrels. Drums. Canisters, see 55.140
+    to: a701cf96-2a63-5e8e-b253-e7e5f8ff1216
     type: related
-  - to: '75.200'
+  - text: Petroleum products and natural gas handling equipment, see 75.200
+    to: 5e81c725-e6c5-5c14-bb72-2dc9437a14d6
     type: related
 dateAccepted: 2018-11-17
 id: 59a6e1e6-1e74-5870-b5e6-d093447b9615

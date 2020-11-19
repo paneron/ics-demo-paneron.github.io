@@ -5,6 +5,8 @@ data:
   descriptionFull: Electrical engineering. Insulation. Insulators.
   fieldcode: '29'
   groupcode: 080
+  notes:
+  - Including fittings and other components for insulators
   relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17

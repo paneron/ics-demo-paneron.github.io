@@ -5,10 +5,14 @@ data:
   descriptionFull: Paper technology. Paper products.
   fieldcode: '85'
   groupcode: 080
+  notes:
+  - Including paper based stationery
   relationships:
-  - to: '35.260'
+  - text: Office machines, see 35.260
+    to: 867bd523-6513-57bb-8990-e24f1f34852b
     type: related
-  - to: '97.180'
+  - text: Miscellaneous domestic and commercial equipment, see 97.180
+    to: d3d4b3ea-f1cd-520b-9dfb-19499c04a84f
     type: related
 dateAccepted: 2018-11-17
 id: 3d34e761-a418-58e1-b97d-25dd2284857b

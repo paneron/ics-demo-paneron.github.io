@@ -6,6 +6,8 @@ data:
     Complete, filled transport packages.
   fieldcode: '55'
   groupcode: '180'
+  notes:
+  - Including reusable packages and unit loads
   relationships: []
   subgroupcode: '40'
 dateAccepted: 2018-11-17

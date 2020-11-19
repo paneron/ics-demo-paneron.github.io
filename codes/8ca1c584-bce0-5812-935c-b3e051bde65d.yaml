@@ -6,12 +6,16 @@ data:
     equipment and facilities.
   fieldcode: '97'
   groupcode: '220'
+  notes: []
   relationships:
-  - to: '03.200'
+  - text: Leisure. Tourism, see 03.200
+    to: 530186a8-23cc-5497-a558-ebbb23ac787e
     type: related
-  - to: '43.140'
+  - text: Motorcycles and mopeds, see 43.140
+    to: 58e77b12-afc8-532a-aa84-2c682773a9e3
     type: related
-  - to: '43.150'
+  - text: Cycles, see 43.150
+    to: aa38698a-e64a-5eeb-a45f-51dd90b61192
     type: related
 dateAccepted: 2018-11-17
 id: 8ca1c584-bce0-5812-935c-b3e051bde65d

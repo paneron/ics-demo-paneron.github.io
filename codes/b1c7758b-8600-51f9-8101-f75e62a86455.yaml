@@ -6,10 +6,13 @@ data:
     vehicles. Cooling systems. Lubricating systems.
   fieldcode: '43'
   groupcode: '060'
+  notes: []
   relationships:
-  - to: 71.100.45
+  - text: Refrigerants and antifreezes, see 71.100.45
+    to: 5c4eb7c5-7ebd-5ce4-917c-821f5a8a784b
     type: related
-  - to: '75.100'
+  - text: Lubricants, industrial oils and related products, see 75.100
+    to: e922a47a-843d-5715-b2ae-d5696d6d2d26
     type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17

@@ -6,6 +6,8 @@ data:
     equipment. Cooking ranges, working tables, ovens and similar appliances.
   fieldcode: '97'
   groupcode: '040'
+  notes:
+  - Including microwave ovens and stove hoods
   relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17

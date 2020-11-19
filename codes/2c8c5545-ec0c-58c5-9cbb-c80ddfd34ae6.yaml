@@ -6,10 +6,14 @@ data:
     industrial application.
   fieldcode: '71'
   groupcode: '100'
+  notes:
+  - Including compressed air and hydrogen
   relationships:
-  - to: '27.075'
+  - text: Hydrogen technologies, see 27.075
+    to: 09932f33-5d11-5536-852f-3184ccc478df
     type: related
-  - to: 75.160.30
+  - text: Gaseous fuels, see 75.160.30
+    to: a1e18d01-8734-539e-ba56-e0015df76769
     type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17

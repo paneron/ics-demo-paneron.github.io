@@ -6,6 +6,8 @@ data:
     Geotextiles.
   fieldcode: '59'
   groupcode: 080
+  notes:
+  - Including geosynthetics
   relationships: []
   subgroupcode: '70'
 dateAccepted: 2018-11-17

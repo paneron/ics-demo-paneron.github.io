@@ -5,10 +5,13 @@ data:
   descriptionFull: Environment. Health protection. Safety. Alarm and warning systems.
   fieldcode: '13'
   groupcode: '320'
+  notes: []
   relationships:
-  - to: '13.310'
+  - text: Protection against crime, see 13.310
+    to: 7303955e-e79e-515f-99d1-fa679edeb18e
     type: related
-  - to: 43.040.20
+  - text: Lighting, signalling and warning devices, see 43.040.20
+    to: 6c35be44-265e-5f00-b6d6-61420eb29d4b
     type: related
 dateAccepted: 2018-11-17
 id: 37eceeac-539e-531b-af03-552ca3e8faaf

@@ -5,6 +5,8 @@ data:
   descriptionFull: Food technology. Processes in the food industry.
   fieldcode: '67'
   groupcode: '020'
+  notes:
+  - Including food hygiene and food safety
   relationships: []
 dateAccepted: 2018-11-17
 id: 3ec36f4d-1698-5427-8fee-62c7385d9782

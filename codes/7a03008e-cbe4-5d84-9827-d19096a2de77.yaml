@@ -6,6 +6,9 @@ data:
     equipment and facilities. Indoor sports equipment.
   fieldcode: '97'
   groupcode: '220'
+  notes:
+  - Including equipment for gymnastics, volleyball, basketball, handball, home sports
+    trainers, etc.
   relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17

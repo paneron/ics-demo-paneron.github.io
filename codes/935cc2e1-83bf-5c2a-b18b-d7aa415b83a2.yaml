@@ -5,12 +5,18 @@ data:
   descriptionFull: Image technology. Optical equipment.
   fieldcode: '37'
   groupcode: '020'
+  notes:
+  - Including microscopes, telescopes, binoculars, optical materials, optical components
+    and optical systems
   relationships:
-  - to: 11.040.70
+  - text: Ophthalmic equipment, see 11.040.70
+    to: db25d411-8a7b-58c2-a29a-5667b67f286e
     type: related
-  - to: 17.180.30
+  - text: Optical measuring instruments, see 17.180.30
+    to: d5d66b20-3192-5044-94ee-758278417255
     type: related
-  - to: 37.040.10
+  - text: Photographic equipment. Projectors, see 37.040.10
+    to: 89080094-6ac5-5f0c-8ecf-d77de727dedc
     type: related
 dateAccepted: 2018-11-17
 id: 935cc2e1-83bf-5c2a-b18b-d7aa415b83a2

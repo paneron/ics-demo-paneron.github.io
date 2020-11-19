@@ -5,6 +5,8 @@ data:
   descriptionFull: Metallurgy. Iron and steel products. Stainless steels.
   fieldcode: '77'
   groupcode: '140'
+  notes:
+  - Including alloyed steels, corrosion-resistant steels, heat-resisting steels, etc.
   relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17

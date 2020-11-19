@@ -6,8 +6,11 @@ data:
     lighting.
   fieldcode: '91'
   groupcode: '160'
+  notes:
+  - Including flood lighting
   relationships:
-  - to: 93.080.40
+  - text: Street lighting and related equipment, see 93.080.40
+    to: 98785aa5-fcc6-5b1f-83b9-5725b5a609b1
     type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17

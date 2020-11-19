@@ -6,10 +6,13 @@ data:
     Transport. Sociology. Labour. Employment.
   fieldcode: '03'
   groupcode: '040'
+  notes: []
   relationships:
-  - to: '13.180'
+  - text: Ergonomics, see 13.180
+    to: 43187678-fcd3-58c9-96e1-c43d4d185307
     type: related
-  - to: 13.040.30
+  - text: Workplace atmospheres, see 13.040.30
+    to: ba906de4-9add-5554-a8f4-1137ce6942c7
     type: related
 dateAccepted: 2018-11-17
 id: 55c2a683-03f9-5e0f-9cb3-0085bf4f9af4

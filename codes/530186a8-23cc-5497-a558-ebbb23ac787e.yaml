@@ -6,8 +6,10 @@ data:
     Transport. Sociology. Leisure. Tourism.
   fieldcode: '03'
   groupcode: '200'
+  notes: []
   relationships:
-  - to: 97.200.30
+  - text: Camping equipment and camp-sites, see 97.200.30
+    to: cf60cb4c-dc4b-5489-8e98-756206c7a673
     type: related
 dateAccepted: 2018-11-17
 id: 530186a8-23cc-5497-a558-ebbb23ac787e

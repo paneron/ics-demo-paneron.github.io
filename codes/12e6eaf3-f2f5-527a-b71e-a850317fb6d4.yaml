@@ -5,8 +5,10 @@ data:
   descriptionFull: Natural and applied sciences. Microbiology. Microbiology of water.
   fieldcode: '07'
   groupcode: '100'
+  notes: []
   relationships:
-  - to: 13.060.70
+  - text: Examination of biological properties of water, see 13.060.70
+    to: 9a0e52d8-6f2c-5e52-ae3b-ca1ea02e3c4a
     type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17

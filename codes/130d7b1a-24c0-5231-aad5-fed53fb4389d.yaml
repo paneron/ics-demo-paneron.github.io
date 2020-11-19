@@ -5,8 +5,11 @@ data:
   descriptionFull: Information technology. Software.
   fieldcode: '35'
   groupcode: 080
+  notes:
+  - Including software development, documentation and use
   relationships:
-  - to: 35.240.95
+  - text: Internet applications, see 35.240.95
+    to: dc6880ee-05c6-5863-8c49-ac3d71ca487d
     type: related
 dateAccepted: 2018-11-17
 id: 130d7b1a-24c0-5231-aad5-fed53fb4389d

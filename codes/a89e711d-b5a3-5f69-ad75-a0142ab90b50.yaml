@@ -6,6 +6,8 @@ data:
     Satellite.
   fieldcode: '33'
   groupcode: '070'
+  notes:
+  - Including Global Positioning System (GPS)
   relationships: []
   subgroupcode: '40'
 dateAccepted: 2018-11-17

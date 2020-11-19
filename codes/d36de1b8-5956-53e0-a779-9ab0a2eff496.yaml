@@ -5,10 +5,13 @@ data:
   descriptionFull: Rubber and plastic industries. Rubber and plastics products. Seals.
   fieldcode: '83'
   groupcode: '140'
+  notes: []
   relationships:
-  - to: '21.140'
+  - text: Seals, glands, see 21.140
+    to: a3d0f3ed-2ebe-5016-82b2-9996376b4c63
     type: related
-  - to: 23.040.80
+  - text: Seals for pipe and hose assemblies, see 23.040.80
+    to: 726982dd-9694-5a5d-af85-ee7d36b52f19
     type: related
   subgroupcode: '50'
 dateAccepted: 2018-11-17

@@ -6,6 +6,9 @@ data:
     coatings.
   fieldcode: '25'
   groupcode: '220'
+  notes:
+  - Including electrolytic depositions, cathodic coatings, autocatalytic coatings,
+    etc.
   relationships: []
   subgroupcode: '40'
 dateAccepted: 2018-11-17

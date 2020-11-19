@@ -5,10 +5,13 @@ data:
   descriptionFull: Materials handling equipment. Lifting equipment.
   fieldcode: '53'
   groupcode: '020'
+  notes: []
   relationships:
-  - to: 47.020.40
+  - text: Lifting and cargo handling equipment, see 47.020.40
+    to: 47d8ae39-4d4b-5bb0-882a-bf0b38530559
     type: related
-  - to: 91.140.90
+  - text: Lifts. Escalators, see 91.140.90
+    to: 185aa750-d424-5202-b574-653447bc85bd
     type: related
 dateAccepted: 2018-11-17
 id: 261b2342-fead-5c73-bc9e-c1587e6e45b4

@@ -5,8 +5,10 @@ data:
   descriptionFull: Agriculture. Pesticides and other agrochemicals. Fungicides.
   fieldcode: '65'
   groupcode: '100'
+  notes: []
   relationships:
-  - to: 71.100.50
+  - text: Wood-protecting chemicals, see 71.100.50
+    to: 9c0bfa89-2a69-5f7c-b8a1-3be7db60783c
     type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17

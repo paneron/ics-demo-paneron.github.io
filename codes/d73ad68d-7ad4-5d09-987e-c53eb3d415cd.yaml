@@ -6,6 +6,8 @@ data:
     compatibility (EMC).
   fieldcode: '33'
   groupcode: '100'
+  notes:
+  - Including radio interference
   relationships: []
 dateAccepted: 2018-11-17
 id: d73ad68d-7ad4-5d09-987e-c53eb3d415cd

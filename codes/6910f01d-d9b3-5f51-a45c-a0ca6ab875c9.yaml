@@ -6,6 +6,8 @@ data:
     for entertainment. Theatre, stage and studio equipment.
   fieldcode: '97'
   groupcode: '200'
+  notes:
+  - Including lighting equipment
   relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17

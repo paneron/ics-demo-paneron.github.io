@@ -6,6 +6,8 @@ data:
     Transport. Sociology. Quality. Quality in general.
   fieldcode: '03'
   groupcode: '120'
+  notes:
+  - Including general aspects related to reliability and maintainability
   relationships: []
   subgroupcode: '01'
 dateAccepted: 2018-11-17

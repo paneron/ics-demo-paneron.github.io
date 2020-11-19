@@ -5,8 +5,11 @@ data:
   descriptionFull: Road vehicles engineering. Diagnostic, maintenance and test equipment.
   fieldcode: '43'
   groupcode: '180'
+  notes:
+  - Including repairing facilities
   relationships:
-  - to: '75.200'
+  - text: Petroleum products and natural gas handling equipment, see 75.200
+    to: 5e81c725-e6c5-5c14-bb72-2dc9437a14d6
     type: related
 dateAccepted: 2018-11-17
 id: 64fe646b-2ce6-5771-83d4-71eb03694f7d

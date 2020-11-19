@@ -5,6 +5,8 @@ data:
   descriptionFull: Rubber and plastic industries. Tyres. Road vehicle tyres.
   fieldcode: '83'
   groupcode: '160'
+  notes:
+  - Including cycle tyres, and tyre retreading and repair processes
   relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17

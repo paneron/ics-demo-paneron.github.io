@@ -6,10 +6,13 @@ data:
     radio broadcasting.
   fieldcode: '33'
   groupcode: '170'
+  notes: []
   relationships:
-  - to: '33.160'
+  - text: Audio, video and audiovisual engineering, see 33.160
+    to: 52ee85fb-ed64-52d9-a75b-a03324cef8eb
     type: related
-  - to: 97.200.10
+  - text: Theatre, stage and studio equipment, see 97.200.10
+    to: 6910f01d-d9b3-5f51-a45c-a0ca6ab875c9
     type: related
 dateAccepted: 2018-11-17
 id: 458b6ce3-b078-5e60-a925-501a5030c95c

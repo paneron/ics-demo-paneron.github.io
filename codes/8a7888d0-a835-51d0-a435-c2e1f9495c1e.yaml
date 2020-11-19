@@ -5,6 +5,8 @@ data:
   descriptionFull: Health care technology. Medical equipment. Diagnostic equipment.
   fieldcode: '11'
   groupcode: '040'
+  notes:
+  - Including medical monitoring equipment, medical thermometers and related materials
   relationships: []
   subgroupcode: '55'
 dateAccepted: 2018-11-17

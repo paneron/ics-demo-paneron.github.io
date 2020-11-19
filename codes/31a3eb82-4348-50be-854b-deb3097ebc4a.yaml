@@ -5,10 +5,13 @@ data:
   descriptionFull: Fluid systems and components for general use. Pumps.
   fieldcode: '23'
   groupcode: 080
+  notes: []
   relationships:
-  - to: 23.100.10
+  - text: Pumps and motors, see 23.100.10
+    to: 5820b2ba-7dc2-50a4-ab03-72fb40e3a643
     type: related
-  - to: '23.160'
+  - text: Vacuum technology, see 23.160
+    to: 03649da6-80be-5fd5-ae40-3ac22845cd94
     type: related
 dateAccepted: 2018-11-17
 id: 31a3eb82-4348-50be-854b-deb3097ebc4a

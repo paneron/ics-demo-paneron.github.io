@@ -5,6 +5,8 @@ data:
   descriptionFull: Natural and applied sciences. Biology. Botany. Zoology.
   fieldcode: '07'
   groupcode: 080
+  notes:
+  - Including biotechnology
   relationships: []
 dateAccepted: 2018-11-17
 id: e553307c-7a78-5b15-bc86-93c9c671fef7

@@ -5,10 +5,13 @@ data:
   descriptionFull: Natural and applied sciences. Physics. Chemistry.
   fieldcode: '07'
   groupcode: '030'
+  notes: []
   relationships:
-  - to: '17'
+  - text: Metrology and measurement. Physical phenomena, see 17
+    to: 5e8e8f0a-7b9e-5c4e-8e2a-f7612d2ea871
     type: related
-  - to: '71'
+  - text: Chemical technology, see 71
+    to: 09cc3920-7b7f-5384-8cff-4be068a33967
     type: related
 dateAccepted: 2018-11-17
 id: 35235bfd-40c1-52e6-83b6-6418d9989892

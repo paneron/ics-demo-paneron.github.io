@@ -6,6 +6,9 @@ data:
     General rules.
   fieldcode: '01'
   groupcode: '120'
+  notes:
+  - Including rules for the preparation of standards catalogues and management of
+    technical documents
   relationships: []
 dateAccepted: 2018-11-17
 id: e17bb8ab-dd97-5eb1-a10f-80e2a3e7db3c

@@ -5,6 +5,8 @@ data:
   descriptionFull: Food technology. Milk and milk products. Cheese.
   fieldcode: '67'
   groupcode: '100'
+  notes:
+  - Including cottage cheese, whey cheese
   relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17

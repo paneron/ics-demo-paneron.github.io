@@ -6,10 +6,13 @@ data:
     and other petroleum products.
   fieldcode: '75'
   groupcode: '140'
+  notes: []
   relationships:
-  - to: 91.100.50
+  - text: Binders. Sealing materials, see 91.100.50
+    to: 191fc3e6-b0c0-5fc8-98cd-de8ed9f9563f
     type: related
-  - to: 93.080.20
+  - text: Road construction materials, see 93.080.20
+    to: df7c9002-fa0b-5dbb-8450-1ce6ac11a722
     type: related
 dateAccepted: 2018-11-17
 id: 01427f1c-dbac-5bda-9d5d-78de98dd6094

@@ -5,10 +5,14 @@ data:
   descriptionFull: Petroleum and related technologies. Fuels. Solid fuels.
   fieldcode: '75'
   groupcode: '160'
+  notes:
+  - Including coal products, coke, peat, wood, derivatives of coal pyrolysis, etc.
   relationships:
-  - to: '73.040'
+  - text: Coals, see 73.040
+    to: 4f41de9d-b44c-52a6-8264-bf55882b2bda
     type: related
-  - to: 75.160.40
+  - text: Biofuels, see 75.160.40
+    to: 95c81fe7-e681-5b4e-bff4-934b7d0fbfb5
     type: related
   subgroupcode: '10'
 dateAccepted: 2018-11-17

@@ -5,10 +5,13 @@ data:
   descriptionFull: Environment. Health protection. Safety. Explosion protection.
   fieldcode: '13'
   groupcode: '230'
+  notes: []
   relationships:
-  - to: 29.260.20
+  - text: Electrical apparatus for explosive atmospheres, see 29.260.20
+    to: 852d87fb-e9ee-571c-a61e-86a6ad4417ca
     type: related
-  - to: 71.100.30
+  - text: Explosives. Pyrotechnics and fireworks, see 71.100.30
+    to: 2b86f3e3-511e-5abb-817a-4257491ed613
     type: related
 dateAccepted: 2018-11-17
 id: 147aeb25-290b-5ffe-b89e-490581fc2df1

@@ -5,6 +5,8 @@ data:
   descriptionFull: Food technology. Beverages. Alcoholic beverages.
   fieldcode: '67'
   groupcode: '160'
+  notes:
+  - Including beer, wine, spirits, etc.
   relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17

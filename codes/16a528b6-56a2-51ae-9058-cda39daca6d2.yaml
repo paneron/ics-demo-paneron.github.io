@@ -5,8 +5,10 @@ data:
   descriptionFull: Image technology. Cinematography.
   fieldcode: '37'
   groupcode: '060'
+  notes: []
   relationships:
-  - to: 97.200.10
+  - text: Theatre, stage and studio equipment, see 97.200.10
+    to: 6910f01d-d9b3-5f51-a45c-a0ca6ab875c9
     type: related
 dateAccepted: 2018-11-17
 id: 16a528b6-56a2-51ae-9058-cda39daca6d2

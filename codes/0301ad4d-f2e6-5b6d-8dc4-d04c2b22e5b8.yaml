@@ -5,8 +5,11 @@ data:
   descriptionFull: Construction materials and building. Lighting.
   fieldcode: '91'
   groupcode: '160'
+  notes:
+  - Including oil and gas lamps
   relationships:
-  - to: 97.200.10
+  - text: Theatre, stage and studio equipment, see 97.200.10
+    to: 6910f01d-d9b3-5f51-a45c-a0ca6ab875c9
     type: related
 dateAccepted: 2018-11-17
 id: 0301ad4d-f2e6-5b6d-8dc4-d04c2b22e5b8

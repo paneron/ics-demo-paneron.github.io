@@ -7,6 +7,8 @@ data:
     Purchasing. Procurement. Logistics.
   fieldcode: '03'
   groupcode: '100'
+  notes:
+  - Including asset management, supply chain, etc.
   relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17

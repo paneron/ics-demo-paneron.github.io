@@ -7,6 +7,8 @@ data:
     Governance and ethics.
   fieldcode: '03'
   groupcode: '100'
+  notes:
+  - Including anti-bribery, anti-procurement fraud, corporate social responsibility
   relationships: []
   subgroupcode: '02'
 dateAccepted: 2018-11-17

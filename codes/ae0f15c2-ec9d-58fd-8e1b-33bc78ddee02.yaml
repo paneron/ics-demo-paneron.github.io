@@ -6,6 +6,9 @@ data:
     IT applications in building and construction industry.
   fieldcode: '35'
   groupcode: '240'
+  notes:
+  - Including building information modelling, Home and Building Electronic Systems
+    (HBES)
   relationships: []
   subgroupcode: '67'
 dateAccepted: 2018-11-17

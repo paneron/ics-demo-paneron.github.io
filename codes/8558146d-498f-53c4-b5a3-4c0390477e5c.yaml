@@ -5,8 +5,11 @@ data:
   descriptionFull: Paper technology. Paper products. Cardboard.
   fieldcode: '85'
   groupcode: 080
+  notes:
+  - Including corrugated fibreboard
   relationships:
-  - to: '55.040'
+  - text: Packaging materials and accessories, see 55.040
+    to: a724b9cf-5a70-5a95-96f0-6fa1818ba54a
     type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17

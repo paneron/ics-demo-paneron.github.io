@@ -6,8 +6,10 @@ data:
     of medical devices.
   fieldcode: '11'
   groupcode: '100'
+  notes: []
   relationships:
-  - to: 07.100.10
+  - text: Medical microbiology, see 07.100.10
+    to: 94dd1761-6968-5e23-be1a-9c840a1946e9
     type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17

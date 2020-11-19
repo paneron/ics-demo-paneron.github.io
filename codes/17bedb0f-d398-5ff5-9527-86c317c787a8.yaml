@@ -6,12 +6,17 @@ data:
     Thermal insulation of buildings.
   fieldcode: '91'
   groupcode: '120'
+  notes:
+  - Including energy efficiency of buildings
   relationships:
-  - to: '27.015'
+  - text: Energy efficiency. Energy conservation in general, see 27.015
+    to: 91e1bec5-7e06-5e07-a81c-364d3036a6b2
     type: related
-  - to: '27.220'
+  - text: Heat recovery. Thermal insulation, see 27.220
+    to: 1b5eb051-79bd-53c7-993f-d74c08706fed
     type: related
-  - to: 91.100.60
+  - text: Thermal and sound insulating materials, see 91.100.60
+    to: 9587a6b7-2ebd-5d7e-a320-319ab88d9005
     type: related
   subgroupcode: '10'
 dateAccepted: 2018-11-17

@@ -5,10 +5,13 @@ data:
   descriptionFull: Food technology. Plants and equipment for the food industry.
   fieldcode: '67'
   groupcode: '260'
+  notes: []
   relationships:
-  - to: '27.200'
+  - text: Refrigerating technology, see 27.200
+    to: 76993fa6-2edc-5f5b-81dc-24d5ab66a457
     type: related
-  - to: 97.130.20
+  - text: Commercial refrigerating appliances, see 97.130.20
+    to: 9c57a76d-c82d-5e56-abaf-cc51ff038721
     type: related
 dateAccepted: 2018-11-17
 id: 1c653452-c4ed-52a3-b327-80796ad591ad

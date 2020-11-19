@@ -5,8 +5,10 @@ data:
   descriptionFull: Railway engineering. Railway rolling stock. Tractive stock.
   fieldcode: '45'
   groupcode: '060'
+  notes: []
   relationships:
-  - to: '29.280'
+  - text: Electric traction equipment, see 29.280
+    to: f50db53b-da51-5391-af16-5859aeec0e94
     type: related
   subgroupcode: '10'
 dateAccepted: 2018-11-17

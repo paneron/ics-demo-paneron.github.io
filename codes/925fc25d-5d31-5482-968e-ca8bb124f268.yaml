@@ -6,8 +6,10 @@ data:
     coding.
   fieldcode: '01'
   groupcode: '070'
+  notes: []
   relationships:
-  - to: 01.080.10
+  - text: Public information symbols. Signs. Plates. Labels, see 01.080.10
+    to: 2feb56ae-483e-52d5-9750-eb1514aba11e
     type: related
 dateAccepted: 2018-11-17
 id: 925fc25d-5d31-5482-968e-ca8bb124f268

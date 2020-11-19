@@ -6,12 +6,16 @@ data:
     pipes and fittings for non fluid use.
   fieldcode: '83'
   groupcode: '140'
+  notes: []
   relationships:
-  - to: 23.040.20
+  - text: Plastics pipes, see 23.040.20
+    to: ee7ada5b-eac5-5bfc-b95c-178ce116c8cd
     type: related
-  - to: 23.040.45
+  - text: Plastics fittings, see 23.040.45
+    to: c82a4e20-1612-5a40-a525-a87b8443531b
     type: related
-  - to: '23.060'
+  - text: Valves, see 23.060
+    to: 819f8b83-1907-57d7-8992-a9e72fbca27a
     type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17

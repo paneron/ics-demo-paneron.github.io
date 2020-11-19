@@ -6,7 +6,6 @@ data:
     Electrical and magnetic measurements.
   fieldcode: '17'
   groupcode: '220'
-  relationships: []
 dateAccepted: 2018-11-17
 id: 3e0bea70-deb5-566d-9efb-67e959c83400
 status: valid

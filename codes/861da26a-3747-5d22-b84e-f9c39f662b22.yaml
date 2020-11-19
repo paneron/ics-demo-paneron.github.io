@@ -6,8 +6,10 @@ data:
     fittings. Shelving.
   fieldcode: '97'
   groupcode: '130'
+  notes: []
   relationships:
-  - to: '53.080'
+  - text: Storage equipment, see 53.080
+    to: 1828bee2-6bb8-5eca-ae51-b517dee74446
     type: related
   subgroupcode: '10'
 dateAccepted: 2018-11-17

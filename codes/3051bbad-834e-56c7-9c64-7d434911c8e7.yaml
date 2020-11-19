@@ -6,8 +6,10 @@ data:
     Toiletries.
   fieldcode: '71'
   groupcode: '100'
+  notes: []
   relationships:
-  - to: 07.100.40
+  - text: Cosmetics microbiology, see 07.100.40
+    to: 7bc26739-efd1-5531-87ee-3755268a61cd
     type: related
   subgroupcode: '70'
 dateAccepted: 2018-11-17

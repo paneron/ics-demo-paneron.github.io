@@ -6,6 +6,8 @@ data:
     treatment.
   fieldcode: '25'
   groupcode: '220'
+  notes:
+  - Including anodization, conversion coating, thermal spraying, etc.
   relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17

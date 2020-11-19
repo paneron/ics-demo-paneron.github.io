@@ -5,8 +5,11 @@ data:
   descriptionFull: Environment. Health protection. Safety. Wastes. Recycling.
   fieldcode: '13'
   groupcode: '030'
+  notes:
+  - Including relevant equipment
   relationships:
-  - to: '43.020'
+  - text: Road vehicles in general, see 43.020
+    to: 2906a6f3-7b38-5413-b09f-f49b366de93d
     type: related
   subgroupcode: '50'
 dateAccepted: 2018-11-17

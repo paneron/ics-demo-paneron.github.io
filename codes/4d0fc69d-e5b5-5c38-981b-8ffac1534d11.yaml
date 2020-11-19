@@ -6,6 +6,8 @@ data:
     in general.
   fieldcode: '59'
   groupcode: '060'
+  notes:
+  - Including mixtures of fibres
   relationships: []
   subgroupcode: '01'
 dateAccepted: 2018-11-17

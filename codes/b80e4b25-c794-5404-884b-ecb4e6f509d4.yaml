@@ -6,6 +6,8 @@ data:
     insulating materials.
   fieldcode: '29'
   groupcode: '035'
+  notes:
+  - Including adhesive tapes
   relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17

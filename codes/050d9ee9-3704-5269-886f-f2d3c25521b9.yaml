@@ -6,7 +6,6 @@ data:
     temperature measurements. Thermodynamics in general.
   fieldcode: '17'
   groupcode: '200'
-  relationships: []
   subgroupcode: '01'
 dateAccepted: 2018-11-17
 id: 050d9ee9-3704-5269-886f-f2d3c25521b9

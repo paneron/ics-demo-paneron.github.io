@@ -6,8 +6,10 @@ data:
     in general. Marine engines and propulsion systems.
   fieldcode: '47'
   groupcode: '020'
+  notes: []
   relationships:
-  - to: '27.020'
+  - text: Internal combustion engines, see 27.020
+    to: 0a8a52be-6b5f-5cff-8029-eef575aecdc3
     type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17

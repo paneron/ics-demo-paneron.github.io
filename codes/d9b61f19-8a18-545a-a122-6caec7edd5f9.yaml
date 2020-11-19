@@ -5,12 +5,18 @@ data:
   descriptionFull: Electrical engineering. Electrical engineering in general.
   fieldcode: '29'
   groupcode: '020'
+  notes:
+  - Including voltages, general electrical terminology, electrical documentation,
+    electrical tables, safety, fire hazard testing, etc.
   relationships:
-  - to: 01.100.25
+  - text: Electrical and electronics engineering drawings, see 01.100.25
+    to: dc35282e-3140-58e1-91a2-2aa1b34d4e97
     type: related
-  - to: '27.100'
+  - text: Power stations in general, see 27.100
+    to: 8898f3e2-8131-5112-bee3-0e10dfe6ffc2
     type: related
-  - to: '33.100'
+  - text: Electromagnetic compatibility (EMC), see 33.100
+    to: d73ad68d-7ad4-5d09-987e-c53eb3d415cd
     type: related
 dateAccepted: 2018-11-17
 id: d9b61f19-8a18-545a-a122-6caec7edd5f9

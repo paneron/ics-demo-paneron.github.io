@@ -6,10 +6,14 @@ data:
     in general. Quality and environmental management in health care.
   fieldcode: '11'
   groupcode: '020'
+  notes:
+  - Including quality and environmental management in health care technology
   relationships:
-  - to: 03.100.70
+  - text: Management systems, see 03.100.70
+    to: d96a33db-f733-56a0-bd28-13b550880168
     type: related
-  - to: 35.240.80
+  - text: IT applications in health care technology, see 35.240.80
+    to: 6d5459f7-5439-586e-97af-0c5b49b534f0
     type: related
   subgroupcode: '01'
 dateAccepted: 2018-11-17

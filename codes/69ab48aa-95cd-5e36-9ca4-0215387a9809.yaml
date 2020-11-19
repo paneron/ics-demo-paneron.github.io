@@ -6,6 +6,8 @@ data:
     building products.
   fieldcode: '91'
   groupcode: '100'
+  notes:
+  - Including roofing tiles, bricks, etc.
   relationships: []
   subgroupcode: '25'
 dateAccepted: 2018-11-17

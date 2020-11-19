@@ -5,6 +5,8 @@ data:
   descriptionFull: Electronics. Optoelectronics. Laser equipment.
   fieldcode: '31'
   groupcode: '260'
+  notes:
+  - Including photoelectric tubes and cells
   relationships: []
 dateAccepted: 2018-11-17
 id: 77c77c96-5268-5ebb-b781-66b9fc8a000b

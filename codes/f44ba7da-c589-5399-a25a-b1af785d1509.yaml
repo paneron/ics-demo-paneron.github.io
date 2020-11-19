@@ -6,6 +6,8 @@ data:
     Special screw threads.
   fieldcode: '21'
   groupcode: '040'
+  notes:
+  - Including miniature screw threads, pipe threads, etc.
   relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17

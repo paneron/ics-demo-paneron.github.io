@@ -6,14 +6,20 @@ data:
     Laboratory equipment.
   fieldcode: '71'
   groupcode: '040'
+  notes:
+  - Including hydrometers, alcoholometers, etc.
   relationships:
-  - to: 17.180.30
+  - text: Optical measuring instruments, see 17.180.30
+    to: d5d66b20-3192-5044-94ee-758278417255
     type: related
-  - to: 17.200.20
+  - text: Temperature-measuring instruments, see 17.200.20
+    to: 4115aaae-6d8c-5750-9520-db577422df12
     type: related
-  - to: '17.060'
+  - text: Measurement of volume, mass, density, viscosity, see 17.060
+    to: 192e7e14-7d01-5aaf-8f33-f2117b9d9c02
     type: related
-  - to: 71.040.20
+  - text: Laboratory ware and related apparatus, see 71.040.20
+    to: e58034bd-a226-5732-8362-3c893cf4cfd2
     type: related
   subgroupcode: '10'
 dateAccepted: 2018-11-17

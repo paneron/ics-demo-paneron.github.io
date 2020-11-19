@@ -5,6 +5,8 @@ data:
   descriptionFull: Energy and heat transfer engineering. Hydraulic energy engineering.
   fieldcode: '27'
   groupcode: '140'
+  notes:
+  - Including hydraulic turbines
   relationships: []
 dateAccepted: 2018-11-17
 id: f1058904-835d-5895-a031-2a2bd646646f

@@ -6,6 +6,9 @@ data:
     Environmental economics. Sustainability.
   fieldcode: '13'
   groupcode: '020'
+  notes:
+  - Including responsible sourcing, procurement, sustainable development, sustainable
+    events management, sustainable communities, smart urban infrastructure, biodiversity
   relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17

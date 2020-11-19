@@ -6,8 +6,10 @@ data:
     Control equipment for electric power systems.
   fieldcode: '29'
   groupcode: '240'
+  notes: []
   relationships:
-  - to: 17.220.20
+  - text: Measurement of electrical and magnetic quantities, see 17.220.20
+    to: 00cb2cf7-32e4-5593-8478-f444f1476571
     type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17

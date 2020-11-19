@@ -5,6 +5,9 @@ data:
   descriptionFull: Environment. Health protection. Safety. Wastes. Special wastes.
   fieldcode: '13'
   groupcode: '030'
+  notes:
+  - Including radioactive wastes, hospital wastes, carcasses, electrical, electronic
+    equipment and other hazardous wastes
   relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17

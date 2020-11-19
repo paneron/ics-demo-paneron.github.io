@@ -6,6 +6,9 @@ data:
     IT applications in information, documentation and publishing.
   fieldcode: '35'
   groupcode: '240'
+  notes:
+  - Including Standard Generalized Markup Language (SGML), Extensible Markup Language
+    (XML), automatic translation machines, etc.
   relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17

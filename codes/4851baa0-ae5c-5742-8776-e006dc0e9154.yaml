@@ -5,6 +5,8 @@ data:
   descriptionFull: Paper technology. Paper production processes.
   fieldcode: '85'
   groupcode: '020'
+  notes:
+  - Including paper recycling
   relationships: []
 dateAccepted: 2018-11-17
 id: 4851baa0-ae5c-5742-8776-e006dc0e9154

@@ -6,8 +6,10 @@ data:
     Sludge.
   fieldcode: '13'
   groupcode: '030'
+  notes: []
   relationships:
-  - to: 13.060.30
+  - text: Sewage water, see 13.060.30
+    to: 43fa93f0-4dad-5892-901e-2362a12ba24a
     type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17

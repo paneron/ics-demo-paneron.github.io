@@ -6,7 +6,6 @@ data:
     Cylinders.
   fieldcode: '23'
   groupcode: '100'
-  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: 458eea72-60df-5c59-8da6-83fecd427cea

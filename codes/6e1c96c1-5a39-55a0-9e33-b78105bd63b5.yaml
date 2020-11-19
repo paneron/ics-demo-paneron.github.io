@@ -7,6 +7,8 @@ data:
     Research and development.
   fieldcode: '03'
   groupcode: '100'
+  notes:
+  - Including project management, value analysis, etc.
   relationships: []
   subgroupcode: '40'
 dateAccepted: 2018-11-17

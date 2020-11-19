@@ -6,18 +6,26 @@ data:
     economics in general.
   fieldcode: '97'
   groupcode: '020'
+  notes:
+  - Including consumer information
   relationships:
-  - to: '23.120'
+  - text: Ventilators. Fans. Air-conditioners, see 23.120
+    to: 9e31f8e0-46db-5969-9711-9eb06f8775bb
     type: related
-  - to: 25.140.20
+  - text: Electric tools, see 25.140.20
+    to: 84bc5e19-faba-5bed-8860-7a0311f0d2b5
     type: related
-  - to: 03.080.30
+  - text: Services for consumers, see 03.080.30
+    to: c46bbbe8-47a2-5d1c-944a-5f14c6ac3dce
     type: related
-  - to: '33.160'
+  - text: Audio, video and audiovisual engineering, see 33.160
+    to: 52ee85fb-ed64-52d9-a75b-a03324cef8eb
     type: related
-  - to: '39.040'
+  - text: Horology, see 39.040
+    to: df598b89-72ad-5131-91e9-846f63d54c19
     type: related
-  - to: '61.080'
+  - text: Sewing machines and other equipment for the clothing industry, see 61.080
+    to: af6250d1-753d-54d8-847d-cb051073e160
     type: related
 dateAccepted: 2018-11-17
 id: 0e2a7c55-8dcb-5643-b34a-336cdf0c7385

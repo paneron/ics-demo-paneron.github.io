@@ -6,8 +6,12 @@ data:
     suspensions.
   fieldcode: '43'
   groupcode: '040'
+  notes:
+  - Including clutches, gearboxes, power-steering systems, cardan shafts, differentials,
+    wheels, rims, etc.
   relationships:
-  - to: 83.160.10
+  - text: Road vehicle tyres, see 83.160.10
+    to: bdbd1be4-4e91-53aa-93da-37d08cffcb00
     type: related
   subgroupcode: '50'
 dateAccepted: 2018-11-17

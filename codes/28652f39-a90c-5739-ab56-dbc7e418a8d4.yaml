@@ -6,6 +6,8 @@ data:
     for conveyors.
   fieldcode: '53'
   groupcode: '040'
+  notes:
+  - Including conveyor belts, chains, chain wheels, etc.
   relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17

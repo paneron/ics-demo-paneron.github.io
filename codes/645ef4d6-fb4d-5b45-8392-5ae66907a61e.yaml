@@ -6,6 +6,9 @@ data:
     joints and welds.
   fieldcode: '25'
   groupcode: '160'
+  notes:
+  - Including welding position and mechanical and non-destructive testing of welded
+    joints
   relationships: []
   subgroupcode: '40'
 dateAccepted: 2018-11-17

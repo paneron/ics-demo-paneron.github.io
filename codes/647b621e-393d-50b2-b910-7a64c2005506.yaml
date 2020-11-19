@@ -6,6 +6,9 @@ data:
     care equipment.
   fieldcode: '97'
   groupcode: '170'
+  notes:
+  - Including hair-driers, razors, shavers, toothbrushes, massage appliances, radiation
+    skin treatment appliances, etc.
   relationships: []
 dateAccepted: 2018-11-17
 id: 647b621e-393d-50b2-b910-7a64c2005506

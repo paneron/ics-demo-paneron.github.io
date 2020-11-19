@@ -6,8 +6,10 @@ data:
     industry in general.
   fieldcode: '91'
   groupcode: '010'
+  notes: []
   relationships:
-  - to: 35.240.67
+  - text: IT applications in building and construction industry, see 35.240.67
+    to: ae0f15c2-ec9d-58fd-8e1b-33bc78ddee02
     type: related
   subgroupcode: '01'
 dateAccepted: 2018-11-17

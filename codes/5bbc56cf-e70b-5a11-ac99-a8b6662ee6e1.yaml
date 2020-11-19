@@ -6,10 +6,14 @@ data:
     Ropes.
   fieldcode: '59'
   groupcode: 080
+  notes:
+  - Including strings, straps, bands
   relationships:
-  - to: 53.020.30
+  - text: Accessories for lifting equipment, see 53.020.30
+    to: 1b9ebed7-234a-539f-a4d1-d5b1ce5ed353
     type: related
-  - to: 77.140.65
+  - text: Steel wire, wire ropes and link chains, see 77.140.65
+    to: 1c095aa4-f478-5f56-9bcf-27a85d5a5afd
     type: related
   subgroupcode: '50'
 dateAccepted: 2018-11-17

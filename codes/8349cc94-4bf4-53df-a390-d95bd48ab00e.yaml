@@ -6,8 +6,10 @@ data:
     fats and oils.
   fieldcode: '67'
   groupcode: '200'
+  notes: []
   relationships:
-  - to: 67.100.20
+  - text: Butter, see 67.100.20
+    to: df538083-5ea4-5337-bac0-921b6f9ab3be
     type: related
   subgroupcode: '10'
 dateAccepted: 2018-11-17

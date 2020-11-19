@@ -6,10 +6,13 @@ data:
     flow. Flow in closed conduits.
   fieldcode: '17'
   groupcode: '120'
+  notes: []
   relationships:
-  - to: 91.140.40
+  - text: Gas supply systems, see 91.140.40
+    to: 241071b4-2218-5815-97e8-476759261603
     type: related
-  - to: 91.140.60
+  - text: Water supply systems, see 91.140.60
+    to: 931993aa-eaf9-5a86-ac80-3ba3a5ad518f
     type: related
   subgroupcode: '10'
 dateAccepted: 2018-11-17

@@ -5,12 +5,17 @@ data:
   descriptionFull: Packaging and distribution of goods. Spools. Bobbins.
   fieldcode: '55'
   groupcode: '060'
+  notes:
+  - Including holders, supports, etc. for externally wound or mounted material
   relationships:
-  - to: 37.040.20
+  - text: Photographic paper, films and plates. Cartridges, see 37.040.20
+    to: 4a0781b9-73fe-51b3-a370-de529394c906
     type: related
-  - to: 37.060.20
+  - text: Motion picture films. Cartridges, see 37.060.20
+    to: 54c85ef7-60fb-5f8f-bb8f-69875d2e3e69
     type: related
-  - to: 59.120.20
+  - text: Winding machines and equipment, see 59.120.20
+    to: ba72e024-eb71-5a58-b2ac-433eea9b40ff
     type: related
 dateAccepted: 2018-11-17
 id: a42092a6-d578-5b76-8c9e-637afd328866

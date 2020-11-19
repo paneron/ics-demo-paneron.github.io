@@ -5,6 +5,10 @@ data:
   descriptionFull: Civil engineering. Road engineering. Road equipment and installations.
   fieldcode: '93'
   groupcode: 080
+  notes:
+  - Including road traffic warning and control systems, devices and installations
+    (speed controls, traffic signal installations, vehicle loop detectors, pavement
+    markers, manholes, etc.)
   relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17

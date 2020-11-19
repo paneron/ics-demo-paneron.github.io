@@ -6,6 +6,8 @@ data:
     in general. Medical science.
   fieldcode: '11'
   groupcode: '020'
+  notes:
+  - Including regenerative medicine, cell therapy, stratified medicine
   relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17

@@ -5,6 +5,8 @@ data:
   descriptionFull: Manufacturing engineering. Hand-held tools. Hand-operated tools.
   fieldcode: '25'
   groupcode: '140'
+  notes:
+  - Including wrenches, screwdrivers, pliers, nippers, hammers, etc.
   relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17

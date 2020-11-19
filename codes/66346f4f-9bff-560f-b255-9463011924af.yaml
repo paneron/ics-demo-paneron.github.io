@@ -6,8 +6,11 @@ data:
     Ventilation and air-conditioning systems.
   fieldcode: '91'
   groupcode: '140'
+  notes:
+  - Including ventilation ducts
   relationships:
-  - to: '23.120'
+  - text: Ventilators. Fans. Air-conditioners, see 23.120
+    to: 9e31f8e0-46db-5969-9711-9eb06f8775bb
     type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17

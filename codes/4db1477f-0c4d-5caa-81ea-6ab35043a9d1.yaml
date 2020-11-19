@@ -5,6 +5,8 @@ data:
   descriptionFull: Agriculture. Farming and forestry. Plant growing.
   fieldcode: '65'
   groupcode: '020'
+  notes:
+  - Including horticulture, floriculture, seeds, plant diseases
   relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17

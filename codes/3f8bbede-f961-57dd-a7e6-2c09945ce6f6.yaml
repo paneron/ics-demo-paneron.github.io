@@ -6,8 +6,10 @@ data:
     and boilers in general.
   fieldcode: '27'
   groupcode: '060'
+  notes: []
   relationships:
-  - to: 91.140.10
+  - text: Central heating systems, see 91.140.10
+    to: 8c78f085-dc7d-5aef-bf94-dbbac6e29ce2
     type: related
   subgroupcode: '01'
 dateAccepted: 2018-11-17

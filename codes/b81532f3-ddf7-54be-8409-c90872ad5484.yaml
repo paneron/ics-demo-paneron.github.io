@@ -5,6 +5,8 @@ data:
   descriptionFull: Information technology. Information technology (IT) in general.
   fieldcode: '35'
   groupcode: '020'
+  notes:
+  - Including general aspects of IT equipment
   relationships: []
 dateAccepted: 2018-11-17
 id: b81532f3-ddf7-54be-8409-c90872ad5484

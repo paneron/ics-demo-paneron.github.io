@@ -6,6 +6,8 @@ data:
     Yarns.
   fieldcode: '59'
   groupcode: 080
+  notes:
+  - Including plied yarns, textured yarns, threads
   relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17

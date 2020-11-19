@@ -6,6 +6,9 @@ data:
     Identification cards. Chip cards. Biometrics.
   fieldcode: '35'
   groupcode: '240'
+  notes:
+  - Including application of cards for banking, trade, telecommunications, transport,
+    etc.
   relationships: []
   subgroupcode: '15'
 dateAccepted: 2018-11-17

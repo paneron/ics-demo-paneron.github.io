@@ -5,6 +5,8 @@ data:
   descriptionFull: Information technology. Data storage devices. Magnetic disks.
   fieldcode: '35'
   groupcode: '220'
+  notes:
+  - Including flexible disks, diskettes, disk packs, disk cartridges, etc.
   relationships: []
   subgroupcode: '21'
 dateAccepted: 2018-11-17

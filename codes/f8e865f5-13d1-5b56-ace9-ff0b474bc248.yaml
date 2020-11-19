@@ -5,10 +5,14 @@ data:
   descriptionFull: Construction materials and building. Construction equipment.
   fieldcode: '91'
   groupcode: '220'
+  notes:
+  - Including scaffolding, mixers for concrete and mortar, etc.
   relationships:
-  - to: '53.100'
+  - text: Earth-moving machinery, see 53.100
+    to: 51d76e72-38e8-51f3-857b-048c28df2c64
     type: related
-  - to: '53.020'
+  - text: Lifting equipment, see 53.020
+    to: 261b2342-fead-5c73-bc9e-c1587e6e45b4
     type: related
 dateAccepted: 2018-11-17
 id: f8e865f5-13d1-5b56-ace9-ff0b474bc248

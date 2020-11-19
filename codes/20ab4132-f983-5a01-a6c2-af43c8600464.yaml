@@ -6,10 +6,13 @@ data:
     Acoustics in building. Sound insulation.
   fieldcode: '91'
   groupcode: '120'
+  notes: []
   relationships:
-  - to: 17.140.01
+  - text: Acoustic measurements and noise abatement in general, see 17.140.01
+    to: d70b3470-53bd-5908-93de-f5439287c346
     type: related
-  - to: 91.100.60
+  - text: Thermal and sound insulating materials, see 91.100.60
+    to: 9587a6b7-2ebd-5d7e-a320-319ab88d9005
     type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17

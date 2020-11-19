@@ -6,6 +6,8 @@ data:
     IT applications in industry.
   fieldcode: '35'
   groupcode: '240'
+  notes:
+  - Including design automation
   relationships: []
   subgroupcode: '50'
 dateAccepted: 2018-11-17

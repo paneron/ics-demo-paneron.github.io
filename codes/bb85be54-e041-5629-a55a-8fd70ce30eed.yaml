@@ -5,8 +5,12 @@ data:
   descriptionFull: Textile and leather technology. Leather technology. Leather products.
   fieldcode: '59'
   groupcode: '140'
+  notes:
+  - Including trunks, suitcases, handbags, purses, wallets, dog-collars, etc. made
+    of materials other than leather
   relationships:
-  - to: '61'
+  - text: Clothing industry, see 61
+    to: c56a2dba-359f-52ac-8b03-cf35371bdcc6
     type: related
   subgroupcode: '35'
 dateAccepted: 2018-11-17

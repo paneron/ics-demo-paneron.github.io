@@ -6,8 +6,10 @@ data:
     engines.
   fieldcode: '27'
   groupcode: '040'
+  notes: []
   relationships:
-  - to: '27.140'
+  - text: Hydraulic energy engineering, see 27.140
+    to: f1058904-835d-5895-a031-2a2bd646646f
     type: related
 dateAccepted: 2018-11-17
 id: 392d23a6-6968-52dc-9b66-055873e6b6fa

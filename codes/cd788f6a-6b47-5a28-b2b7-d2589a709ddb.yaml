@@ -5,6 +5,8 @@ data:
   descriptionFull: Image technology. Graphic technology. Graphic technology in general.
   fieldcode: '37'
   groupcode: '100'
+  notes:
+  - Including proof corrections
   relationships: []
   subgroupcode: '01'
 dateAccepted: 2018-11-17

@@ -5,6 +5,8 @@ data:
   descriptionFull: Agriculture. Fertilizers.
   fieldcode: '65'
   groupcode: 080
+  notes:
+  - Including soil conditioners and culture medium
   relationships: []
 dateAccepted: 2018-11-17
 id: 2ddb4f98-a91f-5f18-a8c1-42cbf59acbcd

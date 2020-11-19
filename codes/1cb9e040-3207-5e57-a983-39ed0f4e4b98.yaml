@@ -6,6 +6,8 @@ data:
     flow. Flow in open channels.
   fieldcode: '17'
   groupcode: '120'
+  notes:
+  - Including hydrometric determinations
   relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17

@@ -6,6 +6,8 @@ data:
     measurements. Noise emitted by means of transport.
   fieldcode: '17'
   groupcode: '140'
+  notes:
+  - Including road noise, railway noise, harbour noise and airport noise
   relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17

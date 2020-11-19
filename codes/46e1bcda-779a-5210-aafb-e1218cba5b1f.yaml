@@ -7,7 +7,6 @@ data:
     Production. Production management.
   fieldcode: '03'
   groupcode: '100'
-  relationships: []
   subgroupcode: '50'
 dateAccepted: 2018-11-17
 id: 46e1bcda-779a-5210-aafb-e1218cba5b1f

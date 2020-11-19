@@ -6,12 +6,17 @@ data:
     equipment and facilities. Outdoor and water sports equipment.
   fieldcode: '97'
   groupcode: '220'
+  notes:
+  - Including equipment for mountaineering, football, tennis, swimming, diving, etc.
   relationships:
-  - to: 13.340.70
+  - text: Lifejackets, buoyancy aids and flotation devices, see 13.340.70
+    to: aab24889-636e-58d0-810e-5b7ab15d3481
     type: related
-  - to: 03.200.99
+  - text: Other standards relating to leisure and tourism, see 03.200.99
+    to: b8ce550c-f89d-5064-bfc4-e29b5f87e685
     type: related
-  - to: '47.080'
+  - text: Small craft, see 47.080
+    to: 6617e32e-5540-59ba-8bc0-a1abff6519ab
     type: related
   subgroupcode: '40'
 dateAccepted: 2018-11-17

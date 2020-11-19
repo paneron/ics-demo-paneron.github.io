@@ -6,8 +6,11 @@ data:
     Transport. Sociology. Services. Maintenance services. Facilities management.
   fieldcode: '03'
   groupcode: 080
+  notes:
+  - Including cleaning and pest control
   relationships:
-  - to: '11.080'
+  - text: Sterilization and disinfection, see 11.080
+    to: 99759b03-90df-5e15-a5c4-ecae01088913
     type: related
   subgroupcode: '10'
 dateAccepted: 2018-11-17

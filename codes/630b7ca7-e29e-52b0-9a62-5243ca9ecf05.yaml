@@ -5,6 +5,8 @@ data:
   descriptionFull: Construction materials and building. Buildings. Public buildings.
   fieldcode: '91'
   groupcode: '040'
+  notes:
+  - Including ecclesiastical buildings and hospitals
   relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17

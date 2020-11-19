@@ -5,10 +5,13 @@ data:
   descriptionFull: Road vehicles engineering. Commercial vehicles.
   fieldcode: '43'
   groupcode: 080
+  notes: []
   relationships:
-  - to: '43.040'
+  - text: Road vehicle systems, see 43.040
+    to: 702644f6-f4c5-500f-87db-60217c3ff851
     type: related
-  - to: 83.160.10
+  - text: Road vehicle tyres, see 83.160.10
+    to: bdbd1be4-4e91-53aa-93da-37d08cffcb00
     type: related
 dateAccepted: 2018-11-17
 id: 04ac75bc-d5e8-5f2d-836c-3e2b8c8d5742

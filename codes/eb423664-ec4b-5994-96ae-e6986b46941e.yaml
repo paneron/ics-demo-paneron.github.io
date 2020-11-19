@@ -6,8 +6,10 @@ data:
     in general.
   fieldcode: '53'
   groupcode: '020'
+  notes: []
   relationships:
-  - to: 11.180.10
+  - text: Aids and adaptation for moving, see 11.180.10
+    to: be7067b4-8848-512a-a48a-f8cd0e84e675
     type: related
   subgroupcode: '01'
 dateAccepted: 2018-11-17

@@ -5,6 +5,9 @@ data:
   descriptionFull: Mining and minerals. Mining and quarrying.
   fieldcode: '73'
   groupcode: '020'
+  notes:
+  - Including exploration, opening-up, development, working of mineral deposits, drilling,
+    construction of mines, mining operations, processing of minerals, etc.
   relationships: []
 dateAccepted: 2018-11-17
 id: a9f614ca-6b3d-513c-98ec-1589389ed5a6

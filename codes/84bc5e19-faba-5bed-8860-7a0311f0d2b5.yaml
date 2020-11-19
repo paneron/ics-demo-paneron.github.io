@@ -5,8 +5,10 @@ data:
   descriptionFull: Manufacturing engineering. Hand-held tools. Electric tools.
   fieldcode: '25'
   groupcode: '140'
+  notes: []
   relationships:
-  - to: 65.060.80
+  - text: Forestry equipment, see 65.060.80
+    to: 0c495d72-be0b-54c6-b3b1-8eb904a3e5f7
     type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17

@@ -6,6 +6,8 @@ data:
     applications.
   fieldcode: '35'
   groupcode: '100'
+  notes:
+  - Including International Standardized Profiles
   relationships: []
   subgroupcode: '05'
 dateAccepted: 2018-11-17

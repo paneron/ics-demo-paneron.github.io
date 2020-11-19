@@ -5,12 +5,18 @@ data:
   descriptionFull: Testing. Non-destructive testing.
   fieldcode: '19'
   groupcode: '100'
+  notes:
+  - 'Including testing equipment: industrial apparatus for X-ray and gamma radiography,
+    penetrant flaw detectors, etc.'
   relationships:
-  - to: 25.160.40
+  - text: Welded joints and welds, see 25.160.40
+    to: 645ef4d6-fb4d-5b45-8392-5ae66907a61e
     type: related
-  - to: 37.040.25
+  - text: Radiographic films, see 37.040.25
+    to: 1fe1b0db-163a-5a9d-8b28-df73b3855996
     type: related
-  - to: 77.040.20
+  - text: Non-destructive testing of metals, see 77.040.20
+    to: 8af5a188-5161-52e2-be2a-5c6f1cedd62f
     type: related
 dateAccepted: 2018-11-17
 id: ab097af1-4f93-5352-a5e5-7ea2ed504e72

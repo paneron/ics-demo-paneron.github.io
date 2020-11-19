@@ -5,6 +5,8 @@ data:
   descriptionFull: Petroleum and related technologies. Fuels. Biofuels.
   fieldcode: '75'
   groupcode: '160'
+  notes:
+  - Including solid biofuels, liquid biofuels and biogas
   relationships: []
   subgroupcode: '40'
 dateAccepted: 2018-11-17

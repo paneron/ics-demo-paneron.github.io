@@ -5,14 +5,20 @@ data:
   descriptionFull: Energy and heat transfer engineering. Power stations in general.
   fieldcode: '27'
   groupcode: '100'
+  notes:
+  - Including thermal power plants
   relationships:
-  - to: 27.120.20
+  - text: Nuclear power plants. Safety, see 27.120.20
+    to: 73323284-7666-52f6-9bd5-b98eabb099d0
     type: related
-  - to: '27.140'
+  - text: Hydraulic energy engineering, see 27.140
+    to: f1058904-835d-5895-a031-2a2bd646646f
     type: related
-  - to: '27.160'
+  - text: Solar energy engineering, see 27.160
+    to: e211ef5c-e974-52b6-8888-80c2ea4f9c94
     type: related
-  - to: '27.180'
+  - text: Wind turbine energy systems, see 27.180
+    to: c27696a7-48ef-5164-b360-319ddef859b8
     type: related
 dateAccepted: 2018-11-17
 id: 8898f3e2-8131-5112-bee3-0e10dfe6ffc2

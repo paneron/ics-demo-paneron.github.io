@@ -6,8 +6,11 @@ data:
     and antiseptics.
   fieldcode: '11'
   groupcode: 080
+  notes:
+  - Including indicators
   relationships:
-  - to: 71.100.35
+  - text: Chemicals for industrial and domestic disinfection purposes, see 71.100.35
+    to: bcd73c7c-2f1c-5f8d-83ef-271dd138a518
     type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17

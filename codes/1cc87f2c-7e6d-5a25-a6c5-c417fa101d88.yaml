@@ -7,12 +7,17 @@ data:
     Company organization and management in general.
   fieldcode: '03'
   groupcode: '100'
+  notes:
+  - Including legal aspects and risk management, societal security, outsourcing
   relationships:
-  - to: '13.310'
+  - text: Protection against crime, see 13.310
+    to: 7303955e-e79e-515f-99d1-fa679edeb18e
     type: related
-  - to: 03.100.70
+  - text: Management systems, see 03.100.70
+    to: d96a33db-f733-56a0-bd28-13b550880168
     type: related
-  - to: 03.080.20
+  - text: Services for companies, see 03.080.20
+    to: 652953d4-95df-572e-825b-150610dcb6c1
     type: related
   subgroupcode: '01'
 dateAccepted: 2018-11-17

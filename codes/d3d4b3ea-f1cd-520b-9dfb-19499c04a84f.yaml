@@ -6,6 +6,10 @@ data:
     domestic and commercial equipment.
   fieldcode: '97'
   groupcode: '180'
+  notes:
+  - Including scissors, aquarium equipment, articles for domestic animals, battery
+    chargers, mops, insect electrocutors, lighters, matches, paper clips, pens, pencils,
+    etc.
   relationships: []
 dateAccepted: 2018-11-17
 id: d3d4b3ea-f1cd-520b-9dfb-19499c04a84f

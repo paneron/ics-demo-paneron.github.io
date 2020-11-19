@@ -5,6 +5,8 @@ data:
   descriptionFull: Health care technology. Veterinary medicine.
   fieldcode: '11'
   groupcode: '220'
+  notes:
+  - Including equipment specific to veterinary medicine
   relationships: []
 dateAccepted: 2018-11-17
 id: 39200757-6910-5bc7-94eb-f51be847342c

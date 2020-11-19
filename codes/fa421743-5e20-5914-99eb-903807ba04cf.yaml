@@ -5,6 +5,8 @@ data:
   descriptionFull: Chemical technology. Analytical chemistry. Chemical reagents.
   fieldcode: '71'
   groupcode: '040'
+  notes:
+  - Including reference materials
   relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17

@@ -5,10 +5,14 @@ data:
   descriptionFull: Construction materials and building. Buildings. Buildings in general.
   fieldcode: '91'
   groupcode: '040'
+  notes:
+  - Including building environment design and service life planning
   relationships:
-  - to: '91.100'
+  - text: Construction materials, see 91.100
+    to: ab8a1085-a3ee-5c5f-94d9-0b17f2118677
     type: related
-  - to: '97.195'
+  - text: Items of art and handicrafts. Cultural property and heritage, see 97.195
+    to: 2a8e569b-6c07-52d1-90a4-4a11a0ce8206
     type: related
   subgroupcode: '01'
 dateAccepted: 2018-11-17

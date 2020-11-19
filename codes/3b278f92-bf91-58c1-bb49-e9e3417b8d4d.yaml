@@ -6,8 +6,12 @@ data:
     components.
   fieldcode: '43'
   groupcode: '040'
+  notes:
+  - Including vehicle frame and structure, heating devices, air-conditioning systems
+    for passenger/driver compartments, roof load carriers, etc.
   relationships:
-  - to: 43.080.10
+  - text: Trucks and trailers, see 43.080.10
+    to: 38165d0c-bd8d-580c-ba75-94f1950edae4
     type: related
   subgroupcode: '60'
 dateAccepted: 2018-11-17

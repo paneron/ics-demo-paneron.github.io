@@ -5,6 +5,8 @@ data:
   descriptionFull: Shipbuilding and marine structures. Inland navigation vessels.
   fieldcode: '47'
   groupcode: '060'
+  notes:
+  - Including their systems and components
   relationships: []
 dateAccepted: 2018-11-17
 id: e07024f2-6396-5e17-ba54-93eb9f68385a

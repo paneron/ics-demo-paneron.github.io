@@ -5,6 +5,8 @@ data:
   descriptionFull: Information technology. IT Security.
   fieldcode: '35'
   groupcode: '030'
+  notes:
+  - Including encryption
   relationships: []
 dateAccepted: 2018-11-17
 id: a576b697-423f-57fd-819e-0e8144d2f8a1

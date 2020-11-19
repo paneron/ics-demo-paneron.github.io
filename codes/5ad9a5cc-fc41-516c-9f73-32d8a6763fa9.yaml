@@ -6,6 +6,8 @@ data:
     processes.
   fieldcode: '25'
   groupcode: '160'
+  notes:
+  - Including thermal cutting and cladding
   relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17

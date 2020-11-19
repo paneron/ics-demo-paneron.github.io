@@ -6,12 +6,16 @@ data:
     water.
   fieldcode: '13'
   groupcode: '060'
+  notes: []
   relationships:
-  - to: 67.160.20
+  - text: Non-alcoholic beverages, see 67.160.20
+    to: facab813-7450-5ebd-bc07-29b0f19da05c
     type: related
-  - to: 71.100.80
+  - text: Chemicals for purification of water, see 71.100.80
+    to: 3aa12314-0958-51d1-af0b-fb4eae1acd44
     type: related
-  - to: 91.140.60
+  - text: Water supply systems, see 91.140.60
+    to: 931993aa-eaf9-5a86-ac80-3ba3a5ad518f
     type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17

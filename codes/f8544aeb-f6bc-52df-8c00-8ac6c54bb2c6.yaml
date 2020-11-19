@@ -6,6 +6,8 @@ data:
     brazing and soldering in general.
   fieldcode: '25'
   groupcode: '160'
+  notes:
+  - Including welders' qualifications
   relationships: []
   subgroupcode: '01'
 dateAccepted: 2018-11-17

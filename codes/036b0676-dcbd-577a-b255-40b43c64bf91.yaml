@@ -6,6 +6,8 @@ data:
     drawings. Construction drawings.
   fieldcode: '01'
   groupcode: '100'
+  notes:
+  - Including civil engineering drawings
   relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17

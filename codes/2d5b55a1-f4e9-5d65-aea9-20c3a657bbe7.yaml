@@ -5,8 +5,11 @@ data:
   descriptionFull: Electronics. Integrated circuits. Microelectronics.
   fieldcode: '31'
   groupcode: '200'
+  notes:
+  - Including electronic chips, logical and analogue microstructures
   relationships:
-  - to: '35.160'
+  - text: Microprocessor systems, see 35.160
+    to: a4033a4a-7b17-5e6b-b928-bf5619eb8cc2
     type: related
 dateAccepted: 2018-11-17
 id: 2d5b55a1-f4e9-5d65-aea9-20c3a657bbe7

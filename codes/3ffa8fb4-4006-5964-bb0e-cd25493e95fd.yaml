@@ -6,10 +6,15 @@ data:
     in general.
   fieldcode: '17'
   groupcode: '020'
+  notes:
+  - Including measuring instruments in general, preferred numbers, standard measures,
+    general aspects of reference materials, etc.
   relationships:
-  - to: '01.060'
+  - text: Quantities and units, see 01.060
+    to: a8f86ead-42dc-5c1d-9f33-0491ac4219b4
     type: related
-  - to: 71.040.30
+  - text: Chemical reagents, see 71.040.30
+    to: fa421743-5e20-5914-99eb-903807ba04cf
     type: related
 dateAccepted: 2018-11-17
 id: 3ffa8fb4-4006-5964-bb0e-cd25493e95fd

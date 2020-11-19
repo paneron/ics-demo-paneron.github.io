@@ -5,6 +5,8 @@ data:
   descriptionFull: Image technology. Photography. Radiographic films.
   fieldcode: '37'
   groupcode: '040'
+  notes:
+  - Including dental, medical and industrial radiographic films
   relationships: []
   subgroupcode: '25'
 dateAccepted: 2018-11-17

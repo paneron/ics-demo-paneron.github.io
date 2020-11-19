@@ -6,8 +6,10 @@ data:
     Seismic and vibration protection.
   fieldcode: '91'
   groupcode: '120'
+  notes: []
   relationships:
-  - to: '17.160'
+  - text: Vibrations, shock and vibration measurements, see 17.160
+    to: 3061f2c1-8491-584f-95cd-a74c14470965
     type: related
   subgroupcode: '25'
 dateAccepted: 2018-11-17

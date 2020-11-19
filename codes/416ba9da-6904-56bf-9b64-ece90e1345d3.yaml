@@ -5,6 +5,8 @@ data:
   descriptionFull: Information technology. Data storage devices. Optical storage devices.
   fieldcode: '35'
   groupcode: '220'
+  notes:
+  - Including CD and magneto-optical devices (MO)
   relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17

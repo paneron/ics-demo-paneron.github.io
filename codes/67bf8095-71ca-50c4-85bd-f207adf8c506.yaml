@@ -6,10 +6,14 @@ data:
     measurements.
   fieldcode: '17'
   groupcode: '140'
+  notes:
+  - Including measuring instruments and testing equipment
   relationships:
-  - to: '13.140'
+  - text: Noise with respect to human beings, see 13.140
+    to: 3316ad36-ee16-5507-abfa-26a4fdb2f11a
     type: related
-  - to: 91.120.20
+  - text: Acoustics in building. Sound insulation, see 91.120.20
+    to: 20ab4132-f983-5a01-a6c2-af43c8600464
     type: related
 dateAccepted: 2018-11-17
 id: 67bf8095-71ca-50c4-85bd-f207adf8c506

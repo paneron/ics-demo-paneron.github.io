@@ -6,6 +6,8 @@ data:
     and disinfection in general.
   fieldcode: '11'
   groupcode: 080
+  notes:
+  - Including sterilization methods, air quality of surgery rooms, etc.
   relationships: []
   subgroupcode: '01'
 dateAccepted: 2018-11-17

@@ -6,8 +6,11 @@ data:
     and injection equipment.
   fieldcode: '11'
   groupcode: '040'
+  notes:
+  - Including blood packs and containers for transfusion
   relationships:
-  - to: 11.040.25
+  - text: Syringes, needles and catheters, see 11.040.25
+    to: 0ec37dfc-bc1f-50f4-9f93-1dcb9ea62d16
     type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17

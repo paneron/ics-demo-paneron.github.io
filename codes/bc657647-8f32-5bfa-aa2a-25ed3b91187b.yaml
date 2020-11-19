@@ -5,14 +5,19 @@ data:
   descriptionFull: Construction materials and building. Protection of and in buildings.
   fieldcode: '91'
   groupcode: '120'
+  notes: []
   relationships:
-  - to: '13.200'
+  - text: Accident and disaster control, see 13.200
+    to: e7cee539-d165-5d40-a2a0-41065ed62b54
     type: related
-  - to: 13.220.20
+  - text: Fire protection, see 13.220.20
+    to: 7c66d635-edad-58bb-a685-eaa551d43666
     type: related
-  - to: 13.220.50
+  - text: Fire-resistance of building materials and elements, see 13.220.50
+    to: 2bd80a55-0f69-583b-98f1-f803cc15266f
     type: related
-  - to: '13.320'
+  - text: Alarm and warning systems, see 13.320
+    to: 37eceeac-539e-531b-af03-552ca3e8faaf
     type: related
 dateAccepted: 2018-11-17
 id: bc657647-8f32-5bfa-aa2a-25ed3b91187b

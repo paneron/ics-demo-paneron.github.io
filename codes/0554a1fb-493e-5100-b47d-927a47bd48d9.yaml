@@ -6,6 +6,8 @@ data:
     switchgear and controlgear.
   fieldcode: '29'
   groupcode: '130'
+  notes:
+  - Including enclosed switchgear and controlgear
   relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17

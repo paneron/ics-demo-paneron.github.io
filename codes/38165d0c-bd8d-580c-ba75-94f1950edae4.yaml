@@ -5,8 +5,11 @@ data:
   descriptionFull: Road vehicles engineering. Commercial vehicles. Trucks and trailers.
   fieldcode: '43'
   groupcode: 080
+  notes:
+  - Including tanker trucks and loading compartments
   relationships:
-  - to: '53.060'
+  - text: Industrial trucks, see 53.060
+    to: bca1325e-97fe-57d8-b6f1-917a700b0a8d
     type: related
   subgroupcode: '10'
 dateAccepted: 2018-11-17

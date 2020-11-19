@@ -6,6 +6,9 @@ data:
     Transport. Sociology. Leisure. Tourism. Leisure and tourism in general.
   fieldcode: '03'
   groupcode: '200'
+  notes:
+  - Including outdoor events management, tourist information offices, tourism services,
+    hotels, etc.
   relationships: []
   subgroupcode: '01'
 dateAccepted: 2018-11-17

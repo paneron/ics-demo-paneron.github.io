@@ -6,6 +6,8 @@ data:
     Electrical and magnetic measurements. Electricity. Magnetism. General aspects.
   fieldcode: '17'
   groupcode: '220'
+  notes:
+  - Including electromagnetism
   relationships: []
   subgroupcode: '01'
 dateAccepted: 2018-11-17

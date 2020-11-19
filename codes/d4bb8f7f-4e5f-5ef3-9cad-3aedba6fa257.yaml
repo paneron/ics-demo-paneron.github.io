@@ -6,6 +6,8 @@ data:
     shafts, ducts.
   fieldcode: '91'
   groupcode: '060'
+  notes:
+  - Including flues and flue pipes
   relationships: []
   subgroupcode: '40'
 dateAccepted: 2018-11-17

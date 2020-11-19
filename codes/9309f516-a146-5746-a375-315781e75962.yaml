@@ -6,6 +6,9 @@ data:
     appliances.
   fieldcode: '97'
   groupcode: '060'
+  notes:
+  - Including washing-machines, dry-cleaners, driers, ironing and pressing appliances,
+    etc.
   relationships: []
 dateAccepted: 2018-11-17
 id: 9309f516-a146-5746-a375-315781e75962

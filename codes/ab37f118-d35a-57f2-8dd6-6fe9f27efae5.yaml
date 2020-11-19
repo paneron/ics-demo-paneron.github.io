@@ -5,8 +5,10 @@ data:
   descriptionFull: Agriculture. Agricultural machines, implements and equipment.
   fieldcode: '65'
   groupcode: '060'
+  notes: []
   relationships:
-  - to: 83.160.30
+  - text: Tyres for agricultural machinery, see 83.160.30
+    to: 9dd67e60-eaaf-5ff7-b346-dd5d95dd0555
     type: related
 dateAccepted: 2018-11-17
 id: ab37f118-d35a-57f2-8dd6-6fe9f27efae5

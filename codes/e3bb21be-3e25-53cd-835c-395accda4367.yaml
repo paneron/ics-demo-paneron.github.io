@@ -5,14 +5,21 @@ data:
   descriptionFull: Road vehicles engineering. Special purpose vehicles.
   fieldcode: '43'
   groupcode: '160'
+  notes:
+  - Including waste collection vehicles and components and systems for special purpose
+    vehicles
   relationships:
-  - to: 13.220.10
+  - text: Fire-fighting, see 13.220.10
+    to: 20358b08-9b3a-55f9-bfbf-ca3193362d55
     type: related
-  - to: '53.100'
+  - text: Earth-moving machinery, see 53.100
+    to: 51d76e72-38e8-51f3-857b-048c28df2c64
     type: related
-  - to: 53.020.20
+  - text: Cranes, see 53.020.20
+    to: a18b1892-17a3-58c9-90f2-9ebc36dc00c1
     type: related
-  - to: 65.060.10
+  - text: Agricultural tractors and trailed vehicles, see 65.060.10
+    to: a3da5b8e-e277-52ec-84ee-0dafdb252465
     type: related
 dateAccepted: 2018-11-17
 id: e3bb21be-3e25-53cd-835c-395accda4367

@@ -5,10 +5,14 @@ data:
   descriptionFull: Natural and applied sciences. Microbiology. Food microbiology.
   fieldcode: '07'
   groupcode: '100'
+  notes:
+  - Including microbiology of animal feeding stuffs
   relationships:
-  - to: '65.120'
+  - text: Animal feeding stuffs, see 65.120
+    to: 9f8f06d7-8d4d-576f-b823-1b69a158af6e
     type: related
-  - to: '67.050'
+  - text: General methods of tests and analysis for food products, see 67.050
+    to: 8b43216b-d0f9-511b-b075-569dcc2e1b03
     type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17

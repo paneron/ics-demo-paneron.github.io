@@ -5,8 +5,10 @@ data:
   descriptionFull: Energy and heat transfer engineering. Heat recovery. Thermal insulation.
   fieldcode: '27'
   groupcode: '220'
+  notes: []
   relationships:
-  - to: 91.120.10
+  - text: Thermal insulation of buildings, see 91.120.10
+    to: 17bedb0f-d398-5ff5-9527-86c317c787a8
     type: related
 dateAccepted: 2018-11-17
 id: 1b5eb051-79bd-53c7-993f-d74c08706fed

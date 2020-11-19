@@ -5,16 +5,22 @@ data:
   descriptionFull: Metallurgy. Testing of metals. Chemical analysis of metals.
   fieldcode: '77'
   groupcode: '040'
+  notes: []
   relationships:
-  - to: 71.040.40
+  - text: Chemical analysis, see 71.040.40
+    to: 0b396cc3-5f6d-58b4-85f2-20f98769a008
     type: related
-  - to: '77.100'
+  - text: Ferroalloys, see 77.100
+    to: f0c77bd4-860f-59d7-98a6-007277942e70
     type: related
-  - to: '77.120'
+  - text: Non-ferrous metals, see 77.120
+    to: 4bd33b91-0f5b-5782-98b3-a426b1e5c797
     type: related
-  - to: '77.160'
+  - text: Powder metallurgy, see 77.160
+    to: 0e8d4548-d3b2-5c08-b073-1d0e9f4ae1ab
     type: related
-  - to: '77.080'
+  - text: Ferrous metals, see 77.080
+    to: 6e198f36-30d5-5278-9164-c76512e9c1be
     type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17

@@ -5,6 +5,8 @@ data:
   descriptionFull: Railway engineering. Rails and railway components.
   fieldcode: '45'
   groupcode: 080
+  notes:
+  - Including track components
   relationships: []
 dateAccepted: 2018-11-17
 id: 0597697f-9e61-5f8e-ad4e-e6392aa8737c

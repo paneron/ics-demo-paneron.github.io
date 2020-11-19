@@ -5,6 +5,8 @@ data:
   descriptionFull: Food technology. Fruits. Vegetables. Vegetables and derived products.
   fieldcode: '67'
   groupcode: 080
+  notes:
+  - Including tomato concentrates, ketchup, etc.
   relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17

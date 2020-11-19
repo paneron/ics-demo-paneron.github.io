@@ -5,6 +5,8 @@ data:
   descriptionFull: Electrical engineering. Electrical wires and cables. Wires.
   fieldcode: '29'
   groupcode: '060'
+  notes:
+  - Including electric rods, busbars, etc.
   relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17

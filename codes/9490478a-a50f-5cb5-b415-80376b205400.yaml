@@ -6,8 +6,10 @@ data:
     equipment. Kitchen furniture.
   fieldcode: '97'
   groupcode: '040'
+  notes: []
   relationships:
-  - to: 91.140.70
+  - text: Sanitary installations, see 91.140.70
+    to: fda0359d-ca5d-5ff9-aae3-be2722367949
     type: related
   subgroupcode: '10'
 dateAccepted: 2018-11-17

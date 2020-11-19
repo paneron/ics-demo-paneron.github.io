@@ -5,10 +5,13 @@ data:
   descriptionFull: Metallurgy. Testing of metals. Mechanical testing of metals.
   fieldcode: '77'
   groupcode: '040'
+  notes: []
   relationships:
-  - to: '19.060'
+  - text: Mechanical testing, see 19.060
+    to: a82d577b-4aa9-58b6-9ec2-c453a16065ab
     type: related
-  - to: 25.160.40
+  - text: Welded joints and welds, see 25.160.40
+    to: 645ef4d6-fb4d-5b45-8392-5ae66907a61e
     type: related
   subgroupcode: '10'
 dateAccepted: 2018-11-17

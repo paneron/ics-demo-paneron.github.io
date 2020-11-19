@@ -6,6 +6,8 @@ data:
     Textiles in general.
   fieldcode: '59'
   groupcode: 080
+  notes:
+  - Including colour fastness of textiles
   relationships: []
   subgroupcode: '01'
 dateAccepted: 2018-11-17

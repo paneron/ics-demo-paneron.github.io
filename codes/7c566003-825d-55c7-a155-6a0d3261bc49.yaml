@@ -6,7 +6,6 @@ data:
     temperature measurements. Heat. Calorimetry.
   fieldcode: '17'
   groupcode: '200'
-  relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: 7c566003-825d-55c7-a155-6a0d3261bc49

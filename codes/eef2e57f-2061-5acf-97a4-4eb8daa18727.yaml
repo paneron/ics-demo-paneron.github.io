@@ -6,6 +6,8 @@ data:
     equipment.
   fieldcode: '65'
   groupcode: '060'
+  notes:
+  - Including lawnmowers, equipment for olive cultivation and olive production
   relationships: []
   subgroupcode: '70'
 dateAccepted: 2018-11-17

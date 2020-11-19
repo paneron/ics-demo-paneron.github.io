@@ -6,6 +6,9 @@ data:
     and equipment.
   fieldcode: '59'
   groupcode: '120'
+  notes:
+  - Including machines and equipment for reeling, balling, warping, sizing, beaming,
+    etc. of yarns
   relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17

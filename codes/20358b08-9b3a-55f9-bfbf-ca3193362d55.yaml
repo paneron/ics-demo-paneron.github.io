@@ -6,8 +6,11 @@ data:
     Fire-fighting.
   fieldcode: '13'
   groupcode: '220'
+  notes:
+  - Including equipment and vehicles
   relationships:
-  - to: 13.340.10
+  - text: Protective clothing, see 13.340.10
+    to: 8b9c1f74-d3de-5839-a9f3-59eede74bbdd
     type: related
   subgroupcode: '10'
 dateAccepted: 2018-11-17

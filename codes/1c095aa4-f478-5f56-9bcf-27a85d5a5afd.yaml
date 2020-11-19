@@ -6,10 +6,13 @@ data:
     link chains.
   fieldcode: '77'
   groupcode: '140'
+  notes: []
   relationships:
-  - to: 53.020.30
+  - text: Accessories for lifting equipment, see 53.020.30
+    to: 1b9ebed7-234a-539f-a4d1-d5b1ce5ed353
     type: related
-  - to: 77.140.25
+  - text: Spring steels, see 77.140.25
+    to: 980a4e34-b74a-50b1-bf14-879c45c127b5
     type: related
   subgroupcode: '65'
 dateAccepted: 2018-11-17

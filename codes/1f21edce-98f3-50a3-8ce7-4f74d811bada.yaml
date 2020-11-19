@@ -6,6 +6,8 @@ data:
     and foot protection.
   fieldcode: '13'
   groupcode: '340'
+  notes:
+  - Including safety boots and shoes
   relationships: []
   subgroupcode: '50'
 dateAccepted: 2018-11-17

@@ -6,6 +6,8 @@ data:
     Control components.
   fieldcode: '23'
   groupcode: '100'
+  notes:
+  - Including valves
   relationships: []
   subgroupcode: '50'
 dateAccepted: 2018-11-17

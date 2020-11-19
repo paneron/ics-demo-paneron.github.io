@@ -6,6 +6,8 @@ data:
     drawings. Electrical and electronics engineering drawings.
   fieldcode: '01'
   groupcode: '100'
+  notes:
+  - Including electrical tables, diagrams and charts
   relationships: []
   subgroupcode: '25'
 dateAccepted: 2018-11-17

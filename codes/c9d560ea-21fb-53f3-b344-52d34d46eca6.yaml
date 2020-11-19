@@ -5,6 +5,8 @@ data:
   descriptionFull: Railway engineering. Railway rolling stock. Trailing stock.
   fieldcode: '45'
   groupcode: '060'
+  notes:
+  - Including tank wagons
   relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17

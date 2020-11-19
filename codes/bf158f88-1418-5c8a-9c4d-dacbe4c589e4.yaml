@@ -6,6 +6,8 @@ data:
     equipment. Cookware, cutlery and flatware.
   fieldcode: '97'
   groupcode: '040'
+  notes:
+  - Including table cutlery and table ware
   relationships: []
   subgroupcode: '60'
 dateAccepted: 2018-11-17

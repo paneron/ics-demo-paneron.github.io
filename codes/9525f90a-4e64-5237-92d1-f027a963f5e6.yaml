@@ -6,6 +6,8 @@ data:
     Rubber compounding ingredients.
   fieldcode: '83'
   groupcode: '040'
+  notes:
+  - Including carbon black, kaolin clay, etc.
   relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17

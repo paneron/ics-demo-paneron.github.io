@@ -6,8 +6,11 @@ data:
     Electrical and magnetic measurements. Measurement of electrical and magnetic quantities.
   fieldcode: '17'
   groupcode: '220'
+  notes:
+  - Including measuring instruments, instrument transformers
   relationships:
-  - to: 91.140.50
+  - text: Electricity supply systems, see 91.140.50
+    to: 7c7d41a2-8cc3-5af9-a312-6050921deef3
     type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17

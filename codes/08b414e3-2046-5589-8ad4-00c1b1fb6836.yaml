@@ -6,6 +6,8 @@ data:
     natural gas industries. Exploratory, drilling and extraction equipment.
   fieldcode: '75'
   groupcode: '180'
+  notes:
+  - Including offshore structures
   relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17

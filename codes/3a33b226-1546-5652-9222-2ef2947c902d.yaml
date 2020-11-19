@@ -6,6 +6,8 @@ data:
     and materials.
   fieldcode: '11'
   groupcode: '040'
+  notes:
+  - Including surgical dressings, sutures, etc.
   relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17

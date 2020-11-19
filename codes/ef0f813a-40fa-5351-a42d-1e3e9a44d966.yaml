@@ -6,8 +6,10 @@ data:
     Power transmission and distribution networks in general.
   fieldcode: '29'
   groupcode: '240'
+  notes: []
   relationships:
-  - to: 33.040.60
+  - text: Powerline telecommunications, see 33.040.60
+    to: fad80812-a594-5b48-8ad7-2a48c33207b7
     type: related
   subgroupcode: '01'
 dateAccepted: 2018-11-17

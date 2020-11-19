@@ -5,6 +5,8 @@ data:
   descriptionFull: Road vehicles engineering. Road vehicle systems. Couplings.
   fieldcode: '43'
   groupcode: '040'
+  notes:
+  - Including towing attachments and fifth wheel assemblies
   relationships: []
   subgroupcode: '70'
 dateAccepted: 2018-11-17

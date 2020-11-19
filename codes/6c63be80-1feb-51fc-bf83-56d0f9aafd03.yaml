@@ -5,8 +5,10 @@ data:
   descriptionFull: Petroleum and related technologies. Hydraulic fluids.
   fieldcode: '75'
   groupcode: '120'
+  notes: []
   relationships:
-  - to: '23.100'
+  - text: Fluid power systems, see 23.100
+    to: d7d5214e-6f6a-5f92-9408-63806793f042
     type: related
 dateAccepted: 2018-11-17
 id: 6c63be80-1feb-51fc-bf83-56d0f9aafd03

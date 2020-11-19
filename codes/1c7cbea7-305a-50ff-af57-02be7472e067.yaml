@@ -6,6 +6,8 @@ data:
     and soldering.
   fieldcode: '25'
   groupcode: '160'
+  notes:
+  - Including brazing and soldering alloys and equipment
   relationships: []
   subgroupcode: '50'
 dateAccepted: 2018-11-17

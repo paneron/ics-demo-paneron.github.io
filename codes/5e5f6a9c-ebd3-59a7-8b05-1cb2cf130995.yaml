@@ -6,6 +6,8 @@ data:
     IT applications in education.
   fieldcode: '35'
   groupcode: '240'
+  notes:
+  - Including e-learning
   relationships: []
   subgroupcode: '90'
 dateAccepted: 2018-11-17

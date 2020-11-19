@@ -5,12 +5,17 @@ data:
   descriptionFull: Environment. Health protection. Safety. Water quality. Sewage water.
   fieldcode: '13'
   groupcode: '060'
+  notes:
+  - Including sewage water disposal and treatment
   relationships:
-  - to: 13.030.20
+  - text: Liquid wastes. Sludge, see 13.030.20
+    to: 64233630-e61e-5e9f-a382-709838545646
     type: related
-  - to: 91.140.80
+  - text: Drainage systems, see 91.140.80
+    to: 13a829a2-65b8-55d3-a10c-c06fa182c6b3
     type: related
-  - to: '93.030'
+  - text: External sewage systems, see 93.030
+    to: d003dbe1-7bf3-5bf4-a923-7485b6e9f54c
     type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17

@@ -6,6 +6,8 @@ data:
     Fire protection.
   fieldcode: '13'
   groupcode: '220'
+  notes:
+  - Including equipment
   relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17

@@ -5,6 +5,8 @@ data:
   descriptionFull: Image technology. Graphic technology. Reproduction equipment.
   fieldcode: '37'
   groupcode: '100'
+  notes:
+  - Including printing, copying and duplicating machines, bookbinding equipment, etc.
   relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17

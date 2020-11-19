@@ -5,8 +5,11 @@ data:
   descriptionFull: Metallurgy. Iron and steel products. Flat steel products and semi-products.
   fieldcode: '77'
   groupcode: '140'
+  notes:
+  - Including plate, sheet and strip
   relationships:
-  - to: 77.140.25
+  - text: Spring steels, see 77.140.25
+    to: 980a4e34-b74a-50b1-bf14-879c45c127b5
     type: related
   subgroupcode: '50'
 dateAccepted: 2018-11-17

@@ -6,6 +6,8 @@ data:
     Sanitary installations.
   fieldcode: '91'
   groupcode: '140'
+  notes:
+  - Including bidets, kitchen sinks, baths, waste chutes, etc.
   relationships: []
   subgroupcode: '70'
 dateAccepted: 2018-11-17

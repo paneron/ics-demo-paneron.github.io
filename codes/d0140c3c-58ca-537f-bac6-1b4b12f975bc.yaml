@@ -7,8 +7,11 @@ data:
     Management of human resources.
   fieldcode: '03'
   groupcode: '100'
+  notes:
+  - Including staff training, staff responsibilities, staff qualifications and certification
   relationships:
-  - to: 25.160.01
+  - text: Welding, brazing and soldering in general, see 25.160.01
+    to: f8544aeb-f6bc-52df-8c00-8ac6c54bb2c6
     type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17

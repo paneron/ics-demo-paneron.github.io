@@ -5,6 +5,8 @@ data:
   descriptionFull: Environment. Health protection. Safety. Air quality. Ambient atmospheres.
   fieldcode: '13'
   groupcode: '040'
+  notes:
+  - Including indoor air
   relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17

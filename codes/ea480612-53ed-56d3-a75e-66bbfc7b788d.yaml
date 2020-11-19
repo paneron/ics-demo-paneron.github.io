@@ -6,6 +6,8 @@ data:
     equipment and facilities. Winter sports equipment.
   fieldcode: '97'
   groupcode: '220'
+  notes:
+  - Including ice hockey, snowboard, and ski equipment
   relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17

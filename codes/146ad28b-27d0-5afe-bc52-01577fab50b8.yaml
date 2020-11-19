@@ -6,7 +6,6 @@ data:
     Global System for Mobile Communication (GSM).
   fieldcode: '33'
   groupcode: '070'
-  relationships: []
   subgroupcode: '50'
 dateAccepted: 2018-11-17
 id: 146ad28b-27d0-5afe-bc52-01577fab50b8

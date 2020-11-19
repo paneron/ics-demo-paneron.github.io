@@ -6,8 +6,11 @@ data:
     lifting equipment.
   fieldcode: '53'
   groupcode: '020'
+  notes:
+  - Including lifting hooks, shackles, link chains, wire ropes, etc.
   relationships:
-  - to: 77.140.65
+  - text: Steel wire, wire ropes and link chains, see 77.140.65
+    to: 1c095aa4-f478-5f56-9bcf-27a85d5a5afd
     type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17

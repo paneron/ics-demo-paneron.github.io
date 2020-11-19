@@ -5,10 +5,15 @@ data:
   descriptionFull: Civil engineering. Construction of railways.
   fieldcode: '93'
   groupcode: '100'
+  notes:
+  - Including the construction of tramways, funicular railways, cableways, rail traffic
+    control equipment and installations, etc.
   relationships:
-  - to: '45.120'
+  - text: Equipment for railway/cableway construction and maintenance, see 45.120
+    to: a974463a-69dd-5986-813f-499be80c79d6
     type: related
-  - to: '45.080'
+  - text: Rails and railway components, see 45.080
+    to: 0597697f-9e61-5f8e-ad4e-e6392aa8737c
     type: related
 dateAccepted: 2018-11-17
 id: 4801e9b9-b33e-5d63-b0d0-299ca051dfcc

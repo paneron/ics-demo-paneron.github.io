@@ -6,8 +6,10 @@ data:
     Transport. Sociology. Education.
   fieldcode: '03'
   groupcode: '180'
+  notes: []
   relationships:
-  - to: 35.240.99
+  - text: IT applications in other fields, see 35.240.99
+    to: 6cbed34c-1809-5a56-945b-b06a0caf168b
     type: related
 dateAccepted: 2018-11-17
 id: a40bdb1d-dcf8-51e7-ba35-2197e9161827

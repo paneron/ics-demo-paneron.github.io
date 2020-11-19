@@ -6,6 +6,8 @@ data:
     and data capture techniques.
   fieldcode: '35'
   groupcode: '040'
+  notes:
+  - Including RFID, OCR, bar coding, etc.
   relationships: []
   subgroupcode: '50'
 dateAccepted: 2018-11-17

@@ -5,10 +5,13 @@ data:
   descriptionFull: Health care technology. Dentistry. Dental equipment.
   fieldcode: '11'
   groupcode: '060'
+  notes: []
   relationships:
-  - to: 37.040.25
+  - text: Radiographic films, see 37.040.25
+    to: 1fe1b0db-163a-5a9d-8b28-df73b3855996
     type: related
-  - to: '97.170'
+  - text: Body care equipment, see 97.170
+    to: 647b621e-393d-50b2-b910-7a64c2005506
     type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17

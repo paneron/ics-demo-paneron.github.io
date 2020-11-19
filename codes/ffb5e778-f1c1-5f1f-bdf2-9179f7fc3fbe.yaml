@@ -6,8 +6,11 @@ data:
     prosthetics and orthotics.
   fieldcode: '11'
   groupcode: '040'
+  notes:
+  - Including pacemakers
   relationships:
-  - to: 11.040.70
+  - text: Ophthalmic equipment, see 11.040.70
+    to: db25d411-8a7b-58c2-a29a-5667b67f286e
     type: related
   subgroupcode: '40'
 dateAccepted: 2018-11-17

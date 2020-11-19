@@ -5,6 +5,8 @@ data:
   descriptionFull: Telecommunications. Audio and video engineering. Telecontrol. Telemetering.
   fieldcode: '33'
   groupcode: '200'
+  notes:
+  - Including Supervising, Control and Data Acquisition System (SCADA)
   relationships: []
 dateAccepted: 2018-11-17
 id: be723e2b-6318-5498-b830-386309490019

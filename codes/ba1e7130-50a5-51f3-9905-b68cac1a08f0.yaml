@@ -6,10 +6,14 @@ data:
     commercial and industrial heating appliances.
   fieldcode: '97'
   groupcode: '100'
+  notes:
+  - Including thermal storage room heating appliances
   relationships:
-  - to: '27.060'
+  - text: Burners. Boilers, see 27.060
+    to: e95bab93-d073-521f-bffe-d89d082f1094
     type: related
-  - to: 91.140.10
+  - text: Central heating systems, see 91.140.10
+    to: 8c78f085-dc7d-5aef-bf94-dbbac6e29ce2
     type: related
 dateAccepted: 2018-11-17
 id: ba1e7130-50a5-51f3-9905-b68cac1a08f0

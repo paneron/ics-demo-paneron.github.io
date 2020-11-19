@@ -5,6 +5,8 @@ data:
   descriptionFull: Food technology. Spices and condiments. Food additives. Food additives.
   fieldcode: '67'
   groupcode: '220'
+  notes:
+  - Including salt, vinegar, food preservation additives, etc.
   relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17

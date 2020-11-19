@@ -5,10 +5,14 @@ data:
   descriptionFull: Health care technology. Medical equipment. Radiographic equipment.
   fieldcode: '11'
   groupcode: '040'
+  notes:
+  - Including radiographic diagnostic and therapy equipment
   relationships:
-  - to: 11.100.10
+  - text: In vitro diagnostic test systems, see 11.100.10
+    to: 876ef05c-500a-504c-b1ed-5b6967a506ca
     type: related
-  - to: 37.040.25
+  - text: Radiographic films, see 37.040.25
+    to: 1fe1b0db-163a-5a9d-8b28-df73b3855996
     type: related
   subgroupcode: '50'
 dateAccepted: 2018-11-17

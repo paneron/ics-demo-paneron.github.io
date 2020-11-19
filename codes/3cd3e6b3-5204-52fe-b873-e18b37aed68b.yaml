@@ -6,6 +6,8 @@ data:
     fittings. Trolleys for supermarket purposes.
   fieldcode: '97'
   groupcode: '130'
+  notes:
+  - Including baskets
   relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17

@@ -6,6 +6,8 @@ data:
     sciences. Publishing. Information sciences.
   fieldcode: '01'
   groupcode: '140'
+  notes:
+  - Including documentation, librarianship and archive systems
   relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17

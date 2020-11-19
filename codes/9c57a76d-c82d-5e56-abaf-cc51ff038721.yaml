@@ -6,6 +6,8 @@ data:
     fittings. Commercial refrigerating appliances.
   fieldcode: '97'
   groupcode: '130'
+  notes:
+  - Including refrigerated display cabinets, cold rooms, etc.
   relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17

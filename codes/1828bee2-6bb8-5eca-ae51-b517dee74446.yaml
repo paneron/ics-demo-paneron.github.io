@@ -5,12 +5,18 @@ data:
   descriptionFull: Materials handling equipment. Storage equipment.
   fieldcode: '53'
   groupcode: 080
+  notes:
+  - Including loading devices, shelves, etc.
   relationships:
-  - to: '55.220'
+  - text: Storing. Warehousing, see 55.220
+    to: e13b9713-0204-5353-b362-141312834834
     type: related
-  - to: 65.040.20
+  - text: Buildings and installations for processing and storage of agricultural produce,
+      see 65.040.20
+    to: 46115e21-00da-5ae8-898e-b66e452448f8
     type: related
-  - to: 97.130.10
+  - text: Shelving, see 97.130.10
+    to: 861da26a-3747-5d22-b84e-f9c39f662b22
     type: related
 dateAccepted: 2018-11-17
 id: 1828bee2-6bb8-5eca-ae51-b517dee74446

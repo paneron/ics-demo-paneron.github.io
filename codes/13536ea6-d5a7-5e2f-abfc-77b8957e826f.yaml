@@ -5,8 +5,12 @@ data:
   descriptionFull: Information technology. Information coding.
   fieldcode: '35'
   groupcode: '040'
+  notes:
+  - Including coding of audio, picture, multimedia and hypermedia information, bar
+    coding, etc.
   relationships:
-  - to: '35.030'
+  - text: IT Security, see 35.030
+    to: a576b697-423f-57fd-819e-0e8144d2f8a1
     type: related
 dateAccepted: 2018-11-17
 id: 13536ea6-d5a7-5e2f-abfc-77b8957e826f

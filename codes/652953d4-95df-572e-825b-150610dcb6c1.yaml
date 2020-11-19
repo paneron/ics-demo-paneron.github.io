@@ -6,10 +6,15 @@ data:
     Transport. Sociology. Services. Services for companies.
   fieldcode: '03'
   groupcode: 080
+  notes:
+  - Including publicity, advertising, professional services, recruitment services,
+    management consultancy, outsourcing, etc.
   relationships:
-  - to: 03.100.01
+  - text: Company organization and management in general, see 03.100.01
+    to: 1cc87f2c-7e6d-5a25-a6c5-c417fa101d88
     type: related
-  - to: 03.100.30
+  - text: Management of human resources, see 03.100.30
+    to: d0140c3c-58ca-537f-bac6-1b4b12f975bc
     type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17

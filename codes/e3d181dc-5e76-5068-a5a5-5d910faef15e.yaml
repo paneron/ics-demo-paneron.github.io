@@ -6,6 +6,8 @@ data:
     Other equipment related to power transmission and distribution networks.
   fieldcode: '29'
   groupcode: '240'
+  notes:
+  - Including capacitors for power networks
   relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17

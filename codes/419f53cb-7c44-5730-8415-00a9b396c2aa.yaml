@@ -5,8 +5,11 @@ data:
   descriptionFull: Clothing industry. Footwear.
   fieldcode: '61'
   groupcode: '060'
+  notes:
+  - Including shoelaces
   relationships:
-  - to: 13.340.50
+  - text: Leg and foot protection, see 13.340.50
+    to: 1f21edce-98f3-50a3-8ce7-4f74d811bada
     type: related
 dateAccepted: 2018-11-17
 id: 419f53cb-7c44-5730-8415-00a9b396c2aa

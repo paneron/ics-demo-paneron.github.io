@@ -5,8 +5,11 @@ data:
   descriptionFull: Mining and minerals. Coals.
   fieldcode: '73'
   groupcode: '040'
+  notes:
+  - Including lignites
   relationships:
-  - to: 75.160.10
+  - text: Solid fuels, see 75.160.10
+    to: 12147a90-4f6c-5e3e-93d3-f13beb0901f7
     type: related
 dateAccepted: 2018-11-17
 id: 4f41de9d-b44c-52a6-8264-bf55882b2bda

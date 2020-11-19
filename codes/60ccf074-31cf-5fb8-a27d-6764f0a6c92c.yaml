@@ -6,8 +6,10 @@ data:
     and pipelines. Non-ferrous metal pipes.
   fieldcode: '23'
   groupcode: '040'
+  notes: []
   relationships:
-  - to: '77.150'
+  - text: Products of non-ferrous metals, see 77.150
+    to: b1d23fea-1d9c-5f12-a4bb-f9247ef8b096
     type: related
   subgroupcode: '15'
 dateAccepted: 2018-11-17

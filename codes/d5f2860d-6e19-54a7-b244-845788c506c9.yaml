@@ -6,6 +6,8 @@ data:
     systems. Transmission systems.
   fieldcode: '33'
   groupcode: '040'
+  notes:
+  - Including synchronization, cable systems, integrated cabling, pathways and multiplexing
   relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17

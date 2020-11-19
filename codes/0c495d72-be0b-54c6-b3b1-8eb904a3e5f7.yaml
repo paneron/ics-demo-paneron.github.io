@@ -6,6 +6,8 @@ data:
     equipment.
   fieldcode: '65'
   groupcode: '060'
+  notes:
+  - Including chain- and brush-saws
   relationships: []
   subgroupcode: '80'
 dateAccepted: 2018-11-17

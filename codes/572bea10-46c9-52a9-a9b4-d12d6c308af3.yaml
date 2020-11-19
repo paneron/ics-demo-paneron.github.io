@@ -6,10 +6,14 @@ data:
     Transport. Sociology. Transport. Road transport.
   fieldcode: '03'
   groupcode: '220'
+  notes:
+  - Including road transport services
   relationships:
-  - to: 03.100.70
+  - text: Management systems, see 03.100.70
+    to: d96a33db-f733-56a0-bd28-13b550880168
     type: related
-  - to: 93.080.30
+  - text: Road equipment and installations, see 93.080.30
+    to: cc605528-cc06-5006-b930-12852c7bc823
     type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17

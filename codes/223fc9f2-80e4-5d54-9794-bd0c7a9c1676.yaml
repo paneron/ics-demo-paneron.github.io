@@ -7,8 +7,10 @@ data:
     Trade. Commercial function. Marketing.
   fieldcode: '03'
   groupcode: '100'
+  notes: []
   relationships:
-  - to: 35.240.60
+  - text: IT applications in transport, see 35.240.60
+    to: 94c28b52-c558-5219-9b2d-19aa488b5d3d
     type: related
   subgroupcode: '20'
 dateAccepted: 2018-11-17

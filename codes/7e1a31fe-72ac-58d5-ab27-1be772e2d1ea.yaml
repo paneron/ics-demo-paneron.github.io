@@ -6,6 +6,8 @@ data:
     products.
   fieldcode: '67'
   groupcode: '180'
+  notes:
+  - Including glucose syrups, etc.
   relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17

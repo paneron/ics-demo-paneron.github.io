@@ -6,10 +6,13 @@ data:
     Pressure vessels.
   fieldcode: '23'
   groupcode: '020'
+  notes: []
   relationships:
-  - to: 27.060.30
+  - text: Boilers and heat exchangers, see 27.060.30
+    to: c90ba2c1-4f85-5ac0-bcca-fe3a7ddd609b
     type: related
-  - to: 77.140.30
+  - text: Steels for pressure purposes, see 77.140.30
+    to: d0e155d5-e742-5bef-9bd0-aeaa34849e62
     type: related
   subgroupcode: '30'
 dateAccepted: 2018-11-17

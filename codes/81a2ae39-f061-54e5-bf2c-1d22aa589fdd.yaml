@@ -6,8 +6,10 @@ data:
     systems.
   fieldcode: '21'
   groupcode: '260'
+  notes: []
   relationships:
-  - to: '75.100'
+  - text: Lubricants, industrial oils and related products, see 75.100
+    to: e922a47a-843d-5715-b2ae-d5696d6d2d26
     type: related
 dateAccepted: 2018-11-17
 id: 81a2ae39-f061-54e5-bf2c-1d22aa589fdd

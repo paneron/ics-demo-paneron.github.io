@@ -6,6 +6,9 @@ data:
     and texturing machines.
   fieldcode: '59'
   groupcode: '120'
+  notes:
+  - Including machines and equipment for manufacturing man-made filaments and fibres
+    and for preparing fibres for spinning
   relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17

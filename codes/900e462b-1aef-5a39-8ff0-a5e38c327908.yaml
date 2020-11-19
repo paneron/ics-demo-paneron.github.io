@@ -5,16 +5,22 @@ data:
   descriptionFull: Rubber and plastic industries. Rubber and plastics products.
   fieldcode: '83'
   groupcode: '140'
+  notes: []
   relationships:
-  - to: 21.220.10
+  - text: Belt drives and their components, see 21.220.10
+    to: 184fe4e9-0b5e-5c72-ab1e-ac23990cea62
     type: related
-  - to: 53.040.20
+  - text: Components for conveyors, see 53.040.20
+    to: 28652f39-a90c-5739-ab56-dbc7e418a8d4
     type: related
-  - to: 59.080.40
+  - text: Coated fabrics, see 59.080.40
+    to: dc2791b5-1bc2-5ad3-afdb-5d47527726a2
     type: related
-  - to: '61.060'
+  - text: Footwear, see 61.060
+    to: 419f53cb-7c44-5730-8415-00a9b396c2aa
     type: related
-  - to: '83.160'
+  - text: Tyres, see 83.160
+    to: 39c6c523-2bc4-5f62-b1c5-e772df5c2861
     type: related
 dateAccepted: 2018-11-17
 id: 900e462b-1aef-5a39-8ff0-a5e38c327908

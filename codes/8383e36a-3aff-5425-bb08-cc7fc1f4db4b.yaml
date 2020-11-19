@@ -6,6 +6,8 @@ data:
     Environmental impact assessment.
   fieldcode: '13'
   groupcode: '020'
+  notes:
+  - Including environmental risk management
   relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17

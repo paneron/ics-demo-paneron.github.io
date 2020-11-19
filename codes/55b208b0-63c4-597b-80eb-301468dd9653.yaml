@@ -5,8 +5,11 @@ data:
   descriptionFull: Manufacturing engineering. Cutting tools.
   fieldcode: '25'
   groupcode: '100'
+  notes:
+  - Including industrial diamonds
   relationships:
-  - to: 79.120.20
+  - text: Woodworking tools, see 79.120.20
+    to: b0c5bf48-29ed-5a97-994d-f15f6c566b77
     type: related
 dateAccepted: 2018-11-17
 id: 55b208b0-63c4-597b-80eb-301468dd9653

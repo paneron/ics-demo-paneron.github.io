@@ -5,10 +5,13 @@ data:
   descriptionFull: Electrical engineering. Insulation.
   fieldcode: '29'
   groupcode: 080
+  notes: []
   relationships:
-  - to: '29.035'
+  - text: Insulating materials, see 29.035
+    to: b9ae2daa-bef5-5d15-abfc-7461d173ce99
     type: related
-  - to: '29.040'
+  - text: Insulating fluids, see 29.040
+    to: d7efe1a5-5748-557c-a42f-8fe6da2a3915
     type: related
 dateAccepted: 2018-11-17
 id: d339b837-3c05-5cbf-8327-5010eb3a3418

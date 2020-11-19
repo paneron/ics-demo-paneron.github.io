@@ -6,8 +6,11 @@ data:
     Transport. Sociology. Transport. Transport by water.
   fieldcode: '03'
   groupcode: '220'
+  notes:
+  - Including water transport services
   relationships:
-  - to: '93.140'
+  - text: Construction of waterways, ports and dykes, see 93.140
+    to: d83f553c-73fb-5a01-bb01-aefc1061d40f
     type: related
   subgroupcode: '40'
 dateAccepted: 2018-11-17

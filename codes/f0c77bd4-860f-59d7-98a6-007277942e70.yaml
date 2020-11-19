@@ -5,6 +5,8 @@ data:
   descriptionFull: Metallurgy. Ferroalloys.
   fieldcode: '77'
   groupcode: '100'
+  notes:
+  - Including classification, designation, sampling, chemical analysis, etc.
   relationships: []
 dateAccepted: 2018-11-17
 id: f0c77bd4-860f-59d7-98a6-007277942e70

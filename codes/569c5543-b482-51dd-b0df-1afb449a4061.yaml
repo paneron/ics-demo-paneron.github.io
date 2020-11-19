@@ -5,8 +5,10 @@ data:
   descriptionFull: Mining and minerals. Mining equipment.
   fieldcode: '73'
   groupcode: '100'
+  notes: []
   relationships:
-  - to: 29.260.20
+  - text: Electrical apparatus for explosive atmospheres, see 29.260.20
+    to: 852d87fb-e9ee-571c-a61e-86a6ad4417ca
     type: related
 dateAccepted: 2018-11-17
 id: 569c5543-b482-51dd-b0df-1afb449a4061

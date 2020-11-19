@@ -6,10 +6,15 @@ data:
     and related products.
   fieldcode: '75'
   groupcode: '100'
+  notes:
+  - Including mineral oils, fluids for metal working and for temporary protection
+    against corrosion
   relationships:
-  - to: '21.260'
+  - text: Lubrication systems, see 21.260
+    to: 81a2ae39-f061-54e5-bf2c-1d22aa589fdd
     type: related
-  - to: 29.040.10
+  - text: Insulating oils, see 29.040.10
+    to: b35772ad-09d0-532e-89ca-044a58ceb650
     type: related
 dateAccepted: 2018-11-17
 id: e922a47a-843d-5715-b2ae-d5696d6d2d26

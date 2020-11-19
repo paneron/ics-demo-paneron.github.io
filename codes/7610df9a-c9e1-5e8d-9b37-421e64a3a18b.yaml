@@ -6,6 +6,8 @@ data:
     IT applications in trade.
   fieldcode: '35'
   groupcode: '240'
+  notes:
+  - Including EDIFACT and e-commerce
   relationships: []
   subgroupcode: '63'
 dateAccepted: 2018-11-17

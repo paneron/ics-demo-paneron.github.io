@@ -5,8 +5,11 @@ data:
   descriptionFull: Road vehicles engineering. Cycles.
   fieldcode: '43'
   groupcode: '150'
+  notes:
+  - Including their components and systems
   relationships:
-  - to: 83.160.10
+  - text: Road vehicle tyres, see 83.160.10
+    to: bdbd1be4-4e91-53aa-93da-37d08cffcb00
     type: related
 dateAccepted: 2018-11-17
 id: aa38698a-e64a-5eeb-a45f-51dd90b61192

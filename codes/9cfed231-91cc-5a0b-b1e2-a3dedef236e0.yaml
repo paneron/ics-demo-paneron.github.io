@@ -5,6 +5,8 @@ data:
   descriptionFull: Health care technology. Pharmaceutics. Medicaments.
   fieldcode: '11'
   groupcode: '120'
+  notes:
+  - Including medical prescriptions and medicinal herbs
   relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17

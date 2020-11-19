@@ -5,6 +5,8 @@ data:
   descriptionFull: Food technology. Milk and milk products. Ice cream and ice confectionery.
   fieldcode: '67'
   groupcode: '100'
+  notes:
+  - Including sorbets
   relationships: []
   subgroupcode: '40'
 dateAccepted: 2018-11-17

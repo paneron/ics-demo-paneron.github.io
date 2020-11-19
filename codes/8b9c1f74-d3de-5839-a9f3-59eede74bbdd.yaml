@@ -6,6 +6,8 @@ data:
     clothing.
   fieldcode: '13'
   groupcode: '340'
+  notes:
+  - Including flameproof clothing
   relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17

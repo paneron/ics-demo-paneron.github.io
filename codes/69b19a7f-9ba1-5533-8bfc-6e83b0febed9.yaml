@@ -5,6 +5,8 @@ data:
   descriptionFull: Health care technology. Dentistry. Dental implants.
   fieldcode: '11'
   groupcode: '060'
+  notes:
+  - Including dentures
   relationships: []
   subgroupcode: '15'
 dateAccepted: 2018-11-17

@@ -6,6 +6,8 @@ data:
     industrial use.
   fieldcode: '13'
   groupcode: '060'
+  notes:
+  - 'Including water for commercial use: for swimming pools, fish breeding, etc.'
   relationships: []
   subgroupcode: '25'
 dateAccepted: 2018-11-17

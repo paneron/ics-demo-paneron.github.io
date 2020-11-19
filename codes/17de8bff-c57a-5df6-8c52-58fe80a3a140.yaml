@@ -5,8 +5,11 @@ data:
   descriptionFull: Electronics. Capacitors. Power capacitors.
   fieldcode: '31'
   groupcode: '060'
+  notes: []
   relationships:
-  - to: 29.240.99
+  - text: Other equipment related to power transmission and distribution networks,
+      see 29.240.99
+    to: e3d181dc-5e76-5068-a5a5-5d910faef15e
     type: related
   subgroupcode: '70'
 dateAccepted: 2018-11-17

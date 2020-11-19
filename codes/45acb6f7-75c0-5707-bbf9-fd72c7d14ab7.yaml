@@ -5,8 +5,10 @@ data:
   descriptionFull: Electrical engineering. Transformers. Reactors.
   fieldcode: '29'
   groupcode: '180'
+  notes: []
   relationships:
-  - to: 17.220.20
+  - text: Measurement of electrical and magnetic quantities, see 17.220.20
+    to: 00cb2cf7-32e4-5593-8478-f444f1476571
     type: related
 dateAccepted: 2018-11-17
 id: 45acb6f7-75c0-5707-bbf9-fd72c7d14ab7

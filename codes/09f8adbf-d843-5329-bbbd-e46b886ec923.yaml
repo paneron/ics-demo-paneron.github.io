@@ -5,10 +5,13 @@ data:
   descriptionFull: Construction materials and building. Installations in buildings.
   fieldcode: '91'
   groupcode: '140'
+  notes: []
   relationships:
-  - to: '27.060'
+  - text: Burners. Boilers, see 27.060
+    to: e95bab93-d073-521f-bffe-d89d082f1094
     type: related
-  - to: '27.080'
+  - text: Heat pumps, see 27.080
+    to: ca4c5e4e-0d53-5174-be3f-ddfc54c8351f
     type: related
 dateAccepted: 2018-11-17
 id: 09f8adbf-d843-5329-bbbd-e46b886ec923

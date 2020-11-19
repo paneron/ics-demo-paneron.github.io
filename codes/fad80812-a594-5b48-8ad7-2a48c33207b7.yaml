@@ -6,8 +6,10 @@ data:
     systems. Powerline telecommunications.
   fieldcode: '33'
   groupcode: '040'
+  notes: []
   relationships:
-  - to: 29.240.01
+  - text: Power transmission and distribution networks in general, see 29.240.01
+    to: ef0f813a-40fa-5351-a42d-1e3e9a44d966
     type: related
   subgroupcode: '60'
 dateAccepted: 2018-11-17

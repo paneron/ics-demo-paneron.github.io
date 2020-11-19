@@ -5,8 +5,11 @@ data:
   descriptionFull: Environment. Health protection. Safety. Soil quality. Pedology.
   fieldcode: '13'
   groupcode: 080
+  notes: []
   relationships:
-  - to: '93.020'
+  - text: Earthworks. Excavations. Foundation construction. Underground works, see
+      93.020
+    to: 6901fb39-416d-5601-980f-b5150fd6f983
     type: related
 dateAccepted: 2018-11-17
 id: 1f8f8774-5eff-5bff-8bd9-aa563bde3b99

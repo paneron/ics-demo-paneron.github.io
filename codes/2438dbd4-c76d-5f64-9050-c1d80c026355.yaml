@@ -5,8 +5,10 @@ data:
   descriptionFull: Civil engineering. Hydraulic construction.
   fieldcode: '93'
   groupcode: '160'
+  notes: []
   relationships:
-  - to: '27.140'
+  - text: Hydraulic energy engineering, see 27.140
+    to: f1058904-835d-5895-a031-2a2bd646646f
     type: related
 dateAccepted: 2018-11-17
 id: 2438dbd4-c76d-5f64-9050-c1d80c026355
