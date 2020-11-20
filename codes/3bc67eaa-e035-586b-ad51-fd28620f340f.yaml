@@ -6,6 +6,7 @@ data:
     robots. Manipulators.
   fieldcode: '25'
   groupcode: '040'
+  relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: 3bc67eaa-e035-586b-ad51-fd28620f340f

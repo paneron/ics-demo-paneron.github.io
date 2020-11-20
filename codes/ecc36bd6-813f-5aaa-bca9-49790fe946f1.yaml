@@ -6,6 +6,7 @@ data:
     construction.
   fieldcode: '49'
   groupcode: '025'
+  relationships: []
 dateAccepted: 2018-11-17
 id: ecc36bd6-813f-5aaa-bca9-49790fe946f1
 status: valid

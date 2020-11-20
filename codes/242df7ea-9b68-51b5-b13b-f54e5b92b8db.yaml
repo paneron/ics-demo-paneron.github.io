@@ -5,6 +5,7 @@ data:
   descriptionFull: Manufacturing engineering. Industrial furnaces. Fuel furnaces.
   fieldcode: '25'
   groupcode: '180'
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: 242df7ea-9b68-51b5-b13b-f54e5b92b8db

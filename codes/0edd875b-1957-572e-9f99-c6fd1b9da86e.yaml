@@ -5,6 +5,7 @@ data:
   descriptionFull: Information technology. Open systems interconnection (OSI).
   fieldcode: '35'
   groupcode: '100'
+  relationships: []
 dateAccepted: 2018-11-17
 id: 0edd875b-1957-572e-9f99-c6fd1b9da86e
 status: valid

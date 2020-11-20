@@ -6,6 +6,7 @@ data:
     and transmissions. Flexible drives and transmissions in general.
   fieldcode: '21'
   groupcode: '220'
+  relationships: []
   subgroupcode: '01'
 dateAccepted: 2018-11-17
 id: 0921e888-26ef-594a-8959-54e072ad177a

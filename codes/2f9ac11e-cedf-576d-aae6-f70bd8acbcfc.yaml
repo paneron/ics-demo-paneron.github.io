@@ -6,6 +6,7 @@ data:
     Balancing and balancing machines.
   fieldcode: '21'
   groupcode: '120'
+  relationships: []
   subgroupcode: '40'
 dateAccepted: 2018-11-17
 id: 2f9ac11e-cedf-576d-aae6-f70bd8acbcfc

@@ -6,6 +6,7 @@ data:
     Internet applications.
   fieldcode: '35'
   groupcode: '240'
+  relationships: []
   subgroupcode: '95'
 dateAccepted: 2018-11-17
 id: dc6880ee-05c6-5863-8c49-ac3d71ca487d

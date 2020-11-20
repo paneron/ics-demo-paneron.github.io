@@ -5,6 +5,7 @@ data:
   descriptionFull: Information technology. Data storage devices.
   fieldcode: '35'
   groupcode: '220'
+  relationships: []
 dateAccepted: 2018-11-17
 id: 6fba90ac-8001-5524-92db-87af92f8b581
 status: valid

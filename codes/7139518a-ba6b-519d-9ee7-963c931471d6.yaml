@@ -6,6 +6,7 @@ data:
     layer.
   fieldcode: '35'
   groupcode: '100'
+  relationships: []
   subgroupcode: '50'
 dateAccepted: 2018-11-17
 id: 7139518a-ba6b-519d-9ee7-963c931471d6

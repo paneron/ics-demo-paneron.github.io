@@ -6,6 +6,7 @@ data:
     and transmissions.
   fieldcode: '21'
   groupcode: '220'
+  relationships: []
 dateAccepted: 2018-11-17
 id: bc715f71-d081-5667-9544-54ad1bd59648
 status: valid

@@ -5,6 +5,7 @@ data:
   descriptionFull: Electronics. Resistors. Fixed resistors.
   fieldcode: '31'
   groupcode: '040'
+  relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: 940140a2-4425-5f29-9d98-135b7507b4b4

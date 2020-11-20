@@ -4,6 +4,7 @@ data:
   description: Image technology
   descriptionFull: ''
   fieldcode: '37'
+  relationships: []
 dateAccepted: 2018-11-17
 id: 5f0ca88d-0a98-5c39-85ef-32b2566bee15
 status: valid

@@ -6,6 +6,7 @@ data:
     for magnetic tapes.
   fieldcode: '35'
   groupcode: '220'
+  relationships: []
   subgroupcode: '23'
 dateAccepted: 2018-11-17
 id: 0024c743-d40f-5c12-8463-dc8933e3286e

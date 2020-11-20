@@ -6,6 +6,7 @@ data:
     Food technology (Vocabularies).
   fieldcode: '01'
   groupcode: '040'
+  relationships: []
   subgroupcode: '67'
 dateAccepted: 2018-11-17
 id: bde0b846-8247-51bb-8b0b-e4cd8b2c6075

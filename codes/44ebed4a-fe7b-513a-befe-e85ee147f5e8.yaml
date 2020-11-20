@@ -6,6 +6,7 @@ data:
     devices.
   fieldcode: '35'
   groupcode: '220'
+  relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17
 id: 44ebed4a-fe7b-513a-befe-e85ee147f5e8

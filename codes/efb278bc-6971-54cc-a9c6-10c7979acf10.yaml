@@ -6,6 +6,7 @@ data:
     in general.
   fieldcode: '21'
   groupcode: '060'
+  relationships: []
   subgroupcode: '01'
 dateAccepted: 2018-11-17
 id: efb278bc-6971-54cc-a9c6-10c7979acf10

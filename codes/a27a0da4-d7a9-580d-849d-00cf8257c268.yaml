@@ -5,6 +5,7 @@ data:
   descriptionFull: Railway engineering. Materials and components for railway engineering.
   fieldcode: '45'
   groupcode: '040'
+  relationships: []
 dateAccepted: 2018-11-17
 id: a27a0da4-d7a9-580d-849d-00cf8257c268
 status: valid

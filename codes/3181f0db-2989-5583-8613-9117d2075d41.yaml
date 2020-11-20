@@ -6,6 +6,7 @@ data:
     symbols.
   fieldcode: '01'
   groupcode: '075'
+  relationships: []
 dateAccepted: 2018-11-17
 id: 3181f0db-2989-5583-8613-9117d2075d41
 status: valid

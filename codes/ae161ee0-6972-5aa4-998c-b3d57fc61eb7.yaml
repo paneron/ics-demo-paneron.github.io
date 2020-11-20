@@ -6,6 +6,7 @@ data:
     drawings. Mechanical engineering drawings.
   fieldcode: '01'
   groupcode: '100'
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: ae161ee0-6972-5aa4-998c-b3d57fc61eb7

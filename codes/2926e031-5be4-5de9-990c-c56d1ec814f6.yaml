@@ -4,6 +4,7 @@ data:
   description: Military affairs. Military engineering. Weapons
   descriptionFull: ''
   fieldcode: '95'
+  relationships: []
 dateAccepted: 2018-11-17
 id: 2926e031-5be4-5de9-990c-c56d1ec814f6
 status: valid

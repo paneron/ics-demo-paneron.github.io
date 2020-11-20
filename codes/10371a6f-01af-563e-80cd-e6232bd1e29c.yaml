@@ -5,6 +5,7 @@ data:
   descriptionFull: Environment. Health protection. Safety. Wastes.
   fieldcode: '13'
   groupcode: '030'
+  relationships: []
 dateAccepted: 2018-11-17
 id: 10371a6f-01af-563e-80cd-e6232bd1e29c
 status: valid

@@ -6,6 +6,7 @@ data:
     symbols. Graphical symbols for use on specific equipment.
   fieldcode: '01'
   groupcode: 080
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: ce17f33d-ce6c-5a5a-96d2-8940012c5417

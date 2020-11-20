@@ -6,6 +6,7 @@ data:
     Health care technology (Vocabularies).
   fieldcode: '01'
   groupcode: '040'
+  relationships: []
   subgroupcode: '11'
 dateAccepted: 2018-11-17
 id: 33948ed3-61ad-5fdc-9468-1459e2e44fec

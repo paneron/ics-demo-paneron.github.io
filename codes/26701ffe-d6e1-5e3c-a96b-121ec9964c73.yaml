@@ -6,6 +6,7 @@ data:
     centres.
   fieldcode: '25'
   groupcode: '040'
+  relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: 26701ffe-d6e1-5e3c-a96b-121ec9964c73

@@ -5,6 +5,7 @@ data:
   descriptionFull: Manufacturing engineering. Machine tools. Other machine tools.
   fieldcode: '25'
   groupcode: 080
+  relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17
 id: 06cf09fb-0e76-55ae-aae2-954d872539b2

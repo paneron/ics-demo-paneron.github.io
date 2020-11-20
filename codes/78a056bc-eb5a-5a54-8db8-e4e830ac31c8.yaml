@@ -6,6 +6,7 @@ data:
     Gas cylinders.
   fieldcode: '23'
   groupcode: '020'
+  relationships: []
   subgroupcode: '35'
 dateAccepted: 2018-11-17
 id: 78a056bc-eb5a-5a54-8db8-e4e830ac31c8

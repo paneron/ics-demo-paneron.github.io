@@ -6,6 +6,7 @@ data:
     Protection of and in buildings in general.
   fieldcode: '91'
   groupcode: '120'
+  relationships: []
   subgroupcode: '01'
 dateAccepted: 2018-11-17
 id: 286ebdac-f4a4-5ed5-bd21-b2b68ec7cec0

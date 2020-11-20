@@ -6,6 +6,7 @@ data:
     to rotating machinery.
   fieldcode: '29'
   groupcode: '160'
+  relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17
 id: ee3c1005-3aea-5f82-8b91-4fb5c0eec372

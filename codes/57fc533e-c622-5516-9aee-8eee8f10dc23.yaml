@@ -6,6 +6,7 @@ data:
     Couplings.
   fieldcode: '21'
   groupcode: '120'
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: 57fc533e-c622-5516-9aee-8eee8f10dc23

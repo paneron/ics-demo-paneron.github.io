@@ -6,6 +6,7 @@ data:
     Other mobile services.
   fieldcode: '33'
   groupcode: '070'
+  relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17
 id: 414b2155-5e7e-566d-82f2-1e0d4a711d24

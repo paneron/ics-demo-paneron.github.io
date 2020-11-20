@@ -6,6 +6,7 @@ data:
     protective devices.
   fieldcode: '13'
   groupcode: '340'
+  relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: 0985ffa1-570b-5a02-ba83-518aeeda1603

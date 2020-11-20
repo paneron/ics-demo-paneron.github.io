@@ -6,6 +6,7 @@ data:
     Receiving and transmitting equipment.
   fieldcode: '33'
   groupcode: '060'
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: 9ad185c7-9956-5599-90fe-1ffc024cbebd

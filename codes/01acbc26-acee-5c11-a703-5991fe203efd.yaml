@@ -5,6 +5,7 @@ data:
   descriptionFull: Metallurgy. Iron and steel products. Non-alloyed steels.
   fieldcode: '77'
   groupcode: '140'
+  relationships: []
   subgroupcode: '45'
 dateAccepted: 2018-11-17
 id: 01acbc26-acee-5c11-a703-5991fe203efd

@@ -6,6 +6,7 @@ data:
     and industry.
   fieldcode: '91'
   groupcode: '040'
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: 26f363b0-c84c-567d-9b44-bb36b1c9ff26

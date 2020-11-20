@@ -6,6 +6,7 @@ data:
     natural gas industries.
   fieldcode: '75'
   groupcode: '180'
+  relationships: []
 dateAccepted: 2018-11-17
 id: b65f5f95-bb72-58bc-94bc-774bed260c65
 status: valid

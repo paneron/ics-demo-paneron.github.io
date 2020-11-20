@@ -6,6 +6,7 @@ data:
     overcurrent protection devices.
   fieldcode: '29'
   groupcode: '120'
+  relationships: []
   subgroupcode: '50'
 dateAccepted: 2018-11-17
 id: 3a354d33-b914-52f4-8adb-9e42576ba996

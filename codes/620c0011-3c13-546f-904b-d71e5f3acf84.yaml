@@ -6,6 +6,7 @@ data:
     plug valves.
   fieldcode: '23'
   groupcode: '060'
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: 620c0011-3c13-546f-904b-d71e5f3acf84

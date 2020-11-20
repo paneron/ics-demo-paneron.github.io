@@ -5,6 +5,7 @@ data:
   descriptionFull: Health care technology. Birth control. Mechanical contraceptives.
   fieldcode: '11'
   groupcode: '200'
+  relationships: []
 dateAccepted: 2018-11-17
 id: 675bb86c-7705-5190-8d23-7ef19f98e60a
 status: valid

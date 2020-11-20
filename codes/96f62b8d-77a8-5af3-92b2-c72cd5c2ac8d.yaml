@@ -5,6 +5,7 @@ data:
   descriptionFull: Metallurgy. Products of non-ferrous metals. Titanium products.
   fieldcode: '77'
   groupcode: '150'
+  relationships: []
   subgroupcode: '50'
 dateAccepted: 2018-11-17
 id: 96f62b8d-77a8-5af3-92b2-c72cd5c2ac8d

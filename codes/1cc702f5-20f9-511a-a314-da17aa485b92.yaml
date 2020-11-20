@@ -6,6 +6,7 @@ data:
     in general. Deck equipment and installations.
   fieldcode: '47'
   groupcode: '020'
+  relationships: []
   subgroupcode: '50'
 dateAccepted: 2018-11-17
 id: 1cc702f5-20f9-511a-a314-da17aa485b92

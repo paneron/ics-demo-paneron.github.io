@@ -6,6 +6,7 @@ data:
     Fibres and cables.
   fieldcode: '33'
   groupcode: '180'
+  relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: cb27f6e8-b73f-5fdb-9872-65ebec6dcad4

@@ -6,6 +6,7 @@ data:
     equipment. Switches.
   fieldcode: '31'
   groupcode: '220'
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: 2ed3a815-fc36-598e-8ea2-17c06f6564a9

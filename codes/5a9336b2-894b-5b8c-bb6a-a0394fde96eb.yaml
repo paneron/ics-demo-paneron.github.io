@@ -6,6 +6,7 @@ data:
     Electronics (Vocabularies).
   fieldcode: '01'
   groupcode: '040'
+  relationships: []
   subgroupcode: '31'
 dateAccepted: 2018-11-17
 id: 5a9336b2-894b-5b8c-bb6a-a0394fde96eb

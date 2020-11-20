@@ -5,6 +5,7 @@ data:
   descriptionFull: Mining and minerals. Mining equipment. Haulage and hoisting equipment.
   fieldcode: '73'
   groupcode: '100'
+  relationships: []
   subgroupcode: '40'
 dateAccepted: 2018-11-17
 id: 3ebbd13d-18ed-534c-8cc2-861e6fd55f12

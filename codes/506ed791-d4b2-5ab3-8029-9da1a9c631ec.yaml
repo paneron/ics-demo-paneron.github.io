@@ -6,6 +6,7 @@ data:
     accessories for telecommunications equipment. RF connectors.
   fieldcode: '33'
   groupcode: '120'
+  relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: 506ed791-d4b2-5ab3-8029-9da1a9c631ec

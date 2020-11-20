@@ -6,6 +6,7 @@ data:
     and transmissions. Cable or rope drives and their components.
   fieldcode: '21'
   groupcode: '220'
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: 5b46e6c9-b20f-5afc-b808-2b829da8ddfe

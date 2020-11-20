@@ -6,6 +6,7 @@ data:
     commercial and industrial heating appliances. Heaters using other sources of energy.
   fieldcode: '97'
   groupcode: '100'
+  relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17
 id: 6786cf20-8018-5409-8f6c-dfa649921c3c

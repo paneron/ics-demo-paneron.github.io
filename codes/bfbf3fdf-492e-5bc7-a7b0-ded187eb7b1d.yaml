@@ -5,6 +5,7 @@ data:
   descriptionFull: Testing. Test conditions and procedures in general.
   fieldcode: '19'
   groupcode: '020'
+  relationships: []
 dateAccepted: 2018-11-17
 id: bfbf3fdf-492e-5bc7-a7b0-ded187eb7b1d
 status: valid

@@ -6,6 +6,7 @@ data:
     fittings. Shop fittings in general.
   fieldcode: '97'
   groupcode: '130'
+  relationships: []
   subgroupcode: '01'
 dateAccepted: 2018-11-17
 id: 32a18043-f388-55d1-a1c7-b0ed33a5e99c

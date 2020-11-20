@@ -5,6 +5,7 @@ data:
   descriptionFull: Energy and heat transfer engineering. Burners. Boilers.
   fieldcode: '27'
   groupcode: '060'
+  relationships: []
 dateAccepted: 2018-11-17
 id: e95bab93-d073-521f-bffe-d89d082f1094
 status: valid

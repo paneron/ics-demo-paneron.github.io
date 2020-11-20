@@ -6,6 +6,7 @@ data:
     and photographical information.
   fieldcode: '35'
   groupcode: '040'
+  relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: 9a5d9091-856f-5913-b189-4377ec528d7d

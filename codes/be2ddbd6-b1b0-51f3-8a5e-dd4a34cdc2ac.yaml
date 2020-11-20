@@ -5,6 +5,7 @@ data:
   descriptionFull: Telecommunications. Audio and video engineering. Mobile services.
   fieldcode: '33'
   groupcode: '070'
+  relationships: []
 dateAccepted: 2018-11-17
 id: be2ddbd6-b1b0-51f3-8a5e-dd4a34cdc2ac
 status: valid

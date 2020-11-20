@@ -6,6 +6,7 @@ data:
     Water heating equipment.
   fieldcode: '91'
   groupcode: '140'
+  relationships: []
   subgroupcode: '65'
 dateAccepted: 2018-11-17
 id: bc7b5388-7429-56b3-8232-8643117698f2

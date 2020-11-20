@@ -6,6 +6,7 @@ data:
     Freight distribution of goods in general.
   fieldcode: '55'
   groupcode: '180'
+  relationships: []
   subgroupcode: '01'
 dateAccepted: 2018-11-17
 id: 321e6294-1c64-5023-9a89-793bb9a20afd

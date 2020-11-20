@@ -6,6 +6,7 @@ data:
     concrete.
   fieldcode: '77'
   groupcode: '140'
+  relationships: []
   subgroupcode: '15'
 dateAccepted: 2018-11-17
 id: bc0bcc0f-b76b-5646-8e5c-caa727ee4c5c

@@ -5,6 +5,7 @@ data:
   descriptionFull: Construction materials and building. Construction industry.
   fieldcode: '91'
   groupcode: '010'
+  relationships: []
 dateAccepted: 2018-11-17
 id: 3e05b56c-9736-5318-b868-2fa78303b24b
 status: valid

@@ -6,6 +6,7 @@ data:
     drawings. Other standards related to technical drawings.
   fieldcode: '01'
   groupcode: '100'
+  relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17
 id: cbba0465-8e34-5d49-9e9a-6febb32c5258

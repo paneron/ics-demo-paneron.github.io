@@ -6,6 +6,7 @@ data:
     equipment. Plug-and-socket devices. Connectors.
   fieldcode: '31'
   groupcode: '220'
+  relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: 2fe7a3ff-dfc1-51e2-8f6c-c5096d6f4c7b

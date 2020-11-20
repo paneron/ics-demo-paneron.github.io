@@ -6,6 +6,7 @@ data:
     and batteries.
   fieldcode: '29'
   groupcode: '220'
+  relationships: []
   subgroupcode: '99'
 dateAccepted: 2018-11-17
 id: 08f5702c-491d-5db9-98e6-e28cc92abf09

@@ -5,6 +5,7 @@ data:
   descriptionFull: Electronics. Semiconductor devices. Transistors.
   fieldcode: '31'
   groupcode: 080
+  relationships: []
   subgroupcode: '30'
 dateAccepted: 2018-11-17
 id: bff21cfb-08f8-5cc4-8cdb-75e3e868a5a3

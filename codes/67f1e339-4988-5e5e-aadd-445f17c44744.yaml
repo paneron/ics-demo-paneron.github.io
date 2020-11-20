@@ -5,6 +5,7 @@ data:
   descriptionFull: Metallurgy. Testing of metals.
   fieldcode: '77'
   groupcode: '040'
+  relationships: []
 dateAccepted: 2018-11-17
 id: 67f1e339-4988-5e5e-aadd-445f17c44744
 status: valid

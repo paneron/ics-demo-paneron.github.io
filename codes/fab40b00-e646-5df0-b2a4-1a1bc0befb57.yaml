@@ -6,6 +6,7 @@ data:
     electronic equipment.
   fieldcode: '43'
   groupcode: '040'
+  relationships: []
   subgroupcode: '10'
 dateAccepted: 2018-11-17
 id: fab40b00-e646-5df0-b2a4-1a1bc0befb57

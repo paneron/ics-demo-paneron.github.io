@@ -6,6 +6,7 @@ data:
     Image technology (Vocabularies).
   fieldcode: '01'
   groupcode: '040'
+  relationships: []
   subgroupcode: '37'
 dateAccepted: 2018-11-17
 id: d9a79928-8013-5f33-b075-a8f9b709144b

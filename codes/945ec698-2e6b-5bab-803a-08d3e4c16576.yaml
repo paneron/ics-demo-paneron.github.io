@@ -6,6 +6,7 @@ data:
     Poultry and eggs.
   fieldcode: '67'
   groupcode: '120'
+  relationships: []
   subgroupcode: '20'
 dateAccepted: 2018-11-17
 id: 945ec698-2e6b-5bab-803a-08d3e4c16576

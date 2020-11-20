@@ -6,6 +6,7 @@ data:
     conditions. Electrical equipment for working in special conditions in general.
   fieldcode: '29'
   groupcode: '260'
+  relationships: []
   subgroupcode: '01'
 dateAccepted: 2018-11-17
 id: ba09cb4f-23b6-5fdf-8fae-bc318afc9966

@@ -5,6 +5,7 @@ data:
   descriptionFull: Military affairs. Military engineering. Weapons. Military engineering.
   fieldcode: '95'
   groupcode: '040'
+  relationships: []
 dateAccepted: 2018-11-17
 id: 93973b3b-2cce-5f2b-9f4f-4c790c0899ed
 status: valid
