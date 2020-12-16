@@ -1,4 +1,4 @@
-name: ICS Codes
+name: ISO/IEC ICS Codes
 stakeholders:
   - role: owner
     name: Anton (Test)
@@ -24,3 +24,4 @@ stakeholders:
         contacts:
           - label: email
             value: vladimir.yablokov@gmail.com
+contentSummary: ISO/IEC ICS Codes Edition 7
