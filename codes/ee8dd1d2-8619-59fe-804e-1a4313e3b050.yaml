@@ -1,0 +1,13 @@
+data:
+  code: 59.120.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Looms. Weaving machines
+  descriptionFull: Textile and leather technology. Textile machinery. Looms. Weaving
+    machines.
+  fieldcode: '59'
+  groupcode: '120'
+  relationships: []
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: ee8dd1d2-8619-59fe-804e-1a4313e3b050
+status: valid

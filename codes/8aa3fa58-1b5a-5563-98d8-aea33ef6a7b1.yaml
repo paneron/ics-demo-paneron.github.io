@@ -1,0 +1,11 @@
+data:
+  code: '55.130'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Aerosol containers
+  descriptionFull: Packaging and distribution of goods. Aerosol containers.
+  fieldcode: '55'
+  groupcode: '130'
+  relationships: []
+dateAccepted: 2018-11-17
+id: 8aa3fa58-1b5a-5563-98d8-aea33ef6a7b1
+status: valid

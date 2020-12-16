@@ -1,0 +1,13 @@
+data:
+  code: 49.025.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Materials for aerospace construction in general
+  descriptionFull: Aircraft and space vehicle engineering. Materials for aerospace
+    construction. Materials for aerospace construction in general.
+  fieldcode: '49'
+  groupcode: '025'
+  relationships: []
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 4ba22099-e01a-5575-826c-2eb8aa34a96d
+status: valid

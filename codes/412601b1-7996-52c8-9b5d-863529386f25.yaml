@@ -1,0 +1,13 @@
+data:
+  code: 35.240.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Computer-aided design (CAD)
+  descriptionFull: Information technology. Applications of information technology.
+    Computer-aided design (CAD).
+  fieldcode: '35'
+  groupcode: '240'
+  relationships: []
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 412601b1-7996-52c8-9b5d-863529386f25
+status: valid

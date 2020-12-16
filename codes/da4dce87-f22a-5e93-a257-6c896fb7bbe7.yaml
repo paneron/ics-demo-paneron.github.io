@@ -1,0 +1,13 @@
+data:
+  code: 91.080.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Structures of buildings in general
+  descriptionFull: Construction materials and building. Structures of buildings. Structures
+    of buildings in general.
+  fieldcode: '91'
+  groupcode: 080
+  relationships: []
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: da4dce87-f22a-5e93-a257-6c896fb7bbe7
+status: valid

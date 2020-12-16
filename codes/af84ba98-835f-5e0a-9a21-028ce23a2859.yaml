@@ -1,0 +1,12 @@
+data:
+  code: 35.220.22
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Magnetic tapes
+  descriptionFull: Information technology. Data storage devices. Magnetic tapes.
+  fieldcode: '35'
+  groupcode: '220'
+  relationships: []
+  subgroupcode: '22'
+dateAccepted: 2018-11-17
+id: af84ba98-835f-5e0a-9a21-028ce23a2859
+status: valid

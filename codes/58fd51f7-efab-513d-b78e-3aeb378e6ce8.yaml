@@ -1,0 +1,13 @@
+data:
+  code: 53.040.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Continuous handling equipment in general
+  descriptionFull: Materials handling equipment. Continuous handling equipment. Continuous
+    handling equipment in general.
+  fieldcode: '53'
+  groupcode: '040'
+  relationships: []
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 58fd51f7-efab-513d-b78e-3aeb378e6ce8
+status: valid

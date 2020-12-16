@@ -1,0 +1,13 @@
+data:
+  code: 21.120.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other standards related to shafts and couplings
+  descriptionFull: Mechanical systems and components for general use. Shafts and couplings.
+    Other standards related to shafts and couplings.
+  fieldcode: '21'
+  groupcode: '120'
+  relationships: []
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: f9f19cbb-0628-5857-9f4e-b4b5a6fdeace
+status: valid

@@ -1,0 +1,22 @@
+data:
+  code: '97.200'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Equipment for entertainment
+  descriptionFull: Domestic and commercial equipment. Entertainment. Sports. Equipment
+    for entertainment.
+  fieldcode: '97'
+  groupcode: '200'
+  notes: []
+  relationships:
+  - text: Audio, video and audiovisual engineering, see 33.160
+    to: 52ee85fb-ed64-52d9-a75b-a03324cef8eb
+    type: related
+  - text: Photography, see 37.040
+    to: 636c271d-6853-5c69-8f81-3e7bb9b1658f
+    type: related
+  - text: Cinematography, see 37.060
+    to: 16a528b6-56a2-51ae-9058-cda39daca6d2
+    type: related
+dateAccepted: 2018-11-17
+id: 68a4ca50-736f-51c7-8508-723b66abc511
+status: valid

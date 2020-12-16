@@ -1,0 +1,16 @@
+data:
+  code: '23.140'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Compressors and pneumatic machines
+  descriptionFull: Fluid systems and components for general use. Compressors and pneumatic
+    machines.
+  fieldcode: '23'
+  groupcode: '140'
+  notes: []
+  relationships:
+  - text: Gases for industrial application, see 71.100.20
+    to: 2c8c5545-ec0c-58c5-9cbb-c80ddfd34ae6
+    type: related
+dateAccepted: 2018-11-17
+id: 406efc18-cde6-50fd-9a7f-c4db212b25b1
+status: valid

@@ -1,0 +1,15 @@
+data:
+  code: 25.160.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Welding equipment
+  descriptionFull: Manufacturing engineering. Welding, brazing and soldering. Welding
+    equipment.
+  fieldcode: '25'
+  groupcode: '160'
+  notes:
+  - Including thermal cutting equipment
+  relationships: []
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: f820f629-7280-5011-92fd-7fdf65b2b8e0
+status: valid

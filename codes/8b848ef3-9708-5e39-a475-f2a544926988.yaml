@@ -1,0 +1,11 @@
+data:
+  code: '11.100'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Laboratory medicine
+  descriptionFull: Health care technology. Laboratory medicine.
+  fieldcode: '11'
+  groupcode: '100'
+  relationships: []
+dateAccepted: 2018-11-17
+id: 8b848ef3-9708-5e39-a475-f2a544926988
+status: valid

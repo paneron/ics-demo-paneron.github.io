@@ -1,0 +1,15 @@
+data:
+  code: 33.160.50
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Accessories
+  descriptionFull: Telecommunications. Audio and video engineering. Audio, video and
+    audiovisual engineering. Accessories.
+  fieldcode: '33'
+  groupcode: '160'
+  notes:
+  - Including headphones, loudspeakers, microphones, etc.
+  relationships: []
+  subgroupcode: '50'
+dateAccepted: 2018-11-17
+id: 65fef038-64f6-5ae3-8358-023f54916af3
+status: valid

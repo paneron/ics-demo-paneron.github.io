@@ -1,0 +1,15 @@
+data:
+  code: '31.080'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Semiconductor devices
+  descriptionFull: Electronics. Semiconductor devices.
+  fieldcode: '31'
+  groupcode: 080
+  notes: []
+  relationships:
+  - text: Semiconducting materials, see 29.045
+    to: b490250b-c392-557f-9bc0-8e37a3a1561b
+    type: related
+dateAccepted: 2018-11-17
+id: 50fdc24e-e5e7-5deb-a04a-a22472c5cb8e
+status: valid

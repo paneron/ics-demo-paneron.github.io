@@ -1,0 +1,18 @@
+data:
+  code: '21.060'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Fasteners
+  descriptionFull: Mechanical systems and components for general use. Fasteners.
+  fieldcode: '21'
+  groupcode: '060'
+  notes: []
+  relationships:
+  - text: Implants for surgery, prosthetics and orthotics, see 11.040.40
+    to: ffb5e778-f1c1-5f1f-bdf2-9179f7fc3fbe
+    type: related
+  - text: Fasteners for aerospace construction, see 49.030
+    to: 8b0ae21e-d0ff-5ae7-9b9e-dadca18c3e07
+    type: related
+dateAccepted: 2018-11-17
+id: 31988eef-46df-5b91-960b-69aa336864b2
+status: valid

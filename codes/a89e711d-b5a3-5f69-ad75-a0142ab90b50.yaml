@@ -1,0 +1,15 @@
+data:
+  code: 33.070.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Satellite
+  descriptionFull: Telecommunications. Audio and video engineering. Mobile services.
+    Satellite.
+  fieldcode: '33'
+  groupcode: '070'
+  notes:
+  - Including Global Positioning System (GPS)
+  relationships: []
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: a89e711d-b5a3-5f69-ad75-a0142ab90b50
+status: valid

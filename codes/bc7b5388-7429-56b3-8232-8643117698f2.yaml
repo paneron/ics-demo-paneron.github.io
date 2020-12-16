@@ -1,0 +1,13 @@
+data:
+  code: 91.140.65
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Water heating equipment
+  descriptionFull: Construction materials and building. Installations in buildings.
+    Water heating equipment.
+  fieldcode: '91'
+  groupcode: '140'
+  relationships: []
+  subgroupcode: '65'
+dateAccepted: 2018-11-17
+id: bc7b5388-7429-56b3-8232-8643117698f2
+status: valid

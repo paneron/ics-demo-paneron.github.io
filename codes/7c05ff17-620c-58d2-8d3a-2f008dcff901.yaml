@@ -1,0 +1,13 @@
+data:
+  code: 17.040.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Geometrical Product Specification (GPS)
+  descriptionFull: Metrology and measurement. Physical phenomena. Linear and angular
+    measurements. Geometrical Product Specification (GPS).
+  fieldcode: '17'
+  groupcode: '040'
+  relationships: []
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: 7c05ff17-620c-58d2-8d3a-2f008dcff901
+status: valid

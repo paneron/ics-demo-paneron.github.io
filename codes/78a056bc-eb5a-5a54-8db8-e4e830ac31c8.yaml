@@ -1,0 +1,13 @@
+data:
+  code: 23.020.35
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Gas cylinders
+  descriptionFull: Fluid systems and components for general use. Fluid storage devices.
+    Gas cylinders.
+  fieldcode: '23'
+  groupcode: '020'
+  relationships: []
+  subgroupcode: '35'
+dateAccepted: 2018-11-17
+id: 78a056bc-eb5a-5a54-8db8-e4e830ac31c8
+status: valid

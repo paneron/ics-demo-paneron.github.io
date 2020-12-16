@@ -1,0 +1,18 @@
+data:
+  code: 13.340.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Hand and arm protection
+  descriptionFull: Environment. Health protection. Safety. Protective equipment. Hand
+    and arm protection.
+  fieldcode: '13'
+  groupcode: '340'
+  notes:
+  - Including protective gloves, sleeves and mits
+  relationships:
+  - text: Hospital equipment, see 11.140
+    to: 16941ef7-4dfc-5f41-ba13-ae04555d568d
+    type: related
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: b004a718-71a0-5e55-8f43-ded8a210bc1c
+status: valid

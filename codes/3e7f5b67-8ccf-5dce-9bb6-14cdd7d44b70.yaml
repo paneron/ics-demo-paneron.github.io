@@ -1,0 +1,12 @@
+data:
+  code: '49.100'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Ground service and maintenance equipment
+  descriptionFull: Aircraft and space vehicle engineering. Ground service and maintenance
+    equipment.
+  fieldcode: '49'
+  groupcode: '100'
+  relationships: []
+dateAccepted: 2018-11-17
+id: 3e7f5b67-8ccf-5dce-9bb6-14cdd7d44b70
+status: valid

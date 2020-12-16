@@ -1,0 +1,12 @@
+data:
+  code: '17.200'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Thermodynamics and temperature measurements
+  descriptionFull: Metrology and measurement. Physical phenomena. Thermodynamics and
+    temperature measurements.
+  fieldcode: '17'
+  groupcode: '200'
+  relationships: []
+dateAccepted: 2018-11-17
+id: 75ec3612-a5e3-5ac7-94c3-6bc61bc2c7c8
+status: valid

@@ -1,0 +1,13 @@
+data:
+  code: 35.100.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Transport layer
+  descriptionFull: Information technology. Open systems interconnection (OSI). Transport
+    layer.
+  fieldcode: '35'
+  groupcode: '100'
+  relationships: []
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: 3c9d6238-2c11-5653-add9-84d75b399d8e
+status: valid

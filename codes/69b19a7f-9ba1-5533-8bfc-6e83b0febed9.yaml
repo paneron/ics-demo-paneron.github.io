@@ -1,0 +1,14 @@
+data:
+  code: 11.060.15
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Dental implants
+  descriptionFull: Health care technology. Dentistry. Dental implants.
+  fieldcode: '11'
+  groupcode: '060'
+  notes:
+  - Including dentures
+  relationships: []
+  subgroupcode: '15'
+dateAccepted: 2018-11-17
+id: 69b19a7f-9ba1-5533-8bfc-6e83b0febed9
+status: valid

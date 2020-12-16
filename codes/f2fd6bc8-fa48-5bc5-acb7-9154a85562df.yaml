@@ -1,0 +1,13 @@
+data:
+  code: 11.100.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other standards related to laboratory medicine
+  descriptionFull: Health care technology. Laboratory medicine. Other standards related
+    to laboratory medicine.
+  fieldcode: '11'
+  groupcode: '100'
+  relationships: []
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: f2fd6bc8-fa48-5bc5-acb7-9154a85562df
+status: valid

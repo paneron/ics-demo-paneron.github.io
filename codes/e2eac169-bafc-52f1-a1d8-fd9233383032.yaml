@@ -1,0 +1,13 @@
+data:
+  code: 21.100.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Plain bearings
+  descriptionFull: Mechanical systems and components for general use. Bearings. Plain
+    bearings.
+  fieldcode: '21'
+  groupcode: '100'
+  relationships: []
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: e2eac169-bafc-52f1-a1d8-fd9233383032
+status: valid

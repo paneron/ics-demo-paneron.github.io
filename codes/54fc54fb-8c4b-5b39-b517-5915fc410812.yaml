@@ -1,0 +1,13 @@
+data:
+  code: '93.120'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Construction of airports
+  descriptionFull: Civil engineering. Construction of airports.
+  fieldcode: '93'
+  groupcode: '120'
+  notes:
+  - Including air transport control equipment and installations
+  relationships: []
+dateAccepted: 2018-11-17
+id: 54fc54fb-8c4b-5b39-b517-5915fc410812
+status: valid

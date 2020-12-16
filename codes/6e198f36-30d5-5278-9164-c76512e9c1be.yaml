@@ -1,0 +1,16 @@
+data:
+  code: '77.080'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Ferrous metals
+  descriptionFull: Metallurgy. Ferrous metals.
+  fieldcode: '77'
+  groupcode: 080
+  notes:
+  - Including classification, designation, sampling, chemical analysis, etc.
+  relationships:
+  - text: Iron and steel products, see 77.140
+    to: 561cf38f-33b3-586c-9a4a-51cc3a42f6eb
+    type: related
+dateAccepted: 2018-11-17
+id: 6e198f36-30d5-5278-9164-c76512e9c1be
+status: valid

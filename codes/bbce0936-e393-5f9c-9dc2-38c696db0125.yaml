@@ -1,0 +1,11 @@
+data:
+  code: '65.100'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Pesticides and other agrochemicals
+  descriptionFull: Agriculture. Pesticides and other agrochemicals.
+  fieldcode: '65'
+  groupcode: '100'
+  relationships: []
+dateAccepted: 2018-11-17
+id: bbce0936-e393-5f9c-9dc2-38c696db0125
+status: valid

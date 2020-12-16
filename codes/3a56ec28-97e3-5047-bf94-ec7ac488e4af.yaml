@@ -1,0 +1,13 @@
+data:
+  code: 27.060.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Gas fuel burners
+  descriptionFull: Energy and heat transfer engineering. Burners. Boilers. Gas fuel
+    burners.
+  fieldcode: '27'
+  groupcode: '060'
+  relationships: []
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 3a56ec28-97e3-5047-bf94-ec7ac488e4af
+status: valid

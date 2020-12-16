@@ -1,0 +1,16 @@
+data:
+  code: '59.040'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Textile auxiliary materials
+  descriptionFull: Textile and leather technology. Textile auxiliary materials.
+  fieldcode: '59'
+  groupcode: '040'
+  notes:
+  - Including feathers and down
+  relationships:
+  - text: Surface active agents, see 71.100.40
+    to: fc2a58ff-6a44-5fb1-bd16-fd97a04564b4
+    type: related
+dateAccepted: 2018-11-17
+id: 5518c2d4-b6b0-51cf-b543-dde31fc6cd20
+status: valid

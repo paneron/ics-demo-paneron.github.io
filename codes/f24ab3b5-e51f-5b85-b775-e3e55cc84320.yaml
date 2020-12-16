@@ -1,0 +1,24 @@
+data:
+  code: '47.020'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Shipbuilding and marine structures in general
+  descriptionFull: Shipbuilding and marine structures. Shipbuilding and marine structures
+    in general.
+  fieldcode: '47'
+  groupcode: '020'
+  notes:
+  - Including offshore structures, except offshore structures for petroleum and natural
+    gas industries, and seabed mining
+  relationships:
+  - text: Transport by water, see 03.220.40
+    to: f5526653-2b6d-5b25-a62c-e97ce687866c
+    type: related
+  - text: Equipment for drilling and mine excavation, see 73.100.30
+    to: daa532c5-f921-54df-ba38-490bc310ba3a
+    type: related
+  - text: Exploratory, drilling and extraction equipment, see 75.180.10
+    to: 08b414e3-2046-5589-8ad4-00c1b1fb6836
+    type: related
+dateAccepted: 2018-11-17
+id: f24ab3b5-e51f-5b85-b775-e3e55cc84320
+status: valid

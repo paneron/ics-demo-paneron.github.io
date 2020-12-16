@@ -1,0 +1,13 @@
+data:
+  code: 25.060.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Dividing and tool-workpiece holding devices
+  descriptionFull: Manufacturing engineering. Machine tool systems. Dividing and tool-workpiece
+    holding devices.
+  fieldcode: '25'
+  groupcode: '060'
+  relationships: []
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 96a76ae8-6b6d-5f0b-a6bd-af57a0438248
+status: valid

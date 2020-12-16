@@ -1,0 +1,12 @@
+data:
+  code: 77.140.60
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Steel bars and rods
+  descriptionFull: Metallurgy. Iron and steel products. Steel bars and rods.
+  fieldcode: '77'
+  groupcode: '140'
+  relationships: []
+  subgroupcode: '60'
+dateAccepted: 2018-11-17
+id: e0114253-6a31-57d8-8927-8d3d6256341b
+status: valid

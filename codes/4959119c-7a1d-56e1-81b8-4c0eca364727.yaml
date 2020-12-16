@@ -1,0 +1,13 @@
+data:
+  code: 27.060.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Liquid and solid fuel burners
+  descriptionFull: Energy and heat transfer engineering. Burners. Boilers. Liquid
+    and solid fuel burners.
+  fieldcode: '27'
+  groupcode: '060'
+  relationships: []
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 4959119c-7a1d-56e1-81b8-4c0eca364727
+status: valid

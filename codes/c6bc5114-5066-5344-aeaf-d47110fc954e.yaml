@@ -1,0 +1,11 @@
+data:
+  code: '79.100'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Cork and cork products
+  descriptionFull: Wood technology. Cork and cork products.
+  fieldcode: '79'
+  groupcode: '100'
+  relationships: []
+dateAccepted: 2018-11-17
+id: c6bc5114-5066-5344-aeaf-d47110fc954e
+status: valid

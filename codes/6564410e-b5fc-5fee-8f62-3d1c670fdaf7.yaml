@@ -1,0 +1,13 @@
+data:
+  code: 11.180.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other standards related to aids for disabled and handicapped people
+  descriptionFull: Health care technology. Aids for disabled or handicapped persons.
+    Other standards related to aids for disabled and handicapped people.
+  fieldcode: '11'
+  groupcode: '180'
+  relationships: []
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: 6564410e-b5fc-5fee-8f62-3d1c670fdaf7
+status: valid

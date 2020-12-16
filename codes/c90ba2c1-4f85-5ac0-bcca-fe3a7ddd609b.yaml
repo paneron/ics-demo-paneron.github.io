@@ -1,0 +1,27 @@
+data:
+  code: 27.060.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Boilers and heat exchangers
+  descriptionFull: Energy and heat transfer engineering. Burners. Boilers. Boilers
+    and heat exchangers.
+  fieldcode: '27'
+  groupcode: '060'
+  notes:
+  - Including steam pressure vessels
+  relationships:
+  - text: Anaesthetic, respiratory and reanimation equipment, see 11.040.10
+    to: 9bd7d0ea-ab66-593b-90fd-a4ea94ae2d19
+    type: related
+  - text: Heat exchangers, see 71.120.30
+    to: 4c2327ba-18fb-5b25-8675-e4345bb67d35
+    type: related
+  - text: Processing equipment, see 75.180.20
+    to: 413e8c12-7ec3-5204-b6dc-f704cfbbaee2
+    type: related
+  - text: Domestic, commercial and industrial heating appliances, see 97.100
+    to: ba1e7130-50a5-51f3-9905-b68cac1a08f0
+    type: related
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: c90ba2c1-4f85-5ac0-bcca-fe3a7ddd609b
+status: valid

@@ -1,0 +1,19 @@
+data:
+  code: 83.140.50
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Seals
+  descriptionFull: Rubber and plastic industries. Rubber and plastics products. Seals.
+  fieldcode: '83'
+  groupcode: '140'
+  notes: []
+  relationships:
+  - text: Seals, glands, see 21.140
+    to: a3d0f3ed-2ebe-5016-82b2-9996376b4c63
+    type: related
+  - text: Seals for pipe and hose assemblies, see 23.040.80
+    to: 726982dd-9694-5a5d-af85-ee7d36b52f19
+    type: related
+  subgroupcode: '50'
+dateAccepted: 2018-11-17
+id: d36de1b8-5956-53e0-a779-9ab0a2eff496
+status: valid

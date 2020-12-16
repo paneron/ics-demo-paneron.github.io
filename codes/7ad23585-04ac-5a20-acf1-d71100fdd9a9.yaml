@@ -1,0 +1,11 @@
+data:
+  code: '95.060'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Weapons
+  descriptionFull: Military affairs. Military engineering. Weapons. Weapons.
+  fieldcode: '95'
+  groupcode: '060'
+  relationships: []
+dateAccepted: 2018-11-17
+id: 7ad23585-04ac-5a20-acf1-d71100fdd9a9
+status: valid

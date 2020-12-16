@@ -1,0 +1,13 @@
+data:
+  code: 13.040.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other standards related to air quality
+  descriptionFull: Environment. Health protection. Safety. Air quality. Other standards
+    related to air quality.
+  fieldcode: '13'
+  groupcode: '040'
+  relationships: []
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: f2120ee5-34de-5cf6-99ec-79311143d541
+status: valid

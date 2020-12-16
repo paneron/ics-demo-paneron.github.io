@@ -1,0 +1,12 @@
+data:
+  code: 39.040.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Clocks
+  descriptionFull: Precision mechanics. Jewellery. Horology. Clocks.
+  fieldcode: '39'
+  groupcode: '040'
+  relationships: []
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: a457fcd0-58e7-54b3-87fb-64870a34eb2b
+status: valid

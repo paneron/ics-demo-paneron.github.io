@@ -1,0 +1,12 @@
+data:
+  code: 83.160.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Tyres for agricultural machinery
+  descriptionFull: Rubber and plastic industries. Tyres. Tyres for agricultural machinery.
+  fieldcode: '83'
+  groupcode: '160'
+  relationships: []
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: 9dd67e60-eaaf-5ff7-b346-dd5d95dd0555
+status: valid

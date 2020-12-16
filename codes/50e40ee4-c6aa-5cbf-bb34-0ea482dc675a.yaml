@@ -1,0 +1,18 @@
+data:
+  code: 03.080.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Maintenance services. Facilities management
+  descriptionFull: Services. Company organization, management and quality. Administration.
+    Transport. Sociology. Services. Maintenance services. Facilities management.
+  fieldcode: '03'
+  groupcode: 080
+  notes:
+  - Including cleaning and pest control
+  relationships:
+  - text: Sterilization and disinfection, see 11.080
+    to: 99759b03-90df-5e15-a5c4-ecae01088913
+    type: related
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 50e40ee4-c6aa-5cbf-bb34-0ea482dc675a
+status: valid

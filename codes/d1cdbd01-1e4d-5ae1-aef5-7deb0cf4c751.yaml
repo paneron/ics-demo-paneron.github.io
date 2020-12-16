@@ -1,0 +1,13 @@
+data:
+  code: 23.040.07
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Pipelines and its parts for district heat
+  descriptionFull: Fluid systems and components for general use. Pipeline components
+    and pipelines. Pipelines and its parts for district heat.
+  fieldcode: '23'
+  groupcode: '040'
+  relationships: []
+  subgroupcode: '07'
+dateAccepted: 2018-11-17
+id: d1cdbd01-1e4d-5ae1-aef5-7deb0cf4c751
+status: valid

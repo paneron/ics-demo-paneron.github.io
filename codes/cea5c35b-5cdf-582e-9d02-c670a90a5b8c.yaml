@@ -1,0 +1,12 @@
+data:
+  code: 31.060.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Ceramic and mica capacitors
+  descriptionFull: Electronics. Capacitors. Ceramic and mica capacitors.
+  fieldcode: '31'
+  groupcode: '060'
+  relationships: []
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: cea5c35b-5cdf-582e-9d02-c670a90a5b8c
+status: valid

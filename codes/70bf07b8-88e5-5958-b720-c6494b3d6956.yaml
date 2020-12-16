@@ -1,0 +1,13 @@
+data:
+  code: 91.060.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Elements of buildings in general
+  descriptionFull: Construction materials and building. Elements of buildings. Elements
+    of buildings in general.
+  fieldcode: '91'
+  groupcode: '060'
+  relationships: []
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 70bf07b8-88e5-5958-b720-c6494b3d6956
+status: valid

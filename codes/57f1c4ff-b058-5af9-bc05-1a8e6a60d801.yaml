@@ -1,0 +1,13 @@
+data:
+  code: 59.080.80
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Smart textiles
+  descriptionFull: Textile and leather technology. Products of the textile industry.
+    Smart textiles.
+  fieldcode: '59'
+  groupcode: 080
+  relationships: []
+  subgroupcode: '80'
+dateAccepted: 2018-11-17
+id: 57f1c4ff-b058-5af9-bc05-1a8e6a60d801
+status: valid

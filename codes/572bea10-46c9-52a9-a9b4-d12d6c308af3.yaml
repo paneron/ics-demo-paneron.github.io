@@ -1,0 +1,21 @@
+data:
+  code: 03.220.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Road transport
+  descriptionFull: Services. Company organization, management and quality. Administration.
+    Transport. Sociology. Transport. Road transport.
+  fieldcode: '03'
+  groupcode: '220'
+  notes:
+  - Including road transport services
+  relationships:
+  - text: Management systems, see 03.100.70
+    to: d96a33db-f733-56a0-bd28-13b550880168
+    type: related
+  - text: Road equipment and installations, see 93.080.30
+    to: cc605528-cc06-5006-b930-12852c7bc823
+    type: related
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 572bea10-46c9-52a9-a9b4-d12d6c308af3
+status: valid

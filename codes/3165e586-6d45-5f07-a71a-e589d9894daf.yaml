@@ -1,0 +1,11 @@
+data:
+  code: '85.040'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Pulps
+  descriptionFull: Paper technology. Pulps.
+  fieldcode: '85'
+  groupcode: '040'
+  relationships: []
+dateAccepted: 2018-11-17
+id: 3165e586-6d45-5f07-a71a-e589d9894daf
+status: valid

@@ -1,0 +1,13 @@
+data:
+  code: '31.190'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Electronic component assemblies
+  descriptionFull: Electronics. Electronic component assemblies.
+  fieldcode: '31'
+  groupcode: '190'
+  notes:
+  - Including preassembled modules
+  relationships: []
+dateAccepted: 2018-11-17
+id: 5d536010-0a06-540b-af92-f7b2609de0fa
+status: valid

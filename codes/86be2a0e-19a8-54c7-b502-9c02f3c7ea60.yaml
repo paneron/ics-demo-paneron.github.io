@@ -1,0 +1,18 @@
+data:
+  code: 13.340.60
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Protection against falling and slipping
+  descriptionFull: Environment. Health protection. Safety. Protective equipment. Protection
+    against falling and slipping.
+  fieldcode: '13'
+  groupcode: '340'
+  notes:
+  - Including safety ropes, harnesses and fall arrestors
+  relationships:
+  - text: Outdoor and water sports equipment, see 97.220.40
+    to: 0d2c6243-a005-534e-ab9a-695d58dc9eea
+    type: related
+  subgroupcode: '60'
+dateAccepted: 2018-11-17
+id: 86be2a0e-19a8-54c7-b502-9c02f3c7ea60
+status: valid

@@ -1,0 +1,12 @@
+data:
+  code: 87.060.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Pigments and extenders
+  descriptionFull: Paint and colour industries. Paint ingredients. Pigments and extenders.
+  fieldcode: '87'
+  groupcode: '060'
+  relationships: []
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: f13144d3-a195-50de-b31c-38a6e968bbc5
+status: valid

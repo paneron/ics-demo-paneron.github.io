@@ -1,0 +1,13 @@
+data:
+  code: 73.060.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Chromium ores
+  descriptionFull: Mining and minerals. Metalliferous minerals and their concentrates.
+    Chromium ores.
+  fieldcode: '73'
+  groupcode: '060'
+  relationships: []
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: d389a90a-d78a-5227-8141-1c663eabe342
+status: valid

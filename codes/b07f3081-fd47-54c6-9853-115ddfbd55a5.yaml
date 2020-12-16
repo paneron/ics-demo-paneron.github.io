@@ -1,0 +1,16 @@
+data:
+  code: 03.100.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Purchasing. Procurement. Logistics
+  descriptionFull: Services. Company organization, management and quality. Administration.
+    Transport. Sociology. Company organization and management. Management systems.
+    Purchasing. Procurement. Logistics.
+  fieldcode: '03'
+  groupcode: '100'
+  notes:
+  - Including asset management, supply chain, etc.
+  relationships: []
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: b07f3081-fd47-54c6-9853-115ddfbd55a5
+status: valid

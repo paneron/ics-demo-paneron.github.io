@@ -1,0 +1,15 @@
+data:
+  code: 91.080.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Concrete structures
+  descriptionFull: Construction materials and building. Structures of buildings. Concrete
+    structures.
+  fieldcode: '91'
+  groupcode: 080
+  notes:
+  - Including the repair and protection of concrete products and structures
+  relationships: []
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: c6b2208d-c987-52a2-83f4-357471aa26db
+status: valid

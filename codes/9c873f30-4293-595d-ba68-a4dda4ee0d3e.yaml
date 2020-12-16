@@ -1,0 +1,12 @@
+data:
+  code: 11.060.25
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Dental instruments
+  descriptionFull: Health care technology. Dentistry. Dental instruments.
+  fieldcode: '11'
+  groupcode: '060'
+  relationships: []
+  subgroupcode: '25'
+dateAccepted: 2018-11-17
+id: 9c873f30-4293-595d-ba68-a4dda4ee0d3e
+status: valid

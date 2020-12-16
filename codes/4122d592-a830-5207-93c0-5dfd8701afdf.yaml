@@ -1,0 +1,15 @@
+data:
+  code: 55.180.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other standards related to freight distribution of goods
+  descriptionFull: Packaging and distribution of goods. Freight distribution of goods.
+    Other standards related to freight distribution of goods.
+  fieldcode: '55'
+  groupcode: '180'
+  notes:
+  - Including intermediate bulk containers
+  relationships: []
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: 4122d592-a830-5207-93c0-5dfd8701afdf
+status: valid

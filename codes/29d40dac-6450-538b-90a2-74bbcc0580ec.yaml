@@ -1,0 +1,15 @@
+data:
+  code: '29.240'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Power transmission and distribution networks
+  descriptionFull: Electrical engineering. Power transmission and distribution networks.
+  fieldcode: '29'
+  groupcode: '240'
+  notes: []
+  relationships:
+  - text: Electricity supply systems, see 91.140.50
+    to: 7c7d41a2-8cc3-5af9-a312-6050921deef3
+    type: related
+dateAccepted: 2018-11-17
+id: 29d40dac-6450-538b-90a2-74bbcc0580ec
+status: valid

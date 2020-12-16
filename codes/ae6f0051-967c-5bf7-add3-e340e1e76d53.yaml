@@ -1,0 +1,13 @@
+data:
+  code: 49.030.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Pins, nails
+  descriptionFull: Aircraft and space vehicle engineering. Fasteners for aerospace
+    construction. Pins, nails.
+  fieldcode: '49'
+  groupcode: '030'
+  relationships: []
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: ae6f0051-967c-5bf7-add3-e340e1e76d53
+status: valid

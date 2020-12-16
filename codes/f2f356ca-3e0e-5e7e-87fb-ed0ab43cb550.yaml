@@ -1,0 +1,16 @@
+data:
+  code: 59.120.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Spinning, twisting and texturing machines
+  descriptionFull: Textile and leather technology. Textile machinery. Spinning, twisting
+    and texturing machines.
+  fieldcode: '59'
+  groupcode: '120'
+  notes:
+  - Including machines and equipment for manufacturing man-made filaments and fibres
+    and for preparing fibres for spinning
+  relationships: []
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: f2f356ca-3e0e-5e7e-87fb-ed0ab43cb550
+status: valid

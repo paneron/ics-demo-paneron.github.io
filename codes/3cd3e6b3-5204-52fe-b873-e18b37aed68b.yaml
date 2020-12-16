@@ -1,0 +1,15 @@
+data:
+  code: 97.130.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Trolleys for supermarket purposes
+  descriptionFull: Domestic and commercial equipment. Entertainment. Sports. Shop
+    fittings. Trolleys for supermarket purposes.
+  fieldcode: '97'
+  groupcode: '130'
+  notes:
+  - Including baskets
+  relationships: []
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: 3cd3e6b3-5204-52fe-b873-e18b37aed68b
+status: valid

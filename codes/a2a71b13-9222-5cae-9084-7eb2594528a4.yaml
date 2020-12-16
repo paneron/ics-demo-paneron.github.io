@@ -1,0 +1,13 @@
+data:
+  code: 91.060.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Walls. Partitions. Façades
+  descriptionFull: Construction materials and building. Elements of buildings. Walls.
+    Partitions. Façades.
+  fieldcode: '91'
+  groupcode: '060'
+  relationships: []
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: a2a71b13-9222-5cae-9084-7eb2594528a4
+status: valid

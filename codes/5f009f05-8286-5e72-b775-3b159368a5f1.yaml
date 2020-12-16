@@ -1,0 +1,12 @@
+data:
+  code: 37.040.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Photographic chemicals
+  descriptionFull: Image technology. Photography. Photographic chemicals.
+  fieldcode: '37'
+  groupcode: '040'
+  relationships: []
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: 5f009f05-8286-5e72-b775-3b159368a5f1
+status: valid

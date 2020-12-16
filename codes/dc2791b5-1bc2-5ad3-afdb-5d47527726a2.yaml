@@ -1,0 +1,13 @@
+data:
+  code: 59.080.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Coated fabrics
+  descriptionFull: Textile and leather technology. Products of the textile industry.
+    Coated fabrics.
+  fieldcode: '59'
+  groupcode: 080
+  relationships: []
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: dc2791b5-1bc2-5ad3-afdb-5d47527726a2
+status: valid

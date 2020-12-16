@@ -1,0 +1,13 @@
+data:
+  code: 01.080.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other graphical symbols
+  descriptionFull: Generalities. Terminology. Standardization. Documentation. Graphical
+    symbols. Other graphical symbols.
+  fieldcode: '01'
+  groupcode: 080
+  relationships: []
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: 9e14b439-bc6d-5e2c-a84e-9660aa46fe1f
+status: valid

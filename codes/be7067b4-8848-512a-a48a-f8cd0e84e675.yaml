@@ -1,0 +1,15 @@
+data:
+  code: 11.180.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Aids and adaptation for moving
+  descriptionFull: Health care technology. Aids for disabled or handicapped persons.
+    Aids and adaptation for moving.
+  fieldcode: '11'
+  groupcode: '180'
+  notes:
+  - Including wheelchairs, walking sticks and lifting platforms
+  relationships: []
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: be7067b4-8848-512a-a48a-f8cd0e84e675
+status: valid

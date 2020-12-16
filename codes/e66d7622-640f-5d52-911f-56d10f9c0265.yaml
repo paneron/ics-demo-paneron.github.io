@@ -1,0 +1,13 @@
+data:
+  code: 77.150.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other products of non-ferrous metals
+  descriptionFull: Metallurgy. Products of non-ferrous metals. Other products of non-ferrous
+    metals.
+  fieldcode: '77'
+  groupcode: '150'
+  relationships: []
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: e66d7622-640f-5d52-911f-56d10f9c0265
+status: valid

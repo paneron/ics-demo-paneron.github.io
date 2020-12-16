@@ -1,0 +1,11 @@
+data:
+  code: '13.110'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Safety of machinery
+  descriptionFull: Environment. Health protection. Safety. Safety of machinery.
+  fieldcode: '13'
+  groupcode: '110'
+  relationships: []
+dateAccepted: 2018-11-17
+id: 91bbcdce-4202-5be5-aacd-b7c22660216a
+status: valid

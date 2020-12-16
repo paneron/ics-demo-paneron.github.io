@@ -1,0 +1,13 @@
+data:
+  code: 33.060.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other equipment for radiocommunications
+  descriptionFull: Telecommunications. Audio and video engineering. Radiocommunications.
+    Other equipment for radiocommunications.
+  fieldcode: '33'
+  groupcode: '060'
+  relationships: []
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: d06bfef2-9ba4-53d2-9c71-16c3b1b13c23
+status: valid

@@ -1,0 +1,12 @@
+data:
+  code: 67.200.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Oilseeds
+  descriptionFull: Food technology. Edible oils and fats. Oilseeds. Oilseeds.
+  fieldcode: '67'
+  groupcode: '200'
+  relationships: []
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: fabca9bd-0c70-5699-afc5-75b85de7beb7
+status: valid

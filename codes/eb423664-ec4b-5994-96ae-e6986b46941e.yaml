@@ -1,0 +1,17 @@
+data:
+  code: 53.020.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Lifting appliances in general
+  descriptionFull: Materials handling equipment. Lifting equipment. Lifting appliances
+    in general.
+  fieldcode: '53'
+  groupcode: '020'
+  notes: []
+  relationships:
+  - text: Aids and adaptation for moving, see 11.180.10
+    to: be7067b4-8848-512a-a48a-f8cd0e84e675
+    type: related
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: eb423664-ec4b-5994-96ae-e6986b46941e
+status: valid

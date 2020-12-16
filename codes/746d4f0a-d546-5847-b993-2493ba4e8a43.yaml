@@ -1,0 +1,13 @@
+data:
+  code: 29.100.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Components for electrical equipment in general
+  descriptionFull: Electrical engineering. Components for electrical equipment. Components
+    for electrical equipment in general.
+  fieldcode: '29'
+  groupcode: '100'
+  relationships: []
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 746d4f0a-d546-5847-b993-2493ba4e8a43
+status: valid

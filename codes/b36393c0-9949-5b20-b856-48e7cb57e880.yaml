@@ -1,0 +1,12 @@
+data:
+  code: '97.120'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Automatic controls for household use
+  descriptionFull: Domestic and commercial equipment. Entertainment. Sports. Automatic
+    controls for household use.
+  fieldcode: '97'
+  groupcode: '120'
+  relationships: []
+dateAccepted: 2018-11-17
+id: b36393c0-9949-5b20-b856-48e7cb57e880
+status: valid

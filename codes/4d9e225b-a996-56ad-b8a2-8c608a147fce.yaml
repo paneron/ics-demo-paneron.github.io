@@ -1,0 +1,11 @@
+data:
+  code: '07.120'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Nanotechnologies
+  descriptionFull: Natural and applied sciences. Nanotechnologies.
+  fieldcode: '07'
+  groupcode: '120'
+  relationships: []
+dateAccepted: 2018-11-17
+id: 4d9e225b-a996-56ad-b8a2-8c608a147fce
+status: valid

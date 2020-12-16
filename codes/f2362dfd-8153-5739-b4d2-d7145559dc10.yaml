@@ -1,0 +1,18 @@
+data:
+  code: 91.160.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Exterior building lighting
+  descriptionFull: Construction materials and building. Lighting. Exterior building
+    lighting.
+  fieldcode: '91'
+  groupcode: '160'
+  notes:
+  - Including flood lighting
+  relationships:
+  - text: Street lighting and related equipment, see 93.080.40
+    to: 98785aa5-fcc6-5b1f-83b9-5725b5a609b1
+    type: related
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: f2362dfd-8153-5739-b4d2-d7145559dc10
+status: valid

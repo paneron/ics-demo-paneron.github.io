@@ -1,0 +1,13 @@
+data:
+  code: 73.060.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other metalliferous minerals
+  descriptionFull: Mining and minerals. Metalliferous minerals and their concentrates.
+    Other metalliferous minerals.
+  fieldcode: '73'
+  groupcode: '060'
+  relationships: []
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: e2dcac1a-1c03-5ce4-ba18-3aede37039ab
+status: valid

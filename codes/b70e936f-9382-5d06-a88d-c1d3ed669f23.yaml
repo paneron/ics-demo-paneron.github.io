@@ -1,0 +1,13 @@
+data:
+  code: 77.140.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Steels with special magnetic properties
+  descriptionFull: Metallurgy. Iron and steel products. Steels with special magnetic
+    properties.
+  fieldcode: '77'
+  groupcode: '140'
+  relationships: []
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: b70e936f-9382-5d06-a88d-c1d3ed669f23
+status: valid

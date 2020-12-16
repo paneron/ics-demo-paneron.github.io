@@ -1,0 +1,12 @@
+data:
+  code: 25.080.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Machine tools in general
+  descriptionFull: Manufacturing engineering. Machine tools. Machine tools in general.
+  fieldcode: '25'
+  groupcode: 080
+  relationships: []
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 8d66ca5f-ba2f-5a53-948f-b00157e12d97
+status: valid

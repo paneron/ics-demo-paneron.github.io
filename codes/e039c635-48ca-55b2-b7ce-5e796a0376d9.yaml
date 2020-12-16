@@ -1,0 +1,13 @@
+data:
+  code: 29.160.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Components for rotating machines
+  descriptionFull: Electrical engineering. Rotating machinery. Components for rotating
+    machines.
+  fieldcode: '29'
+  groupcode: '160'
+  relationships: []
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: e039c635-48ca-55b2-b7ce-5e796a0376d9
+status: valid

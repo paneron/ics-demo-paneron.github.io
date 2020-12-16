@@ -1,0 +1,14 @@
+data:
+  code: '49.050'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Aerospace engines and propulsion systems
+  descriptionFull: Aircraft and space vehicle engineering. Aerospace engines and propulsion
+    systems.
+  fieldcode: '49'
+  groupcode: '050'
+  notes:
+  - Including fuel systems
+  relationships: []
+dateAccepted: 2018-11-17
+id: df3a2051-ec60-5167-b757-504b84683180
+status: valid

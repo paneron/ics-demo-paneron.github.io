@@ -1,0 +1,13 @@
+data:
+  code: 33.050.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Telecommunication terminal equipment in general
+  descriptionFull: Telecommunications. Audio and video engineering. Telecommunication
+    terminal equipment. Telecommunication terminal equipment in general.
+  fieldcode: '33'
+  groupcode: '050'
+  relationships: []
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 62e9e412-3643-5ff5-9477-1c72049c0279
+status: valid

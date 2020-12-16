@@ -1,0 +1,12 @@
+data:
+  code: '03.120'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Quality
+  descriptionFull: Services. Company organization, management and quality. Administration.
+    Transport. Sociology. Quality.
+  fieldcode: '03'
+  groupcode: '120'
+  relationships: []
+dateAccepted: 2018-11-17
+id: 60019072-ffbc-5e81-9347-050619b10050
+status: valid

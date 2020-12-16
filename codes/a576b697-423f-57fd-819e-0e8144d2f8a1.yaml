@@ -1,0 +1,13 @@
+data:
+  code: '35.030'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: IT Security
+  descriptionFull: Information technology. IT Security.
+  fieldcode: '35'
+  groupcode: '030'
+  notes:
+  - Including encryption
+  relationships: []
+dateAccepted: 2018-11-17
+id: a576b697-423f-57fd-819e-0e8144d2f8a1
+status: valid

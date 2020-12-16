@@ -1,0 +1,13 @@
+data:
+  code: 25.120.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Forging equipment. Presses. Shears
+  descriptionFull: Manufacturing engineering. Chipless working equipment. Forging
+    equipment. Presses. Shears.
+  fieldcode: '25'
+  groupcode: '120'
+  relationships: []
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: e583298f-cc41-5247-b1f6-159695b59976
+status: valid

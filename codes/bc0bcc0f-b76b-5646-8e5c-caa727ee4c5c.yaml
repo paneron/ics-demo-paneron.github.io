@@ -1,0 +1,13 @@
+data:
+  code: 77.140.15
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Steels for reinforcement of concrete
+  descriptionFull: Metallurgy. Iron and steel products. Steels for reinforcement of
+    concrete.
+  fieldcode: '77'
+  groupcode: '140'
+  relationships: []
+  subgroupcode: '15'
+dateAccepted: 2018-11-17
+id: bc0bcc0f-b76b-5646-8e5c-caa727ee4c5c
+status: valid

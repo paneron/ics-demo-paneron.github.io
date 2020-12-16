@@ -1,0 +1,19 @@
+data:
+  code: '33.120'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Components and accessories for telecommunications equipment
+  descriptionFull: Telecommunications. Audio and video engineering. Components and
+    accessories for telecommunications equipment.
+  fieldcode: '33'
+  groupcode: '120'
+  notes: []
+  relationships:
+  - text: Plug-and-socket devices. Connectors, see 31.220.10
+    to: 2fe7a3ff-dfc1-51e2-8f6c-c5096d6f4c7b
+    type: related
+  - text: Switches, see 31.220.20
+    to: 2ed3a815-fc36-598e-8ea2-17c06f6564a9
+    type: related
+dateAccepted: 2018-11-17
+id: aeec95e1-d75b-5bae-9369-5c5b3f91cb2c
+status: valid

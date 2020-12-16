@@ -1,0 +1,12 @@
+data:
+  code: 31.080.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Semiconductor devices in general
+  descriptionFull: Electronics. Semiconductor devices. Semiconductor devices in general.
+  fieldcode: '31'
+  groupcode: 080
+  relationships: []
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 67755aa1-cfa6-59a6-8f35-7f5480d72d27
+status: valid

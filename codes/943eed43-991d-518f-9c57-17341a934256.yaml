@@ -1,0 +1,18 @@
+data:
+  code: '65.020'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Farming and forestry
+  descriptionFull: Agriculture. Farming and forestry.
+  fieldcode: '65'
+  groupcode: '020'
+  notes: []
+  relationships:
+  - text: Soil quality. Pedology, see 13.080
+    to: 1f8f8774-5eff-5bff-8bd9-aa563bde3b99
+    type: related
+  - text: Wood technology processes, see 79.020
+    to: eb8fae84-64fa-5bb9-87cb-d040df1912ff
+    type: related
+dateAccepted: 2018-11-17
+id: 943eed43-991d-518f-9c57-17341a934256
+status: valid

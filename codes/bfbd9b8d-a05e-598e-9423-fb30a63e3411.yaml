@@ -1,0 +1,13 @@
+data:
+  code: 25.220.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other treatments and coatings
+  descriptionFull: Manufacturing engineering. Surface treatment and coating. Other
+    treatments and coatings.
+  fieldcode: '25'
+  groupcode: '220'
+  relationships: []
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: bfbd9b8d-a05e-598e-9423-fb30a63e3411
+status: valid

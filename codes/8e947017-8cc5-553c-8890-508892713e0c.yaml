@@ -1,0 +1,13 @@
+data:
+  code: 49.025.05
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Ferrous alloys in general
+  descriptionFull: Aircraft and space vehicle engineering. Materials for aerospace
+    construction. Ferrous alloys in general.
+  fieldcode: '49'
+  groupcode: '025'
+  relationships: []
+  subgroupcode: '05'
+dateAccepted: 2018-11-17
+id: 8e947017-8cc5-553c-8890-508892713e0c
+status: valid

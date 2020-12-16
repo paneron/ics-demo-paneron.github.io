@@ -1,0 +1,13 @@
+data:
+  code: 29.140.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Incandescent lamps
+  descriptionFull: Electrical engineering. Lamps and related equipment. Incandescent
+    lamps.
+  fieldcode: '29'
+  groupcode: '140'
+  relationships: []
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: f8feab31-8ae1-5da3-8cda-90ec812aa22c
+status: valid

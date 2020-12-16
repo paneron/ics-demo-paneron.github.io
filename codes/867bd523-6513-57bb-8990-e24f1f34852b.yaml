@@ -1,0 +1,36 @@
+data:
+  code: '35.260'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Office machines
+  descriptionFull: Information technology. Office machines.
+  fieldcode: '35'
+  groupcode: '260'
+  notes:
+  - Including typewriters, dictation equipment, addressing machines, letter opening
+    machines, letter folding machines, postal franking machines, their ribbons and
+    other accessories, etc.
+  relationships:
+  - text: Telephone equipment, see 33.050.10
+    to: 02031faf-ec77-51fd-8e5c-14e9f2e7cf97
+    type: related
+  - text: Equipment for telex, teletext, telefax, see 33.050.30
+    to: 04a744a7-f487-5640-96f6-5fc6d6d915ad
+    type: related
+  - text: Reproduction equipment, see 37.100.10
+    to: af67c200-8e4f-5a3a-b67f-870f7df8f422
+    type: related
+  - text: Packaging machinery, see 55.200
+    to: 4733e1e6-7644-5d8d-8b83-f4602a59fea7
+    type: related
+  - text: Paper products, see 85.080
+    to: 3d34e761-a418-58e1-b97d-25dd2284857b
+    type: related
+  - text: Furniture, see 97.140
+    to: 8e2a74fe-93e1-56a1-8b9e-eff0565d9aa3
+    type: related
+  - text: Miscellaneous domestic and commercial equipment, see 97.180
+    to: d3d4b3ea-f1cd-520b-9dfb-19499c04a84f
+    type: related
+dateAccepted: 2018-11-17
+id: 867bd523-6513-57bb-8990-e24f1f34852b
+status: valid

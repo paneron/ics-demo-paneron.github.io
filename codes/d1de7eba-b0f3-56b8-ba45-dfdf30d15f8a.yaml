@@ -1,0 +1,13 @@
+data:
+  code: 01.040.59
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Textile and leather technology (Vocabularies)
+  descriptionFull: Generalities. Terminology. Standardization. Documentation. Vocabularies.
+    Textile and leather technology (Vocabularies).
+  fieldcode: '01'
+  groupcode: '040'
+  relationships: []
+  subgroupcode: '59'
+dateAccepted: 2018-11-17
+id: d1de7eba-b0f3-56b8-ba45-dfdf30d15f8a
+status: valid

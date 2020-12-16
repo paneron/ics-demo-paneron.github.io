@@ -1,0 +1,16 @@
+data:
+  code: '91.060'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Elements of buildings
+  descriptionFull: Construction materials and building. Elements of buildings.
+  fieldcode: '91'
+  groupcode: '060'
+  notes: []
+  relationships:
+  - text: Earthworks. Excavations. Foundation construction. Underground works, see
+      93.020
+    to: 6901fb39-416d-5601-980f-b5150fd6f983
+    type: related
+dateAccepted: 2018-11-17
+id: b0a0defb-dcff-5c7a-a37e-e2987780eb45
+status: valid

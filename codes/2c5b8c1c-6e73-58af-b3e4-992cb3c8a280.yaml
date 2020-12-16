@@ -1,0 +1,13 @@
+data:
+  code: 97.220.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other sports equipment and facilities
+  descriptionFull: Domestic and commercial equipment. Entertainment. Sports. Sports
+    equipment and facilities. Other sports equipment and facilities.
+  fieldcode: '97'
+  groupcode: '220'
+  relationships: []
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: 2c5b8c1c-6e73-58af-b3e4-992cb3c8a280
+status: valid

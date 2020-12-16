@@ -1,0 +1,11 @@
+data:
+  code: '65.040'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Farm buildings, structures and installations
+  descriptionFull: Agriculture. Farm buildings, structures and installations.
+  fieldcode: '65'
+  groupcode: '040'
+  relationships: []
+dateAccepted: 2018-11-17
+id: 74981497-8fe7-5fb3-9e6e-71a92a248848
+status: valid

@@ -1,0 +1,13 @@
+data:
+  code: 81.060.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other standards related to ceramics
+  descriptionFull: Glass and ceramics industries. Ceramics. Other standards related
+    to ceramics.
+  fieldcode: '81'
+  groupcode: '060'
+  relationships: []
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: 7f7b75b3-8e10-5465-b0a9-6ff3ea477af6
+status: valid

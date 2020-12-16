@@ -1,0 +1,13 @@
+data:
+  code: 33.070.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other mobile services
+  descriptionFull: Telecommunications. Audio and video engineering. Mobile services.
+    Other mobile services.
+  fieldcode: '33'
+  groupcode: '070'
+  relationships: []
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: 414b2155-5e7e-566d-82f2-1e0d4a711d24
+status: valid

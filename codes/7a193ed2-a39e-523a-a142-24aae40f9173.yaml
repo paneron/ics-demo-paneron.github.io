@@ -1,0 +1,10 @@
+data:
+  code: '77'
+  context: https://isoics.org/jsonld/field.jsonld
+  description: Metallurgy
+  descriptionFull: ''
+  fieldcode: '77'
+  relationships: []
+dateAccepted: 2018-11-17
+id: 7a193ed2-a39e-523a-a142-24aae40f9173
+status: valid

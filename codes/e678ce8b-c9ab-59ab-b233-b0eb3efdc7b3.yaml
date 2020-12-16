@@ -1,0 +1,11 @@
+data:
+  code: '85.060'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Paper and board
+  descriptionFull: Paper technology. Paper and board.
+  fieldcode: '85'
+  groupcode: '060'
+  relationships: []
+dateAccepted: 2018-11-17
+id: e678ce8b-c9ab-59ab-b233-b0eb3efdc7b3
+status: valid

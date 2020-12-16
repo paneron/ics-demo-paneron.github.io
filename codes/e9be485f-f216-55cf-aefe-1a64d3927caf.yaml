@@ -1,0 +1,15 @@
+data:
+  code: 83.140.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Films and sheets
+  descriptionFull: Rubber and plastic industries. Rubber and plastics products. Films
+    and sheets.
+  fieldcode: '83'
+  groupcode: '140'
+  notes:
+  - Including plates
+  relationships: []
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: e9be485f-f216-55cf-aefe-1a64d3927caf
+status: valid

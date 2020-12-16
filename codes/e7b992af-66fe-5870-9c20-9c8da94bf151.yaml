@@ -1,0 +1,20 @@
+data:
+  code: 97.040.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Domestic refrigerating appliances
+  descriptionFull: Domestic and commercial equipment. Entertainment. Sports. Kitchen
+    equipment. Domestic refrigerating appliances.
+  fieldcode: '97'
+  groupcode: '040'
+  notes: []
+  relationships:
+  - text: Refrigerating technology, see 27.200
+    to: 76993fa6-2edc-5f5b-81dc-24d5ab66a457
+    type: related
+  - text: Commercial refrigerating appliances, see 97.130.20
+    to: 9c57a76d-c82d-5e56-abaf-cc51ff038721
+    type: related
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: e7b992af-66fe-5870-9c20-9c8da94bf151
+status: valid

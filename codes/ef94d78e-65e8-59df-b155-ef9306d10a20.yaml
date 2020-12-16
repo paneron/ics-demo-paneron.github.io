@@ -1,0 +1,13 @@
+data:
+  code: '65.145'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Hunting
+  descriptionFull: Agriculture. Hunting.
+  fieldcode: '65'
+  groupcode: '145'
+  notes:
+  - Including equipment and installations for hunting
+  relationships: []
+dateAccepted: 2018-11-17
+id: ef94d78e-65e8-59df-b155-ef9306d10a20
+status: valid

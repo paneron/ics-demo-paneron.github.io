@@ -1,0 +1,11 @@
+data:
+  code: '35.200'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Interface and interconnection equipment
+  descriptionFull: Information technology. Interface and interconnection equipment.
+  fieldcode: '35'
+  groupcode: '200'
+  relationships: []
+dateAccepted: 2018-11-17
+id: ee36a4c7-b0df-5ae7-81ed-70327d03f9e8
+status: valid

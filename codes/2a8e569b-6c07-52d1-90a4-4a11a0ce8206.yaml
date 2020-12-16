@@ -1,0 +1,15 @@
+data:
+  code: '97.195'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Items of art and handicrafts. Cultural property and heritage
+  descriptionFull: Domestic and commercial equipment. Entertainment. Sports. Items
+    of art and handicrafts. Cultural property and heritage.
+  fieldcode: '97'
+  groupcode: '195'
+  notes:
+  - Including conservation of collections and equipment and materials for creating
+    items of art and handicrafts
+  relationships: []
+dateAccepted: 2018-11-17
+id: 2a8e569b-6c07-52d1-90a4-4a11a0ce8206
+status: valid

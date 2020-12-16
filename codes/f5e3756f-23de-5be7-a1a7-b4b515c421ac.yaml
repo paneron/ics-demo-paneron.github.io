@@ -1,0 +1,13 @@
+data:
+  code: 11.180.15
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Aids for deaf and hearing impaired people
+  descriptionFull: Health care technology. Aids for disabled or handicapped persons.
+    Aids for deaf and hearing impaired people.
+  fieldcode: '11'
+  groupcode: '180'
+  relationships: []
+  subgroupcode: '15'
+dateAccepted: 2018-11-17
+id: f5e3756f-23de-5be7-a1a7-b4b515c421ac
+status: valid

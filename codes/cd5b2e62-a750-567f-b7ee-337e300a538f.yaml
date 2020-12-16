@@ -1,0 +1,13 @@
+data:
+  code: 21.120.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Shafts
+  descriptionFull: Mechanical systems and components for general use. Shafts and couplings.
+    Shafts.
+  fieldcode: '21'
+  groupcode: '120'
+  relationships: []
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: cd5b2e62-a750-567f-b7ee-337e300a538f
+status: valid

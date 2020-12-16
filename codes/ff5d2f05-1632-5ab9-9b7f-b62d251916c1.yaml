@@ -1,0 +1,11 @@
+data:
+  code: '13.040'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Air quality
+  descriptionFull: Environment. Health protection. Safety. Air quality.
+  fieldcode: '13'
+  groupcode: '040'
+  relationships: []
+dateAccepted: 2018-11-17
+id: ff5d2f05-1632-5ab9-9b7f-b62d251916c1
+status: valid

@@ -1,0 +1,16 @@
+data:
+  code: '49.040'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Coatings and related processes used in aerospace industry
+  descriptionFull: Aircraft and space vehicle engineering. Coatings and related processes
+    used in aerospace industry.
+  fieldcode: '49'
+  groupcode: '040'
+  notes: []
+  relationships:
+  - text: Surface treatment and coating, see 25.220
+    to: be8b9582-1cbe-5e4e-a644-a3b52145f30f
+    type: related
+dateAccepted: 2018-11-17
+id: b742cf05-0b94-5500-b1d9-e798b7982c3b
+status: valid

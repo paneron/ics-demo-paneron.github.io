@@ -1,0 +1,13 @@
+data:
+  code: 01.040.43
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Road vehicle engineering (Vocabularies)
+  descriptionFull: Generalities. Terminology. Standardization. Documentation. Vocabularies.
+    Road vehicle engineering (Vocabularies).
+  fieldcode: '01'
+  groupcode: '040'
+  relationships: []
+  subgroupcode: '43'
+dateAccepted: 2018-11-17
+id: 3d3b17ec-20c5-55f0-a128-ae256c59dcf0
+status: valid

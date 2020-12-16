@@ -1,0 +1,16 @@
+data:
+  code: '03.220'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Transport
+  descriptionFull: Services. Company organization, management and quality. Administration.
+    Transport. Sociology. Transport.
+  fieldcode: '03'
+  groupcode: '220'
+  notes: []
+  relationships:
+  - text: Protection against dangerous goods, see 13.300
+    to: b1e39441-bdf2-5ad9-b9c4-8f0a0475b3a8
+    type: related
+dateAccepted: 2018-11-17
+id: 4e1b4432-e5f0-5494-814b-23d1342aeca7
+status: valid

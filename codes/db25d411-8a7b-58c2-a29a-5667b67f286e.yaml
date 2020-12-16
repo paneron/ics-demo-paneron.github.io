@@ -1,0 +1,14 @@
+data:
+  code: 11.040.70
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Ophthalmic equipment
+  descriptionFull: Health care technology. Medical equipment. Ophthalmic equipment.
+  fieldcode: '11'
+  groupcode: '040'
+  notes:
+  - Including ophthalmic implants, glasses, contact lenses and their cleaning products
+  relationships: []
+  subgroupcode: '70'
+dateAccepted: 2018-11-17
+id: db25d411-8a7b-58c2-a29a-5667b67f286e
+status: valid

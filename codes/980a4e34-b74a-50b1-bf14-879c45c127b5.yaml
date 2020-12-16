@@ -1,0 +1,12 @@
+data:
+  code: 77.140.25
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Spring steels
+  descriptionFull: Metallurgy. Iron and steel products. Spring steels.
+  fieldcode: '77'
+  groupcode: '140'
+  relationships: []
+  subgroupcode: '25'
+dateAccepted: 2018-11-17
+id: 980a4e34-b74a-50b1-bf14-879c45c127b5
+status: valid

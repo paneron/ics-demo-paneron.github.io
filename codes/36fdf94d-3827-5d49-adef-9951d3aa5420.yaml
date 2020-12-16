@@ -1,0 +1,12 @@
+data:
+  code: '03.140'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Patents. Intellectual property
+  descriptionFull: Services. Company organization, management and quality. Administration.
+    Transport. Sociology. Patents. Intellectual property.
+  fieldcode: '03'
+  groupcode: '140'
+  relationships: []
+dateAccepted: 2018-11-17
+id: 36fdf94d-3827-5d49-adef-9951d3aa5420
+status: valid

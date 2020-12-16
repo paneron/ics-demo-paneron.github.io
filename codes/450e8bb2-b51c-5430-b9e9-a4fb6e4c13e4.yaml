@@ -1,0 +1,13 @@
+data:
+  code: 43.080.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other commercial vehicles
+  descriptionFull: Road vehicles engineering. Commercial vehicles. Other commercial
+    vehicles.
+  fieldcode: '43'
+  groupcode: 080
+  relationships: []
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: 450e8bb2-b51c-5430-b9e9-a4fb6e4c13e4
+status: valid

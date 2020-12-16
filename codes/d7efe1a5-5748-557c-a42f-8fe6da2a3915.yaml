@@ -1,0 +1,11 @@
+data:
+  code: '29.040'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Insulating fluids
+  descriptionFull: Electrical engineering. Insulating fluids.
+  fieldcode: '29'
+  groupcode: '040'
+  relationships: []
+dateAccepted: 2018-11-17
+id: d7efe1a5-5748-557c-a42f-8fe6da2a3915
+status: valid

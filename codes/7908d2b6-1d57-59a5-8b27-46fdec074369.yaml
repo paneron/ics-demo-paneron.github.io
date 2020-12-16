@@ -1,0 +1,14 @@
+data:
+  code: '73.120'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Equipment for processing of minerals
+  descriptionFull: Mining and minerals. Equipment for processing of minerals.
+  fieldcode: '73'
+  groupcode: '120'
+  notes:
+  - Including equipment for milling, sizing, separation, flotation, concentration,
+    etc.
+  relationships: []
+dateAccepted: 2018-11-17
+id: 7908d2b6-1d57-59a5-8b27-46fdec074369
+status: valid

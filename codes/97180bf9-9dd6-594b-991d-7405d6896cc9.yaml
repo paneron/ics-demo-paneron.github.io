@@ -1,0 +1,12 @@
+data:
+  code: 29.040.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other insulating fluids
+  descriptionFull: Electrical engineering. Insulating fluids. Other insulating fluids.
+  fieldcode: '29'
+  groupcode: '040'
+  relationships: []
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: 97180bf9-9dd6-594b-991d-7405d6896cc9
+status: valid

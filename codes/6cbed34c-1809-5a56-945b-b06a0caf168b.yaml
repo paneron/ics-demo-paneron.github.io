@@ -1,0 +1,13 @@
+data:
+  code: 35.240.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: IT applications in other fields
+  descriptionFull: Information technology. Applications of information technology.
+    IT applications in other fields.
+  fieldcode: '35'
+  groupcode: '240'
+  relationships: []
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: 6cbed34c-1809-5a56-945b-b06a0caf168b
+status: valid

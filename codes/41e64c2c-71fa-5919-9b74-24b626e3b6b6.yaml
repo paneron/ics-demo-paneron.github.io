@@ -1,0 +1,12 @@
+data:
+  code: 77.040.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other methods of testing of metals
+  descriptionFull: Metallurgy. Testing of metals. Other methods of testing of metals.
+  fieldcode: '77'
+  groupcode: '040'
+  relationships: []
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: 41e64c2c-71fa-5919-9b74-24b626e3b6b6
+status: valid

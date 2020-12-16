@@ -1,0 +1,15 @@
+data:
+  code: '21.140'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Seals, glands
+  descriptionFull: Mechanical systems and components for general use. Seals, glands.
+  fieldcode: '21'
+  groupcode: '140'
+  notes: []
+  relationships:
+  - text: Seals for pipe and hose assemblies, see 23.040.80
+    to: 726982dd-9694-5a5d-af85-ee7d36b52f19
+    type: related
+dateAccepted: 2018-11-17
+id: a3d0f3ed-2ebe-5016-82b2-9996376b4c63
+status: valid

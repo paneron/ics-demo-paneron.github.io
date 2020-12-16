@@ -1,0 +1,12 @@
+data:
+  code: '83.200'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Equipment for the rubber and plastics industries
+  descriptionFull: Rubber and plastic industries. Equipment for the rubber and plastics
+    industries.
+  fieldcode: '83'
+  groupcode: '200'
+  relationships: []
+dateAccepted: 2018-11-17
+id: e14ef1a4-5ba4-5cb3-a45d-9b3bbb0c494a
+status: valid

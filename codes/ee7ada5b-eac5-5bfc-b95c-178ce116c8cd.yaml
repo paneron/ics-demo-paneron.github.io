@@ -1,0 +1,13 @@
+data:
+  code: 23.040.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Plastics pipes
+  descriptionFull: Fluid systems and components for general use. Pipeline components
+    and pipelines. Plastics pipes.
+  fieldcode: '23'
+  groupcode: '040'
+  relationships: []
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: ee7ada5b-eac5-5bfc-b95c-178ce116c8cd
+status: valid

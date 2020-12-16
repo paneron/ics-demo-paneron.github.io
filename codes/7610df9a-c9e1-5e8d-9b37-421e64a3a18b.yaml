@@ -1,0 +1,15 @@
+data:
+  code: 35.240.63
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: IT applications in trade
+  descriptionFull: Information technology. Applications of information technology.
+    IT applications in trade.
+  fieldcode: '35'
+  groupcode: '240'
+  notes:
+  - Including EDIFACT and e-commerce
+  relationships: []
+  subgroupcode: '63'
+dateAccepted: 2018-11-17
+id: 7610df9a-c9e1-5e8d-9b37-421e64a3a18b
+status: valid

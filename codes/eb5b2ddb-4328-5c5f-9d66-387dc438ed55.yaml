@@ -1,0 +1,13 @@
+data:
+  code: 91.120.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other standards related to protection of and in buildings
+  descriptionFull: Construction materials and building. Protection of and in buildings.
+    Other standards related to protection of and in buildings.
+  fieldcode: '91'
+  groupcode: '120'
+  relationships: []
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: eb5b2ddb-4328-5c5f-9d66-387dc438ed55
+status: valid

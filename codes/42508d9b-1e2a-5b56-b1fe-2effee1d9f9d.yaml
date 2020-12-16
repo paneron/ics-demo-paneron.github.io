@@ -1,0 +1,15 @@
+data:
+  code: 53.020.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other lifting equipment
+  descriptionFull: Materials handling equipment. Lifting equipment. Other lifting
+    equipment.
+  fieldcode: '53'
+  groupcode: '020'
+  notes:
+  - Including elevating work platforms
+  relationships: []
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: 42508d9b-1e2a-5b56-b1fe-2effee1d9f9d
+status: valid

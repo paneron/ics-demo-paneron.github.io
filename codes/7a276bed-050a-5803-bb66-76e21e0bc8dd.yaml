@@ -1,0 +1,13 @@
+data:
+  code: 29.160.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Rotating machinery in general
+  descriptionFull: Electrical engineering. Rotating machinery. Rotating machinery
+    in general.
+  fieldcode: '29'
+  groupcode: '160'
+  relationships: []
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 7a276bed-050a-5803-bb66-76e21e0bc8dd
+status: valid

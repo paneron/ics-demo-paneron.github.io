@@ -1,0 +1,13 @@
+data:
+  code: '79.080'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Semi-manufactures of timber
+  descriptionFull: Wood technology. Semi-manufactures of timber.
+  fieldcode: '79'
+  groupcode: 080
+  notes:
+  - Including parquet, wood paving, handles, etc.
+  relationships: []
+dateAccepted: 2018-11-17
+id: f9f35237-622e-58d3-8600-e0d8096fab5a
+status: valid

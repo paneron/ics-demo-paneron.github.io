@@ -1,0 +1,13 @@
+data:
+  code: 01.080.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Graphical symbols for use on specific equipment
+  descriptionFull: Generalities. Terminology. Standardization. Documentation. Graphical
+    symbols. Graphical symbols for use on specific equipment.
+  fieldcode: '01'
+  groupcode: 080
+  relationships: []
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: ce17f33d-ce6c-5a5a-96d2-8940012c5417
+status: valid

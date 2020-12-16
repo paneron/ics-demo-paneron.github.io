@@ -1,0 +1,13 @@
+data:
+  code: 49.030.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other fasteners
+  descriptionFull: Aircraft and space vehicle engineering. Fasteners for aerospace
+    construction. Other fasteners.
+  fieldcode: '49'
+  groupcode: '030'
+  relationships: []
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: 5fb629d7-1cdb-5291-8c91-114bf16254b8
+status: valid

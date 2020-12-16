@@ -1,0 +1,10 @@
+data:
+  code: '23'
+  context: https://isoics.org/jsonld/field.jsonld
+  description: Fluid systems and components for general use
+  descriptionFull: ''
+  fieldcode: '23'
+  relationships: []
+dateAccepted: 2018-11-17
+id: 5dcddf0f-c304-5d21-8e68-13626313ef48
+status: valid

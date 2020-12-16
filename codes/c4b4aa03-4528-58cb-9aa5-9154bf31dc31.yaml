@@ -1,0 +1,13 @@
+data:
+  code: 03.080.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Services in general
+  descriptionFull: Services. Company organization, management and quality. Administration.
+    Transport. Sociology. Services. Services in general.
+  fieldcode: '03'
+  groupcode: 080
+  relationships: []
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: c4b4aa03-4528-58cb-9aa5-9154bf31dc31
+status: valid

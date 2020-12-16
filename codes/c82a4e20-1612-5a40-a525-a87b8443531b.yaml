@@ -1,0 +1,13 @@
+data:
+  code: 23.040.45
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Plastics fittings
+  descriptionFull: Fluid systems and components for general use. Pipeline components
+    and pipelines. Plastics fittings.
+  fieldcode: '23'
+  groupcode: '040'
+  relationships: []
+  subgroupcode: '45'
+dateAccepted: 2018-11-17
+id: c82a4e20-1612-5a40-a525-a87b8443531b
+status: valid

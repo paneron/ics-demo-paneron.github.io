@@ -1,0 +1,23 @@
+data:
+  code: '17.160'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Vibrations, shock and vibration measurements
+  descriptionFull: Metrology and measurement. Physical phenomena. Vibrations, shock
+    and vibration measurements.
+  fieldcode: '17'
+  groupcode: '160'
+  notes:
+  - Including measuring instruments and installations
+  relationships:
+  - text: Vibration and shock with respect to human beings, see 13.160
+    to: c6a0ada3-6120-5204-bea7-9e2e729ea793
+    type: related
+  - text: Balancing and balancing machines, see 21.120.40
+    to: 2f9ac11e-cedf-576d-aae6-f70bd8acbcfc
+    type: related
+  - text: Seismic and vibration protection, see 91.120.25
+    to: 32e84bef-7643-5222-b463-692ce0a09857
+    type: related
+dateAccepted: 2018-11-17
+id: 3061f2c1-8491-584f-95cd-a74c14470965
+status: valid

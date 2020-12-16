@@ -1,0 +1,11 @@
+data:
+  code: '29.140'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Lamps and related equipment
+  descriptionFull: Electrical engineering. Lamps and related equipment.
+  fieldcode: '29'
+  groupcode: '140'
+  relationships: []
+dateAccepted: 2018-11-17
+id: d92cd7c0-cb3c-5e0e-83d7-3b16f8980ebd
+status: valid

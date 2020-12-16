@@ -1,0 +1,21 @@
+data:
+  code: '43.100'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Passenger cars. Caravans and light trailers
+  descriptionFull: Road vehicles engineering. Passenger cars. Caravans and light trailers.
+  fieldcode: '43'
+  groupcode: '100'
+  notes: []
+  relationships:
+  - text: Road vehicle systems, see 43.040
+    to: 702644f6-f4c5-500f-87db-60217c3ff851
+    type: related
+  - text: Road vehicle tyres, see 83.160.10
+    to: bdbd1be4-4e91-53aa-93da-37d08cffcb00
+    type: related
+  - text: Camping equipment and camp-sites, see 97.200.30
+    to: cf60cb4c-dc4b-5489-8e98-756206c7a673
+    type: related
+dateAccepted: 2018-11-17
+id: 8371cb8a-e883-5c19-af06-f9a5ca232e2f
+status: valid

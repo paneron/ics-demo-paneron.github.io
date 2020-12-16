@@ -1,0 +1,13 @@
+data:
+  code: 01.040.85
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Paper technology (Vocabularies)
+  descriptionFull: Generalities. Terminology. Standardization. Documentation. Vocabularies.
+    Paper technology (Vocabularies).
+  fieldcode: '01'
+  groupcode: '040'
+  relationships: []
+  subgroupcode: '85'
+dateAccepted: 2018-11-17
+id: a128aed7-a42c-53dd-9c97-de1c64a49e56
+status: valid

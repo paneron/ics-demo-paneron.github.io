@@ -1,0 +1,13 @@
+data:
+  code: 01.040.27
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Energy and heat transfer engineering (Vocabularies)
+  descriptionFull: Generalities. Terminology. Standardization. Documentation. Vocabularies.
+    Energy and heat transfer engineering (Vocabularies).
+  fieldcode: '01'
+  groupcode: '040'
+  relationships: []
+  subgroupcode: '27'
+dateAccepted: 2018-11-17
+id: e6e7dc7d-79d1-50a6-b708-27c5992948c2
+status: valid

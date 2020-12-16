@@ -1,0 +1,11 @@
+data:
+  code: '67.240'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Sensory analysis
+  descriptionFull: Food technology. Sensory analysis.
+  fieldcode: '67'
+  groupcode: '240'
+  relationships: []
+dateAccepted: 2018-11-17
+id: b7a8a21d-89e8-5af8-80e7-2f24c256b434
+status: valid

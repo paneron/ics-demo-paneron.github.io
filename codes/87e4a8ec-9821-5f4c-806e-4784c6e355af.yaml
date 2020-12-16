@@ -1,0 +1,13 @@
+data:
+  code: 11.080.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Sterilizing equipment
+  descriptionFull: Health care technology. Sterilization and disinfection. Sterilizing
+    equipment.
+  fieldcode: '11'
+  groupcode: 080
+  relationships: []
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 87e4a8ec-9821-5f4c-806e-4784c6e355af
+status: valid

@@ -1,0 +1,13 @@
+data:
+  code: 71.040.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Analytical chemistry in general
+  descriptionFull: Chemical technology. Analytical chemistry. Analytical chemistry
+    in general.
+  fieldcode: '71'
+  groupcode: '040'
+  relationships: []
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: b21693fd-83fc-5764-8300-ce071e4ff3f4
+status: valid

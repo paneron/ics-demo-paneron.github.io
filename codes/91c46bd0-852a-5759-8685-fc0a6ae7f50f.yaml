@@ -1,0 +1,13 @@
+data:
+  code: 35.040.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Coding of character sets
+  descriptionFull: Information technology. Information coding. Coding of character
+    sets.
+  fieldcode: '35'
+  groupcode: '040'
+  relationships: []
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 91c46bd0-852a-5759-8685-fc0a6ae7f50f
+status: valid

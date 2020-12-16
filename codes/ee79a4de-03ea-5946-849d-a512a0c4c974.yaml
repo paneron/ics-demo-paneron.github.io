@@ -1,0 +1,11 @@
+data:
+  code: '93.080'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Road engineering
+  descriptionFull: Civil engineering. Road engineering.
+  fieldcode: '93'
+  groupcode: 080
+  relationships: []
+dateAccepted: 2018-11-17
+id: ee79a4de-03ea-5946-849d-a512a0c4c974
+status: valid

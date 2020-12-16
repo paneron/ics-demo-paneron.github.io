@@ -1,0 +1,14 @@
+data:
+  code: '25.160'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Welding, brazing and soldering
+  descriptionFull: Manufacturing engineering. Welding, brazing and soldering.
+  fieldcode: '25'
+  groupcode: '160'
+  notes:
+  - Including gas welding, electric welding, plasma welding, electron beam welding,
+    plasma cutting, etc.
+  relationships: []
+dateAccepted: 2018-11-17
+id: b4aa9a54-f80c-5d13-bdfa-bf6ee68f271b
+status: valid

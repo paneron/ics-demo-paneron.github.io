@@ -1,0 +1,15 @@
+data:
+  code: 67.100.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Milk and processed milk products
+  descriptionFull: Food technology. Milk and milk products. Milk and processed milk
+    products.
+  fieldcode: '67'
+  groupcode: '100'
+  notes:
+  - Including dried milk, condensed milk and evaporated milk
+  relationships: []
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 53a099c6-3e54-5fe2-a079-7a428231568a
+status: valid

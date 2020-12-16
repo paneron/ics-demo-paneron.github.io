@@ -1,0 +1,14 @@
+data:
+  code: 29.080.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Insulators
+  descriptionFull: Electrical engineering. Insulation. Insulators.
+  fieldcode: '29'
+  groupcode: 080
+  notes:
+  - Including fittings and other components for insulators
+  relationships: []
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: af83484b-fc47-5b72-81c0-26b216b54441
+status: valid

@@ -1,0 +1,13 @@
+data:
+  code: 77.150.70
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Cadmium and cobalt products
+  descriptionFull: Metallurgy. Products of non-ferrous metals. Cadmium and cobalt
+    products.
+  fieldcode: '77'
+  groupcode: '150'
+  relationships: []
+  subgroupcode: '70'
+dateAccepted: 2018-11-17
+id: e576bfd4-0fae-5fa0-adff-cd01748f1071
+status: valid

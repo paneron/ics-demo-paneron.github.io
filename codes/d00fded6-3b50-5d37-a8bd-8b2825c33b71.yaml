@@ -1,0 +1,16 @@
+data:
+  code: 97.220.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Sports facilities
+  descriptionFull: Domestic and commercial equipment. Entertainment. Sports. Sports
+    equipment and facilities. Sports facilities.
+  fieldcode: '97'
+  groupcode: '220'
+  notes:
+  - Including swimming-pools, spas, solaria, sports fields, running-tracks, spectator
+    facilities for sports, etc.
+  relationships: []
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: d00fded6-3b50-5d37-a8bd-8b2825c33b71
+status: valid

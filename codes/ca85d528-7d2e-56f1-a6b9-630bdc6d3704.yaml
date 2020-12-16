@@ -1,0 +1,14 @@
+data:
+  code: 67.160.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Alcoholic beverages
+  descriptionFull: Food technology. Beverages. Alcoholic beverages.
+  fieldcode: '67'
+  groupcode: '160'
+  notes:
+  - Including beer, wine, spirits, etc.
+  relationships: []
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: ca85d528-7d2e-56f1-a6b9-630bdc6d3704
+status: valid

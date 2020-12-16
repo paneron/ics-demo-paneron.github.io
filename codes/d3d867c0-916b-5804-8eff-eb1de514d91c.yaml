@@ -1,0 +1,13 @@
+data:
+  code: 29.220.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Alkaline secondary cells and batteries
+  descriptionFull: Electrical engineering. Galvanic cells and batteries. Alkaline
+    secondary cells and batteries.
+  fieldcode: '29'
+  groupcode: '220'
+  relationships: []
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: d3d867c0-916b-5804-8eff-eb1de514d91c
+status: valid

@@ -1,0 +1,13 @@
+data:
+  code: 11.080.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Sterilized packaging
+  descriptionFull: Health care technology. Sterilization and disinfection. Sterilized
+    packaging.
+  fieldcode: '11'
+  groupcode: 080
+  relationships: []
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: 65e13965-4ad4-5bac-9e56-87e12c960271
+status: valid

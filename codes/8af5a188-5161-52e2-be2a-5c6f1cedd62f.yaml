@@ -1,0 +1,19 @@
+data:
+  code: 77.040.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Non-destructive testing of metals
+  descriptionFull: Metallurgy. Testing of metals. Non-destructive testing of metals.
+  fieldcode: '77'
+  groupcode: '040'
+  notes: []
+  relationships:
+  - text: Non-destructive testing, see 19.100
+    to: ab097af1-4f93-5352-a5e5-7ea2ed504e72
+    type: related
+  - text: Welded joints and welds, see 25.160.40
+    to: 645ef4d6-fb4d-5b45-8392-5ae66907a61e
+    type: related
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 8af5a188-5161-52e2-be2a-5c6f1cedd62f
+status: valid

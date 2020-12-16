@@ -1,0 +1,12 @@
+data:
+  code: 25.180.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Electric furnaces
+  descriptionFull: Manufacturing engineering. Industrial furnaces. Electric furnaces.
+  fieldcode: '25'
+  groupcode: '180'
+  relationships: []
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: e9f843ad-95ce-5ed3-900e-fa66eda02f50
+status: valid

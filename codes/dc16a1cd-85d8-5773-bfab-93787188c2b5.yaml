@@ -1,0 +1,12 @@
+data:
+  code: 23.060.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Gate valves
+  descriptionFull: Fluid systems and components for general use. Valves. Gate valves.
+  fieldcode: '23'
+  groupcode: '060'
+  relationships: []
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: dc16a1cd-85d8-5773-bfab-93787188c2b5
+status: valid

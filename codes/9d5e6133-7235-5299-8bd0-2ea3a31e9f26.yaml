@@ -1,0 +1,12 @@
+data:
+  code: 67.100.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other milk products
+  descriptionFull: Food technology. Milk and milk products. Other milk products.
+  fieldcode: '67'
+  groupcode: '100'
+  relationships: []
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: 9d5e6133-7235-5299-8bd0-2ea3a31e9f26
+status: valid

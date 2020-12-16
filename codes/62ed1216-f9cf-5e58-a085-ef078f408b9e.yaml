@@ -1,0 +1,13 @@
+data:
+  code: '31.220'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Electromechanical components for electronic and telecommunications
+    equipment
+  descriptionFull: Electronics. Electromechanical components for electronic and telecommunications
+    equipment.
+  fieldcode: '31'
+  groupcode: '220'
+  relationships: []
+dateAccepted: 2018-11-17
+id: 62ed1216-f9cf-5e58-a085-ef078f408b9e
+status: valid

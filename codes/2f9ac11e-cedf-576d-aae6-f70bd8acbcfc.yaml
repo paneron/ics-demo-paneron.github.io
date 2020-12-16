@@ -1,0 +1,13 @@
+data:
+  code: 21.120.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Balancing and balancing machines
+  descriptionFull: Mechanical systems and components for general use. Shafts and couplings.
+    Balancing and balancing machines.
+  fieldcode: '21'
+  groupcode: '120'
+  relationships: []
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: 2f9ac11e-cedf-576d-aae6-f70bd8acbcfc
+status: valid

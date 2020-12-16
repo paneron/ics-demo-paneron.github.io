@@ -1,0 +1,12 @@
+data:
+  code: 29.035.60
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Varnished fabrics
+  descriptionFull: Electrical engineering. Insulating materials. Varnished fabrics.
+  fieldcode: '29'
+  groupcode: '035'
+  relationships: []
+  subgroupcode: '60'
+dateAccepted: 2018-11-17
+id: 92894baf-72e0-5d36-b5ba-7004fb30ba07
+status: valid

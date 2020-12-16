@@ -1,0 +1,15 @@
+data:
+  code: '91.180'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Interior finishing
+  descriptionFull: Construction materials and building. Interior finishing.
+  fieldcode: '91'
+  groupcode: '180'
+  notes: []
+  relationships:
+  - text: Paint coating processes, see 87.020
+    to: 5ec2627d-4e80-58b0-9a6d-8246095819a1
+    type: related
+dateAccepted: 2018-11-17
+id: 3071b238-7ce4-5ca8-883a-feaea39e2bec
+status: valid

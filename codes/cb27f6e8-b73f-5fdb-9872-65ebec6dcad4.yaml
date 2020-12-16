@@ -1,0 +1,13 @@
+data:
+  code: 33.180.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Fibres and cables
+  descriptionFull: Telecommunications. Audio and video engineering. Fibre optic communications.
+    Fibres and cables.
+  fieldcode: '33'
+  groupcode: '180'
+  relationships: []
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: cb27f6e8-b73f-5fdb-9872-65ebec6dcad4
+status: valid

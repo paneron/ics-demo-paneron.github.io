@@ -1,0 +1,23 @@
+data:
+  code: 01.140.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Documents in administration, commerce and industry
+  descriptionFull: Generalities. Terminology. Standardization. Documentation. Information
+    sciences. Publishing. Documents in administration, commerce and industry.
+  fieldcode: '01'
+  groupcode: '140'
+  notes: []
+  relationships:
+  - text: Technical product documentation, see 01.110
+    to: bec2a20b-39de-5b95-8ddf-fdac60d4d8b0
+    type: related
+  - text: Finances. Banking. Monetary systems. Insurance, see 03.060
+    to: 2907f55d-60b6-5bf4-89cc-5c17ad4cfc18
+    type: related
+  - text: IT applications in transport, see 35.240.60
+    to: 94c28b52-c558-5219-9b2d-19aa488b5d3d
+    type: related
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: 3dbffd9f-0430-58d1-82c1-5da88a1993e2
+status: valid

@@ -1,0 +1,13 @@
+data:
+  code: 13.340.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Protective equipment in general
+  descriptionFull: Environment. Health protection. Safety. Protective equipment. Protective
+    equipment in general.
+  fieldcode: '13'
+  groupcode: '340'
+  relationships: []
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 2e48022c-ec3a-501e-bd4b-33bc244475ba
+status: valid

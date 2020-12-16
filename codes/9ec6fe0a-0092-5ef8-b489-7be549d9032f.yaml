@@ -1,0 +1,11 @@
+data:
+  code: '25.120'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Chipless working equipment
+  descriptionFull: Manufacturing engineering. Chipless working equipment.
+  fieldcode: '25'
+  groupcode: '120'
+  relationships: []
+dateAccepted: 2018-11-17
+id: 9ec6fe0a-0092-5ef8-b489-7be549d9032f
+status: valid

@@ -1,0 +1,13 @@
+data:
+  code: 21.040.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Metric screw threads
+  descriptionFull: Mechanical systems and components for general use. Screw threads.
+    Metric screw threads.
+  fieldcode: '21'
+  groupcode: '040'
+  relationships: []
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: b10e8c06-3243-5594-a8e8-87c7cbc9d77d
+status: valid

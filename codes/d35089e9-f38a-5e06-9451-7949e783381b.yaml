@@ -1,0 +1,12 @@
+data:
+  code: 13.030.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Solid wastes
+  descriptionFull: Environment. Health protection. Safety. Wastes. Solid wastes.
+  fieldcode: '13'
+  groupcode: '030'
+  relationships: []
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: d35089e9-f38a-5e06-9451-7949e783381b
+status: valid

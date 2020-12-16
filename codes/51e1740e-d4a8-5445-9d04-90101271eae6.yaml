@@ -1,0 +1,12 @@
+data:
+  code: '97.040'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Kitchen equipment
+  descriptionFull: Domestic and commercial equipment. Entertainment. Sports. Kitchen
+    equipment.
+  fieldcode: '97'
+  groupcode: '040'
+  relationships: []
+dateAccepted: 2018-11-17
+id: 51e1740e-d4a8-5445-9d04-90101271eae6
+status: valid

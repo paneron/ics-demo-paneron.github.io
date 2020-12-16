@@ -1,0 +1,11 @@
+data:
+  code: '13.220'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Protection against fire
+  descriptionFull: Environment. Health protection. Safety. Protection against fire.
+  fieldcode: '13'
+  groupcode: '220'
+  relationships: []
+dateAccepted: 2018-11-17
+id: c025124e-7f60-55ff-86db-6291ea9800ff
+status: valid

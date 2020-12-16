@@ -1,0 +1,13 @@
+data:
+  code: 11.180.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Aids for drinking and eating
+  descriptionFull: Health care technology. Aids for disabled or handicapped persons.
+    Aids for drinking and eating.
+  fieldcode: '11'
+  groupcode: '180'
+  relationships: []
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: e0231e58-3420-5316-8e54-fcb50a936586
+status: valid

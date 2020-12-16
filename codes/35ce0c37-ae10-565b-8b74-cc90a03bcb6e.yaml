@@ -1,0 +1,13 @@
+data:
+  code: 75.180.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other equipment for petroleum and natural gas industries
+  descriptionFull: Petroleum and related technologies. Equipment for petroleum and
+    natural gas industries. Other equipment for petroleum and natural gas industries.
+  fieldcode: '75'
+  groupcode: '180'
+  relationships: []
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: 35ce0c37-ae10-565b-8b74-cc90a03bcb6e
+status: valid

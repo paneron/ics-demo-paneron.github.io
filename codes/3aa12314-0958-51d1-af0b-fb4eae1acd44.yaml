@@ -1,0 +1,13 @@
+data:
+  code: 71.100.80
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Chemicals for purification of water
+  descriptionFull: Chemical technology. Products of the chemical industry. Chemicals
+    for purification of water.
+  fieldcode: '71'
+  groupcode: '100'
+  relationships: []
+  subgroupcode: '80'
+dateAccepted: 2018-11-17
+id: 3aa12314-0958-51d1-af0b-fb4eae1acd44
+status: valid

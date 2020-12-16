@@ -1,0 +1,17 @@
+data:
+  code: 67.200.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Animal and vegetable fats and oils
+  descriptionFull: Food technology. Edible oils and fats. Oilseeds. Animal and vegetable
+    fats and oils.
+  fieldcode: '67'
+  groupcode: '200'
+  notes: []
+  relationships:
+  - text: Butter, see 67.100.20
+    to: df538083-5ea4-5337-bac0-921b6f9ab3be
+    type: related
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 8349cc94-4bf4-53df-a390-d95bd48ab00e
+status: valid

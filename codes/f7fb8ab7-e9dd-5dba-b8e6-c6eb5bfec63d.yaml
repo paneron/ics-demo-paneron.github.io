@@ -1,0 +1,12 @@
+data:
+  code: '17.040'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Linear and angular measurements
+  descriptionFull: Metrology and measurement. Physical phenomena. Linear and angular
+    measurements.
+  fieldcode: '17'
+  groupcode: '040'
+  relationships: []
+dateAccepted: 2018-11-17
+id: f7fb8ab7-e9dd-5dba-b8e6-c6eb5bfec63d
+status: valid

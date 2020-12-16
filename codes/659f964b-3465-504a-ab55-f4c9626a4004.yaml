@@ -1,0 +1,21 @@
+data:
+  code: '61.040'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Headgear. Clothing accessories. Fastening of clothing
+  descriptionFull: Clothing industry. Headgear. Clothing accessories. Fastening of
+    clothing.
+  fieldcode: '61'
+  groupcode: '040'
+  notes:
+  - Including ties, gloves, scarves, handkerchiefs, belts, braces, buttons, zip-fasteners,
+    umbrellas, etc.
+  relationships:
+  - text: Head protective equipment, see 13.340.20
+    to: 50c509f6-69ee-5e3e-b150-1f0f3c742740
+    type: related
+  - text: Hand and arm protection, see 13.340.40
+    to: b004a718-71a0-5e55-8f43-ded8a210bc1c
+    type: related
+dateAccepted: 2018-11-17
+id: 659f964b-3465-504a-ab55-f4c9626a4004
+status: valid

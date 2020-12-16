@@ -1,0 +1,13 @@
+data:
+  code: 67.120.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Poultry and eggs
+  descriptionFull: Food technology. Meat, meat products and other animal produce.
+    Poultry and eggs.
+  fieldcode: '67'
+  groupcode: '120'
+  relationships: []
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 945ec698-2e6b-5bab-803a-08d3e4c16576
+status: valid

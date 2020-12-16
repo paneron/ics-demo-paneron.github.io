@@ -1,0 +1,15 @@
+data:
+  code: 35.240.90
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: IT applications in education
+  descriptionFull: Information technology. Applications of information technology.
+    IT applications in education.
+  fieldcode: '35'
+  groupcode: '240'
+  notes:
+  - Including e-learning
+  relationships: []
+  subgroupcode: '90'
+dateAccepted: 2018-11-17
+id: 5e5f6a9c-ebd3-59a7-8b05-1cb2cf130995
+status: valid

@@ -1,0 +1,26 @@
+name: ICS Codes
+stakeholders:
+  - role: owner
+    name: Anton (Test)
+    gitServerUsername: strogonoff
+    parties:
+      - name: Anton
+        contacts:
+          - label: email
+            value: anton@strogonoff.name
+  - role: owner
+    name: Ronald Tse
+    gitServerUsername: ronaldtse
+    parties:
+      - name: Ronald Tse
+        contacts:
+          - label: email
+            value: ronald.tse@ribose.com
+  - role: owner
+    name: Vladimir (Test)
+    gitServerUsername: yablokov
+    parties:
+      - name: Vladimir Yablokov
+        contacts:
+          - label: email
+            value: vladimir.yablokov@gmail.com

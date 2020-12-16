@@ -1,0 +1,12 @@
+data:
+  code: 77.080.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Steels
+  descriptionFull: Metallurgy. Ferrous metals. Steels.
+  fieldcode: '77'
+  groupcode: 080
+  relationships: []
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 56ee4eeb-22e2-5321-8ad2-18aba1ef0059
+status: valid

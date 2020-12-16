@@ -1,0 +1,12 @@
+data:
+  code: 25.080.20
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Boring and milling machines
+  descriptionFull: Manufacturing engineering. Machine tools. Boring and milling machines.
+  fieldcode: '25'
+  groupcode: 080
+  relationships: []
+  subgroupcode: '20'
+dateAccepted: 2018-11-17
+id: 8f81be8a-eb1e-52a7-8a95-f14de6f7bcb8
+status: valid

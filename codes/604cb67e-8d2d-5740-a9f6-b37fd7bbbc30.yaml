@@ -1,0 +1,13 @@
+data:
+  code: 13.080.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Hydrological properties of soils
+  descriptionFull: Environment. Health protection. Safety. Soil quality. Pedology.
+    Hydrological properties of soils.
+  fieldcode: '13'
+  groupcode: 080
+  relationships: []
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: 604cb67e-8d2d-5740-a9f6-b37fd7bbbc30
+status: valid

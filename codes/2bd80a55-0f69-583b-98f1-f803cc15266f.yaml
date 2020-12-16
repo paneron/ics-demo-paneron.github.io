@@ -1,0 +1,13 @@
+data:
+  code: 13.220.50
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Fire-resistance of building materials and elements
+  descriptionFull: Environment. Health protection. Safety. Protection against fire.
+    Fire-resistance of building materials and elements.
+  fieldcode: '13'
+  groupcode: '220'
+  relationships: []
+  subgroupcode: '50'
+dateAccepted: 2018-11-17
+id: 2bd80a55-0f69-583b-98f1-f803cc15266f
+status: valid

@@ -1,0 +1,21 @@
+data:
+  code: '93.030'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: External sewage systems
+  descriptionFull: Civil engineering. External sewage systems.
+  fieldcode: '93'
+  groupcode: '030'
+  notes: []
+  relationships:
+  - text: Sewage water, see 13.060.30
+    to: 43fa93f0-4dad-5892-901e-2362a12ba24a
+    type: related
+  - text: Pipelines and its parts for external sewage systems, see 23.040.05
+    to: 51f5c469-f5d3-5ad7-bc13-3cb0f430d97a
+    type: related
+  - text: Drainage systems, see 91.140.80
+    to: 13a829a2-65b8-55d3-a10c-c06fa182c6b3
+    type: related
+dateAccepted: 2018-11-17
+id: d003dbe1-7bf3-5bf4-a923-7485b6e9f54c
+status: valid

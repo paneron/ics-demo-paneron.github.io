@@ -1,0 +1,13 @@
+data:
+  code: 29.035.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Insulating materials in general
+  descriptionFull: Electrical engineering. Insulating materials. Insulating materials
+    in general.
+  fieldcode: '29'
+  groupcode: '035'
+  relationships: []
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: a90ad1d2-bbd8-5534-b4c8-53b7dadbe362
+status: valid

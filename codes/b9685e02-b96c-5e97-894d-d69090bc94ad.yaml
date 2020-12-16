@@ -1,0 +1,24 @@
+data:
+  code: 33.040.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Data communication networks
+  descriptionFull: Telecommunications. Audio and video engineering. Telecommunication
+    systems. Data communication networks.
+  fieldcode: '33'
+  groupcode: '040'
+  notes:
+  - Including Packet Switched Public Data Networks (PSPDN) and Ethernet
+  relationships:
+  - text: Integrated Services Digital Network (ISDN), see 33.080
+    to: bec5a5aa-2ff9-5c85-ad5e-dda896230fdc
+    type: related
+  - text: Networking, see 35.110
+    to: 77ecda41-d073-5944-b827-36e3ba30124a
+    type: related
+  - text: IT terminal and other peripheral equipment, see 35.180
+    to: 364be674-c178-5f31-bf99-24ad2e397d41
+    type: related
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: b9685e02-b96c-5e97-894d-d69090bc94ad
+status: valid

@@ -1,0 +1,13 @@
+data:
+  code: '11.180'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Aids for disabled or handicapped persons
+  descriptionFull: Health care technology. Aids for disabled or handicapped persons.
+  fieldcode: '11'
+  groupcode: '180'
+  notes:
+  - Including aids for elderly people
+  relationships: []
+dateAccepted: 2018-11-17
+id: 567e312a-41ba-5962-9bfd-c35413dbb60e
+status: valid

@@ -1,0 +1,12 @@
+data:
+  code: 25.100.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Turning tools
+  descriptionFull: Manufacturing engineering. Cutting tools. Turning tools.
+  fieldcode: '25'
+  groupcode: '100'
+  relationships: []
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: da6638e3-06c8-5eca-a75f-36a89cc322b9
+status: valid

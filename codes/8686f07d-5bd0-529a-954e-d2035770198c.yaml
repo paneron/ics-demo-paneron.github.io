@@ -1,0 +1,18 @@
+data:
+  code: 03.220.50
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Air transport
+  descriptionFull: Services. Company organization, management and quality. Administration.
+    Transport. Sociology. Transport. Air transport.
+  fieldcode: '03'
+  groupcode: '220'
+  notes:
+  - Including air transport services
+  relationships:
+  - text: Construction of airports, see 93.120
+    to: 54fc54fb-8c4b-5b39-b517-5915fc410812
+    type: related
+  subgroupcode: '50'
+dateAccepted: 2018-11-17
+id: 8686f07d-5bd0-529a-954e-d2035770198c
+status: valid

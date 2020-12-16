@@ -1,0 +1,13 @@
+data:
+  code: 71.100.99
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Other products of the chemical industry
+  descriptionFull: Chemical technology. Products of the chemical industry. Other products
+    of the chemical industry.
+  fieldcode: '71'
+  groupcode: '100'
+  relationships: []
+  subgroupcode: '99'
+dateAccepted: 2018-11-17
+id: aec04899-80fd-56b7-9ff7-af32a454a474
+status: valid

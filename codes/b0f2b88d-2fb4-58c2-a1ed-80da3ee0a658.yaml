@@ -1,0 +1,11 @@
+data:
+  code: '67.160'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Beverages
+  descriptionFull: Food technology. Beverages.
+  fieldcode: '67'
+  groupcode: '160'
+  relationships: []
+dateAccepted: 2018-11-17
+id: b0f2b88d-2fb4-58c2-a1ed-80da3ee0a658
+status: valid

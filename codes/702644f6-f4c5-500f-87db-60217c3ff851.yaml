@@ -1,0 +1,21 @@
+data:
+  code: '43.040'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Road vehicle systems
+  descriptionFull: Road vehicles engineering. Road vehicle systems.
+  fieldcode: '43'
+  groupcode: '040'
+  notes: []
+  relationships:
+  - text: Electric road vehicles, see 43.120
+    to: f0a7608c-ac11-5a5c-9b07-cfde1241041a
+    type: related
+  - text: Motorcycles and mopeds, see 43.140
+    to: 58e77b12-afc8-532a-aa84-2c682773a9e3
+    type: related
+  - text: Cycles, see 43.150
+    to: aa38698a-e64a-5eeb-a45f-51dd90b61192
+    type: related
+dateAccepted: 2018-11-17
+id: 702644f6-f4c5-500f-87db-60217c3ff851
+status: valid

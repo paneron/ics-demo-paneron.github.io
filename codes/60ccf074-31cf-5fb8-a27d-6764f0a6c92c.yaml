@@ -1,0 +1,17 @@
+data:
+  code: 23.040.15
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Non-ferrous metal pipes
+  descriptionFull: Fluid systems and components for general use. Pipeline components
+    and pipelines. Non-ferrous metal pipes.
+  fieldcode: '23'
+  groupcode: '040'
+  notes: []
+  relationships:
+  - text: Products of non-ferrous metals, see 77.150
+    to: b1d23fea-1d9c-5f12-a4bb-f9247ef8b096
+    type: related
+  subgroupcode: '15'
+dateAccepted: 2018-11-17
+id: 60ccf074-31cf-5fb8-a27d-6764f0a6c92c
+status: valid

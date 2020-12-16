@@ -1,0 +1,11 @@
+data:
+  code: '31.060'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Capacitors
+  descriptionFull: Electronics. Capacitors.
+  fieldcode: '31'
+  groupcode: '060'
+  relationships: []
+dateAccepted: 2018-11-17
+id: 82d858ee-974d-597e-87e8-a5c71ebd1202
+status: valid

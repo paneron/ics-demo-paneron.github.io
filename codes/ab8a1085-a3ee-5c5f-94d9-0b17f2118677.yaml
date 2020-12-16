@@ -1,0 +1,31 @@
+data:
+  code: '91.100'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Construction materials
+  descriptionFull: Construction materials and building. Construction materials.
+  fieldcode: '91'
+  groupcode: '100'
+  notes:
+  - Including sustainability of construction materials
+  relationships:
+  - text: Iron and steel products, see 77.140
+    to: 561cf38f-33b3-586c-9a4a-51cc3a42f6eb
+    type: related
+  - text: Products of non-ferrous metals, see 77.150
+    to: b1d23fea-1d9c-5f12-a4bb-f9247ef8b096
+    type: related
+  - text: Wood, sawlogs and sawn timber, see 79.040
+    to: c5a36934-f011-50b8-911d-551390ddf310
+    type: related
+  - text: Wood-based panels, see 79.060
+    to: c6a50c27-6686-52f7-b23d-d091be339e87
+    type: related
+  - text: Glass in building, see 81.040.20
+    to: 15521b0f-94a4-5b5a-9f07-6753ece5c5b1
+    type: related
+  - text: Rubber and plastics products, see 83.140
+    to: 900e462b-1aef-5a39-8ff0-a5e38c327908
+    type: related
+dateAccepted: 2018-11-17
+id: ab8a1085-a3ee-5c5f-94d9-0b17f2118677
+status: valid

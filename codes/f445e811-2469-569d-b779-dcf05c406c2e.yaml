@@ -1,0 +1,13 @@
+data:
+  code: 91.100.40
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Products in fibre-reinforced cement
+  descriptionFull: Construction materials and building. Construction materials. Products
+    in fibre-reinforced cement.
+  fieldcode: '91'
+  groupcode: '100'
+  relationships: []
+  subgroupcode: '40'
+dateAccepted: 2018-11-17
+id: f445e811-2469-569d-b779-dcf05c406c2e
+status: valid

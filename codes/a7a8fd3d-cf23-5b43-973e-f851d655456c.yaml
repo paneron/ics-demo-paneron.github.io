@@ -1,0 +1,16 @@
+data:
+  code: '95.020'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Military in general
+  descriptionFull: Military affairs. Military engineering. Weapons. Military in general.
+  fieldcode: '95'
+  groupcode: '020'
+  notes:
+  - Including defense procurement, defense standardization, etc.
+  relationships:
+  - text: Clothes, see 61.020
+    to: 66e782f1-0c1f-5521-a42f-d97639b5e1f7
+    type: related
+dateAccepted: 2018-11-17
+id: a7a8fd3d-cf23-5b43-973e-f851d655456c
+status: valid

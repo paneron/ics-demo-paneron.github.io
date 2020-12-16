@@ -1,0 +1,13 @@
+data:
+  code: 23.100.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Fluid power systems in general
+  descriptionFull: Fluid systems and components for general use. Fluid power systems.
+    Fluid power systems in general.
+  fieldcode: '23'
+  groupcode: '100'
+  relationships: []
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 560c3b52-5c01-5174-8fe1-6c1a92a662d0
+status: valid

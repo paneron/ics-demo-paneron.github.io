@@ -1,0 +1,16 @@
+data:
+  code: 65.100.30
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Fungicides
+  descriptionFull: Agriculture. Pesticides and other agrochemicals. Fungicides.
+  fieldcode: '65'
+  groupcode: '100'
+  notes: []
+  relationships:
+  - text: Wood-protecting chemicals, see 71.100.50
+    to: 9c0bfa89-2a69-5f7c-b8a1-3be7db60783c
+    type: related
+  subgroupcode: '30'
+dateAccepted: 2018-11-17
+id: 985dc155-cd84-512d-a916-42e525c61add
+status: valid

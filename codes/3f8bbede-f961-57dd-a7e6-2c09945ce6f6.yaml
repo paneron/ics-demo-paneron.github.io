@@ -1,0 +1,17 @@
+data:
+  code: 27.060.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Burners and boilers in general
+  descriptionFull: Energy and heat transfer engineering. Burners. Boilers. Burners
+    and boilers in general.
+  fieldcode: '27'
+  groupcode: '060'
+  notes: []
+  relationships:
+  - text: Central heating systems, see 91.140.10
+    to: 8c78f085-dc7d-5aef-bf94-dbbac6e29ce2
+    type: related
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 3f8bbede-f961-57dd-a7e6-2c09945ce6f6
+status: valid

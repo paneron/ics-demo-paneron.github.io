@@ -1,0 +1,15 @@
+data:
+  code: '93.010'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Civil engineering in general
+  descriptionFull: Civil engineering. Civil engineering in general.
+  fieldcode: '93'
+  groupcode: '010'
+  notes: []
+  relationships:
+  - text: Construction drawings, see 01.100.30
+    to: 036b0676-dcbd-577a-b255-40b43c64bf91
+    type: related
+dateAccepted: 2018-11-17
+id: f30a0a07-b3f9-5d23-905b-e971af687575
+status: valid

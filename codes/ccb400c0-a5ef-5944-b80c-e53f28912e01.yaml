@@ -1,0 +1,13 @@
+data:
+  code: 01.040.17
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Metrology and measurement. Physical phenomena (Vocabularies)
+  descriptionFull: Generalities. Terminology. Standardization. Documentation. Vocabularies.
+    Metrology and measurement. Physical phenomena (Vocabularies).
+  fieldcode: '01'
+  groupcode: '040'
+  relationships: []
+  subgroupcode: '17'
+dateAccepted: 2018-11-17
+id: ccb400c0-a5ef-5944-b80c-e53f28912e01
+status: valid

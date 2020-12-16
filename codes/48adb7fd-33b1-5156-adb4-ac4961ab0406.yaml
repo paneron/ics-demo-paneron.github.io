@@ -1,0 +1,15 @@
+data:
+  code: '03.160'
+  context: https://isoics.org/jsonld/group.jsonld
+  description: Law. Administration
+  descriptionFull: Services. Company organization, management and quality. Administration.
+    Transport. Sociology. Law. Administration.
+  fieldcode: '03'
+  groupcode: '160'
+  notes:
+  - Including flags and associated symbols (emblems) of political and administrative
+    entities, military flags, flags of organizations, etc.
+  relationships: []
+dateAccepted: 2018-11-17
+id: 48adb7fd-33b1-5156-adb4-ac4961ab0406
+status: valid

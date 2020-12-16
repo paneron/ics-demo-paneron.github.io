@@ -1,0 +1,13 @@
+data:
+  code: 43.040.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Road vehicle systems in general
+  descriptionFull: Road vehicles engineering. Road vehicle systems. Road vehicle systems
+    in general.
+  fieldcode: '43'
+  groupcode: '040'
+  relationships: []
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: 324bb1b6-9ae9-5cd2-b57e-d81bfe0fd4a3
+status: valid

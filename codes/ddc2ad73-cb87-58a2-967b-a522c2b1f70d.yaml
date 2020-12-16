@@ -1,0 +1,13 @@
+data:
+  code: 59.120.01
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: Textile machinery in general
+  descriptionFull: Textile and leather technology. Textile machinery. Textile machinery
+    in general.
+  fieldcode: '59'
+  groupcode: '120'
+  relationships: []
+  subgroupcode: '01'
+dateAccepted: 2018-11-17
+id: ddc2ad73-cb87-58a2-967b-a522c2b1f70d
+status: valid

@@ -1,0 +1,13 @@
+data:
+  code: 11.100.10
+  context: https://isoics.org/ics/ns/subgroup.jsonld
+  description: In vitro diagnostic test systems
+  descriptionFull: Health care technology. Laboratory medicine. In vitro diagnostic
+    test systems.
+  fieldcode: '11'
+  groupcode: '100'
+  relationships: []
+  subgroupcode: '10'
+dateAccepted: 2018-11-17
+id: 876ef05c-500a-504c-b1ed-5b6967a506ca
+status: valid
