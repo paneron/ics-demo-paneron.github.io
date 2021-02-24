@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: production
-      url: https://iev.demo.paneron.org
+      url: https://ics.demo.paneron.org
     steps:
       - name: Use Node
         uses: actions/setup-node@v1
