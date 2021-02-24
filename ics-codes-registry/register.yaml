@@ -24,4 +24,5 @@ stakeholders:
         contacts:
           - label: email
             value: vladimir.yablokov@gmail.com
-contentSummary: ISO/IEC ICS Codes Edition 7
+version: { id: 7, timestamp: 2021-02-24 }
+contentSummary: "A catalogue of codes in the International Classification for Standards."
