@@ -17,7 +17,7 @@ export default {
       '@riboseinc/react-static-plugin-paneron-registry',
       {
         datasetSourcePath: DATASET_ROOT,
-        iconURL: 'https://open.ribose.com/assets/favicon-192x192.png',
+        iconURL: 'http://www.electropedia.org/img/logo.jpg',
         urlPrefix: '',
         itemClassConfiguration,
         subregisters,
