@@ -25,6 +25,6 @@ stakeholders:
           - label: email
             value: vladimir.yablokov@gmail.com
 version:
-  id: 7
+  id: "7"
   timestamp: 2021-02-24T00:00:00.000Z
 contentSummary: Catalogue of codes in the International Classification for Standards.
