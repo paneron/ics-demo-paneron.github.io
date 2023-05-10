@@ -24,14 +24,6 @@ stakeholders:
         contacts:
           - label: email
             value: vladimir.yablokov@gmail.com
-  - role: submitter
-    name: Demo user
-    gitServerUsername: demouser
-    parties:
-      - name: ''
-        contacts:
-          - label: email
-            value: ''
 version:
   id: 7
   timestamp: 2021-02-24T00:00:00.000Z
